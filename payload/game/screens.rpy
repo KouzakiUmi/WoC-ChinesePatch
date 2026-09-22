@@ -700,7 +700,7 @@ screen file_slots(title):
                         hbox:
                             style_prefix "save_details_double"
 
-                            text "Name:":
+                            text "名字：":
                                 xalign 0
                             $ disp_str = str(FileJson(selected_slot, "player_name", "", "Unknown"))
                             text "[disp_str]":
@@ -713,7 +713,7 @@ screen file_slots(title):
 
                     frame:
                         hbox:
-                            text "Playtime:":
+                            text "游玩时长：":
                                 xalign 0
 
                             python:
@@ -734,7 +734,7 @@ screen file_slots(title):
 
                     frame:
                         hbox:
-                            text "Purity %:":
+                            text "纯洁度 %：":
                                 xalign 0
 
                             $ disp_str = str(FileJson(selected_slot, "influence", "", "Unknown"))
@@ -743,7 +743,7 @@ screen file_slots(title):
 
                     frame:
                         hbox:
-                            text "Corruption %:":
+                            text "腐化度 %：":
                                 xalign 0
 
                             $ disp_str = str(FileJson(selected_slot, "infamy", "", "Unknown"))
@@ -752,7 +752,7 @@ screen file_slots(title):
 
                     frame:
                         hbox:
-                            text "Morale %:":
+                            text "士气 %：":
                                 xalign 0
 
                             $ disp_str = str(FileJson(selected_slot, "morale", "", "Unknown"))
@@ -761,7 +761,7 @@ screen file_slots(title):
 
                     frame:
                         hbox:
-                            text "Books Read:":
+                            text "已读书籍：":
                                 xalign 0
 
                             $ disp_str = str(FileJson(selected_slot, "booksRead", "", "Unknown"))

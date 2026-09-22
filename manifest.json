@@ -1,8 +1,8 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.2.2",
- "built": "2026-09-22 21:59:11",
+ "version": "1.2.3",
+ "built": "2026-09-22 22:08:46",
  "base_check": {
   "path": "game/script.rpy",
   "sha256": "c11fbeb67c84d9b649f09e8a39aacd43adf28428b2493e1e988c4871d9de7368",
@@ -595,7 +595,7 @@
   {
    "path": "game/screens.rpy",
    "type": "modified",
-   "sha256": "c08e872aed9806f989eef4015739609d6ab8063c720c270305aaedf29f56643f",
+   "sha256": "7a1c2a48e2b841fd50227efae290c85bc85f55944078f74eb5004fc9eae1688e",
    "size": 44430,
    "original": {
     "sha256": "4ecfbc076c9cb383f9710e6d3ee77ece7f85d12b62a33c628b325feae147d28c",
@@ -612,7 +612,7 @@
   {
    "path": "game/00title_particles.rpyc",
    "type": "new",
-   "sha256": "4ed9bb1e1516f7b32259601814201e9e478a2daded01c1e0182a29215b7ffcd1",
+   "sha256": "d9d0c73a7b3431b86d94470331c11781f5cef366e55fcb4de0acc6c86fd13126",
    "size": 3200
   },
   {
@@ -624,7 +624,7 @@
   {
    "path": "game/tl/chinese/common.rpyc",
    "type": "new",
-   "sha256": "e56cb97a27c0c0482778f2a44702d8303284819b1601cc5b67cadde639cee1e7",
+   "sha256": "86a0ef9b4964e2328b4a5366de2cf83340942b054e7cbefaf20bda29f889837e",
    "size": 26884
   },
   {
@@ -636,7 +636,7 @@
   {
    "path": "game/tl/chinese/fonts.rpyc",
    "type": "new",
-   "sha256": "6b135011fca3cfdfdfcdf3568028dcb891cdd9911652e95e6b586465b7867c29",
+   "sha256": "220a85527b408f2a92b983ae6cf7d0aa57d1bf708b175c6b8374bab7874995f7",
    "size": 998
   },
   {
@@ -648,7 +648,7 @@
   {
    "path": "game/tl/chinese/names.rpyc",
    "type": "new",
-   "sha256": "c41af2a17c038b0393a5761d53317637ac064c49b8eb81439a7c674b42ebbd6e",
+   "sha256": "b1b5ff036995058d8bb060972615ff3d4d5e468ea7544ee2bbb3677764bfe630",
    "size": 2706
   },
   {
@@ -660,7 +660,7 @@
   {
    "path": "game/tl/chinese/options.rpyc",
    "type": "new",
-   "sha256": "1674dd63174dce216d3c67364a99f1c2d446a9cfa4548a4dc0354aa7a10bb2cc",
+   "sha256": "92a43c6ee95cc70ce0ece0fb93ff1ec5c5528895a2ee3705195bee0b4f2e5771",
    "size": 1266
   },
   {
@@ -672,7 +672,7 @@
   {
    "path": "game/tl/chinese/screens.rpyc",
    "type": "new",
-   "sha256": "b9934241f3bd44f596994444e0cebfebb542e492b319001bf79864960593b42d",
+   "sha256": "a1316bb3c18f9dda31bc787737dd712396be3ecef93ff53494acfe3c160abb36",
    "size": 8732
   },
   {
@@ -684,19 +684,19 @@
   {
    "path": "game/tl/chinese/script.rpyc",
    "type": "new",
-   "sha256": "eefcecb4b6c40fca3428dbc4b3204f610447b0c5c4635c2da1a7b183187e3a0d",
+   "sha256": "570f58f205864c947fa5bbc9b5cbf38c1268d76e82dbe33fb4c5399af704c677",
    "size": 2456713
   },
   {
    "path": "game/zzz_chinese_language.rpy",
    "type": "new",
-   "sha256": "9d16182e3757785a63be72d7999d485699cd512cd710bd8b491b6dc0c4e42721",
+   "sha256": "3356f65cce3178320120906027d4551e752007df90335b631c9f83ac18f958e7",
    "size": 35
   },
   {
    "path": "game/zzz_chinese_language.rpyc",
    "type": "new",
-   "sha256": "205c55338528c16a5cec43ae6fe0d1fec30be43e4f859ac8b10deb1ec63da60c",
+   "sha256": "5be9ae827944b52172e336c0118c6c4f4e589254a2c27e61a6dd13965b5783d2",
    "size": 942
   }
  ],
@@ -704,7 +704,7 @@
   "pc": "7.1.1.929",
   "android": "8.6.0.25112108"
  },
- "notes": "1.2.2: 更新图片资源 —— WorldMap.png (世界地图地名) 与 b0009.png (迈勒斯书页, 含「放逐之刃」术语)。 其余 50 张图片与全部文本保持 1.2.1 状态不变。",
+ "notes": "1.2.3: 补齐未被翻译系统覆盖的界面提示 —— 新增运行时钩子, 让 renpy.notify / renpy.input 的提示语走字符串表; 补齐 39 条通知/输入提示 (含 'Use Enter or Left Click to advance text.' 与 'Use keyboard to enter name'); screens.rpy 6 个裸标签汉化 (名字/游玩时长/纯洁度/腐化度/士气/已读书籍)。",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

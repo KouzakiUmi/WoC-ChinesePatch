@@ -2724,7 +2724,7 @@ translate chinese Ulric2_map085_113_0_107a65ec:
 translate chinese Ulric2_map085_113_0_9bc98964:
 
     # char_ulric "Is that an accusation of some kind?\nWhere I come from, you don't accuse the guy with a bigger sword.\nI'll pretend I didn't hear that, and carry on with this search."
-    char_ulric "这算是什么指控吗？\n在我的家乡，你可不会去指控一个佩剑更大的人。\n我就当没听见，继续搜查。"
+    char_ulric "这算是什么指控吗？\n在我的家乡，你可不会去指控一个剑比你大的家伙。\n我就当没听见，继续搜查。"
 
 # game/script.rpy:7916
 translate chinese Ulric2_map085_113_0_524a4ae1:
@@ -2784,7 +2784,7 @@ translate chinese Ulric3_map085_113_0_b9fe441c:
 translate chinese Ulric3_map085_113_0_de6fb6b7:
 
     # char_ulric "Very funny. A joke question. I'll pass."
-    char_ulric "真好笑。这种玩笑问题，我不接。在我把你甩下之前，换个话题吧。"
+    char_ulric "真好笑。这种玩笑问题，我不接。"
 
 # game/script.rpy:8063
 translate chinese Ulric3_map085_113_0_b55ed1bc:
@@ -3842,7 +3842,7 @@ translate chinese Ulric2_map084_7_0_107a65ec:
 translate chinese Ulric2_map084_7_0_9bc98964:
 
     # char_ulric "Is that an accusation of some kind?\nWhere I come from, you don't accuse the guy with a bigger sword.\nI'll pretend I didn't hear that, and carry on with this search."
-    char_ulric "这算是什么指控吗？\n在我的家乡，你可不会去指控一个佩剑更大的人。\n我就当没听见，继续搜查。"
+    char_ulric "这算是什么指控吗？\n在我的家乡，你可不会去指控一个剑比你大的家伙。\n我就当没听见，继续搜查。"
 
 # game/script.rpy:10912
 translate chinese Ulric2_map084_7_0_524a4ae1:
@@ -3902,7 +3902,7 @@ translate chinese Ulric3_map084_7_0_b9fe441c:
 translate chinese Ulric3_map084_7_0_de6fb6b7:
 
     # char_ulric "Very funny. A joke question. I'll pass."
-    char_ulric "真好笑。这种玩笑问题，我不接。在我把你甩下之前，换个话题吧。"
+    char_ulric "真好笑。这种玩笑问题，我不接。"
 
 # game/script.rpy:11059
 translate chinese Ulric3_map084_7_0_b55ed1bc:
@@ -4920,7 +4920,7 @@ translate chinese map042_02cb9b84:
 translate chinese map042_e137c744:
 
     # char_valessa "You — you're using their spirits to power that armor?\nDoes that mean we've been fighting our own...!?"
-    char_valessa "你——你在用他们的灵体给那些铠甲提供力量？\n那我们一直在跟自己人打……！？"
+    char_valessa "你——你在用他们的灵体让那些铠甲动起来？\n那我们一直在跟自己人打……！？"
 
 # game/script.rpy:13342
 translate chinese map042_9d759b8f:
@@ -5622,7 +5622,7 @@ translate chinese Fortaime3_map078_166_1_cdb68c0e:
 translate chinese Fortaime3_map078_166_1_f72fb545:
 
     # char_fortaime "I don't think I'm really allowed to do that.\nThe training I go through is already mentally exhausting.\nI need to devote my spare time to blowing off steam."
-    char_fortaime "我觉得我其实没被允许那么做。\n我接受的训练已经很耗心力了。\n我得把闲暇时间用来散心放松。"
+    char_fortaime "我觉得我其实没被允许那么做。\n我接受的训练已经很耗心力了。\n我得把闲暇时间拿来放松一下、发泄发泄。"
 
 # game/script.rpy:15848
 translate chinese Fortaime3_map078_166_1_c2b8b10f:
@@ -7462,7 +7462,7 @@ translate chinese map047_7b955269:
     # voice "se/y00415.ogg"
     # char_valessa "No — people would just think I'm using them.\nIn order to do this efficiently, I'd have to keep it a secret.\nGlean information wherever I can, without telling anybody why."
     voice "se/y00415.ogg"
-    char_valessa "不——人们只会觉得我在利用他们。\n想顺利做到这一点，我就得保密。\n尽可能地搜集情报，却不告诉任何人原因。"
+    char_valessa "不——人们只会觉得我在利用他们。\n想尽快办成这件事，我就得保密。\n尽可能地搜集情报，却不告诉任何人原因。"
 
 # game/script.rpy:20701
 translate chinese map047_bc6cecc9:
@@ -10904,7 +10904,7 @@ translate chinese click_map060_64_EV064_8b5aac7f:
 translate chinese click_map060_64_EV064_66d4f1b4:
 
     # char_fortaime "Wow, there's so many people in there...!\nAnd it sounds super noisy. Is it always like that?"
-    char_fortaime "哇，里面好多人……！\n而且听起来特别吵。一直是这样吗？"
+    char_fortaime "哇，里面好多人……！"
 
 # game/script.rpy:28439
 translate chinese click_map060_64_EV064_2cc8c883:
@@ -14934,7 +14934,7 @@ translate chinese map231_185a8457:
     # voice "se/y01898.ogg"
     # char_sovy "You have to be near the blade for it to work, but it's useful.\nDisarming your enemy is a viable tactic in battle, so be ready.\nThey will try to take the blade away from you, because of its power."
     voice "se/y01898.ogg"
-    char_sovy "你得靠近那把剑才能做到，但这招很有用。\n卸下敌人的武器是战斗中可行的战术，所以做好准备。\n他们会想从你手里夺走那把剑，因为它蕴含的力量。"
+    char_sovy "你得靠近那把剑才能做到，但这招很有用。\n解除敌人的武装是战斗中可行的战术，所以做好准备。\n他们会想从你手里夺走那把剑，因为它蕴含的力量。"
 
 # game/script.rpy:36034
 translate chinese map231_8ce61eb8:
@@ -37894,7 +37894,7 @@ translate chinese map241_7a28f84a:
     # voice "se/y02089.ogg"
     # char_sovy "My desire for justice was something they wanted on their side.\nBut I no longer fought for my home village. I fought for all of Alestia.\nI swore an oath to them — that I would always fight for the rulers of this world."
     voice "se/y02089.ogg"
-    char_sovy "他们想把我的正义感拉拢到他们一方。\n但我不再为我的家乡而战。我为整个阿莱斯提亚而战。\n我向他们立下誓言——永远为这个世界的统治者而战。"
+    char_sovy "他们想让我这份对正义的追求为他们所用。\n但我不再为我的家乡而战。我为整个阿莱斯提亚而战。\n我向他们立下誓言——永远为这个世界的统治者而战。"
 
 # game/script.rpy:84001
 translate chinese map241_6e149920:
@@ -59332,7 +59332,7 @@ translate chinese map191_6855da77:
     # voice "se/z01864.ogg"
     # char_jit_map191_1_0_38 "Prisoners...? At a party this grand?\nIf that's a complaint, you're grasping at straws.\nI have a party to enjoy. I suggest you do the same."
     voice "se/z01864.ogg"
-    char_jit_map191_1_0_38 "囚犯……？在这么盛大的宴会上？\n如果这算抱怨，那你就是在强词夺理。\n我有宴会要享受。建议你也一样。"
+    char_jit_map191_1_0_38 "囚犯……？在这么盛大的宴会上？\n如果这算抱怨，那你就是没事找事。\n我有宴会要享受。建议你也一样。"
 
 # game/script.rpy:130710
 translate chinese map191_564f446e:
@@ -61410,7 +61410,7 @@ translate chinese map213_be55d5c3:
     # voice "se/x00451.ogg"
     # char_sovy "No, I'm not breaking the law.\nBut honestly, I don't know how to answer your question.\nI guess you could say that I'm “between things” right now."
     voice "se/x00451.ogg"
-    char_sovy "不，我没违法。\n但老实说，我不知道该怎么回答你。\n眼下算是暂无差事在身。"
+    char_sovy "不，我没违法。\n但老实说，我不知道该怎么回答你。\n大概可以说，我现在“没活儿干”。"
 
 # game/script.rpy:136156
 translate chinese map213_6ee17c8d:
@@ -70624,7 +70624,7 @@ translate chinese map163_51b060c4:
     # voice "se/z01714.ogg"
     # char_howl "We cannot become the enemy we seek to dethrone.\nYour way of thinking requires some reevaluation, Damek.\nYou may say \"means to an end\", but so does The Triumvirate."
     voice "se/z01714.ogg"
-    char_howl "我们不能变成我们想要推翻的敌人。\n你的想法需要重新审视，达梅克。\n你或许会说这是“达成目的的手段”，但三人执政团也一样。"
+    char_howl "我们不能变成我们想要推翻的敌人。"
 
 # game/script.rpy:157396
 translate chinese map163_de85ded5:
@@ -75236,7 +75236,7 @@ translate chinese map174_cfbe5870:
     # voice "se/y01296.ogg"
     # char_pro "Why did they hate me...?\nWhy did they throw me away like garbage?\nIf they weren't proud of me, are they proud now...?"
     voice "se/y01296.ogg"
-    char_pro "他们为什么恨我……？\n他们为什么像扔垃圾一样把我扔掉？\n如果他们不曾以我为傲，那他们现在会以我为傲吗……？"
+    char_pro "他们为什么恨我……？\n他们为什么像扔垃圾一样把我扔掉？\n如果他们不曾以我为傲，那现在会吗……？"
 
 # game/script.rpy:167557
 translate chinese map174_95765573:
@@ -82676,7 +82676,7 @@ translate chinese click_map016_22_EV022_d179ab0e:
     # voice "se/a00099.ogg"
     # char_ulric "Aren't you two a little young to be drinking?"
     voice "se/a00099.ogg"
-    char_ulric "你们俩喝酒是不是还太年轻了？"
+    char_ulric "你们俩才多大，就喝酒？"
 
 # game/script.rpy:182264
 translate chinese click_map016_22_EV022_2b93a9f9:
@@ -88602,7 +88602,7 @@ translate chinese map100_3149df67:
 translate chinese map100_9c1c2032:
 
     # char_valessa "I know them. They typically guard the town gate.\nNo better person to carry out a secret mission in the night.\nI'm glad we'll have a guide. I was starting to worry we'd get lost."
-    char_valessa "我认识他。他一般是看守城门的人。\n夜里执行秘密任务，没有比他更合适的人选了。\n有向导就好，我正担心我们会迷路呢。"
+    char_valessa "我认识他。他平时就守城门。\n夜里执行秘密任务，没有比他更合适的人选了。\n有向导就好，我正担心我们会迷路呢。"
 
 # game/script.rpy:196609
 translate chinese map100_bb54ae38:

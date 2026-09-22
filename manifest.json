@@ -1,8 +1,8 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.2.7",
- "built": "2026-09-23 00:23:38",
+ "version": "1.2.8",
+ "built": "2026-09-23 00:27:15",
  "base_check": {
   "path": "game/script.rpy",
   "sha256": "c11fbeb67c84d9b649f09e8a39aacd43adf28428b2493e1e988c4871d9de7368",
@@ -612,7 +612,7 @@
   {
    "path": "game/00title_particles.rpyc",
    "type": "new",
-   "sha256": "88c1dbae8d49bb8cce765ddbdc76b3a22aa0c871387c81e0d09dbe66af2332b8",
+   "sha256": "cff524e9057777a61434bdb17e495f73ef3f4affde50e80ac41e7485f23a8412",
    "size": 3200
   },
   {
@@ -624,19 +624,19 @@
   {
    "path": "game/tl/chinese/common.rpyc",
    "type": "new",
-   "sha256": "92acb8dde8c1f8fc9e1cbc3bb999f31b913190229a7c9906d22d87db112179a7",
+   "sha256": "a37bf51f6a7385261fa83dd5d28844110a43f0abfff3334be4b145cd872cc1fa",
    "size": 26884
   },
   {
    "path": "game/tl/chinese/fonts.rpy",
    "type": "new",
-   "sha256": "565a0a1034b018efd14133e7f59d8a4951669b6969769f7b08dbae814fd93af2",
+   "sha256": "b0f1c9a709cc5b4420dc6c3ffb1628166175d866b15346eb86d23e06234485a7",
    "size": 308
   },
   {
    "path": "game/tl/chinese/fonts.rpyc",
    "type": "new",
-   "sha256": "4a508fdef97f2737c6ef0f240d22537a7af54cd0c39a9cfc886af2d7cbfaee82",
+   "sha256": "b3bac649dfa1dab78f96bf81a9aef97cec9f21ec00fb07660b5c2eff08182994",
    "size": 998
   },
   {
@@ -648,7 +648,7 @@
   {
    "path": "game/tl/chinese/names.rpyc",
    "type": "new",
-   "sha256": "1afcf3ca6d10cdb89b099d07a6ae0e8c7d34560fa850d7182e874cdcc6a0cb73",
+   "sha256": "e5d43b478606c3634c3505df53543c18f60f9e6880b57370a76930cfb68d6ac1",
    "size": 2706
   },
   {
@@ -660,7 +660,7 @@
   {
    "path": "game/tl/chinese/options.rpyc",
    "type": "new",
-   "sha256": "fc92b50f15c41874886bb1653f773e43c3fa8f101141ed5dd29c825cf93cf341",
+   "sha256": "0764854b7c5de51ee6dbba60a051a294ee9afd0be8877331cc81a2504797f837",
    "size": 1266
   },
   {
@@ -672,7 +672,7 @@
   {
    "path": "game/tl/chinese/screens.rpyc",
    "type": "new",
-   "sha256": "0168cd5db69f20fc3e0f2473c4fd4998a2a9e933072ca4f91c67b6ed9940ebf9",
+   "sha256": "bf774e8d275f0db6c98f6d0298d706587d345c66824bc9e7579553ddae33ef8d",
    "size": 8732
   },
   {
@@ -684,7 +684,7 @@
   {
    "path": "game/tl/chinese/script.rpyc",
    "type": "new",
-   "sha256": "796ec66067e745e99c74345c1acef93692b4bccaa6771522807f719c9222450f",
+   "sha256": "795e762e19175f48c2aca1b37c3493913825c4e0d50c9e99a0c42b8c460c883f",
    "size": 2456713
   },
   {
@@ -696,7 +696,7 @@
   {
    "path": "game/zzz_chinese_language.rpyc",
    "type": "new",
-   "sha256": "65d95b007f4fdf18276141514621fbe63a1ae9d7b52664be052e4fcd242f5277",
+   "sha256": "1fd9e3d2f0adad0eae76b0bfaff8d226d327aa7477381e57643403c7b7145f0b",
    "size": 942
   }
  ],
@@ -704,7 +704,7 @@
   "pc": "7.1.1.929",
   "android": "8.6.0.25112108"
  },
- "notes": "1.2.7: 中文字体改为系统字体优先 —— tl/chinese/fonts.rpy 不再硬编码 fonts/dengxian-regular.ttf, 改为打开 config.allow_sysfonts 并按候选列表匹配系统字体 (Windows: 微软雅黑/等线/黑体/宋体; Android: NotoSansCJK/NotoSansSC/DroidSansFallback), 仅当系统字体不可用时才回退到游戏目录字体。",
+ "notes": "1.2.8: 修正字体兜底 —— fonts/dengxian-regular.ttf 并非游戏自带也不随补丁分发(它其实是 Windows「等线」的副本), 早期版本硬编码它会让干净安装的用户遇到 Could not find font。现在: 系统字体优先 -> 本地存在该文件则用之 -> 最后退回游戏自带 gothic.ttf, 保证任何情况都不因缺字体报错。",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

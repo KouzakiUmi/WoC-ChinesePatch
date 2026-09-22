@@ -54,3 +54,9 @@
 ## 五、版本选择上的一个提醒
 
 `8.6.0.25112108` 的构建号对应 2025-11-21，来自 master 分支（`renpy/vc_version.py` 里 `branch = 'master'`），且在 GitHub release 上没有对应资源；当前官方稳定版是 `8.5.3.26051504`（2026-05-15），比这个 8.6.0 快照更新。如果后续要长期维护安卓包，值得评估切到稳定线，避免踩到预发布版本里未修的问题。两者的下载地址与 sha256 都已写入 `deps/renpy.json`。
+
+## 六、PC 与安卓在字体处理上的刻意差异（2026-09-23）
+
+- **PC 端**：`tl/chinese/fonts.rpy` 采用**系统字体优先** —— 打开 `config.allow_sysfonts`，按候选列表匹配系统中文字体（Windows: `msyh.ttc` / `Deng.ttf` / `simhei.ttf` / `simsun.ttc`），仅当系统字体不可用时才回退到 `fonts/dengxian-regular.ttf`。
+- **安卓端**：**有意保持**硬编码 `fonts/dengxian-regular.ttf`（随工程分发该字体），不启用系统字体回退 —— 安卓机型字体差异大，随包字体才能保证渲染一致。
+- 因此同步补丁内容到安卓工程时，**不要覆盖 `game/tl/chinese/fonts.rpy`**，该文件在两端保持不同内容。

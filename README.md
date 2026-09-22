@@ -11,14 +11,15 @@
 
 ---
 
-**项目说明**：本补丁覆盖全文对白与旁白、界面文本与 52 张改版图片，走 Ren'Py 原生翻译机制，随包附带独立安装器与校验工具。安装过程会先备份原文件，卸载可逐字节完整还原，因此**补丁包本身不携带游戏原始文件**。
+**项目说明**：本补丁覆盖全文对白与旁白、界面文本与 53 张改版图片，走 Ren'Py 原生翻译机制，随包附带独立安装器与校验工具。安装过程会先备份原文件，卸载可逐字节完整还原，因此**补丁包本身不携带游戏原始文件**。
 
 | 项目 | 说明 |
 | --- | --- |
 | 适用游戏 | Steam《Winds of Change》(appid 594130)，开发商/发行商 **Klace** |
 | 游戏引擎 | Ren'Py 7.1.1.929（PC 端），补丁同时兼容 Ren'Py 8.x |
 | 基线校验 | `game/script.rpy` 的 sha256 `c11fbeb67c84...`，不匹配会拒绝安装 |
-| 补丁规模 | 70 个文件 = 54 个修改 + 16 个新增（含 52 张改版图片） |
+| 补丁规模 | 72 个文件 = 56 个修改 + 16 个新增（含 53 张改版图片） |
+| 当前版本 | v1.3.2：补齐普洛日记图片汉化 |
 | 运行要求 | 仅需 Python 3.8+（纯标准库，无第三方依赖） |
 
 ---
@@ -68,14 +69,14 @@ python tools\patch_tool.py find
 | `game/zzz_chinese_language.rpy` | 语言开关 + 界面提示的运行时翻译钩子（见"技术细节"） |
 | `game/00title_particles.rpy` | 标题粒子效果 |
 | `game/gui.rpy`、`game/screens.rpy` | 中文字体与界面适配（含存档界面中文标签） |
-| `game/images/` | 52 张改版图片：书页笔记、区域地图、教程、爬塔、主菜单等 |
+| `game/images/` | 53 张改版图片：书页笔记、区域地图、教程、爬塔、主菜单等 |
 
 ---
 
 ## 📁 目录结构
 
 ```
-payload/game/      补丁内容（70 个文件：54 修改 + 16 新增）
+payload/game/      补丁内容（72 个文件：56 修改 + 16 新增）
 tools/             patch_tool.py 安装器 / review_tool.py 校对工作流 / tl_tool.py 构建 / fetch_renpy_sdk.py 依赖获取
 manifest.json      文件清单：路径、类型、双方 sha256、基线校验值、引擎编译版本
 docs/              校对工作流（proofreading-workflow.md）、角色语气档案（characters.md / character-stats.md）

@@ -1,6 +1,6 @@
 # 语域分层检查 (内心独白 / 人物对话)
 
-生成时间: 2026-09-22 20:46
+生成时间: 2026-09-22 20:54
 
 | 层 | 行数 |
 | --- | --- |
@@ -65,7 +65,7 @@
   - CN: 可本不该如此……\n一个国家、乃至我们整个世界的未来，竟是一场赌博……？\n这可不是好消息。在这一点上，薇薇安的想法绝对是对的。
 - `dialogue_0017.tsv#6489` char_fortaime
   - EN: It shouldn't have to be that way, though...\nThe future of a nation, and our world, is a gamble...?\nThat's ba
-  - CN: 但本不该是这样的……\n一个国家、乃至我们整个世界的未来，竟然要靠赌……？\n这可不是好消息。在这件事上，薇薇安的想法肯定是对的。
+  - CN: 可本不该如此……\n一个国家、乃至我们整个世界的未来，竟是一场赌博……？\n这可不是好消息。在这一点上，薇薇安的想法绝对是对的。
 - `dialogue_0023.tsv#9155` char_valessa
   - EN: If I had to choose, I'd keep this place the way it is.\nAfter the war, Valinorth, and the rest of the world, w
   - CN: 如果非让我选，我会让这地方保持原样。\n战争结束后，瓦利诺斯，乃至整个世界，都会安全。\n我们何必在扳倒三人执政团{i}之后{/i}还训练一支军队？
@@ -100,12 +100,6 @@
   - EN: Right now, they're a wild card. Not on our side — but not against us, either.\nWe should use that to our advan
   - CN: 眼下，他们是张未知牌。不站在我们这边——但也不与我们为敌。\n我们该趁还能利用时加以利用。他们以后可能会转过来对付我们。
 
-## [人物对话] 书面/文言腔 — 标记「意欲何为」 1 条
-
-- `dialogue_0001.tsv#67` char_sovy
-  - EN: You'd have me interrogate the prisoner once more?\nIf I may be so bold — to what end do you request this?
-  - CN: 您要我再审那囚犯一次？\n恕我斗胆——请问您意欲何为？
-
 ## [人物对话] 书面/文言腔 — 标记「岂」 1 条
 
 - `dialogue_0007.tsv#2759` char_fortaime
@@ -118,66 +112,23 @@
   - EN: It is not true, however. His mind has been twisted beyond repair.\nBut many soldiers are starting to doubt. Wh
   - CN: 然而，这不是真的。他的心智已被扭曲得无法修复。\n但许多士兵开始动摇了。万一他说的是真的呢？\n他们能否在最后关头倒戈，从而保住自己的性命？
 
-## [人物对话] 现代职场词 — 标记「团队」 12 条
+## [人物对话] 现代职场词 — 标记「团队」 4 条
 
-- `dialogue_0001.tsv#249` char_valessa
-  - EN: Whoa, let's all make assumptions!\nI'm going to pretend I didn't hear that.\nWe work as a {i}team{/i}, we both
-  - CN: 哇哦，大家可都开始妄加揣测了！\n我就当没听见好了。\n我们是{i}团队{/i}，彼此扶持。
-- `dialogue_0001.tsv#399` char_valessa
-  - EN: Whoa, let's all make assumptions!\nI'm going to pretend I didn't hear that.\nWe work as a {i}team{/i}, we both
-  - CN: 哇哦，大家可都开始妄加揣测了！\n我就当没听见好了。\n我们是{i}团队{/i}，彼此扶持。
-- `dialogue_0003.tsv#828` char_valessa
-  - EN: That's... good to hear, [firstname].\nNobody should go through this stuff alone.\nIt's a lot better — feeling 
-  - CN: 那……听起来不错，[firstname]。\n不该有人独自经历这些。\n感觉好多了——像是属于一个团队。
-- `dialogue_0003.tsv#829` char_valessa
-  - EN: That's... good to hear, [firstname].\nNobody should go through this stuff alone.\nIt's a lot better — feeling 
-  - CN: 那……听起来不错，[firstname]。\n不该有人独自经历这些。\n感觉好多了——像是属于一个团队。
-- `dialogue_0007.tsv#2605` char_fortaime
-  - EN: Yeah, same! That's my main goal in all of this.\nWe're all a team, so we need to help each other out.\nI'll ha
-  - CN: 是啊，我也是！这就是我做这一切的主要目标。\n我们都是一个团队的，就该互相帮助。\n只要你支持我，我就会支持你，瓦莱莎。
-- `dialogue_0007.tsv#2782` char_fortaime
-  - EN: Good. I'm glad we're all on the same page.\nIt's something we can talk about more as a group.\nValessa feels t
-  - CN: 很好。我很高兴我们想法一致。\n这事我们可以作为团队再深入讨论。\n瓦莱莎也是同样的感受，只是她不肯开口。
-- ... 其余 6 条
+- `dialogue_0012.tsv#4590` char_pro
+  - EN: Look, it's probably best not to think about it too much.\nHe's in good hands. We just need to forge on as a te
+  - CN: 听着，最好别想太多。\n他有人照顾。我们只需要作为一个团队继续前进。\n要不是他，我们早就葬身大海了。这是一场胜利。
+- `dialogue_0012.tsv#4597` char_pro
+  - EN: Look, it's probably best not to think about it too much.\nHe's in good hands. We just need to forge on as a te
+  - CN: 听着，最好别想太多。\n她有人照顾。我们只需要作为一个团队继续前进。\n要不是她，我们早就葬身大海了。这是一场胜利。
+- `dialogue_0022.tsv#8783` char_fortaime
+  - EN: You two make a good duo. I'm just unnecessary at this point.\nBut if I became The Elder? We could all work as 
+  - CN: 你们俩是很棒的搭档。我现在只是多余的。\n但如果我当上长老呢？我们就能作为一个团队共事。\n就像我们自己组建了一个三人执政团……！
+- `dialogue_0025.tsv#9721` char_fortaime
+  - EN: As a team — we can do this.\nI'm stronger for having you by my side.
+  - CN: 作为一个团队——我们做得到。\n有你在身边，我变得更强了。
 
-## [人物对话] 现代职场词 — 标记「进度」 5 条
+## [人物对话] 现代职场词 — 标记「管理员」 3 条
 
-- `dialogue_0005.tsv#1949` char_damek
-  - EN: Though I think we should cut through the docks.\nIt's crowded, but it'll make for a nice shortcut.\nWe're alre
-  - CN: 不过我想我们该从码头穿过去。\n那儿人多，但是条不错的近路。\n我们进度已经落后了。
-- `dialogue_0007.tsv#2679` char_damek
-  - EN: Oh, uh — we should actually get things moving.\nI'll meet you outside, [firstname].
-  - CN: 哦，呃——我们其实该加快进度了。\n我在外面等你，[firstname]。
-- `dialogue_0007.tsv#2680` char_damek
-  - EN: Oh, uh — we should actually get things moving.\nI'll meet you outside, [firstname].
-  - CN: 哦，呃——我们其实该加快进度了。\n我在外面等你，[firstname]。
-- `dialogue_0021.tsv#8166` char_damek
-  - EN: Well, are you all full up on water...?\nUlric said we're halfway there, and we're making good time.\nI think w
-  - CN: 那么，你们的水都灌满了吗……？\n乌尔里克说我们走了一半了，进度不错。\n我想我们能提前不少时间赶到城里，君主。
-- `dialogue_0026.tsv#10365` char_jit_map106_1_0_15
-  - EN: Yeah, which is why they never completed their job.\nOr at the very least, intentionally threw their progress.
-  - CN: 是啊，所以他们从没完成过任务。\n至少也是故意拖慢进度。
-
-## [人物对话] 现代职场词 — 标记「资源」 4 条
-
-- `dialogue_0004.tsv#1210` char_jit_map061_1_0_13
-  - EN: Not for free, of course.\nThey'll probably rob Gryz blind in exchange.\nI recommend not offering them any of o
-  - CN: 当然不是白帮忙。\n作为交换，他们大概会把格瑞兹榨得一滴不剩。\n我建议不要拿我们的任何资源去换。
-- `dialogue_0006.tsv#2154` char_jit_map008_1_0_111
-  - EN: Hey, don't deny your impulses, Valessa.\nIf you had to steal to get by, you'd do it.\nValinorth is just specia
-  - CN: 嘿，别否认你的冲动，瓦莱莎。\n如果为了活下去不得不去偷，你也会做的。\n瓦利诺斯只是很特别。资源到处都是。
-- `dialogue_0023.tsv#8823` char_jit_map008_1_0_111
-  - EN: Hey, don't deny your impulses, Valessa.\nIf you had to steal to get by, you'd do it.\nValinorth is just specia
-  - CN: 嘿，别否认你的冲动，瓦莱莎。\n如果你得靠偷窃才能活下去，你也会做的。\n瓦利诺斯只是很特别。资源到处都是。
-- `dialogue_0024.tsv#9496` char_valessa
-  - EN: That won't happen again, and Fortaime can't see that.\nHe wants to unite with the rest of Alestia, and give up
-  - CN: 那样的事不会再发生，而福泰姆看不到这一点。\n他想和阿拉斯蒂亚其他地方联合，放弃我们的身份。\n为什么要浪费我们所有资源，去防备一件不会发生的事。
-
-## [人物对话] 现代职场词 — 标记「管理员」 4 条
-
-- `dialogue_0006.tsv#2007` char_damek
-  - EN: They're almost like caretakers, so we let them be.\nAll we know for sure, is that they're disobeying their mas
-  - CN: 他们几乎就像是管理员一样，所以我们由着他们去。\n我们唯一能确定的是，他们正在违抗自己的主人。
 - `dialogue_0013.tsv#4820` char_damek
   - EN: Hey, uh, let's get inside, alright?\nMaybe the Librarian knows more about this.\nWe shouldn't stand around in 
   - CN: 嘿，呃，我们进去吧，好吗？\n也许图书管理员知道得更多。\n我们不该这样站在外面空地上。
@@ -188,23 +139,8 @@
   - EN: We finally put the Librarian to rest.\nHe sure likes to talk a lot — and about nothing at all.\nLots of answer
   - CN: 我们终于把那个图书管理员安置好了。\n他确实很爱说话——而且尽说些没用的。\n很多答案都是谜语。无聊得很。
 
-## [人物对话] 现代职场词 — 标记「失业」 3 条
+## [人物对话] 现代职场词 — 标记「制度」 2 条
 
-- `dialogue_0006.tsv#2258` char_jit_map008_1_0_111
-  - EN: Yeah, looks like we'll both be unemployed.\nMaybe we could look for a new job together.\nWe're all going to Ma
-  - CN: 是啊，看来我们俩都要失业了。\n也许我们可以一起找新工作。\n我们都要去马泽奥，对吧？
-- `dialogue_0007.tsv#2759` char_fortaime
-  - EN: Though I'm worried that sword will put me out of business.\nVisions while you're awake...? You'll always know 
-  - CN: 不过我担心那把剑会让我失业。\n清醒时就能看到预视……？你总能知道那是预视。\n那我提醒你的本事岂不是没用了？
-- `dialogue_0024.tsv#9281` char_jit_map008_1_0_111
-  - EN: Yeah, looks like we'll both be unemployed.\nMaybe we could look for a new job together.\nWe're all going to Ma
-  - CN: 是啊，看来我们俩都要失业了。\n也许我们可以一起找份新工作。\n我们都要去马泽奥，对吧？
-
-## [人物对话] 现代职场词 — 标记「制度」 3 条
-
-- `dialogue_0007.tsv#2506` char_damek
-  - EN: Besides, Valinorth is the exact same way.\nIndependent, with its own hierarchy, and leadership.
-  - CN: 再说，瓦利诺斯也是完全一样。\n独立自主，有自己的等级制度和领袖。
 - `dialogue_0008.tsv#2813` char_valessa
   - EN: Damek is wasting no time telling everybody who we are.\nIt's only a matter of time until word spreads to the r
   - CN: 达梅克一刻不停地到处宣扬我们是谁。\n消息传遍马泽奥其余地方只是时间问题。\n我们得想出某种制度，或者别的什么办法。
@@ -212,20 +148,17 @@
   - EN: We're not plagued with piracy like Mazeo.\nOur hierarchy works, and we're always stable.\nIf I ever got the ch
   - CN: 我们不像马泽奥那样被海盗问题困扰。\n我们的等级制度运转良好，一直很稳定。\n就算有机会离开，我想我也不会走。
 
-## [人物对话] 现代职场词 — 标记「效率」 2 条
+## [人物对话] 现代职场词 — 标记「失业」 1 条
 
-- `dialogue_0025.tsv#9964` char_sovy
-  - EN: We shouldn't stay here too long, though. Schedules and all that.\nIf we start training while we travel, it'll 
-  - CN: 不过我们不该在这儿待太久。行程什么的。\n如果我们在旅途中开始训练，最终效率会更高。\n启航前往巴尔泰乌斯之前，不能浪费太多时间。
+- `dialogue_0007.tsv#2759` char_fortaime
+  - EN: Though I'm worried that sword will put me out of business.\nVisions while you're awake...? You'll always know 
+  - CN: 不过我担心那把剑会让我失业。\n清醒时就能看到预视……？你总能知道那是预视。\n那我提醒你的本事岂不是没用了？
+
+## [人物对话] 现代职场词 — 标记「效率」 1 条
+
 - `dialogue_0026.tsv#10345` char_sovy
   - EN: I doubt he's long for this world.\nA Grand Inquisitor needs to be more than talk.\nThat, and I work {i}much{/i
   - CN: 我看他活不长。\n大审判官可不能只会耍嘴皮子。\n再说，我{i}独自{/i}办事效率高得多。
-
-## [人物对话] 现代职场词 — 标记「优先级」 1 条
-
-- `dialogue_0004.tsv#1409` char_damek
-  - EN: I suppose it's my fault in the first place.\nI should've known better than to send you there.\nWith a Tavern i
-  - CN: 说起来，这起初也该怪我。\n我早该知道不该派你去那种地方。\n有家酒馆挡在路上，你的优先级可想而知。
 
 ## [内心独白] 口语/网络词 — 标记「绝了」 3 条
 
@@ -305,18 +238,6 @@
 - `dialogue_0013.tsv#4824` 旁白
   - EN: Whoever has been taking care of this place only cares about the literature.{w}\nI guess that's acceptable, sin
   - CN: 打理这里的人只在乎那些书籍。{w}\n我想这也能理解，毕竟那本该是图书管理员的主要职责。{w}\n但总觉得有些奇怪。有的是时间，这里却还是这么脏。
-
-## [内心独白] 现代职场词 — 标记「优先级」 1 条
-
-- `dialogue_0001.tsv#29` 旁白
-  - EN: My suspicions are correct. Ulric is the one protecting us.{w}\nBut why exactly are we a higher priority than t
-  - CN: 我的猜测没错，保护我们的人是乌尔里克。{w}\n可为什么我们的优先级会比平民还高？{w}\n我大胆猜测，我们现在就在这个“瓦利诺斯”。
-
-## [内心独白] 现代职场词 — 标记「进度」 1 条
-
-- `dialogue_0010.tsv#3847` 旁白
-  - EN: I decide to intentionally throw my progress.{w}\nFortaime deserves to win. I feel like it's only fair.{w}\nAs 
-  - CN: 我决定故意放慢进度。{w}\n福泰姆应该赢。我觉得这样才公平。{w}\n随着我们越爬越高，我们到了高处的血叶层。
 
 ## [内心独白] 现代职场词 — 标记「制度」 1 条
 

@@ -1,8 +1,8 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.1.4",
- "built": "2026-09-22 20:53:19",
+ "version": "1.1.5",
+ "built": "2026-09-22 20:56:04",
  "base_check": {
   "path": "game/script.rpy",
   "sha256": "c11fbeb67c84d9b649f09e8a39aacd43adf28428b2493e1e988c4871d9de7368",
@@ -612,7 +612,7 @@
   {
    "path": "game/00title_particles.rpyc",
    "type": "new",
-   "sha256": "2bcee8562b3a6f15e76765fb28884397f2d247c47a91b9364e39347295022ae9",
+   "sha256": "043c85239f6e3f54a1ce57e63c978ab29d38b2c7473e5761ba001e5c80aa300e",
    "size": 3200
   },
   {
@@ -624,7 +624,7 @@
   {
    "path": "game/tl/chinese/common.rpyc",
    "type": "new",
-   "sha256": "b51175ac35e2e6d36c63d48167664c992917148cd19067b0fe939f88d1f75da4",
+   "sha256": "f46ed233ccc78bba16207b54ec599ac380000abbb2bdfd655159f4016b109050",
    "size": 26884
   },
   {
@@ -636,7 +636,7 @@
   {
    "path": "game/tl/chinese/fonts.rpyc",
    "type": "new",
-   "sha256": "51cff012c156c13b31e0ec849c8d4ce994b174b4573e89de92c1a9df656d8107",
+   "sha256": "3583e61675806f8baf9b7d8ec35b3efa18cf41985e0ef28b4f06365a29c6e2cd",
    "size": 998
   },
   {
@@ -648,7 +648,7 @@
   {
    "path": "game/tl/chinese/names.rpyc",
    "type": "new",
-   "sha256": "3910a7ff4753b59cf2e6ae45059873c9fb30d059ed849ebf2b5f9a82d8d81b6b",
+   "sha256": "035b2ee13f9c583627a8c190c622034bfa9e9aa49dc36fab5a2d3efe6cc7b847",
    "size": 2706
   },
   {
@@ -660,7 +660,7 @@
   {
    "path": "game/tl/chinese/options.rpyc",
    "type": "new",
-   "sha256": "24c16714fbaf49e27626bfec025ae3132b61ba208e3ffe9950753f835de112c3",
+   "sha256": "a98d9ac68780323e98404735f948fe7913268c5d09cf1546cf0fe333182c9bd5",
    "size": 1266
   },
   {
@@ -672,19 +672,19 @@
   {
    "path": "game/tl/chinese/screens.rpyc",
    "type": "new",
-   "sha256": "9900d96270c3d2591a4e1ddea6e3a3a564a2e661d202beab7a8ff34414333fcf",
+   "sha256": "729d520aa14718bd713c95bd247c5e4a0a3458261bbe637881083a68c8c40ee7",
    "size": 8732
   },
   {
    "path": "game/tl/chinese/script.rpy",
    "type": "new",
-   "sha256": "f5d71f22ebbc58b79601cf4f0b024e493985cfa6642e6b1084fa5533b9e9c6ec",
+   "sha256": "85ea7c9fd2b538aab9f4354310f8655eafba8f8b42b8466e836e8c1ec14a0490",
    "size": 4544929
   },
   {
    "path": "game/tl/chinese/script.rpyc",
    "type": "new",
-   "sha256": "76ecf57dcd1f0340094b2211f6c8abfd5470834c08f0fda0b2b1d6e1d406cb43",
+   "sha256": "1b61810d7df4e22e82078e94af1962fabbef4e209f2cf827bdf0b161d9968c21",
    "size": 2456713
   },
   {
@@ -696,7 +696,7 @@
   {
    "path": "game/zzz_chinese_language.rpyc",
    "type": "new",
-   "sha256": "42ea0f2cd5e7917f20ff2036c24ec2a9e6620f349fcd527342243f7609727843",
+   "sha256": "7fd884d86c79bbc36619a9f6925c50dd341cc1d1e63ac3c5f62c019593244d33",
    "size": 942
   }
  ],
@@ -704,7 +704,7 @@
   "pc": "7.1.1.929",
   "android": "8.6.0.25112108"
  },
- "notes": "v1.1.4: Exodus 全文统一为「放逐」词根 (放逐之刃/放逐者/放逐突袭/放逐训练/放逐理论, 持有者统一), 独白去口语 (这儿/那儿 -> 这里/那里, 对话保留), 码头文书官统一用「您」, 删除原文自带内部键号。",
+ "notes": "v1.1.5: 全量精校收敛 —— 重复句 708 组零分歧; 对话层文言词去文言 (皆->都 / 乃至->甚至 / 极为->非常 / 因而->所以, 独白层保留); 修正笔误与病句 10 处 (重复「的」、连续「我」、缺停顿)。",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

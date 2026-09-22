@@ -23388,7 +23388,7 @@ translate chinese click_map127_19_EV019_9704584c:
 translate chinese click_map127_19_EV019_b26c6900:
 
     # char_jit_map127_19_1_19 "That's certainly a pessimistic view, Ignace.\nThere might be a way to save our minds, you know.\nThis Rebellion has proved that {i}anything{/i} is possible."
-    char_jit_map127_19_1_19 "这看法可真是悲观，伊格纳斯。\n你知道，也许有办法拯救我们的心智。\n这场反抗已经证明了{i}一切{/i}皆有可能。"
+    char_jit_map127_19_1_19 "这看法可真是悲观，伊格纳斯。\n你知道，也许有办法拯救我们的心智。\n这场反抗已经证明了{i}一切{/i}都有可能。"
 
 # game/script.rpy:54590
 translate chinese click_map127_19_EV019_fa8c2dea:
@@ -24112,7 +24112,7 @@ translate chinese click_map127_29_EV029_f27d8499:
 translate chinese click_map127_29_EV029_ddae898d:
 
     # char_fortaime "It shouldn't have to be that way, though...\nThe future of a nation, and our world, is a gamble...?\nThat's bad news. Vivien has the right idea here, for sure."
-    char_fortaime "可本不该如此……\n一个国家、乃至我们整个世界的未来，竟是一场赌博……？\n这可不是好消息。在这一点上，薇薇安的想法绝对是对的。"
+    char_fortaime "可本不该如此……\n一个国家、甚至我们整个世界的未来，竟是一场赌博……？\n这可不是好消息。在这一点上，薇薇安的想法绝对是对的。"
 
 # game/script.rpy:55692
 translate chinese click_map127_29_EV029_a8e684f1:
@@ -56558,7 +56558,7 @@ translate chinese click_map180_63_EV063_f27d8499:
 translate chinese click_map180_63_EV063_ddae898d:
 
     # char_fortaime "It shouldn't have to be that way, though...\nThe future of a nation, and our world, is a gamble...?\nThat's bad news. Vivien has the right idea here, for sure."
-    char_fortaime "可本不该如此……\n一个国家、乃至我们整个世界的未来，竟是一场赌博……？\n这可不是好消息。在这一点上，薇薇安的想法绝对是对的。"
+    char_fortaime "可本不该如此……\n一个国家、甚至我们整个世界的未来，竟是一场赌博……？\n这可不是好消息。在这一点上，薇薇安的想法绝对是对的。"
 
 # game/script.rpy:124226
 translate chinese click_map180_63_EV063_a8e684f1:
@@ -58818,7 +58818,7 @@ translate chinese Howl1_map190_9_0_fc30bea8:
     # voice "se/y01383.ogg"
     # char_howl "The strength he could've offered was incredible, too.\nBut instead you decided to choose the weaker man.\nIdeals aside, choosing weakness makes no sense."
     voice "se/y01383.ogg"
-    char_howl "他本可提供的实力也极为惊人。\n可你却决定选择较弱的一方。\n抛开理想不谈，选择软弱毫无道理。"
+    char_howl "他本可提供的实力也非常惊人。\n可你却决定选择较弱的一方。\n抛开理想不谈，选择软弱毫无道理。"
 
 # game/script.rpy:129720
 translate chinese Howl1_map190_9_0_6d08f9d6:
@@ -63092,7 +63092,7 @@ translate chinese map200_13830db0:
 translate chinese map200_8454c7c3:
 
     # char_howl "That would be impossible.\nAlarinthia takes these battles very seriously.\nDelaying it would insult the honor of all participants."
-    char_howl "那不可能。\n阿拉林西亚对这些战斗极为重视。\n拖延会侮辱所有参与者的荣誉。"
+    char_howl "那不可能。\n阿拉林西亚对这些战斗非常重视。\n拖延会侮辱所有参与者的荣誉。"
 
 # game/script.rpy:139665
 translate chinese map200_6813ce28:
@@ -66570,7 +66570,7 @@ translate chinese map224_d2f2706a:
     # voice "se/z02145.ogg"
     # char_sovy "But there's your information. I'm sure it will help you out.\nA possible weakness, and the true nature of Halin.\nWith that blade, you could even give him freedom."
     voice "se/z02145.ogg"
-    char_sovy "但这就是我给你们的的情报。我相信它会帮上你们的忙。\n一个可能的弱点，以及哈林的真实本质。\n有了那把剑，你们甚至可以赐予他自由。"
+    char_sovy "但这就是我给你们的情报。我相信它会帮上你们的忙。\n一个可能的弱点，以及哈林的真实本质。\n有了那把剑，你们甚至可以赐予他自由。"
 
 # game/script.rpy:147785
 translate chinese map224_e661af01:
@@ -70844,7 +70844,7 @@ translate chinese click_map164_9_EV009_9704584c:
 translate chinese click_map164_9_EV009_92851181:
 
     # char_jit_map164_9_1_19 "That's certainly a pessimistic view, Ignace.\nThere might be a way to save our minds, you know.\nThis Rebellion has proved that {i}anything{/i} is possible."
-    char_jit_map164_9_1_19 "这看法确实挺悲观的，伊格纳斯。\n也许有办法保住我们的心智，你知道的。\n这场反抗已经证明了{i}任何事{/i}皆有可能。"
+    char_jit_map164_9_1_19 "这看法确实挺悲观的，伊格纳斯。\n也许有办法保住我们的心智，你知道的。\n这场反抗已经证明了{i}任何事{/i}都有可能。"
 
 # game/script.rpy:158148
 translate chinese click_map164_9_EV009_fa8c2dea:
@@ -79010,7 +79010,7 @@ translate chinese Ulric13_map015_58_0_5f23e88a:
 translate chinese Ulric13_map015_58_0_0ec0327a:
 
     # char_ulric "Well, there's a church in Mazeo. It's supposed to be for Triumvirate worship.\nAt the altar there, rests a very dim spirit idol. We assumed it was dying.\nBut it's not even the true spirit idol. The true one rests deep underground."
-    char_ulric "嗯，马泽奥有座教堂。本该是用来供奉三人执政团的。\n那里的祭坛上摆着一尊极为黯淡的精灵灵像。我们以为它快消亡了。\n但它根本不是真正的精灵灵像。真正的那尊深埋在地下。"
+    char_ulric "嗯，马泽奥有座教堂。本该是用来供奉三人执政团的。\n那里的祭坛上摆着一尊非常黯淡的精灵灵像。我们以为它快消亡了。\n但它根本不是真正的精灵灵像。真正的那尊深埋在地下。"
 
 # game/script.rpy:175741
 translate chinese Ulric13_map015_58_0_83f4ce4e:
@@ -80012,7 +80012,7 @@ translate chinese TheChoice_map023_1_0_b43af9fb:
 translate chinese TheChoice_map023_1_0_b0e1cb10:
 
     # char_valessa "If I had to choose, I'd keep this place the way it is.\nAfter the war, Valinorth, and the rest of the world, will be safe.\nWhy would we train an army {i}after{/i} we've taken down The Triumvirate?"
-    char_valessa "如果非让我选，我会让这地方保持原样。\n战争结束后，瓦利诺斯，乃至整个世界，都会安全。\n我们何必在扳倒三人执政团{i}之后{/i}还训练一支军队？"
+    char_valessa "如果非让我选，我会让这地方保持原样。\n战争结束后，瓦利诺斯，甚至整个世界，都会安全。\n我们何必在扳倒三人执政团{i}之后{/i}还训练一支军队？"
 
 # game/script.rpy:177745
 translate chinese TheChoice_map023_1_0_051aad0b:

@@ -1,30 +1,21 @@
 # 翻译校对预筛报告
 
-生成时间: 2026-09-22 20:35
+生成时间: 2026-09-22 20:54
 
-扫描条目: 11623; 候选问题: 91
+扫描条目: 11623; 候选问题: 86
 
 | 等级 | 规则 | 数量 | 说明 |
 | --- | --- | --- | --- |
-| high | key-leak | 1 | 译文混入内部键号/英文角色名 |
 | term | term-blade | 2 | 术语不一致 |
 | term | term-blades | 1 | 术语不一致 |
-| term | term-exodus | 2 | 术语不一致 |
 | term | term-sword | 1 | 术语不一致 |
-| low | ascii-residue | 37 | 残留英文单词 |
-| low | halfwidth-punct | 3 | 半角标点 |
+| low | ascii-residue | 36 | 残留英文单词 |
+| low | halfwidth-punct | 2 | 半角标点 |
 | low | length-ratio | 12 | 长度异常 |
 | low | repeated-char | 14 | 重复用字 |
 | info | engine-string | 18 | 引擎内置串 (正常) |
 
 ---
-
-## [high] key-leak — 1 条
-
-- `dialogue_0020.tsv#7896` char_damek
-  - 原文: Damek: z01605\nShould we continue the rest on the ship?\nThere's sitll a few people you need to meet.\nAfter that, we're
-  - 现译: Damek: z01605\n剩下的要不要到船上再说？\n还有几个人你得见一见。\n之后，我们就要踏上漫长又无聊的旅程了。
-  - 说明: 译文里混入了内部键号或英文角色名
 
 ## [term] term-blade — 2 条
 
@@ -44,17 +35,6 @@
   - 现译: 我们或许会落后一些，但会在马泽奥会合。\n要筹划的事很多，时间却很少。\n我们需要新家园，还要为志愿者备好兵器。
   - 说明: 术语 blades 应为「剑」
 
-## [term] term-exodus — 2 条
-
-- `dialogue_0026.tsv#10020` char_fortaime
-  - 原文: Or maybe it's a title for whoever wields it.\nYou know, something like Seer or Seeress.\nWhat about it...? Should we cal
-  - 现译: 或者是持有者的称号。\n你知道的，就像先知那样的名号。\n怎么样……？要不我们叫你“流亡”？
-  - 说明: 术语 Exodus 应为「放逐」
-- `dialogue_0026.tsv#10023` char_valessa
-  - 原文: Yeah, especially if The Triumvirate wants it back.\nWalking around as Exodus would put a huge target on us.\nThat's not 
-  - 现译: 是啊，尤其三人执政团还想把它夺回去。\n顶着“流亡”的名号到处走，会让我们成为活靶子。\n想融入人群，我们可负担不起这个。
-  - 说明: 术语 Exodus 应为「放逐」
-
 ## [term] term-sword — 1 条
 
 - `dialogue_0023.tsv#9027` char_ulric
@@ -62,29 +42,28 @@
   - 现译: 显然我年纪大一些。我不是占领的受害者。\n那件事发生时，我刚抵达马泽奥，准备当佣兵卖命。\n一有机会我就从阿拉林西亚搬到了这里。
   - 说明: 术语 sword 应为「剑」
 
-## [low] ascii-residue — 37 条
+## [low] ascii-residue — 36 条
 
-- `dialogue_0020.tsv#7896` char_damek
-  - 原文: Damek: z01605\nShould we continue the rest on the ship?\nThere's sitll a few people you need to meet.\nAfter that, we're
-  - 现译: Damek: z01605\n剩下的要不要到船上再说？\n还有几个人你得见一见。\n之后，我们就要踏上漫长又无聊的旅程了。
-  - 说明: 残留英文单词: Damek
 - `strings_0003.tsv#926` 
   - 原文: Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]
   - 现译: 使用 {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only] 制作。\n\n[renpy.license!t]
   - 说明: 残留英文单词: Ren
-- ... 其余 35 条见 candidates.tsv
+- `strings_0003.tsv#966` 
+  - 原文: Escape
+  - 现译: Escape
+  - 说明: 残留英文单词: Escape
+- ... 其余 34 条见 candidates.tsv
 
-## [low] halfwidth-punct — 3 条
+## [low] halfwidth-punct — 2 条
 
-- `dialogue_0020.tsv#7896` char_damek
-  - 原文: Damek: z01605\nShould we continue the rest on the ship?\nThere's sitll a few people you need to meet.\nAfter that, we're
-  - 现译: Damek: z01605\n剩下的要不要到船上再说？\n还有几个人你得见一见。\n之后，我们就要踏上漫长又无聊的旅程了。
-  - 说明: 中文里出现半角 , ; : ! ?
 - `strings_0003.tsv#930` 
   - 原文: {#file_time}%A, %B %d %Y, %H:%M
   - 现译: {#file_time}%Y年%m月%d日 %H:%M
   - 说明: 中文里出现半角 , ; : ! ?
-- ... 其余 1 条见 candidates.tsv
+- `strings_0003.tsv#1034` 
+  - 原文: %b %d, %H:%M
+  - 现译: %m月%d日 %H:%M
+  - 说明: 中文里出现半角 , ; : ! ?
 
 ## [low] length-ratio — 12 条
 

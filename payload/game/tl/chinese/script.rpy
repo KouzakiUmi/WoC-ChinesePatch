@@ -22992,7 +22992,7 @@ translate chinese click_map127_12_EV012_832c6d56:
 translate chinese click_map127_12_EV012_b0885992:
 
     # char_howl "The freedom of Alestia. The destruction of The Triumvirate.\nWhen you look at it that way, it seems as if we defile nothing"
-    char_howl "阿拉斯提亚的自由。三人执政团的覆灭。\n这么一看，我们似乎什么也没有玷污"
+    char_howl "阿莱斯蒂亚的自由。三人执政团的覆灭。\n这么一看，我们似乎什么也没有玷污"
 
 # game/script.rpy:53942
 translate chinese click_map127_12_EV012_62e0331c:
@@ -23160,7 +23160,7 @@ translate chinese click_map127_14_EV014_2bc88d9d:
 translate chinese click_map127_14_EV014_bd093880:
 
     # char_jit_map127_14_1_19 "I don't really have a choice, Damek.\nYour speech gave us proof. It was undeniable.\nI'd advise doing the same thing to every other Alestian."
-    char_jit_map127_14_1_19 "我其实没有选择，达梅克。\n你的演讲给了我们证据。无可辩驳。\n我建议对每一个阿拉斯提亚人都这么做。"
+    char_jit_map127_14_1_19 "我其实没有选择，达梅克。\n你的演讲给了我们证据。无可辩驳。\n我建议对每一个阿莱斯蒂亚人都这么做。"
 
 # game/script.rpy:54202
 translate chinese click_map127_14_EV014_ba63a5f5:
@@ -24052,7 +24052,7 @@ translate chinese click_map127_29_EV029_c0607c17:
 translate chinese click_map127_29_EV029_6b74f343:
 
     # char_damek "So Ulric isn't just fighting for Alarinthia.\nRemember that our army gets a boost out of this.\nAt the end of the way, it benefits all of Alestia."
-    char_damek "所以乌尔里克不只是在为阿拉林西亚而战。\n记住，我们的军队也会因此得到增强。\n说到底，这对整个阿拉斯提亚都有好处。"
+    char_damek "所以乌尔里克不只是在为阿拉林西亚而战。\n记住，我们的军队也会因此得到增强。\n说到底，这对整个阿莱斯蒂亚都有好处。"
 
 # game/script.rpy:55617
 translate chinese click_map127_29_EV029_06e564b1:
@@ -24136,7 +24136,7 @@ translate chinese click_map127_29_EV029_d9dc3cb9:
 translate chinese click_map127_29_EV029_94b87ae8:
 
     # char_fortaime "Yeah. Things should be just like the rest of Alestia.\nIf they were, then we wouldn't even be in this situation."
-    char_fortaime "对。这里本该和阿拉斯提亚其他地方一样。\n如果真是那样，我们根本不会落到这步田地。"
+    char_fortaime "对。这里本该和阿莱斯蒂亚其他地方一样。\n如果真是那样，我们根本不会落到这步田地。"
 
 # game/script.rpy:55722
 translate chinese click_map127_29_EV029_793a7a5f:
@@ -25660,7 +25660,7 @@ translate chinese click_map123_14_EV014_b9045626:
 translate chinese click_map123_15_EV015_f39f9ad1:
 
     # "A1 - Mylus' Note\nA2 - On Alestia's Creation\nA3 - On Scribes and Visions\nA4 - The True Reach of Spirits"
-    "A1 - 迈勒斯的笔记\nA2 - 论阿拉斯提亚的创世\nA3 - 论书记官与预视\nA4 - 灵的真正影响力"
+    "A1 - 迈勒斯的笔记\nA2 - 论阿莱斯蒂亚的创世\nA3 - 论书记官与预视\nA4 - 灵的真正影响力"
 
 # game/script.rpy:58499
 translate chinese click_map123_15_EV015_9de705c1:
@@ -37798,7 +37798,7 @@ translate chinese map241_c308e8ee:
     # voice "se/y02080.ogg"
     # char_sovy "I come from this backwater town. Born and raised.\nIt was wiped off the map after all the villagers were murdered.\nGiven time, it might have even become the fifth nation of Alestia."
     voice "se/y02080.ogg"
-    char_sovy "我出生在这个穷乡僻壤。生于此，长于此。\n在村民全被杀光之后，它就从地图上被抹去了。\n假以时日，它甚至可能成为阿莱斯提亚的第五个国家。"
+    char_sovy "我出生在这个穷乡僻壤。生于此，长于此。\n在村民全被杀光之后，它就从地图上被抹去了。\n假以时日，它甚至可能成为阿莱斯蒂亚的第五个国家。"
 
 # game/script.rpy:83805
 translate chinese map241_7c99a6e9:
@@ -37894,7 +37894,7 @@ translate chinese map241_7a28f84a:
     # voice "se/y02089.ogg"
     # char_sovy "My desire for justice was something they wanted on their side.\nBut I no longer fought for my home village. I fought for all of Alestia.\nI swore an oath to them — that I would always fight for the rulers of this world."
     voice "se/y02089.ogg"
-    char_sovy "他们想让我这份对正义的追求为他们所用。\n但我不再为我的家乡而战。我为整个阿莱斯提亚而战。\n我向他们立下誓言——永远为这个世界的统治者而战。"
+    char_sovy "他们想让我这份对正义的追求为他们所用。\n但我不再为我的家乡而战。我为整个阿莱斯蒂亚而战。\n我向他们立下誓言——永远为这个世界的统治者而战。"
 
 # game/script.rpy:84001
 translate chinese map241_6e149920:
@@ -37990,7 +37990,7 @@ translate chinese map241_1ba7061e:
     # voice "se/y02098.ogg"
     # char_sovy "I see myself as a defender. I want to protect the reign of Alestia's true rulers.\nIf The Monarchy is restored to power, I will protect you, — and all of your descendants.\nYou have my word, and you know why I served the enemy. My virtue was simply misplaced."
     voice "se/y02098.ogg"
-    char_sovy "我把自己看作一名守护者。我想守护阿莱斯提亚真正统治者的王权。\n如果王室重掌权力，我会保护你——以及你所有的后代。\n我说到做到，你也明白我为何曾为敌人效力。我的德行只是用错了地方。"
+    char_sovy "我把自己看作一名守护者。我想守护阿莱斯蒂亚真正统治者的王权。\n如果王室重掌权力，我会保护你——以及你所有的后代。\n我说到做到，你也明白我为何曾为敌人效力。我的德行只是用错了地方。"
 
 # game/script.rpy:84191
 translate chinese map241_5a89621f:
@@ -37998,7 +37998,7 @@ translate chinese map241_5a89621f:
     # voice "se/y02099.ogg"
     # char_sovy "But now it rests with you. The true heir to the throne of Alestia.\nAnd that is where it shall remain, as long as I've proven my loyalty to you.\nKnowing everything that you do — do you trust me to protect you in battle?" nointeract
     voice "se/y02099.ogg"
-    char_sovy "但现在，它落在你身上。阿莱斯提亚王位的真正继承人。\n只要我向你证明了我的忠诚，它就会一直留在这里。\n既然你知道了这一切——你信得过我在战斗中保护你吗？" nointeract
+    char_sovy "但现在，它落在你身上。阿莱斯蒂亚王位的真正继承人。\n只要我向你证明了我的忠诚，它就会一直留在这里。\n既然你知道了这一切——你信得过我在战斗中保护你吗？" nointeract
 
 # game/script.rpy:84216
 translate chinese map241_02b651d2:
@@ -38710,7 +38710,7 @@ translate chinese map251_03f0cd6e:
 translate chinese map251_087b5352:
 
     # "Actually, I might not make it back either. That thought fills me with fright.{w}\nTaking one last look at Mazean soil, I say goodbye under my breath.{w}\nWhat happened next, would change the course of Alestian history forever."
-    "其实，我也许也回不来了。这个念头让我满心恐惧。{w}\n最后望了一眼马泽奥的土地，我低声作了道别。{w}\n接下来发生的事，将永远改变阿莱斯提亚历史的走向。"
+    "其实，我也许也回不来了。这个念头让我满心恐惧。{w}\n最后望了一眼马泽奥的土地，我低声作了道别。{w}\n接下来发生的事，将永远改变阿莱斯蒂亚历史的走向。"
 
 # game/script.rpy:86417
 translate chinese map251_3ac13136_1:
@@ -38728,7 +38728,7 @@ translate chinese map251_03f0cd6e_1:
 translate chinese map251_5da65c59:
 
     # "I might not make it back, either. That thought fills me with fright.{w}\nTaking one last look at Mazean soil, I say goodbye under my breath.{w}\nWhat happened next, would change the course of Alestian history forever."
-    "我也许也回不来了。这个念头让我满心恐惧。{w}\n最后望了一眼马泽奥的土地，我低声作了道别。{w}\n接下来发生的事，将永远改变阿莱斯提亚历史的走向。"
+    "我也许也回不来了。这个念头让我满心恐惧。{w}\n最后望了一眼马泽奥的土地，我低声作了道别。{w}\n接下来发生的事，将永远改变阿莱斯蒂亚历史的走向。"
 
 # game/script.rpy:86429
 translate chinese map251_bd91147d:
@@ -38900,7 +38900,7 @@ translate chinese map251_03f0cd6e_2:
 translate chinese map251_087b5352_1:
 
     # "Actually, I might not make it back either. That thought fills me with fright.{w}\nTaking one last look at Mazean soil, I say goodbye under my breath.{w}\nWhat happened next, would change the course of Alestian history forever."
-    "其实，我也许也回不来了。这个念头让我满心恐惧。{w}\n最后望了一眼马泽奥的土地，我低声作了道别。{w}\n接下来发生的事，将永远改变阿莱斯提亚历史的走向。"
+    "其实，我也许也回不来了。这个念头让我满心恐惧。{w}\n最后望了一眼马泽奥的土地，我低声作了道别。{w}\n接下来发生的事，将永远改变阿莱斯蒂亚历史的走向。"
 
 # game/script.rpy:86872
 translate chinese map251_3ac13136_3:
@@ -38918,7 +38918,7 @@ translate chinese map251_03f0cd6e_3:
 translate chinese map251_087b5352_2:
 
     # "Actually, I might not make it back either. That thought fills me with fright.{w}\nTaking one last look at Mazean soil, I say goodbye under my breath.{w}\nWhat happened next, would change the course of Alestian history forever."
-    "其实，我也许也回不来了。这个念头让我满心恐惧。{w}\n最后望了一眼马泽奥的土地，我低声作了道别。{w}\n接下来发生的事，将永远改变阿莱斯提亚历史的走向。"
+    "其实，我也许也回不来了。这个念头让我满心恐惧。{w}\n最后望了一眼马泽奥的土地，我低声作了道别。{w}\n接下来发生的事，将永远改变阿莱斯蒂亚历史的走向。"
 
 # game/script.rpy:86896
 translate chinese map252_ea56a752:
@@ -56582,7 +56582,7 @@ translate chinese click_map180_63_EV063_d9dc3cb9:
 translate chinese click_map180_63_EV063_94b87ae8:
 
     # char_fortaime "Yeah. Things should be just like the rest of Alestia.\nIf they were, then we wouldn't even be in this situation."
-    char_fortaime "对。这里本该和阿拉斯提亚其他地方一样。\n如果真是那样，我们根本不会落到这步田地。"
+    char_fortaime "对。这里本该和阿莱斯蒂亚其他地方一样。\n如果真是那样，我们根本不会落到这步田地。"
 
 # game/script.rpy:124256
 translate chinese click_map180_63_EV063_793a7a5f:
@@ -69686,7 +69686,7 @@ translate chinese click_map160_61_EV061_2bc88d9d:
 translate chinese click_map160_61_EV061_5a860d99:
 
     # char_jit_map160_61_1_19 "I don't really have a choice, Damek.\nYour speech gave us proof. It was undeniable.\nI'd advise doing the same thing to every other Alestian."
-    char_jit_map160_61_1_19 "我其实没得选，达梅克。\n你的演讲给了我们证据。那是无可否认的。\n我建议对每一个阿莱斯提亚人都这么做。"
+    char_jit_map160_61_1_19 "我其实没得选，达梅克。\n你的演讲给了我们证据。那是无可否认的。\n我建议对每一个阿莱斯蒂亚人都这么做。"
 
 # game/script.rpy:154649
 translate chinese click_map160_61_EV061_ba63a5f5:
@@ -70604,7 +70604,7 @@ translate chinese map163_83dc4fe8:
     # voice "se/z01712.ogg"
     # char_damek "Aww, really...? Come on, Monarch.\nI know we need strength, but we need to think about Alestia.\nWe have the chance to reshape an entire nation, here."
     voice "se/z01712.ogg"
-    char_damek "啊，真的吗……？拜托，君主。\n我知道我们需要力量，但我们得为阿莱斯提亚考虑。\n我们有机会重塑一整个国家。"
+    char_damek "啊，真的吗……？拜托，君主。\n我知道我们需要力量，但我们得为阿莱斯蒂亚考虑。\n我们有机会重塑一整个国家。"
 
 # game/script.rpy:157355
 translate chinese map163_9a5776fd:
@@ -72486,7 +72486,7 @@ translate chinese click_map110_17_EV017_53e99673:
     # voice "se/a00248.ogg"
     # char_ulric "Your guess is as good as mine.\nIt doesn't fit in with any part of Alestia.\nBalteus is really distinct. It's kind of cool."
     voice "se/a00248.ogg"
-    char_ulric "我和你一样不知道。\n它跟阿莱斯提亚的任何地方都不搭。\n巴尔泰乌斯真的很独特。挺酷的。"
+    char_ulric "我和你一样不知道。\n它跟阿莱斯蒂亚的任何地方都不搭。\n巴尔泰乌斯真的很独特。挺酷的。"
 
 # game/script.rpy:162065
 translate chinese click_map110_17_EV017_796d7aaf:
@@ -89090,7 +89090,7 @@ translate chinese click_map102_10_EV010_2ef14ca3:
 translate chinese click_map102_11_EV011_9a2f7286:
 
     # "This is it. This is where I grabbed The Blade of Exodus.{w}\nWhere I saw those visions, and the future to come.{w}\nAs a Seer of Valinorth, only I could wield it.{w}\nI was to be the instrument of Alestia's liberation."
-    "就是这里。我就是在这里握住了放逐之刃。{w}\n在这里，我看到了那些幻象，以及即将到来的未来。{w}\n身为瓦利诺斯的先知，只有我能执掌它。{w}\n我注定要成为解放阿莱斯提亚的利器。"
+    "就是这里。我就是在这里握住了放逐之刃。{w}\n在这里，我看到了那些幻象，以及即将到来的未来。{w}\n身为瓦利诺斯的先知，只有我能执掌它。{w}\n我注定要成为解放阿莱斯蒂亚的利器。"
 
 # game/script.rpy:198112
 translate chinese click_map102_107_EV107_73cd1b31:
@@ -89476,13 +89476,13 @@ translate chinese click_map101_5_EV005_a563d40c:
     # voice "se/a00045.ogg"
     # char_fortaime "Look, you can see some of the roots...!\nThey say The Grand Tree reaches all over Alestia.\nIn that way, Valinorth is connected to everything."
     voice "se/a00045.ogg"
-    char_fortaime "看，能看到一些树根……！\n据说巨树的根系遍及整个阿莱斯提亚。\n这样说来，瓦利诺斯与万物都相连。"
+    char_fortaime "看，能看到一些树根……！\n据说巨树的根系遍及整个阿莱斯蒂亚。\n这样说来，瓦利诺斯与万物都相连。"
 
 # game/script.rpy:199377
 translate chinese click_map101_7_EV007_7a09145b:
 
     # "The trees go on forever, but they are all small in comparison.{w}\nThe Grand Tree looms above all else, and it's incredible.{w}\nI can't see how far back they go, but some sun rays shine through.{w}\nFrom here, it looks as if all of Alestia is one large forest."
-    "树林绵延无尽，但相比之下都显得矮小。{w}\n巨树高耸于万物之上，令人叹为观止。{w}\n我看不清它们延伸到多远，但有几缕阳光透了下来。{w}\n从这里望去，整个阿莱斯提亚仿佛就是一片巨大的森林。"
+    "树林绵延无尽，但相比之下都显得矮小。{w}\n巨树高耸于万物之上，令人叹为观止。{w}\n我看不清它们延伸到多远，但有几缕阳光透了下来。{w}\n从这里望去，整个阿莱斯蒂亚仿佛就是一片巨大的森林。"
 
 # game/script.rpy:199414
 translate chinese click_map101_8_EV008_f3d949e8:
@@ -90404,7 +90404,7 @@ translate chinese map094_55b2fef8:
 translate chinese map094_b6cd38d1:
 
     # char_valessa "But he said the spirits gave you all their power?\nAnd they cut their influence from Valinorth for good?\nThis changes Alestia's entire history, not just our actions."
-    char_valessa "但他说灵体把全部力量都给了你？\n还永久切断了他们在瓦利诺斯的影响？\n这改变的是整个阿莱斯提亚的历史，而不只是我们的行动。"
+    char_valessa "但他说灵体把全部力量都给了你？\n还永久切断了他们在瓦利诺斯的影响？\n这改变的是整个阿莱斯蒂亚的历史，而不只是我们的行动。"
 
 # game/script.rpy:201419
 translate chinese map094_bbe08870:
@@ -90620,7 +90620,7 @@ translate chinese Fortaime1_map095_143_0_48c19fd0:
     # voice "se/y00243.ogg"
     # char_fortaime "As far as I know, Valinorth is the last spiritual nation.\nIf we lose our connection, what's going to happen?\nWill Alestia just be completely devoid of spirits?"
     voice "se/y00243.ogg"
-    char_fortaime "据我所知，瓦利诺斯是最后一个灵性国度。\n要是我们失去了连结，会怎么样？\n阿莱斯提亚会彻底没有灵体吗？"
+    char_fortaime "据我所知，瓦利诺斯是最后一个灵性国度。\n要是我们失去了连结，会怎么样？\n阿莱斯蒂亚会彻底没有灵体吗？"
 
 # game/script.rpy:202816
 translate chinese Fortaime1_map095_143_0_aaf93e78:
@@ -90636,7 +90636,7 @@ translate chinese Fortaime1_map095_143_0_7b322f47:
     # voice "se/y00245.ogg"
     # char_fortaime "Anyway, I can process all of that later.\nI'm more worried about what's going to happen to {i}us{/i}.\nNot Valinorth, or Alestia. Just you, me, and Valessa."
     voice "se/y00245.ogg"
-    char_fortaime "总之，那些我可以以后再慢慢消化。\n我更担心{i}我们{/i}会怎样。\n不是瓦利诺斯，也不是阿莱斯提亚。只是你、我，还有瓦莱莎。"
+    char_fortaime "总之，那些我可以以后再慢慢消化。\n我更担心{i}我们{/i}会怎样。\n不是瓦利诺斯，也不是阿莱斯蒂亚。只是你、我，还有瓦莱莎。"
 
 # game/script.rpy:202842
 translate chinese Fortaime2_map095_143_0_6dd8aa1b:
@@ -90696,7 +90696,7 @@ translate chinese Fortaime2_map095_143_0_31d52ab8:
     # voice "se/y00252.ogg"
     # char_fortaime "Mylus said it was important to them, right?\nIf they're weak, we can't hold back.\nThis is our chance to save Alestia!"
     voice "se/y00252.ogg"
-    char_fortaime "迈勒斯说那对他们很重要，对吧？\n既然他们虚弱，我们就不能留手。\n这是我们拯救阿莱斯提亚的机会！"
+    char_fortaime "迈勒斯说那对他们很重要，对吧？\n既然他们虚弱，我们就不能留手。\n这是我们拯救阿莱斯蒂亚的机会！"
 
 # game/script.rpy:202921
 translate chinese Fortaime2_map095_143_0_5d485346:
@@ -90708,7 +90708,7 @@ translate chinese Fortaime2_map095_143_0_5d485346:
 translate chinese Fortaime2_map095_143_0_9ed970fc:
 
     # char_fortaime "Yeah, but not as good as us.\nAlestia would be better if the spirits were everywhere.\nValinorth is perfect, and we were truly lucky to live here."
-    char_fortaime "是啊，但没我们这么好。\n要是灵体无处不在，阿莱斯提亚会更好。\n瓦利诺斯是完美的，能住在这里，我们真的很幸运。"
+    char_fortaime "是啊，但没我们这么好。\n要是灵体无处不在，阿莱斯蒂亚会更好。\n瓦利诺斯是完美的，能住在这里，我们真的很幸运。"
 
 # game/script.rpy:202928
 translate chinese Fortaime2_map095_143_0_7c726dfa:
@@ -91042,7 +91042,7 @@ translate chinese Valessa2_map095_147_0_1fa58cba:
     # voice "se/y00216.ogg"
     # char_valessa "They said they took it over to fight piracy.\nBut I think they're acting in their own interest.\nBurning down our village? They don't care about Alestia." nointeract
     voice "se/y00216.ogg"
-    char_valessa "他们说占领那里是为了打击海盗。\n但我觉得他们是在谋一己之利。\n烧毁我们的村子？他们根本不在乎阿莱斯提亚。" nointeract
+    char_valessa "他们说占领那里是为了打击海盗。\n但我觉得他们是在谋一己之利。\n烧毁我们的村子？他们根本不在乎阿莱斯蒂亚。" nointeract
 
 # game/script.rpy:203466
 translate chinese Valessa2_map095_147_0_6076ad0f:
@@ -91122,7 +91122,7 @@ translate chinese Valessa2_map095_147_0_d6775ae5:
     # voice "se/y00225.ogg"
     # char_valessa "I think I need to concern myself with {i}Alestia's{/i} future.\nThe Rebellion will probably be swarming with new recruits.\nWe can fight back, so no one else loses their home." nointeract
     voice "se/y00225.ogg"
-    char_valessa "我想我该关心的，是{i}阿莱斯提亚{/i}的未来。\n反抗军大概会涌入大批新兵。\n我们能反击，这样就不会再有别人失去家园。" nointeract
+    char_valessa "我想我该关心的，是{i}阿莱斯蒂亚{/i}的未来。\n反抗军大概会涌入大批新兵。\n我们能反击，这样就不会再有别人失去家园。" nointeract
 
 # game/script.rpy:203582
 translate chinese Valessa2_map095_147_0_f3a8474a:
@@ -91230,7 +91230,7 @@ translate chinese Valessa3_map095_147_0_71106937:
 translate chinese Valessa3_map095_147_0_8e0e7069:
 
     # char_valessa "So the more he killed, the more he had to serve him?\nAnd Ulric's life powered a bunch of armored suits...?\nThat means their army could always outnumber Alestia!"
-    char_valessa "所以杀得越多，就越多人为他效力？\n乌尔里克的性命还驱动了一堆铠甲……？\n那意味着他们的军队永远能压过阿莱斯提亚！"
+    char_valessa "所以杀得越多，就越多人为他效力？\n乌尔里克的性命还驱动了一堆铠甲……？\n那意味着他们的军队永远能压过阿莱斯蒂亚！"
 
 # game/script.rpy:203803
 translate chinese Valessa3_map095_147_0_ed1506be:
@@ -91254,7 +91254,7 @@ translate chinese Valessa3_map095_147_0_8dc18631:
     # voice "se/y00240.ogg"
     # char_valessa "We can use it as a weapon, sure.\nBut we shouldn't kill Alestians for greater numbers.\nWe can build a strong army through {i}peaceful{/i} means."
     voice "se/y00240.ogg"
-    char_valessa "我们当然可以把它当武器用。\n但不应为了扩充兵力而杀害阿莱斯提亚人。\n我们可以通过{i}和平{/i}的方式组建强大的军队。"
+    char_valessa "我们当然可以把它当武器用。\n但不应为了扩充兵力而杀害阿莱斯蒂亚人。\n我们可以通过{i}和平{/i}的方式组建强大的军队。"
 
 # game/script.rpy:203849
 translate chinese Valessa3_map095_147_0_f3d67fed:
@@ -91790,7 +91790,7 @@ translate chinese map105_c395cd76:
     # voice "se/x00089a.ogg"
     # char_sovy "Besides, Valinorth is an insignificant part of our plan.\nWhen we're finished, Alestia will be forever changed."
     voice "se/x00089a.ogg"
-    char_sovy "再说，瓦利诺斯在我们的计划里无足轻重。\n等我们大功告成，阿莱斯提亚将永远改变。"
+    char_sovy "再说，瓦利诺斯在我们的计划里无足轻重。\n等我们大功告成，阿莱斯蒂亚将永远改变。"
 
 # game/script.rpy:205279
 translate chinese map106_18589141:
@@ -92710,7 +92710,7 @@ translate chinese strings:
 
     # script.rpy:29075
     old "{image=icons/655.png} \"Many Alestians see it as an ill omen.\""
-    new "{image=icons/655.png} “许多阿莱斯提亚人都视之为凶兆。”"
+    new "{image=icons/655.png} “许多阿莱斯蒂亚人都视之为凶兆。”"
 
     # script.rpy:29122
     old "{image=icons/651.png} \"It seems like a silly thing to be worried about.\""
@@ -93002,7 +93002,7 @@ translate chinese strings:
 
     # script.rpy:34046
     old "{image=icons/651.png} \"What will Alestia be like after the war is over?\""
-    new "{image=icons/651.png} “战争结束后，阿莱斯提亚会是什么样？”"
+    new "{image=icons/651.png} “战争结束后，阿莱斯蒂亚会是什么样？”"
 
     # script.rpy:34046
     old "{image=icons/651.png} \"Do you have any idea how we can save Valinorth?\""

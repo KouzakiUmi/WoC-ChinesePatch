@@ -47,4 +47,5 @@ python tools/patch_tool.py verify --game-dir "<游戏目录>"
 
 - 只改 `tl_work/chunks/*.tsv` 的最后一列, 不要动 speaker/source/结构。
 - 任何改动都要走 `build` + `compile` + `verify` 全链, 不跳步。
-- 发布一律新增 Release, 保留历史版本。
+- **迭代期间不发布**: 精校过程中只提交代码与译文, 不发 Release; 全部 chunk 确认后再一次性发布新版本 (发布一律新增, 不覆盖旧版)。
+- 迭代期间 manifest 版本记为 `x.y.z-dev`, 定稿时去掉 `-dev` 并发布。

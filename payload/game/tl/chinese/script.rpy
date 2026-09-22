@@ -28668,7 +28668,7 @@ translate chinese map149_69647779:
 translate chinese map149_60787829:
 
     # char_howl "We see the future, as expected, but also the past.\nWe see your death, Monarch — even if it didn't happen.\nWhy does time play such tricks on our memories?"
-    char_howl "我们如预期般看见未来，但也看见了过去。\n君主，我们看见了你的死——即便它并未发生。\n时间为何要这样戏弄我们的记忆？"
+    char_howl "我们如预期般看见未来，但也看见了过去。\n君主，我们看见了您的死——即便它并未发生。\n时间为何要这样戏弄我们的记忆？"
 
 # game/script.rpy:64733
 translate chinese map149_85395a1f:
@@ -28686,7 +28686,7 @@ translate chinese map149_cfbc1a82:
 translate chinese map149_d0ebcc3f:
 
     # char_howl "Are these memories, or perhaps echoes?\nThat is what I wished to talk to you about, Monarch.\nOur mind is overwhelmed, but not in the usual sense." nointeract
-    char_howl "这些是记忆，还是某种回响？\n君主，这正是我想跟你谈的。\n我们的心智不堪重负，但不是通常意义上的那种。" nointeract
+    char_howl "这些是记忆，还是某种回响？\n君主，这正是我想跟您谈的。\n我们的心智不堪重负，但不是通常意义上的那种。" nointeract
 
 # game/script.rpy:64777
 translate chinese map149_70cf6c99:
@@ -28742,7 +28742,7 @@ translate chinese map149_b5e3e7bd:
 translate chinese map149_950828c0:
 
     # char_howl "We see a past where we failed to save you, Monarch.\nYou fell to your wounds, and Alestia had no hope at all.\nDamek, too. The failure of The Rebellion was certain."
-    char_howl "君主，我们看见一个没能救下你的过去。\n你因伤倒下，阿莱斯蒂亚毫无希望。\n达梅克也是。反抗军的失败已成定局。"
+    char_howl "君主，我们看见一个没能救下您的过去。\n您因伤倒下，阿莱斯蒂亚毫无希望。\n达梅克也是。反抗军的失败已成定局。"
 
 # game/script.rpy:64835
 translate chinese map149_44c78883:
@@ -28828,7 +28828,7 @@ translate chinese map149_5b07eaf4:
 translate chinese map149_4c3a0520:
 
     # char_howl "It pains us to see visions of your death, Monarch.\nFuture, or past — it is something we wish to avoid.\nYou carry our legacy. You are everything to us."
-    char_howl "君主，看见你死亡的幻象让我们痛苦。\n无论未来还是过去——那都是我们想要避开的。\n你承载着我们的传承。你对我们而言就是一切。"
+    char_howl "君主，看见您死亡的幻象让我们痛苦。\n无论未来还是过去——那都是我们想要避开的。\n您承载着我们的传承。您对我们而言就是一切。"
 
 # game/script.rpy:64958
 translate chinese map149_354b63b7:
@@ -36960,7 +36960,7 @@ translate chinese map242_fd28f713:
 translate chinese map242_b19c6c65:
 
     # char_howl "Monarch? We must speak with you.\nIt's about our upcoming attack on Balteus.\nAt least, we think it is. Things have been complicated." nointeract
-    char_howl "君主？我们必须和你谈谈。\n是关于即将对巴尔泰乌斯发动的进攻。\n至少，我们觉得是。事情一直很复杂。" nointeract
+    char_howl "君主？我们必须和您谈谈。\n是关于即将对巴尔泰乌斯发动的进攻。\n至少，我们觉得是。事情一直很复杂。" nointeract
 
 # game/script.rpy:82265
 translate chinese map242_36095cdd:
@@ -37130,7 +37130,7 @@ translate chinese map242_55c757ff:
     # voice "se/y02120.ogg"
     # char_howl "The visions of the future you thought you were having? They aren't what you thought.\nWe believe they are visions of cycles in the past. Perhaps cycles where we have perished.\nDid your visions of the “future” involve your death in any way? Think about this, Monarch."
     voice "se/y02120.ogg"
-    char_howl "你以为你看到的那些未来幻象？它们并非你所想的那样。\n我们相信那是过去轮回的幻象。也许是我们在其中覆灭的轮回。\n你那些“未来”的幻象里，有没有以任何方式出现过你的死亡？好好想想，君主。"
+    char_howl "您以为您看到的那些未来幻象？它们并非您所想的那样。\n我们相信那是过去轮回的幻象。也许是我们在其中覆灭的轮回。\n您那些“未来”的幻象里，有没有以任何方式出现过您的死亡？好好想想，君主。"
 
 # game/script.rpy:82539
 translate chinese map242_52e1b695:
@@ -37308,7 +37308,7 @@ translate chinese map242_979ae38a:
     # voice "se/y02136.ogg"
     # char_howl "That is not something we want our Monarch to endure.\nBe prepared for anything, for the enemy will stop at nothing.\nIf you can do this, then perhaps our victory will be more likely."
     voice "se/y02136.ogg"
-    char_howl "那不是我们希望君主承受的事。\n做好万全准备，因为敌人会不择手段。\n如果你能做到这一点，也许我们获胜的希望就会更大。"
+    char_howl "那不是我们希望君主承受的事。\n做好万全准备，因为敌人会不择手段。\n如果您能做到这一点，也许我们获胜的希望就会更大。"
 
 # game/script.rpy:82842
 translate chinese map242_085a2ead:
@@ -41228,7 +41228,7 @@ translate chinese map265_7c9630b9:
 translate chinese map265_d787095b:
 
     # char_howl "Good to see you, Monarch. We were worried.\nIt seems that almost everybody is accounted for."
-    char_howl "见到你真好，君主。我们很担心。\n看来几乎所有人都平安归队了。"
+    char_howl "见到您真好，君主。我们很担心。\n看来几乎所有人都平安归队了。"
 
 # game/script.rpy:92184
 translate chinese map265_e03a1f82:
@@ -69084,7 +69084,7 @@ translate chinese map159_4a2388c9:
     # voice "se/z01671.ogg"
     # char_howl "Thank you for your sympathy, Monarch, but it is not needed.\nPlease focus only on the present. Do not cloud your mind.\nIf you do — then the same fate may befall your kind, as well."
     voice "se/z01671.ogg"
-    char_howl "感谢你的同情，君主，但这并不必要。\n请只专注于当下。别让你的心蒙上阴云。\n若你如此——同样的命运也许也会降临到你的族类身上。"
+    char_howl "感谢您的同情，君主，但这并不必要。\n请只专注于当下。别让您的心蒙上阴云。\n若您如此——同样的命运也许也会降临到您的族类身上。"
 
 # game/script.rpy:153361
 translate chinese map159_485fac6b:
@@ -70580,7 +70580,7 @@ translate chinese map163_fb4ee66c:
     # voice "se/z01709.ogg"
     # char_howl "If hope could win wars, we wouldn't even be here.\nIn times like this, we are glad that you're not in charge.\nWe trust that the Monarch will make the proper decision."
     voice "se/z01709.ogg"
-    char_howl "如果希望就能打赢战争，我们根本就不会在这里。\n在这种时候，我们很庆幸掌权的不是你。\n我们相信君主会做出正确的决定。"
+    char_howl "如果希望就能打赢战争，我们根本就不会在这里。\n在这种时候，我们很庆幸掌权的不是您。\n我们相信君主会做出正确的决定。"
 
 # game/script.rpy:157296
 translate chinese map163_63daf988:

@@ -264,6 +264,130 @@ def term_diff(rows, rules, fixups=None):
 
 # ---------------------------------------------------------------- 命令
 
+# ---- 语域标记表 ----------------------------------------------------------
+# 对话里出现这些 = 念台词风险 (书面/文言腔)
+WRITTEN_MARKS = ["亦然", "意欲何为", "乃至", "皆", "乃", "岂", "尚且", "何况", "予以",
+                 "加以", "从而", "因而", "故而", "由此可见", "极为", "甚为", "颇为",
+                 "亦", "遂", "并非如此", "何须"]
+# 奇幻语境里的现代职场/技术词 (独白或对话出现都不自然)
+MODERN_MARKS = ["团队", "优先级", "进度", "效率", "资源", "管理员", "失业",
+                "制度", "流程", "反馈", "沟通", "管理"]
+# 内心独白里出现这些 = 旁白过于口语/网络化
+COLLOQ_MARKS = ["稳了", "溜了", "咋", "咱", "绝了", "上头", "破防", "哥们", "老铁",
+                "大佬", "牛逼", "事儿", "味儿", "搞定", "没辙"]
+
+
+def classify(r):
+    """内心独白 (speaker 空) / 人物对话 / 界面串。"""
+    if r["kind"] == "strings":
+        return "ui"
+    return "dialogue" if r["speaker"] else "monologue"
+
+
+def cmd_register(args):
+    """按 内心独白 / 人物对话 分层, 分别检查语域 (书面腔、现代词、口语网络词)。"""
+    rows = list(iter_rows(args.tl_dir))
+    bucket = collections.Counter()
+    hits = collections.defaultdict(list)
+    for r in rows:
+        kind = classify(r)
+        bucket[kind] += 1
+        t = plain(r["tgt"])
+        if kind == "dialogue":
+            for m in WRITTEN_MARKS:
+                if m in t:
+                    hits[("dialogue", "书面/文言腔", m)].append(r); break
+            for m in MODERN_MARKS:
+                if m in t:
+                    hits[("dialogue", "现代职场词", m)].append(r); break
+        elif kind == "monologue":
+            for m in COLLOQ_MARKS:
+                if m in t:
+                    hits[("monologue", "口语/网络词", m)].append(r); break
+            for m in MODERN_MARKS:
+                if m in t:
+                    hits[("monologue", "现代职场词", m)].append(r); break
+    os.makedirs(REVIEW, exist_ok=True)
+    with io.open(os.path.join(REVIEW, "register.md"), "w", encoding="utf-8", newline="\n") as f:
+        f.write("# 语域分层检查 (内心独白 / 人物对话)\n\n生成时间: %s\n\n" % time.strftime("%Y-%m-%d %H:%M"))
+        f.write("| 层 | 行数 |\n| --- | --- |\n")
+        for k in ("monologue", "dialogue", "ui"):
+            f.write("| %s | %d |\n" % ({"monologue": "内心独白", "dialogue": "人物对话", "ui": "界面串"}[k], bucket[k]))
+        f.write("\n---\n\n")
+        for (kind, cat, mark), items in sorted(hits.items(), key=lambda kv: (kv[0][0], kv[0][1], -len(kv[1]))):
+            f.write("## [%s] %s — 标记「%s」 %d 条\n\n" %
+                    ({"monologue": "内心独白", "dialogue": "人物对话"}[kind], cat, mark, len(items)))
+            for r in items[:args.show]:
+                f.write("- `%s#%s` %s\n  - EN: %s\n  - CN: %s\n"
+                        % (r["chunk"], r["seq"], r["speaker"] or "旁白",
+                           r["src"].replace("\n", " ")[:110], r["tgt"].replace("\n", " ")[:110]))
+            if len(items) > args.show:
+                f.write("- ... 其余 %d 条\n" % (len(items) - args.show))
+            f.write("\n")
+    print("分层: 内心独白 %d, 人物对话 %d, 界面串 %d" % (bucket["monologue"], bucket["dialogue"], bucket["ui"]))
+    print("报告 -> review/register.md")
+    for (kind, cat, mark), items in sorted(hits.items(), key=lambda kv: -len(kv[1]))[:14]:
+        print("   [%-4s] %-10s %-8s %d" % ({"monologue": "独白", "dialogue": "对话"}[kind], cat, mark, len(items)))
+    return 0
+
+
+def cmd_dedupe(args):
+    """同一句英文(同一说话人)在全篇出现多次时, 统一为用得最多的那种译法。"""
+    rows = list(iter_rows(args.tl_dir))
+    groups = collections.defaultdict(list)
+    for r in rows:
+        if r["kind"] != "dialogue" or len(r["src"].strip()) <= 25:
+            continue
+        groups[(r["src"].strip(), r["speaker"])].append(r)
+    diff = []
+    for key, items in groups.items():
+        tgts = collections.Counter(r["tgt"].strip() for r in items)
+        if len(tgts) < 2:
+            continue
+        best = tgts.most_common(1)[0][0]
+        for r in items:
+            if r["tgt"].strip() != best:
+                diff.append((r, best, "重复句统一 (同句出现 %d 次)" % len(items)))
+    print("重复句组: %d, 需要统一的译法: %d 行" % (sum(1 for v in groups.values() if len(v) > 1), len(diff)))
+    for r, new, note in diff[:args.show]:
+        print("  %-20s #%-6s %s" % (r["chunk"], r["seq"], note))
+        print("     - %s" % r["tgt"].replace("\n", " ")[:100])
+        print("     + %s" % new.replace("\n", " ")[:100])
+    if len(diff) > args.show:
+        print("  ... 其余 %d 行省略" % (len(diff) - args.show))
+    if not diff or not args.apply:
+        print("\n(dry-run, 加 --apply 才会写回)")
+        return 0
+    return apply_changes(args, diff, "dedupe")
+
+
+def apply_changes(args, diff, label):
+    """把 (row, new_target, note) 列表写回 chunks, 先备份。"""
+    stamp = time.strftime("%Y%m%d-%H%M%S")
+    backup = os.path.join(REVIEW, "backup_chunks_%s_%s" % (label, stamp))
+    touched = collections.defaultdict(list)
+    for r, new, note in diff:
+        touched[r["kind"]].append((r, new))
+    for kind in touched:
+        src_folder = os.path.join(args.tl_dir, KINDS[kind]["folder"].replace("/", os.sep))
+        dst_folder = os.path.join(backup, KINDS[kind]["folder"].replace("/", os.sep))
+        os.makedirs(dst_folder, exist_ok=True)
+        for f in glob.glob(os.path.join(src_folder, "*.tsv")):
+            shutil.copy2(f, os.path.join(dst_folder, os.path.basename(f)))
+    n = 0
+    for kind, items in touched.items():
+        for r, new in items:
+            path = os.path.join(args.tl_dir, KINDS[kind]["folder"].replace("/", os.sep), r["chunk"])
+            parts = list(r["parts"])
+            parts[KINDS[kind]["tcol"]] = new
+            write_row(path, r["line"], parts)
+            n += 1
+    print("已写回 %d 行 (%s); chunks 备份 -> %s" % (n, label, backup))
+    if args.build:
+        return build(args)
+    return 0
+
+
 def cmd_stats(args):
     rows = list(iter_rows(args.tl_dir))
     for kind in KINDS:
@@ -468,6 +592,15 @@ def main():
     tm.add_argument("--game-root", help="游戏根目录")
     tm.add_argument("--show", type=int, default=12)
     tm.set_defaults(fn=cmd_terms)
+    rg = sub.add_parser("register")
+    rg.add_argument("--show", type=int, default=6)
+    rg.set_defaults(fn=cmd_register)
+    dd = sub.add_parser("dedupe")
+    dd.add_argument("--apply", action="store_true")
+    dd.add_argument("--build", action="store_true")
+    dd.add_argument("--game-root")
+    dd.add_argument("--show", type=int, default=6)
+    dd.set_defaults(fn=cmd_dedupe)
     ap_ = sub.add_parser("apply")
     ap_.add_argument("--sheet", help="指定清单文件 (默认 review/sheet_*.tsv)")
     ap_.add_argument("--write", action="store_true", help="真正写回 chunks")

@@ -1,8 +1,8 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.1.2",
- "built": "2026-09-22 20:34:13",
+ "version": "1.1.3",
+ "built": "2026-09-22 20:46:59",
  "base_check": {
   "path": "game/script.rpy",
   "sha256": "c11fbeb67c84d9b649f09e8a39aacd43adf28428b2493e1e988c4871d9de7368",
@@ -612,7 +612,7 @@
   {
    "path": "game/00title_particles.rpyc",
    "type": "new",
-   "sha256": "597b6cdd223b7e68a7f11147f36c3ea0a346f69beec565009ad67b8a5912a8a5",
+   "sha256": "d9fe8a577887a47afcf259ea09a8385b1033ee53f9f5a1efd435e67e9e588553",
    "size": 3200
   },
   {
@@ -624,7 +624,7 @@
   {
    "path": "game/tl/chinese/common.rpyc",
    "type": "new",
-   "sha256": "a1d520cadbb0e852034939172978b76d9f6dce9681788d94c08a62be79aed25d",
+   "sha256": "3d0a36a661de052b84d1adc084e257caf4d69cab3870cfaa094283ddc6c6ea49",
    "size": 26884
   },
   {
@@ -636,7 +636,7 @@
   {
    "path": "game/tl/chinese/fonts.rpyc",
    "type": "new",
-   "sha256": "5fdde5150c104dc0229383660a2ee772af5035525bf4fe909a8bfc55433e8a3f",
+   "sha256": "b180473e05a9163ecac90c83e3148542bcd2664c606d246ebc8169dc8fcac1fa",
    "size": 998
   },
   {
@@ -648,7 +648,7 @@
   {
    "path": "game/tl/chinese/names.rpyc",
    "type": "new",
-   "sha256": "f9063fe82de36e0d3fe1014388d492dae1cbbc92374b154a2b5db5711cf75bee",
+   "sha256": "3f7d7476630716f683dc1ac98c29cf81665d9cf81b2ba8d48f05199c9d25b4ba",
    "size": 2706
   },
   {
@@ -660,7 +660,7 @@
   {
    "path": "game/tl/chinese/options.rpyc",
    "type": "new",
-   "sha256": "e7337b60eb361f078287a454422e8341900dfd339c53305f65a72905c121493d",
+   "sha256": "bede223e3e46f9bde999dd2f299e615c229b5063b588274e94060b1b69fc4ac5",
    "size": 1266
   },
   {
@@ -672,19 +672,19 @@
   {
    "path": "game/tl/chinese/screens.rpyc",
    "type": "new",
-   "sha256": "d0b5f8b2ce51fe5398aa49330d478f8c410b90a1cd4e068fe34072db984c4c69",
+   "sha256": "18a5e2c93095f49fbe246492eb15f4b7966e67e8b10e8378db48b94853226e63",
    "size": 8732
   },
   {
    "path": "game/tl/chinese/script.rpy",
    "type": "new",
-   "sha256": "8f6e5c0c699137951b9d94030f180dda55fd869828420bff8c77bb4440871e46",
+   "sha256": "1ce4e24bf06d6627382510a5a2806b47f30b99406abdd7ce39ee36c9134acd50",
    "size": 4544929
   },
   {
    "path": "game/tl/chinese/script.rpyc",
    "type": "new",
-   "sha256": "ea086664fc6ac3d3fd0a4dde9bfd886df7e1791e06548f928249e3741570e37e",
+   "sha256": "ade93b333a3245a6b3fc63a90c3cdba9507c6a3b978b7e941af3ab20db09b138",
    "size": 2456713
   },
   {
@@ -696,7 +696,7 @@
   {
    "path": "game/zzz_chinese_language.rpyc",
    "type": "new",
-   "sha256": "9ff143465c850ea9f1b96db245a5cd3cbfbc12586af6087f80798d11e331891a",
+   "sha256": "435eb8ef9d910e0e3deaa18c34bfe1cbde55ae0c53279fe262ec1a36dadcb5b3",
    "size": 942
   }
  ],
@@ -704,7 +704,7 @@
   "pc": "7.1.1.929",
   "android": "8.6.0.25112108"
  },
- "notes": "originals/ 与 tl_work/ 不入仓库; 卸载优先使用安装时生成的备份 (<游戏目录>/woc_zh_patch_backup)。payload 中每个 .rpyc 都有配套 .rpy, 因此在 Ren'Py 7 与 8 上都能加载或自动重编译。v1.1.2: 术语统一 —— 专名 The Blade of Exodus 由「流亡之刃」改为「放逐之刃」; blade/sword 的「刀/刃」统一为「剑」(保留 刀=knife、捅刀、刀刃上、两面三刀 等正确用法与「双刃剑」固定搭配); payload 重新由 tl_work 源构建, 同步了此前落后于翻译源的 72 处文本。",
+ "notes": "originals/ 与 tl_work/ 不入仓库; 卸载优先使用安装时生成的备份。v1.1.3: 按「内心独白 / 人物对话」分层校对 —— 清除对话里的现代职场词与文言腔 (团队/优先级/进度/失业/效率/资源/管理员/制度、亦然/意欲何为 等 26 处), 并统一 373 行重复台词的译法 (同一句英文全篇一致)。",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

@@ -4770,7 +4770,7 @@ translate chinese map042_f670d5b5:
 translate chinese map042_ccb86426:
 
     # "This becomes personal, as they seem to know each other.{w}\nThey both worked for opposing forces, I'm sure they've fought before.{w}\nIt sickens me that he likens killing the villagers to a sport."
-    "事情变得私人了，他们俩好像认识。{w}\n他们各自为对立的势力效力，肯定交过手。{w}\n他竟把屠杀村民比作运动，真让我恶心。"
+    "事情变得私人了，他们俩好像认识。{w}\n他们各自为对立的势力效力，肯定交过手。{w}\n他竟把屠杀村民说成找乐子，真让我恶心。"
 
 # game/script.rpy:12973
 translate chinese map042_dc8e175e:

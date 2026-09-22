@@ -592,7 +592,7 @@ translate chinese map035_e4627821:
 translate chinese map035_46812f45:
 
     # char_sovy "I am almost certain.\nBut if that's where they've chosen to hide it?\nIt means that our other target is also there."
-    char_sovy "我几乎可以确定。\n但要是他们选择把它藏在哪儿？\n那就意味着我们的另一个目标也在那里。"
+    char_sovy "我几乎可以确定。\n但要是那就是他们藏剑的地方呢？\n那就意味着我们的另一个目标也在那里。"
 
 # game/script.rpy:2407
 translate chinese map035_c4e70a9d:
@@ -616,7 +616,7 @@ translate chinese map035_3c2af341:
 translate chinese map035_da657860:
 
     # char_sovy "You'd have me interrogate the prisoner once more?\nIf I may be so bold — to what end do you request this?"
-    char_sovy "您要我再审那囚犯一次？\n恕我斗胆——请问您究竟想怎么做？"
+    char_sovy "您要我再审那囚犯一次？\n恕我斗胆——请问您为何有此要求？"
 
 # game/script.rpy:2455
 translate chinese map035_71cc2df5:
@@ -642,7 +642,7 @@ translate chinese map035_2d86ae27:
 translate chinese map035_55c244b7:
 
     # char_sovy "My Apprentice...?\nI've told you many times, I want to work alone.\nIt would be more efficient for me to do this myself!"
-    char_sovy "我的学徒……？\n我已经说过很多次了，我想独自行动。\n我一个人来做会高效得多！"
+    char_sovy "我的学徒……？\n我已经说过很多次了，我想独自行动。\n我一个人来做会快得多！"
 
 # game/script.rpy:2534
 translate chinese map035_b1a6a772:
@@ -938,7 +938,7 @@ translate chinese map037_739d7fc5:
 translate chinese map037_5f13c30a:
 
     # "To break the deadlock, Ulric kicks his opponent in the gut.{w}\nThey stumble back, and ready their blade with a flourish.{w}\nIt isn't much longer until they charge toward him again."
-    "为了打破僵局，乌尔里克一脚踹在对手的腹部。{w}\n那人踉跄着后退，炫技般重新举起兵器。{w}\n没过多久，他们又朝他冲了过来。"
+    "为了打破僵局，乌尔里克一脚踹在对手的腹部。{w}\n那人踉跄着后退，炫技般重新举起剑。{w}\n没过多久，他们又朝他冲了过来。"
 
 # game/script.rpy:3350
 translate chinese map037_992c838f:
@@ -2262,7 +2262,7 @@ translate chinese Valessa2_map085_1_0_67aaf12d:
     # voice "se/y00079.ogg"
     # char_valessa "There's entire books written on this subject, you know.\nBut no one must know when they're in a vision.\nIt could screw up what the spirits want to show us."
     voice "se/y00079.ogg"
-    char_valessa "你知道吗，关于这个主题有成书论述。\n但身处幻象中时，绝不能让旁人知道。\n那会搅乱灵想让我们看到的东西。"
+    char_valessa "你知道吗，关于这个主题写了好几本书。\n但身处幻象中时，绝不能让旁人知道。\n那会搅乱灵想让我们看到的东西。"
 
 # game/script.rpy:6761
 translate chinese Valessa2_map085_1_0_fcfeaf51:
@@ -2724,7 +2724,7 @@ translate chinese Ulric2_map085_113_0_107a65ec:
 translate chinese Ulric2_map085_113_0_9bc98964:
 
     # char_ulric "Is that an accusation of some kind?\nWhere I come from, you don't accuse the guy with a bigger sword.\nI'll pretend I didn't hear that, and carry on with this search."
-    char_ulric "这算是什么指控吗？\n在我的家乡，你可不会去指控一个比你剑大的人。\n我就当没听见，继续搜查。"
+    char_ulric "这算是什么指控吗？\n在我的家乡，你可不会去指控一个佩剑更大的人。\n我就当没听见，继续搜查。"
 
 # game/script.rpy:7916
 translate chinese Ulric2_map085_113_0_524a4ae1:
@@ -2784,7 +2784,7 @@ translate chinese Ulric3_map085_113_0_b9fe441c:
 translate chinese Ulric3_map085_113_0_de6fb6b7:
 
     # char_ulric "Very funny. A joke question. I'll pass."
-    char_ulric "真好笑。这是开玩笑的问题。我略过。"
+    char_ulric "真好笑。这种玩笑问题，我不接。在我把你甩下之前，换个话题吧。"
 
 # game/script.rpy:8063
 translate chinese Ulric3_map085_113_0_b55ed1bc:
@@ -2886,7 +2886,7 @@ translate chinese Ulric3_map085_113_0_ddc02001:
     # voice "se/y00038.ogg"
     # char_ulric "Each nation has a General that serves The Triumvirate.\nThey rule in their stead, and make sure everything runs smoothly.\nExcept — you guessed it. The Elder, or General, of Valinorth."
     voice "se/y00038.ogg"
-    char_ulric "每个国家都有一位将军效命于三人执政团。\n他们代其统治，确保一切运转顺畅。\n唯独——你猜对了。瓦利诺斯的长老，或者说将军。"
+    char_ulric "每个国家都有一位将军效命于三人执政团。\n他们代其统治，确保一切运转顺畅。\n只有瓦利诺斯例外——你猜对了，就是他们的长老，或者说将军。"
 
 # game/script.rpy:8308
 translate chinese Ulric3_map085_113_0_cf415fc4:
@@ -3458,7 +3458,7 @@ translate chinese Valessa2_map084_6_0_67aaf12d:
     # voice "se/y00079.ogg"
     # char_valessa "There's entire books written on this subject, you know.\nBut no one must know when they're in a vision.\nIt could screw up what the spirits want to show us."
     voice "se/y00079.ogg"
-    char_valessa "你知道吗，关于这个主题有成书论述。\n但身处幻象中时，绝不能让旁人知道。\n那会搅乱灵想让我们看到的东西。"
+    char_valessa "你知道吗，关于这个主题写了好几本书。\n但身处幻象中时，绝不能让旁人知道。\n那会搅乱灵想让我们看到的东西。"
 
 # game/script.rpy:10186
 translate chinese Valessa2_map084_6_0_fcfeaf51:
@@ -3842,7 +3842,7 @@ translate chinese Ulric2_map084_7_0_107a65ec:
 translate chinese Ulric2_map084_7_0_9bc98964:
 
     # char_ulric "Is that an accusation of some kind?\nWhere I come from, you don't accuse the guy with a bigger sword.\nI'll pretend I didn't hear that, and carry on with this search."
-    char_ulric "这算是什么指控吗？\n在我的家乡，你可不会去指控一个比你剑大的人。\n我就当没听见，继续搜查。"
+    char_ulric "这算是什么指控吗？\n在我的家乡，你可不会去指控一个佩剑更大的人。\n我就当没听见，继续搜查。"
 
 # game/script.rpy:10912
 translate chinese Ulric2_map084_7_0_524a4ae1:
@@ -3902,7 +3902,7 @@ translate chinese Ulric3_map084_7_0_b9fe441c:
 translate chinese Ulric3_map084_7_0_de6fb6b7:
 
     # char_ulric "Very funny. A joke question. I'll pass."
-    char_ulric "真好笑。这是开玩笑的问题。我略过。"
+    char_ulric "真好笑。这种玩笑问题，我不接。在我把你甩下之前，换个话题吧。"
 
 # game/script.rpy:11059
 translate chinese Ulric3_map084_7_0_b55ed1bc:
@@ -4004,7 +4004,7 @@ translate chinese Ulric3_map084_7_0_ddc02001:
     # voice "se/y00038.ogg"
     # char_ulric "Each nation has a General that serves The Triumvirate.\nThey rule in their stead, and make sure everything runs smoothly.\nExcept — you guessed it. The Elder, or General, of Valinorth."
     voice "se/y00038.ogg"
-    char_ulric "每个国家都有一位将军效命于三人执政团。\n他们代其统治，确保一切运转顺畅。\n唯独——你猜对了。瓦利诺斯的长老，或者说将军。"
+    char_ulric "每个国家都有一位将军效命于三人执政团。\n他们代其统治，确保一切运转顺畅。\n只有瓦利诺斯例外——你猜对了，就是他们的长老，或者说将军。"
 
 # game/script.rpy:11304
 translate chinese Ulric3_map084_7_0_cf415fc4:
@@ -4476,7 +4476,7 @@ translate chinese map042_f8819785:
 translate chinese map042_fdf76250:
 
     # char_valessa "It doesn't make any sense, though.\nThink about it for a second.\nIn that alcove, we heard screams."
-    char_valessa "可这说不通啊。\n你回想一下。\n在那个凹室那儿，我们听到了尖叫声。"
+    char_valessa "可这说不通啊。\n你回想一下。\n在那个壁龛那儿，我们听到了尖叫声。"
 
 # game/script.rpy:12299
 translate chinese map042_44293157:
@@ -4588,7 +4588,7 @@ translate chinese map042_6307224e:
 translate chinese map042_749377c6:
 
     # char_valessa "There might not {i}be{/i} anybody at The Grand Tree!\nI don't think we know what we're up against.\nWe should cut our losses and run, Ulric."
-    char_valessa "巨树那儿可能{i}根本{/i}没人！\n我觉得我们根本不清楚面对的是什么。\n我们该及时止损，赶紧跑，乌尔里克。"
+    char_valessa "巨树那儿可能{i}根本{/i}没人！\n我觉得我们根本不清楚面对的是什么。\n我们该趁还能脱身，赶紧跑，乌尔里克。"
 
 # game/script.rpy:12578
 translate chinese map042_7c683bd8:
@@ -4606,7 +4606,7 @@ translate chinese map042_17e2dce7:
 translate chinese map042_5d57ac1c:
 
     # "It's true, she was changing her mind far too fast.{w}\nAt the moment, she seems to value our survival.{w}\nCould she be starting to doubt that this is a vision?"
-    "确实，她改主意改得太快了。{w}\n此刻，她好像更看重我们的安危。{w}\n她是不是开始怀疑这不过是一场幻象了？"
+    "确实，她改主意改得太快了。{w}\n此刻，她好像更看重我们的安危。{w}\n她是不是开始怀疑这其实并不是一场幻象了？"
 
 # game/script.rpy:12605
 translate chinese map042_17b69e77:
@@ -4692,7 +4692,7 @@ translate chinese map042_cfb60dd9:
 translate chinese map042_16f1639a:
 
     # char_sovy "They called out to you, Seer.\nThey wanted your help, and you let them down.\nI guess the stories I heard about you were wrong."
-    char_sovy "他们呼喊着你的名字，先知。\n他们盼着你来救，你却辜负了他们。\n看来我听说的关于你的传闻都是假的。"
+    char_sovy "他们曾向你呼救，先知。\n他们盼着你来救，你却辜负了他们。\n看来我听说的关于你的传闻都是假的。"
 
 # game/script.rpy:12774
 translate chinese map042_5686c472:
@@ -4704,7 +4704,7 @@ translate chinese map042_5686c472:
 translate chinese map042_a26ce13c:
 
     # char_sovy "They called out to you, Seeress.\nThey wanted your help, and you let them down.\nI guess the stories I heard about you were wrong."
-    char_sovy "他们呼喊着你的名字，先知。\n他们盼着你来救，你却辜负了他们。\n看来我听说的关于你的传闻都是假的。"
+    char_sovy "他们曾向你呼救，先知。\n他们盼着你来救，你却辜负了他们。\n看来我听说的关于你的传闻都是假的。"
 
 # game/script.rpy:12799
 translate chinese map042_79aa8308:
@@ -4794,7 +4794,7 @@ translate chinese map042_9fd14bf4:
 translate chinese map042_1a66be1b:
 
     # char_sovy "My orders had nothing to do with burning down this village.\nI wasn't supposed to kill anyone unless I had to, either.\nBut you know, my Apprentice isn't very fun to train with."
-    char_sovy "我的命令跟烧掉这个村子毫无关系。\n除非迫不得已，我也不该杀人。\n可你知道，跟我的学徒对练实在没什么意思。"
+    char_sovy "我的命令跟烧掉这个村子毫无关系。\n除非迫不得已，我也不该杀人。\n可你知道，教我的学徒实在没什么意思。"
 
 # game/script.rpy:13032
 translate chinese map042_717888d4:
@@ -4920,7 +4920,7 @@ translate chinese map042_02cb9b84:
 translate chinese map042_e137c744:
 
     # char_valessa "You — you're using their spirits to power that armor?\nDoes that mean we've been fighting our own...!?"
-    char_valessa "你——你在用他们的灵体给那些铠甲供能？\n那我们一直在跟自己人打……！？"
+    char_valessa "你——你在用他们的灵体给那些铠甲提供力量？\n那我们一直在跟自己人打……！？"
 
 # game/script.rpy:13342
 translate chinese map042_9d759b8f:
@@ -5622,7 +5622,7 @@ translate chinese Fortaime3_map078_166_1_cdb68c0e:
 translate chinese Fortaime3_map078_166_1_f72fb545:
 
     # char_fortaime "I don't think I'm really allowed to do that.\nThe training I go through is already mentally exhausting.\nI need to devote my spare time to blowing off steam."
-    char_fortaime "我觉得我其实没被允许那么做。\n我接受的训练已经很耗心力了。\n我得把闲暇时间用来发泄解压。"
+    char_fortaime "我觉得我其实没被允许那么做。\n我接受的训练已经很耗心力了。\n我得把闲暇时间用来散心放松。"
 
 # game/script.rpy:15848
 translate chinese Fortaime3_map078_166_1_c2b8b10f:
@@ -7246,7 +7246,7 @@ translate chinese map047_54bd7825:
 translate chinese map047_f6f5909b:
 
     # char_valessa "So, against my better judgment, alliances might be necessary.\nI doubt we can find a way to save Valinorth all on our own.\nWe'll require knowledge from all corners of Alestia."
-    char_valessa "所以，尽管违背我的本意，结盟或许是必要的。\n我怀疑单凭我们自己，找不到拯救瓦利诺斯的办法。\n我们需要来自阿拉斯提亚四面八方的知识。"
+    char_valessa "所以，尽管违背我的本意，结盟或许是必要的。\n我怀疑单凭我们自己，找不到拯救瓦利诺斯的办法。\n我们需要来自阿莱斯蒂亚四面八方的知识。"
 
 # game/script.rpy:20454
 translate chinese map047_bc835021:
@@ -7462,7 +7462,7 @@ translate chinese map047_7b955269:
     # voice "se/y00415.ogg"
     # char_valessa "No — people would just think I'm using them.\nIn order to do this efficiently, I'd have to keep it a secret.\nGlean information wherever I can, without telling anybody why."
     voice "se/y00415.ogg"
-    char_valessa "不——人们只会觉得我在利用他们。\n想高效地做到这一点，我就得保密。\n尽可能地搜集情报，却不告诉任何人原因。"
+    char_valessa "不——人们只会觉得我在利用他们。\n想顺利做到这一点，我就得保密。\n尽可能地搜集情报，却不告诉任何人原因。"
 
 # game/script.rpy:20701
 translate chinese map047_bc6cecc9:
@@ -7582,7 +7582,7 @@ translate chinese map047_ba0917c3:
     # voice "se/y00426.ogg"
     # char_valessa "We need to make an important decision, here.\nDo we involve the rest of Alestia with this stuff...?\nOr do we keep the visions to ourselves, like always?"
     voice "se/y00426.ogg"
-    char_valessa "我们得在这里做一个重要的决定。\n要让阿拉斯提亚的其他人也牵扯进这些事吗……？\n还是像往常一样，把预言留在我们自己手里？"
+    char_valessa "我们得在这里做一个重要的决定。\n要让阿莱斯蒂亚的其他人也牵扯进这些事吗……？\n还是像往常一样，把预言留在我们自己手里？"
 
 # game/script.rpy:20832
 translate chinese map047_55857ab1:
@@ -7764,7 +7764,7 @@ translate chinese map047_3bae9b7c:
 translate chinese map047_098d8168:
 
     # "She smiles at me, and it seems like she's accepting of my advances.{w}\nHowever, the way things were — I understood her exception.{w}\nIt would be better to talk about that stuff later on."
-    "她冲我笑了笑，似乎接受了我的示好。{w}\n不过，就当时的情形——我理解她的例外。{w}\n那些事，还是以后再说比较好。"
+    "她冲我笑了笑，似乎接受了我的示好。{w}\n不过，就当时的情形——我明白她为何会例外。{w}\n那些事，还是以后再说比较好。"
 
 # game/script.rpy:21024
 translate chinese map047_352e2562:
@@ -8246,7 +8246,7 @@ translate chinese click_map154_23_EV023_832c6d56:
 translate chinese click_map154_23_EV023_ffc00b28:
 
     # char_howl "The freedom of Alestia. The destruction of The Triumvirate.\nWhen you look at it that way, it seems as if we defile nothing."
-    char_howl "阿拉斯提亚的自由。三人执政团的覆灭。\n若从这个角度看，我们似乎什么都没有玷污。"
+    char_howl "阿莱斯蒂亚的自由。三人执政团的覆灭。\n若从这个角度看，我们似乎什么都没有玷污。"
 
 # game/script.rpy:22093
 translate chinese click_map154_23_EV023_62e0331c:
@@ -8546,7 +8546,7 @@ translate chinese click_map158_24_EV024_832c6d56:
 translate chinese click_map158_24_EV024_ffc00b28:
 
     # char_howl "The freedom of Alestia. The destruction of The Triumvirate.\nWhen you look at it that way, it seems as if we defile nothing."
-    char_howl "阿拉斯提亚的自由。三人执政团的覆灭。\n若从这个角度看，我们似乎什么都没有玷污。"
+    char_howl "阿莱斯蒂亚的自由。三人执政团的覆灭。\n若从这个角度看，我们似乎什么都没有玷污。"
 
 # game/script.rpy:23025
 translate chinese click_map158_24_EV024_62e0331c:
@@ -9582,7 +9582,7 @@ translate chinese map062_2a538d14:
 translate chinese map062_38ca22c6:
 
     # char_pro "It was pretty easy, actually.\nLook at what hung in the balance.\nThankfully? We're in the clear."
-    char_pro "其实挺容易的。\n看看当时悬着的是什么。\n还好？我们顺利过关了。"
+    char_pro "其实挺容易的。\n看看当时悬着的是什么。\n谢天谢地，我们顺利过关了。"
 
 # game/script.rpy:25666
 translate chinese map062_583382d2:
@@ -9764,7 +9764,7 @@ translate chinese map062_3b5faefe:
     # voice "se/z00835.ogg"
     # char_ulric "Your family could be in danger. The attack is imminent.\nAll we ask is that you let us through, so we can go about our business.\nOur matters in Mazeo concern the safety of almost every Alestian."
     voice "se/z00835.ogg"
-    char_ulric "你的家人可能有危险。进攻迫在眉睫。\n我们只求您放我们过去，好让我们办自己的事。\n我们在马泽奥的事务，关乎几乎每一位阿拉斯提亚人的安危。"
+    char_ulric "你的家人可能有危险。进攻迫在眉睫。\n我们只求您放我们过去，好让我们办自己的事。\n我们在马泽奥的事务，关乎几乎每一位阿莱斯蒂亚人的安危。"
 
 # game/script.rpy:26050
 translate chinese map062_77698e9f:
@@ -10244,7 +10244,7 @@ translate chinese map062_dcbc63a8:
     # voice "se/z00872.ogg"
     # char_ulric "Your family could be in danger. The attack is imminent.\nAll we ask is that you let us through, so we can go about our business.\nOur matters in Mazeo concern the safety of almost every Alestian."
     voice "se/z00872.ogg"
-    char_ulric "你的家人可能有危险。进攻迫在眉睫。\n我们只求您放我们过去，好让我们办自己的事。\n我们在马泽奥的事务，关乎几乎每一位阿拉斯提亚人的安危。"
+    char_ulric "你的家人可能有危险。进攻迫在眉睫。\n我们只求您放我们过去，好让我们办自己的事。\n我们在马泽奥的事务，关乎几乎每一位阿莱斯蒂亚人的安危。"
 
 # game/script.rpy:27095
 translate chinese map062_f76826a5:
@@ -10668,7 +10668,7 @@ translate chinese click_map060_27_EV027_c9c818a3:
 translate chinese click_map060_27_EV027_c6420779:
 
     # char_pro "I'd rather not talk about it, if it's all the same to you.\nPro is just something the orphans called me when I was younger.\nI showed a knack for picking up skills with ease."
-    char_pro "如果都一样的话，我还是不想谈这个。\n普洛只是我小时候孤儿院的人这么叫我的。\n我学什么都上手很快。"
+    char_pro "要是你不介意的话，我还是不想谈这个。\n普洛只是我小时候孤儿院的人这么叫我的。\n我学什么都上手很快。"
 
 # game/script.rpy:28153
 translate chinese click_map060_27_EV027_821b1254:
@@ -10904,7 +10904,7 @@ translate chinese click_map060_64_EV064_8b5aac7f:
 translate chinese click_map060_64_EV064_66d4f1b4:
 
     # char_fortaime "Wow, there's so many people in there...!\nAnd it sounds super noisy. Is it always like that?"
-    char_fortaime "哇，里面好多人……！\n而且听起来超吵。一直是这样吗？"
+    char_fortaime "哇，里面好多人……！\n而且听起来特别吵。一直是这样吗？"
 
 # game/script.rpy:28439
 translate chinese click_map060_64_EV064_2cc8c883:
@@ -12126,7 +12126,7 @@ translate chinese Ulric6_map054_9_0_2249c1ed:
     # voice "se/y00655.ogg"
     # char_ulric "Their words seem to mean a lot to people, even if their actions don't follow suit.\nIn my opinion, it's only a matter of time before their promises fall on deaf ears.\nThat is — if we don't take them down first. At least we'll be keeping {i}our{/i} promises."
     voice "se/y00655.ogg"
-    char_ulric "他们的话对人们似乎很有分量，哪怕行动根本跟不上。\n在我看来，他们的承诺迟早会被人充耳不闻。\n也就是说——除非我们先把他们拉下马。至少我们会{i}兑现{/i}自己的承诺。"
+    char_ulric "他们的话对人们似乎很有分量，哪怕行动根本跟不上。\n在我看来，他们的承诺迟早会沦为耳边风。\n也就是说——除非我们先把他们拉下马。至少我们会{i}兑现{/i}自己的承诺。"
 
 # game/script.rpy:30839
 translate chinese Ulric6_map054_9_0_bdeddf8b:
@@ -12382,7 +12382,7 @@ translate chinese click_map054_12_EV012_43208f09:
     # voice "se/a00149.ogg"
     # char_valessa "Says the guy who got lost on his way home last week."
     voice "se/a00149.ogg"
-    char_valessa "上周回家路上走丢的人是谁来着。"
+    char_valessa "上周回家路上走丢的人是谁来着？"
 
 # game/script.rpy:31242
 translate chinese click_map054_12_EV012_87c62714:
@@ -12802,7 +12802,7 @@ translate chinese map065_904467f3:
 translate chinese map065_328c5284:
 
     # char_fortaime "Mean...!"
-    char_fortaime "好过份……！"
+    char_fortaime "好过分……！"
 
 # game/script.rpy:32262
 translate chinese map065_713e5b8f:
@@ -12982,7 +12982,7 @@ translate chinese map065_2ff36c2d:
 translate chinese map065_b402a598:
 
     # char_damek "What...? Oh, cut it out.\nThere's no need to say things like that.\nTrust me — you're already on my good side."
-    char_damek "什么……？哦，别这么说。\n没必要讲这种话。\n相信我——你早就是我心目中的好人选了。"
+    char_damek "什么……？哦，别这么说。\n没必要讲这种话。\n相信我——你早就已经讨我喜欢了。"
 
 # game/script.rpy:32592
 translate chinese map065_24aa980f:
@@ -13330,7 +13330,7 @@ translate chinese Damek2_map064_4_0_7c962efd:
     # voice "se/y00688.ogg"
     # char_damek "Well, almost everything, I'd assume.\nI was one of the \"founding members\" with Salus.\nI guess they liked that term more than \"child soldier\"."
     voice "se/y00688.ogg"
-    char_damek "嗯，我想几乎所有事吧。\n我是和萨卢斯一起的“创始成员”之一。\n大概是他们觉得这说法比“童子军”好听。"
+    char_damek "嗯，我想几乎所有事吧。\n我是和萨卢斯一起的“创始成员”之一。\n大概是他们觉得这说法比“童兵”好听。"
 
 # game/script.rpy:33586
 translate chinese Damek3_map064_4_0_eeaa83ee:
@@ -14934,7 +14934,7 @@ translate chinese map231_185a8457:
     # voice "se/y01898.ogg"
     # char_sovy "You have to be near the blade for it to work, but it's useful.\nDisarming your enemy is a viable tactic in battle, so be ready.\nThey will try to take the blade away from you, because of its power."
     voice "se/y01898.ogg"
-    char_sovy "你得靠近那把剑才能做到，但这招很有用。\n缴械敌人是战斗中可行的战术，所以做好准备。\n他们会想从你手里夺走那把剑，因为它蕴含的力量。"
+    char_sovy "你得靠近那把剑才能做到，但这招很有用。\n卸下敌人的武器是战斗中可行的战术，所以做好准备。\n他们会想从你手里夺走那把剑，因为它蕴含的力量。"
 
 # game/script.rpy:36034
 translate chinese map231_8ce61eb8:
@@ -15508,7 +15508,7 @@ translate chinese map068_7b0c0e5d:
 translate chinese map068_b3213cf6:
 
     # char_pro "It's amazing what some of these people get up to.\nThe most innocent people could be involved in awful things.\nSee — I can beat blackmail — but these people can't."
-    char_pro "这些人干出的事真是令人惊叹。\n最看上去无辜的人也可能牵扯进可怕的事情里。\n你看——我能扛住勒索——但这些人不能。"
+    char_pro "这些人干出的事真是令人惊叹。\n看上去最无辜的人也可能牵扯进可怕的事情里。\n你看——我能扛住勒索——但这些人不能。"
 
 # game/script.rpy:37776
 translate chinese map068_e3a976ce:
@@ -15846,7 +15846,7 @@ translate chinese map069_45e70b9d:
 translate chinese map069_7af15abc:
 
     # "He motions to the bartender, and a few moments later, I'm given a glass.{w}\nUlric watches me with a smirk as I take a large swig, and swallow it down.{w}\nIt tastes like nothing. Practically water. Weak was actually an understatement."
-    "他朝酒保示意，片刻之后，我面前多了一杯酒。{w}\n我大口喝下、咽下去时，乌尔里克带着坏笑看着我。{w}\n这酒尝起来什么味道都没有，简直是水。说它不烈都算是高估了。"
+    "他朝酒保示意，片刻之后，我面前多了一杯酒。{w}\n我大口喝下、咽下去时，乌尔里克带着坏笑看着我。{w}\n这酒尝起来什么味道都没有，简直是水。说它寡淡都算抬举了。"
 
 # game/script.rpy:38351
 translate chinese map069_d3b4ad8a:
@@ -17688,7 +17688,7 @@ translate chinese map072_1002db01:
 translate chinese map072_a22320c6:
 
     # "Damek places the paper face down, and quickly grabs the other one.{w}\nHe shows no expression, wearing the perfect poker face.{w}\nTurning the paper around, it's time to see the other half."
-    "达梅克把纸扣下，迅速拿起另一张。{w}\n他面无表情，摆出一副完美的扑克脸。{w}\n把纸翻过来，该看另一半了。"
+    "达梅克把纸扣下，迅速拿起另一张。{w}\n他面无表情，完全不动声色。{w}\n把纸翻过来，该看另一半了。"
 
 # game/script.rpy:43144
 translate chinese map072_dbd7f375:
@@ -17754,7 +17754,7 @@ translate chinese map072_10a1403f:
 translate chinese map072_e168a8bc:
 
     # "In response to Gryz's order, they both step forward.{w}\nThis whole thing seemed incredibly well thought out.{w}\nThere was no room for error in any possible way."
-    "听到格瑞兹的命令，两人都上前一步。{w}\n这整套流程考虑得极其周密。{w}\n任何环节都没有出错的余地。"
+    "听到格瑞兹的命令，两人都上前一步。{w}\n这整套安排考虑得极其周密。{w}\n任何环节都没有出错的余地。"
 
 # game/script.rpy:43266
 translate chinese map072_5a41a33e:
@@ -18650,7 +18650,7 @@ translate chinese map115_b6ff8508:
 translate chinese map115_9711a3e0:
 
     # char_damek "Yeah. They were created by The Blade of Exodus.\nThe spirits inside are victims of their vicious occupation."
-    char_damek "是啊。他们是被放逐之刃创造出来的。\n里面的灵是他们那场残暴占领的受害者。"
+    char_damek "是啊。他们是被放逐之刃创造出来的。\n里面的灵是那场残暴占领的受害者。"
 
 # game/script.rpy:45887
 translate chinese map115_c8ec9de3:
@@ -19150,7 +19150,7 @@ translate chinese map128_f92bf3e3:
     # voice "se/y01038.ogg"
     # char_damek "Salus was the master strategist. I just worked under him.\nThey say I fill his shoes quite well, but I don't think that's true.\nI think they need something to believe in. They need hope."
     voice "se/y01038.ogg"
-    char_damek "萨卢斯才是真正的战略大师。我只是在他手下做事。\n他们说我很好地接替了他，但我不这么认为。\n我觉得他们需要一个可以信仰的东西。他们需要希望。"
+    char_damek "萨鲁斯才是真正的战略大师。我只是在他手下做事。\n他们说我很好地接替了他，但我不这么认为。\n我觉得他们需要一个可以信仰的东西。他们需要希望。"
 
 # game/script.rpy:47051
 translate chinese map128_d85cfd28:
@@ -19426,7 +19426,7 @@ translate chinese map116_05192fa3:
     # voice "se/z01105.ogg"
     # char_damek "I know, right?\nI thought the same thing.\nIt's incredible that they made this."
     voice "se/z01105.ogg"
-    char_damek "我也这么想，对吧？\n我当初也是同样的感受。\n他们能造出这个，真是太不可思议了。"
+    char_damek "可不是嘛？\n我当初也是同样的感受。\n他们能造出这个，真是太不可思议了。"
 
 # game/script.rpy:47529
 translate chinese map116_59f45d3d:
@@ -20660,7 +20660,7 @@ translate chinese click_map124_20_EV020_7fe17546:
 translate chinese click_map124_20_EV020_806e7f0d:
 
     # char_jit_map008_1_0_111 "Didn't Damek frequent those underground tunnels?\nMaybe he was exposed to some level of spiritual energy.\nAt least enough to let him have a vision, or something."
-    char_jit_map008_1_0_111 "达梅克不是常去那些地下隧道吗？\n也许他接触过某种程度的灵能量。\n至少足以让他看到幻象之类的。"
+    char_jit_map008_1_0_111 "达梅克不是常去那些地下隧道吗？\n也许他接触过某种程度的灵力。\n至少足以让他看到幻象之类的。"
 
 # game/script.rpy:50341
 translate chinese click_map124_20_EV020_d18c14bb:
@@ -21944,7 +21944,7 @@ translate chinese click_map124_30_EV030_dfd3da5e:
 translate chinese click_map124_30_EV030_4255d282:
 
     # char_jit_map124_30_1_17 "Then maybe we'll find out soon.\nWhatever knowledge they have in there? We deserve to know.\nI'm sure Damek will open its doors to everybody after the war."
-    char_jit_map124_30_1_17 "那也许我们很快就能知道了。\n不管那里藏着什么知识？我们都该有权知道。\n我相信战争结束后，达梅克会把它的大门向所有人敞开。"
+    char_jit_map124_30_1_17 "那也许我们很快就能知道了。\n不管那里藏着什么知识，我们都该有权知道。\n我相信战争结束后，达梅克会把它的大门向所有人敞开。"
 
 # game/script.rpy:52219
 translate chinese click_map124_32_EV032_a8570e3c:
@@ -24312,7 +24312,7 @@ translate chinese click_map127_31_EV031_2f6096c5:
 translate chinese click_map127_31_EV031_b5b398d5:
 
     # char_pro "It's not your job to control everything!\nYou need to get that through your thick skull!"
-    char_pro "控制一切不是你的职责！\n你得把这一点刻进你那顽固的脑子里！"
+    char_pro "用不着你什么都管！\n你得把这一点刻进你那顽固的脑子里！"
 
 # game/script.rpy:55958
 translate chinese click_map127_31_EV031_89d02326:
@@ -24900,7 +24900,7 @@ translate chinese click_map127_37_EV037_d9d047a3:
 translate chinese click_map127_37_EV037_a661a958:
 
     # char_damek "Now you're just putting words in my mouth.\nThe only person I'd tell is [firstname]. "
-    char_damek "你这是在替我说话。\n我唯一会告诉的人就是[firstname]。"
+    char_damek "你这是在曲解我的意思。\n我唯一会告诉的人就是[firstname]。"
 
 # game/script.rpy:56834
 translate chinese click_map127_37_EV037_7c040027:
@@ -25950,7 +25950,7 @@ translate chinese map119_433c98c4:
 translate chinese map119_878bd5ea:
 
     # char_damek "So try not to get {i}too{/i} comfortable, alright?\nThis is just where you'll stay in the meantime.\nI wouldn't want Shane to think I forgot about him."
-    char_damek "所以别太{i}过{/i}安顿下来，好吗？\n这只是你暂时的住处。\n我不想让肖恩以为我忘了他。"
+    char_damek "所以别在这里住得{i}太{/i}自在，好吗？\n这只是你暂时的住处。\n我不想让肖恩以为我忘了他。"
 
 # game/script.rpy:59279
 translate chinese map119_f1ea982b:
@@ -26190,7 +26190,7 @@ translate chinese map236_1747d108:
     # voice "se/y01928.ogg"
     # char_sovy "You could've fooled me, [firstname].\nI've seen nothing but a capable ruler in you.\nIt's an honor to serve. This world is in good hands."
     voice "se/y01928.ogg"
-    char_sovy "你可骗过我了，[firstname]。\n我在你身上只看到一个有能力的统治者。\n能为你效力是我的荣幸。这个世界交到了可靠的人手里。"
+    char_sovy "我可真没看出来，[firstname]。\n我在你身上只看到一个有能力的统治者。\n能为你效力是我的荣幸。这个世界交到了可靠的人手里。"
 
 # game/script.rpy:60269
 translate chinese map236_02024bfc:
@@ -26278,7 +26278,7 @@ translate chinese map236_9680a7bf:
     # voice "se/y01936.ogg"
     # char_sovy "That's more than I can say about everybody else I know.\nIn fact — I don't think I've ever gotten a gift before — from anybody.\nNot even my Father, who these pens reminded me of in the first place."
     voice "se/y01936.ogg"
-    char_sovy "我认识的其他人都没让我这么说过。\n事实上——我想我从前从没收到过礼物——从任何人那里。\n连我父亲都没有，而这些笔最先让我想起的正是他。"
+    char_sovy "我认识的其他人都做不到这一点。\n事实上——我想我从前从没收到过礼物——从任何人那里。\n连我父亲都没有，而这些笔最先让我想起的正是他。"
 
 # game/script.rpy:60499
 translate chinese map236_0f807642:
@@ -26406,7 +26406,7 @@ translate chinese map120_d7b4b34d:
 translate chinese map120_a4497995:
 
     # char_damek "It's been a pleasure, [firstname]."
-    char_damek "幸会，[firstname]。"
+    char_damek "很高兴陪你参观，[firstname]。"
 
 # game/script.rpy:60731
 translate chinese map120_33acfe79:
@@ -26418,7 +26418,7 @@ translate chinese map120_33acfe79:
 translate chinese map120_a4497995_1:
 
     # char_damek "It's been a pleasure, [firstname]."
-    char_damek "幸会，[firstname]。"
+    char_damek "很高兴陪你参观，[firstname]。"
 
 # game/script.rpy:60754
 translate chinese map120_ff00d3ad:
@@ -26436,7 +26436,7 @@ translate chinese map120_8225e086:
 translate chinese map120_f06ee536:
 
     # "[[Use the region map to move to the War Table and continue the story.]\n[[For now, feel free to roam the world and access content at your leisure.]\n[[Every unlocked character has a Heart-to-Heart in the Crew Quarters.]"
-    "[[使用区域地图前往作战会议桌，继续剧情。]]\n[[现在，你可以随意探索世界，自由体验各项内容。]]\n[[每位已解锁的角色在船员舱都有一个“交心”事件。]]"
+    "[[使用区域地图前往作战会议桌，继续剧情。]\n[[现在，你可以随意探索世界，自由体验各项内容。]\n[[每位已解锁的角色在船员舱都有一个心灵对话事件。]"
 
 # game/script.rpy:60930
 translate chinese click_map126_4_EV004_e7b93957:
@@ -26574,7 +26574,7 @@ translate chinese map133_858bf171:
     # voice "se/y00917.ogg"
     # char_fortaime "And what about the idol in Alarinthia that The Triumvirate destroyed?\nThey expect us to believe that Alarinthia was always meant to be a desert?\nI was told that the destruction of their idol caused it to become lifeless."
     voice "se/y00917.ogg"
-    char_fortaime "那被三人执政团毁掉的阿拉林西亚的灵像又怎么说？\n他们想让我们相信阿拉林西亚本来就该是片沙漠吗？\n我听说正是他们灵像被毁，才使它变得毫无生机。"
+    char_fortaime "那被三人执政团毁掉的阿拉林西亚的灵像又怎么说？\n他们想让我们相信阿拉林西亚本来就该是片沙漠吗？\n我听说正是他们的灵像被毁，才使那里变得毫无生机。"
 
 # game/script.rpy:61260
 translate chinese map133_ddd1e401:
@@ -27530,7 +27530,7 @@ translate chinese map131_4c49589a:
     # voice "se/y00957.ogg"
     # char_ulric "Damek is always saying \"train, train, train\".\nI don't even know if he's capable of taking it easy.\nAt least Salus knew how to balance work and fun."
     voice "se/y00957.ogg"
-    char_ulric "达梅克总是说“训练、训练、训练”。\n我都不知道他到底懂不懂什么叫放松。\n至少萨卢斯懂得平衡工作和玩乐。"
+    char_ulric "达梅克总是说“训练、训练、训练”。\n我都不知道他到底懂不懂什么叫放松。\n至少萨鲁斯懂得平衡工作和玩乐。"
 
 # game/script.rpy:62747
 translate chinese map131_4e758205:
@@ -28362,7 +28362,7 @@ translate chinese map132_43b2b719:
 translate chinese map132_b67cb98a:
 
     # "He pulls out two chairs and proceeds to sit down.{w}\nTaking the side closest to the brooch he laid down, he looks up at me."
-    "他拉出两把椅子，坐了下来。{w}\n他坐在靠近那枚胸针放下的一侧，抬头看我。"
+    "他拉出两把椅子，坐了下来。{w}\n他坐到靠近放下胸针的那一侧，抬头看我。"
 
 # game/script.rpy:64177
 translate chinese map132_5980c17f:
@@ -28750,7 +28750,7 @@ translate chinese map149_44c78883:
     # voice "se/y01090.ogg"
     # char_howl "Pirates rush to help, but not led by the same leader.\nUlric sacrificed himself to use the blade, and create an army.\nThe Monarch Vessels, or perhaps the Created Seers."
     voice "se/y01090.ogg"
-    char_howl "海盗们赶来相助，但领头人并非同一个。\n乌尔里克牺牲自己使用那把剑，创造出军队。\n君主容器，又或者是“造出来的先知”。"
+    char_howl "海盗们赶来相助，但领头人并非同一个。\n乌尔里克牺牲自己使用那把剑，创造出军队。\n君主容器，又或者是“人造先知”。"
 
 # game/script.rpy:64849
 translate chinese map149_728b905a:
@@ -28986,7 +28986,7 @@ translate chinese map059_0f61b518:
 translate chinese map059_da664fdb:
 
     # "He points to a small exit in the back corner of the room.{w}\nIt almost looks like the entrance of a cave. It stands out.{w}\nThey must've dug out a large portion of this room."
-    "他指向房间后角落的一个小出口。{w}\n那几乎像个洞穴入口。显得很突兀。{w}\n他们一定把这个房间挖掉了很大一部分。"
+    "他指向房间后角落的一个小出口。{w}\n那几乎像个洞穴入口。显得很突兀。{w}\n他们一定为这个房间挖出了很大一块空间。"
 
 # game/script.rpy:65270
 translate chinese map059_a480d8bd:
@@ -28994,7 +28994,7 @@ translate chinese map059_a480d8bd:
     # voice "se/z01145.ogg"
     # char_damek "It's also where I chose to bury Salus, our former leader.\nI guess I can be sentimental when it comes to that stuff.\nIt just seemed like the right thing to do, you know?"
     voice "se/z01145.ogg"
-    char_damek "那也是我选择安葬萨卢斯的地方，我们的前任领袖。\n我想在这种事上我也会多愁善感。\n只是觉得那样做是对的，你懂吗？"
+    char_damek "那里也是我安葬前任领袖萨鲁斯的地方。\n我想在这种事上我也会多愁善感。\n只是觉得那样做是对的，你懂吗？"
 
 # game/script.rpy:65287
 translate chinese map059_fc92dc5c:
@@ -29192,7 +29192,7 @@ translate chinese map134_725ada78:
     # voice "se/z01160.ogg"
     # char_jit_map134_1_0_23 "I'll accept that apology when you take me to the idol.\nI'm sure you understand. I'm past the point of buying time.\nAnd make sure you bring that new friend of yours, as well."
     voice "se/z01160.ogg"
-    char_jit_map134_1_0_23 "等你带我去看灵像，我再接受你的道歉。\n你肯定明白。我已经过了可以被拖延的时候了。\n还有，记得把你那位新朋友也带上。"
+    char_jit_map134_1_0_23 "等你带我去看灵像，我再接受你的道歉。\n你肯定明白。我已经没耐心再拖下去了。\n还有，记得把你那位新朋友也带上。"
 
 # game/script.rpy:65789
 translate chinese map134_c59f2b42:
@@ -29500,7 +29500,7 @@ translate chinese map134_0e107e1c:
 translate chinese map134_c74f4675:
 
     # "All I can hear is screams of agony as our forces are caught off guard.{w}\nBodies start to litter the floor, while other Rebels grab weapons and fight.{w}\nGryz runs forward, and grabs Damek's body, slowly dragging it away."
-    "我方措手不及时，我所能听到的只有痛苦的惨叫。{w}\n尸体开始横陈一地，另有反抗军抓起武器抵抗。{w}\n格瑞兹冲上前，抱起达梅克的身体，缓缓将它拖走。"
+    "我方措手不及时，我所能听到的只有痛苦的惨叫。{w}\n尸体开始横陈一地，另有反抗军抓起武器抵抗。{w}\n格瑞兹冲上前，抓起达梅克的身体，缓缓将它拖走。"
 
 # game/script.rpy:66520
 translate chinese map134_8bf0cd1e:
@@ -29710,7 +29710,7 @@ translate chinese map136_e77ecab9:
 translate chinese map136_02b70862:
 
     # char_sovy "The Seeress saw only what The Triumvirate wanted her to see.\nA trick — to lure every single one of you down here. It worked.\nAnd after I kill you, The Seeress' life and that blade will be {i}mine{/i}."
-    char_sovy "先知看到的，只是三人执政团想让他看到的。\n一个圈套——把你们每一个人都引到下面来。它奏效了。\n等我杀了你，先知的生命和那把剑就都归{i}我{/i}了。"
+    char_sovy "先知看到的，只是三人执政团想让她看到的。\n一个圈套——把你们每一个人都引到下面来。它奏效了。\n等我杀了你，先知的生命和那把剑就都归{i}我{/i}了。"
 
 # game/script.rpy:66878
 translate chinese map136_0aa3afbb:
@@ -30340,7 +30340,7 @@ translate chinese map137_208a4b86:
 translate chinese map137_6fc0ae79:
 
     # "I couldn't let others use it to assist in their suicide.{w}\nTurning to face the idol, I slowly remove the blade from the scabbard.{w}\nRemembering Gryz's insight, I try to bend the blade to my will."
-    "我不能让别人用它来成全自己的送死。{w}\n我转身面对灵像，缓缓将剑从鞘中抽出。{w}\n忆起格瑞兹的见解，我试着让这把剑屈从于我的意志。"
+    "我不能让别人用它来帮自己寻死。{w}\n我转身面对灵像，缓缓将剑从鞘中抽出。{w}\n忆起格瑞兹的见解，我试着让这把剑屈从于我的意志。"
 
 # game/script.rpy:68001
 translate chinese map137_a12e4b2e:
@@ -31194,7 +31194,7 @@ translate chinese map139_90270614:
 translate chinese map139_9e82005c:
 
     # "They let go, and shake their head dismissively.{w}\nA flicker of light from the dying idol illuminates their face.{w}\nWhen I see them, I ask who they are: but get no straight answer."
-    "他们收回手，不以为然地摇了摇头。{w}\n垂死灵像的一丝微光映亮了他们的脸。{w}\n我看清他们后，问他们是谁：却没有得到明确的回答。"
+    "他们收回手，不以为然地摇了摇头。{w}\n垂死灵像的一丝微光映亮了他们的脸。{w}\n我看清他们后，问他们是谁，却没有得到明确的回答。"
 
 # game/script.rpy:69678
 translate chinese map139_821a9b60:
@@ -31882,7 +31882,7 @@ translate chinese map140_2fe43813:
     # voice "se/z01335.ogg"
     # char_ulric "That's the point, Pro.\nYou don't see a man like him.\nHe comes and goes as he pleases."
     voice "se/z01335.ogg"
-    char_ulric "问题就在这儿，普洛。\n你根本看不见他这种人。\n他随心所欲地来去。"
+    char_ulric "问题就在这儿，普洛。\n他这种人，你根本不会察觉。\n他随心所欲地来去。"
 
 # game/script.rpy:71339
 translate chinese map140_61095dc3:
@@ -33764,7 +33764,7 @@ translate chinese map145_97827caa:
     # voice "se/z01491.ogg"
     # char_damek "Apparently, they follow after ancient ideals.\nAn Alarinthian legend that wanted to change the nation.\nSo far, it seems like none have been strong enough to do so."
     voice "se/z01491.ogg"
-    char_damek "显然，他们追随的是古老的理想。\n一个想要改变这个国度的阿拉林西亚传说。\n到目前为止，似乎还没有人强大到能够做到。"
+    char_damek "显然，他们追随的是古老的理想。\n一位想要改变这个国度的阿拉林西亚传奇人物。\n到目前为止，似乎还没有人强大到能够做到。"
 
 # game/script.rpy:75190
 translate chinese map145_66740ef6:
@@ -33810,7 +33810,7 @@ translate chinese map145_007665e1:
 translate chinese map145_0cf25b21:
 
     # "He tilts his head toward \"Salus\", who shakes his own head in return."
-    "他朝“萨卢斯”偏了偏头，对方则摇了摇头作为回应。"
+    "他朝“萨鲁斯”偏了偏头，对方则摇了摇头作为回应。"
 
 # game/script.rpy:75334
 translate chinese map145_f13b246d:
@@ -34114,7 +34114,7 @@ translate chinese map145_3bfc12e0:
 translate chinese map145_42f0686d:
 
     # "I let them know that I want Damek to be my advisor.{w}\nI agree with everything he'd said, and I still don't really know Howl.{w}\nBeing an advisor required both knowledge {i}and{/i} teamwork."
-    "我让他们知道我属意达梅克做我的顾问。{w}\n他说的每一点我都赞同，而我对豪尔仍算不上了解。{w}\n做顾问既需要知识，{i}也{/i}需要团队精神。"
+    "我让他们知道我属意达梅克做我的顾问。{w}\n他说的每一点我都赞同，而我对豪尔仍算不上了解。{w}\n做顾问既需要知识，{i}也{/i}需要协作精神。"
 
 # game/script.rpy:76020
 translate chinese map145_723efc09:
@@ -34354,7 +34354,7 @@ translate chinese map146_7f243880:
     # voice "se/z01547.ogg"
     # char_damek "Whether I'm your strategist or not, you're still our savior.\nBesides, I could never speak out of turn. You're royalty now.\nJust make sure to be responsible with your influence, Monarch."
     voice "se/z01547.ogg"
-    char_damek "无论我是不是你的战略家，你依然是我们的救世主。\n再说，我绝不会越礼妄言。你现在是皇族了。\n只是务必善用你的影响力，君主。"
+    char_damek "无论我是不是你的战略家，你依然是我们的救世主。\n再说，我绝不会越礼妄言。你现在是王室成员了。\n只是务必善用你的影响力，君主。"
 
 # game/script.rpy:76527
 translate chinese map146_f4a10213:
@@ -35158,7 +35158,7 @@ translate chinese map234_e3002494:
     # voice "se/y01940.ogg"
     # char_valessa "They kept running off to Mazeo, and left us in Salus' hands.\nNow that I think about it, he raised us more than they ever did.\nI guess they were more interested in this life of piracy. It's awful."
     voice "se/y01940.ogg"
-    char_valessa "他们总是跑回马泽奥，把我们丢给萨卢斯照看。\n现在想想，他才是把我们养大的人，远比他们用心。\n我想他们更在意的，是这种海盗生涯。真恶心。"
+    char_valessa "他们总是跑回马泽奥，把我们丢给萨鲁斯照看。\n现在想想，他才是把我们养大的人，远比他们用心。\n我想他们更在意的，是这种海盗生涯。真恶心。"
 
 # game/script.rpy:78594
 translate chinese map234_44057f26:
@@ -37894,7 +37894,7 @@ translate chinese map241_7a28f84a:
     # voice "se/y02089.ogg"
     # char_sovy "My desire for justice was something they wanted on their side.\nBut I no longer fought for my home village. I fought for all of Alestia.\nI swore an oath to them — that I would always fight for the rulers of this world."
     voice "se/y02089.ogg"
-    char_sovy "他们对正义的渴望，正是他们想要拉拢的。\n但我不再为我的家乡而战。我为整个阿莱斯提亚而战。\n我向他们立下誓言——永远为这个世界的统治者而战。"
+    char_sovy "他们想把我的正义感拉拢到他们一方。\n但我不再为我的家乡而战。我为整个阿莱斯提亚而战。\n我向他们立下誓言——永远为这个世界的统治者而战。"
 
 # game/script.rpy:84001
 translate chinese map241_6e149920:
@@ -38354,7 +38354,7 @@ translate chinese click_map178_65_EV065_80e9a8c1:
     # voice "se/a00293.ogg"
     # char_fortaime "Whoa, that's pretty cool.\nI wonder what I can find, then!"
     voice "se/a00293.ogg"
-    char_fortaime "哇，那可真酷。\n那我想想我能找到些什么！"
+    char_fortaime "哇，那可真酷。\n不知道我能找到些什么！"
 
 # game/script.rpy:85819
 translate chinese click_map178_65_EV065_1c60c57d:
@@ -38760,7 +38760,7 @@ translate chinese map251_31e4b588:
     # voice "se/z02225.ogg"
     # char_howl "We thought you deserved a break, so we took action.\nYour energy is best conserved until we reach Balteus.\nYou needn't worry about stocking or manning the ships."
     voice "se/z02225.ogg"
-    char_howl "我们觉得你该歇一歇，所以就动手了。\n你的精力最好留到我们抵达巴尔泰乌斯之前。\n你不必操心物资补给或船上的人手。"
+    char_howl "我们觉得你该歇一歇，所以就动手了。\n你的精力最好留到我们抵达巴尔泰乌斯时再用。\n你不必操心物资补给或船上的人手。"
 
 # game/script.rpy:86511
 translate chinese map251_2bb2b65c:
@@ -39094,7 +39094,7 @@ translate chinese map252_1a0bc0d1:
 translate chinese map252_f21bc13d:
 
     # "As I walk toward them to see what's happening, I'm immediately interrupted by my comrades.{w}\nHappy to see me aboard, there's a quick exchange of hugs and pleasantries. They seem excited.{w}\nPerhaps they really are. Or, perhaps, they're putting on an act to hide how frightened they are."
-    "我朝他们走去，想看看发生了什么，却立刻被同伴们打断。{w}\n他们高兴看到我上了船，很快互相拥抱寒暄了一番。他们看起来很兴奋。{w}\n也许他们是真的兴奋。又或者，他们是在演戏，掩饰自己的恐惧。"
+    "我朝他们走去，想看看发生了什么，却立刻被同伴们打断。{w}\n他们高兴看到我上了船，随即和我拥抱寒暄了一番。他们看起来很兴奋。{w}\n也许他们是真的兴奋。又或者，他们是在演戏，掩饰自己的恐惧。"
 
 # game/script.rpy:87206
 translate chinese map252_1e2696aa:
@@ -40074,7 +40074,7 @@ translate chinese map258_054d59b7_1:
 translate chinese map259_10d06348:
 
     # "As soon as I arrive on the deck, I see exactly why I was needed.{w}\nOff in the distance, we're met by a fleet of ships belonging to The Triumvirate.{w}\nThey're far — but not far enough away that the sheen of the Honor Guard is concealed."
-    "我一到甲板，就明白为什么需要我了。{w}\n远处，一支属于三人执政团的舰队正与我们相对。{w}\n他们很远——但还没远到能遮住荣誉卫队铠甲的光泽。"
+    "我一到甲板，就明白为什么需要我了。{w}\n远处，一支属于三人执政团的舰队正与我们相对。{w}\n他们很远——但距离还没远到看不清荣誉卫队铠甲的光泽。"
 
 # game/script.rpy:89550
 translate chinese map259_59be17a6:
@@ -40230,7 +40230,7 @@ translate chinese map259_c08d1796:
 translate chinese map259_80c3d46a:
 
     # "Alex runs off and climbs the netting of the ship.{w}\nI look over at the other ships, and pirates start doing the same.{w}\nIt's almost like they have an entire language to communicate over long distances."
-    "亚历克斯跑开，爬上了船上的网绳。{w}\n我望向其他船只，海盗们也开始做同样的事。{w}\n他们简直像有一套完整的语言，能在远距离互相沟通。"
+    "亚历克斯跑开，爬上了船上的网绳。{w}\n我望向其他船只，海盗们也开始做同样的事。{w}\n他们简直像有一套完整的语言，能在远距离互通消息。"
 
 # game/script.rpy:89994
 translate chinese map259_b9885ea2:
@@ -40334,7 +40334,7 @@ translate chinese map259_35c09913:
 translate chinese map259_ce2aa8a3:
 
     # "Nada runs off and climbs the netting of the ship.{w}\nI look over at the other ships, and pirates start doing the same.{w}\nIt's almost like they have an entire language to communicate over long distances."
-    "娜达跑开，爬上了船上的网绳。{w}\n我望向其他船只，海盗们也开始做同样的事。{w}\n他们简直像有一套完整的语言，能在远距离互相沟通。"
+    "娜达跑开，爬上了船上的网绳。{w}\n我望向其他船只，海盗们也开始做同样的事。{w}\n他们简直像有一套完整的语言，能在远距离互通消息。"
 
 # game/script.rpy:90298
 translate chinese map259_98351194:
@@ -40946,7 +40946,7 @@ translate chinese map262_db35600a:
     # voice "se/z02378.ogg"
     # char_shane "I was hurt by The Occupation, and I wanted to fight.\nBut I realized I was being greedy; and there was no point.\nIt's not my happiness — my satisfaction, that matters. It's the world's."
     voice "se/z02378.ogg"
-    char_shane "我曾因占领而受伤，我想战斗。\n但我意识到那只是我的贪念，毫无意义。\n重要的不是我的幸福——我的满足。而是这个世界的。"
+    char_shane "我曾因占领而受伤，我想战斗。\n但我意识到那只是我的贪念，毫无意义。\n重要的不是我的幸福或满足，而是这个世界的幸福与满足。"
 
 # game/script.rpy:91611
 translate chinese map262_2e0b53c1:
@@ -43264,7 +43264,7 @@ translate chinese map277_d45298ab:
     # voice "se/z02445.ogg"
     # char_howl "Or perhaps it's a bad sign, Damek.\nMaybe our enemy has the power to harm Alestia itself.\nHow do you think we can stand up against such a foe?"
     voice "se/z02445.ogg"
-    char_howl "又或者这是个坏兆头，达梅克。\n也许我们的敌人有能力伤害阿拉斯蒂亚本身。\n你觉得我们要怎么对抗这样的对手？"
+    char_howl "又或者这是个坏兆头，达梅克。\n也许我们的敌人有能力伤害阿莱斯蒂亚本身。\n你觉得我们要怎么对抗这样的对手？"
 
 # game/script.rpy:96823
 translate chinese map277_4aa479c0:
@@ -43282,7 +43282,7 @@ translate chinese map277_e3d78765:
 translate chinese map277_7f8c8eac:
 
     # "Nobody knows how to answer Howl, and an awkward silence follows.{w}\nBut then we realize that it is, indeed, a silence. This is concerning.{w}\nThe earlier fight is over — but did The Created Seers prevail?"
-    "没人知道该如何回应豪尔，随之而来的是尴尬的沉默。{w}\n但接着我们意识到，那确实是一片沉寂。这令人不安。{w}\n先前的战斗结束了——可被造先知们赢了吗？"
+    "没人知道该如何回应豪尔，随之而来的是尴尬的沉默。{w}\n但接着我们意识到，那确实是一片沉寂。这令人不安。{w}\n先前的战斗结束了——可人造先知们赢了吗？"
 
 # game/script.rpy:96859
 translate chinese map277_8d1e501a:
@@ -43570,7 +43570,7 @@ translate chinese map278_01ceb20f:
     # voice "se/z02466.ogg"
     # char_jit_map278_1_0_126 "I wrote about The Triumvirate, and spread it everywhere.\nI made them seem like Gods. Like they were the creators of this world.\nAs new life began on Alestia, they found my writing, and believed every word."
     voice "se/z02466.ogg"
-    char_jit_map278_1_0_126 "我写下关于三人执政团的文字，并四处传播。\n我让他们看起来像神。仿佛他们是这个世界的创造者。\n当新的生命在阿拉斯蒂亚诞生时，他们发现了我的文字，对每一个字都深信不疑。"
+    char_jit_map278_1_0_126 "我写下关于三人执政团的文字，并四处传播。\n我让他们看起来像神。仿佛他们是这个世界的创造者。\n当新的生命在阿莱斯蒂亚诞生时，他们发现了我的文字，对每一个字都深信不疑。"
 
 # game/script.rpy:97623
 translate chinese map278_3ac888db:
@@ -44076,7 +44076,7 @@ translate chinese map291_aa755f39:
 translate chinese map291_f75d4c20:
 
     # "I see Damek shaking hands with the Created Seers.{w}\nGood. They helped us secure the library — and survived.{w}\nThey would be a valuable asset in holding the Town Square."
-    "我看见达梅克在和被造先知们握手。{w}\n很好。他们帮我们拿下了图书馆——而且活了下来。{w}\n守住城镇广场，他们会是宝贵的战力。"
+    "我看见达梅克在和那些人造先知握手。{w}\n很好。他们帮我们拿下了图书馆——而且活了下来。{w}\n守住城镇广场，他们会是宝贵的战力。"
 
 # game/script.rpy:99191
 translate chinese map291_7b6f4ea8:
@@ -44088,7 +44088,7 @@ translate chinese map291_7b6f4ea8:
 translate chinese map291_09aa2bd3:
 
     # "One fact stands out to me. The Created Seers are nowhere to be seen.{w}\nThey weren't inside the building either. This means that they had fallen.{w}\nTheir sacrifice led us to safety in The Library, though. They had won."
-    "有一点格外刺眼。被造先知们不见踪影。{w}\n他们也不在建筑里面。这意味着他们倒下了。{w}\n不过，是他们的牺牲让我们安全抵达了图书馆。他们赢了。"
+    "有一点格外刺眼。人造先知们不见踪影。{w}\n他们也不在建筑里面。这意味着他们倒下了。{w}\n不过，是他们的牺牲让我们安全抵达了图书馆。他们赢了。"
 
 # game/script.rpy:99202
 translate chinese map291_003ab065:
@@ -44232,7 +44232,7 @@ translate chinese map291_42011fc6:
     # voice "se/z02690.ogg"
     # char_damek "It's been an honor serving with you.\nI hope I see you again after this is over."
     voice "se/z02690.ogg"
-    char_damek "能与你共事是我的荣幸。\n希望这一切结束后我还能再见到你。"
+    char_damek "能与你并肩作战是我的荣幸。\n希望这一切结束后我还能再见到你。"
 
 # game/script.rpy:99471
 translate chinese map291_11de8a43:
@@ -44264,7 +44264,7 @@ translate chinese map291_2fc4d2e8:
 translate chinese map291_f71ddf51:
 
     # char_damek "I guess you should get going too, [firstname].\nDon't worry, I have more protection than I'll ever need.\nOur Rebel Forces, the Created Seers, {i}and{/i} the Draconic Army."
-    char_damek "我想你也该出发了，[firstname]。\n别担心，我有的保护远超所需。\n我们的反抗军、被造先知，{i}还有{/i}龙族军队。"
+    char_damek "我想你也该出发了，[firstname]。\n别担心，我有的保护远超所需。\n我们的反抗军、人造先知，{i}还有{/i}龙族军队。"
 
 # game/script.rpy:99551
 translate chinese map291_93e23e31:
@@ -44502,7 +44502,7 @@ translate chinese map292_b2bc6d36:
     # voice "se/z02711.ogg"
     # char_howl "The battle for Alestia has begun."
     voice "se/z02711.ogg"
-    char_howl "阿拉斯蒂亚之战已经打响。"
+    char_howl "阿莱斯蒂亚之战已经打响。"
 
 # game/script.rpy:100050
 translate chinese map292_cd1664c9:
@@ -45278,7 +45278,7 @@ translate chinese map296_0093cf2c:
 translate chinese map296_b8b363b6:
 
     # char_ulric "Yeah. Alestia wasn't always fully mapped out.\nThis is an artist's depiction of the draconic people.\nAt least, a depiction made in fright, during first contact."
-    char_ulric "知道。阿拉斯蒂亚并非一直都被完整描绘过。\n这是艺术家对龙族的描画。\n至少，是初次接触时出于恐惧所作的描画。"
+    char_ulric "知道。阿莱斯蒂亚并非一直都有完整的地图。\n这是艺术家对龙族的描画。\n至少，是初次接触时出于恐惧所作的描画。"
 
 # game/script.rpy:102099
 translate chinese map296_2cc34504:
@@ -45358,7 +45358,7 @@ translate chinese map296_fbdc3942:
     # voice "se/z02770b.ogg"
     # char_fortaime "Never forget that I love you, [firstname].\nEven if all else seems lost — that will never change.\nWhatever happens next, we'll handle it as a team."
     voice "se/z02770b.ogg"
-    char_fortaime "永远别忘了，我爱你，[firstname]。\n就算一切都似乎失去了——这一点也永远不会变。\n接下来无论发生什么，我们都作为一支队伍去面对。"
+    char_fortaime "永远别忘了，我爱你，[firstname]。\n就算一切都似乎失去了——这一点也永远不会变。\n接下来无论发生什么，我们都一起面对。"
 
 # game/script.rpy:102316
 translate chinese map296_2d5d9f5b:
@@ -46170,7 +46170,7 @@ translate chinese map300_e453cce0:
     # voice "se/z02723b.ogg"
     # char_jit_map251_1_0_130 "Be mindful of where you stand, Pro.\nIf this hammer is good at anything, it's crowd control.\nI don't want to hit you while I'm fighting off the enemy."
     voice "se/z02723b.ogg"
-    char_jit_map251_1_0_130 "注意你站的位置，普洛。\n要说这锤子擅长什么，那就是控制人群。\n我不想在对付敌人时误伤到你。"
+    char_jit_map251_1_0_130 "注意你站的位置，普洛。\n要说这锤子擅长什么，那就是对付成群的敌人。\n我不想在对付敌人时误伤到你。"
 
 # game/script.rpy:104092
 translate chinese map300_e36d4e02:
@@ -46416,7 +46416,7 @@ translate chinese map299_9520c18c:
 translate chinese map299_1dcf6d6d:
 
     # "It seems that they too, followed the rule of never accepting defeat.{w}\nSwords clash, as Pro is soon accosted from every possible angle.{w}\nA blade grazes his shoulder, and blood drips down his clothing."
-    "看来它们也奉行着那绝不认输的准则。{w}\n兵剑刃相交，普洛很快遭到四面八方的围攻。{w}\n一柄剑擦过他的肩膀，鲜血顺着衣物滴落。"
+    "看来它们也奉行着那绝不认输的准则。{w}\n剑刃相交，普洛很快遭到四面八方的围攻。{w}\n一柄剑擦过他的肩膀，鲜血顺着衣物滴落。"
 
 # game/script.rpy:104635
 translate chinese map299_fcc134f1:
@@ -47524,7 +47524,7 @@ translate chinese map303_098e507d:
 translate chinese map303_d9db2735:
 
     # "I let Ulric take the blade, and we continue passing it around.{w}\nIt isn't much longer until the horde is thinned out. We're winning...!{w}\nThis is true teamwork. Unlike anything I've seen in my entire life."
-    "我让乌尔里克接过剑，我们继续轮流传递。{w}\n没过多久，敌潮便被削减殆尽。我们要赢了……！{w}\n这才是真正的团队协作。是我一生中从未见过的。"
+    "我让乌尔里克接过剑，我们继续轮流传递。{w}\n没过多久，敌潮便被削减殆尽。我们要赢了……！{w}\n这才是真正的并肩作战。这种默契，我一生中从未见过。"
 
 # game/script.rpy:106891
 translate chinese map303_22b0e4d0:
@@ -47704,7 +47704,7 @@ translate chinese map303_73c4080d:
 translate chinese map303_26122fc4:
 
     # "I'll never forget this moment. Not for the rest of my life.{w}\nFighting side by side with another Exodus wielder...?{w}\nIf I were The Triumvirate, I'd be very, very afraid."
-    "我永远不会忘记这一刻。余生都不会。{w}\n与另一位放逐之刃的持有者并肩作战……？{w}\n如果我是在三人执政团，我会非常、非常害怕。"
+    "我永远不会忘记这一刻。余生都不会。{w}\n与另一位放逐之刃的持有者并肩作战……？{w}\n我要是三人执政团，肯定会非常、非常害怕。"
 
 # game/script.rpy:107277
 translate chinese map303_ca6ecc4f:
@@ -47818,7 +47818,7 @@ translate chinese map304_b6aee705:
 translate chinese map304_bc039c2b:
 
     # char_ulric "Be careful, [firstname]. This could be tricky.\nRemember that Halin can wield the blade, just like us.\nIn fact, since he was made from it, his affinity could be stronger."
-    char_ulric "小心，[firstname]。这可能很棘手。\n记住哈林能像我们一样驾驭那把剑。\n事实上，既然他是剑所造，他的亲和力或许更强。"
+    char_ulric "小心，[firstname]。这可能很棘手。\n记住哈林能像我们一样驾驭那把剑。\n事实上，既然他是剑所造，他与剑的契合度或许更强。"
 
 # game/script.rpy:107543
 translate chinese map304_beeb2470:
@@ -47986,7 +47986,7 @@ translate chinese map304_e0e7dad0:
 translate chinese map304_8dabdd70:
 
     # char_halin "There's something different about you, Sovy.\nWhere was this passion when {i}we{/i} worked together...?"
-    char_halin "你有些不一样了，索维。\n{i}我们{/i}共事的时候，这份热情去哪了……？"
+    char_halin "你有些不一样了，索维。\n{i}我们{/i}并肩行动的时候，这份热情去哪了……？"
 
 # game/script.rpy:107929
 translate chinese map304_1446c538:
@@ -48214,7 +48214,7 @@ translate chinese map304_2eb6acb2:
 translate chinese map304_f99e239e:
 
     # "Halin laughs, and they continue to fight.{w}\nSwords clash, but Ulric clearly has the edge."
-    "哈林大笑，两人继续交手。{w}\n刀剑刃相交，但乌尔里克明显占了上风。"
+    "哈林大笑，两人继续交手。{w}\n剑刃相交，但乌尔里克明显占了上风。"
 
 # game/script.rpy:108510
 translate chinese map304_b107e1e7:
@@ -48296,7 +48296,7 @@ translate chinese map304_45b23684:
     # voice "se/z02831.ogg"
     # char_halin "No. I {i}want{/i} to serve them! \nYou run away, while I stand tall, and remain in line.\nHow can you say you're not weak, after what you've done?"
     voice "se/z02831.ogg"
-    char_halin "不。我{i}想{/i}效忠他们！\n你只会逃跑，而我都挺直腰杆，恪守本分。\n做了那些事之后，你怎么还敢说自己不软弱？"
+    char_halin "不。我{i}想{/i}效忠他们！\n你只会逃跑，而我仍挺直腰杆，恪守本分。\n做了那些事之后，你怎么还敢说自己不软弱？"
 
 # game/script.rpy:108675
 translate chinese map304_95c0377b:
@@ -48390,7 +48390,7 @@ translate chinese map304_1541cc7d:
 translate chinese map304_89243dab:
 
     # "Even if it was born from denial, we couldn't afford it right now.{w}\nWe needed to get to The Triumvirate's chambers, and end this.{w}\nI phase the blade back into my hand, and slowly stand up."
-    "即便这念头源于自欺，我们此刻也承担不起。{w}\n我们必须抵达三人执政团的房间，了结这一切。{w}\n我将剑相位转移回手中，缓缓站起。"
+    "即便这念头源于自欺，我们此刻也承担不起。{w}\n我们必须抵达三人执政团的议事厅，了结这一切。{w}\n我将剑相位转移回手中，缓缓站起。"
 
 # game/script.rpy:108889
 translate chinese map304_b10c46cc:
@@ -49230,7 +49230,7 @@ translate chinese map307_5a51c62a:
 translate chinese map307_a6ff3836:
 
     # "A second after, Sovy phases the blade into his hands.{w}\nThen, much to my regret, he slices through my arm with ease.{w}\nI scream, and then from the elbow down, almost nothing remains."
-    "一秒之后，索维将剑实体化到手中。{w}\n紧接着，令我悔恨不已的是，他轻而易举地斩断了我的手臂。{w}\n我放声尖叫，而从手肘往下，几乎什么也没剩下。"
+    "一秒之后，索维将剑相位转移到手中。{w}\n紧接着，令我悔恨不已的是，他轻而易举地斩断了我的手臂。{w}\n我放声尖叫，而从手肘往下，几乎什么也没剩下。"
 
 # game/script.rpy:110497
 translate chinese map307_359c41d9:
@@ -49660,7 +49660,7 @@ translate chinese map306_8211ce99:
 translate chinese map306_17ee3b74:
 
     # "A second after, Ulric phases the blade into his hands.{w}\nThen, much to my regret, he slices through my arm with ease.{w}\nI scream, and then from the elbow down, almost nothing remains."
-    "一秒之后，乌尔里克将剑实体化到手中。{w}\n紧接着，令我悔恨不已的是，他轻而易举地斩断了我的手臂。{w}\n我放声尖叫，而从手肘往下，几乎什么也没剩下。"
+    "一秒之后，乌尔里克将剑相位转移到手中。{w}\n紧接着，令我悔恨不已的是，他轻而易举地斩断了我的手臂。{w}\n我放声尖叫，而从手肘往下，几乎什么也没剩下。"
 
 # game/script.rpy:111422
 translate chinese map306_41cba8dc:
@@ -50028,7 +50028,7 @@ translate chinese map308_b5fafdc2:
     # voice "se/z02923.ogg"
     # char_the_triumvirate "That is a tall order, Monarch."
     voice "se/z02923.ogg"
-    char_the_triumvirate "这可是个过分的要求，君主。"
+    char_the_triumvirate "这要求可不小，君主。"
 
 # game/script.rpy:112257
 translate chinese map308_09886dee:
@@ -50416,7 +50416,7 @@ translate chinese Tri2_map308_1_0_69cc2b7d:
 translate chinese Tri2_map308_1_0_261cc1fc:
 
     # "I'm sick of hearing it. I'm sick of this weak justification.{w}\nI phase the blade into my hand, and thrust it through their chest.{w}\nBut like I was warned before, the idol responds to my aggression."
-    "我听腻了。我听腻了这种苍白的辩解。{w}\n我将剑实体化到手中，刺穿了他们的胸膛。{w}\n但正如先前有人警告我的那样，那尊灵像回应了我的敌意。"
+    "我听腻了。我听腻了这种苍白的辩解。{w}\n我将剑相位转移到手中，刺穿了他们的胸膛。{w}\n但正如先前有人警告我的那样，那尊灵像回应了我的敌意。"
 
 # game/script.rpy:112872
 translate chinese Tri2_map308_1_0_3062f48f:
@@ -51090,7 +51090,7 @@ translate chinese map317_d30805db:
     # voice "se/z03044.ogg"
     # "Almost operating as a team, you ensured that only the true history was written down.\nAs the victor, you could've told the people anything — but you were a just and honest ruler.\nA ceremony was held in Mazeo to pledge your love to one another, until the end of your days."
     voice "se/z03044.ogg"
-    "你们几乎像一支队伍一样运作，确保只有真实的历史被记录下来。\n作为胜利者，你本可以随意告知民众任何事——但你是一位公正诚实的统治者。\n一场仪式在马泽奥举行，你们彼此立誓相爱，直到生命尽头。"
+    "你们几乎如同一人般配合，确保只有真实的历史被记录下来。\n作为胜利者，你本可以随意告知民众任何事——但你是一位公正诚实的统治者。\n一场仪式在马泽奥举行，你们彼此立誓相爱，直到生命尽头。"
 
 # game/script.rpy:114261
 translate chinese map317_08314da4:
@@ -51110,7 +51110,7 @@ translate chinese map317_6cbef05d:
     # voice "se/z03042.ogg"
     # "Almost operating as a team, you ensured that only the true history was written down.\nAs the victor, you could've told the people anything — but you were a just and honest ruler.\nYou helped Pro achieve his dream of using information for good. He never harmed with it again."
     voice "se/z03042.ogg"
-    "你们几乎像一支队伍一样运作，确保只有真实的历史被记录下来。\n作为胜利者，你本可以随意告知民众任何事——但你是一位公正诚实的统治者。\n你帮助普洛实现了他用信息行善的梦想。他再未用它伤人。"
+    "你们几乎如同一人般配合，确保只有真实的历史被记录下来。\n作为胜利者，你本可以随意告知民众任何事——但你是一位公正诚实的统治者。\n你帮助普洛实现了他用信息行善的梦想。他再未用它伤人。"
 
 # game/script.rpy:114273
 translate chinese map317_f90fa5a0:
@@ -51358,7 +51358,7 @@ translate chinese map316_b073000f:
 translate chinese map316_98c5a633:
 
     # "Fortaime chose to settle in Mazeo after the war.\nHelping the nation's people adjust to the new world was his goal.\nHowever, this was to make up for the truth of learning that his parents were Pirates."
-    "福泰姆选择在战后定居马泽奥。\n帮助这个国家的人民适应新世界，是他的目标。\n而这，是为了弥补他得知自己父母曾是海盗这一真相。"
+    "福泰姆选择在战后定居马泽奥。\n帮助这个国家的人民适应新世界，是他的目标。\n而他这样做，也是因为得知自己的父母曾是海盗，想为此作出弥补。"
 
 # game/script.rpy:114465
 translate chinese map316_f18ed94f:
@@ -51666,7 +51666,7 @@ translate chinese map321_85bff211:
 translate chinese map321_f6e67888:
 
     # "During your reign, you had never known a more loyal ally.\nThough his past was with The Inquisition, his future was with The Monarchy.\nYou were seen as the best of friends — and that made working together a joy."
-    "在你统治期间，你从未有过比他更忠诚的盟友。\n尽管他的过去属于审判庭，他的未来却属于王室。\n你们被视为最好的朋友——这也让共事成为一种喜悦。"
+    "在你统治期间，你从未有过比他更忠诚的盟友。\n尽管他的过去属于审判庭，他的未来却属于王室。\n你们被视为最好的朋友——这也让你们一同治理成为一种喜悦。"
 
 # game/script.rpy:114674
 translate chinese map321_3a32fff2:
@@ -52630,7 +52630,7 @@ translate chinese map333_4bccf3da:
 translate chinese map333_e197b548:
 
     # "The Created Seers seemed to be affected by your attack on the dark idol.\nAs if offering their strength when needed the most, the energy within them vanished.\nWhen the fog of war settled, they were no longer plagued with visions. They had healthy minds."
-    "你袭击黑暗灵像的举动，似乎影响到了那些被创造出的先知。\n仿佛在最需要的时刻献出了自己的力量，他们体内的能量就此消散。\n当战火平息，他们不再被幻象折磨，心智恢复了健全。"
+    "你袭击黑暗灵像的举动，似乎影响到了那些人造先知。\n仿佛在最需要的时刻献出了自己的力量，他们体内的能量就此消散。\n当战火平息，他们不再被幻象折磨，心智恢复了健全。"
 
 # game/script.rpy:115411
 translate chinese map333_cf5e5c14:
@@ -52642,7 +52642,7 @@ translate chinese map333_cf5e5c14:
 translate chinese map333_b8ed78ac:
 
     # "A small ceremony was held to mourn and honor the sacrifice of your Created Seers.\nThough their life on Alestia was short — they had completed enough to be known as heroes.\nBut many wondered what would've happened if they survived. Could their minds have been saved?"
-    "人们举行了一场小小的仪式，悼念并致敬你那些被创造出的先知的牺牲。\n尽管他们在阿莱斯蒂亚的生命很短暂——但他们的成就已足以被誉为英雄。\n但许多人不禁想，若他们活下来会怎样。他们的心智还能被拯救吗？"
+    "人们举行了一场小小的仪式，悼念并致敬你那些人造先知的牺牲。\n尽管他们在阿莱斯蒂亚的生命很短暂——但他们的成就已足以被誉为英雄。\n但许多人不禁想，若他们活下来会怎样。他们的心智还能被拯救吗？"
 
 # game/script.rpy:115435
 translate chinese map330_8402e9de:
@@ -52662,7 +52662,7 @@ translate chinese map330_d17be67a:
     # voice "se/z03144.ogg"
     # "The Mazean Shipping Company simply couldn't compete with such skilled individuals.\nThe discretion and speed associated with working a life of crime gave her team the advantage.\nShe eventually amassed enough to purchase the company, and she dominated the industry."
     voice "se/z03144.ogg"
-    "马泽奥航运公司根本无法与这些身怀绝技的人抗衡。\n游走于犯罪生涯所练就的谨慎与迅捷，让她的团队占尽优势。\n她最终积攒下足够的财富买下了这家公司，从此独霸整个行业。"
+    "马泽奥航运公司根本无法与这些身怀绝技的人抗衡。\n游走于犯罪生涯所练就的谨慎与迅捷，让她的人马占尽优势。\n她最终积攒下足够的财富买下了这家公司，从此独霸整个行业。"
 
 # game/script.rpy:115446
 translate chinese map330_bd48028a:
@@ -53248,7 +53248,7 @@ translate chinese map283_a0b03f5c:
 translate chinese map283_9029d1db:
 
     # "I tell her that I'm not planning on going anywhere.{w}\nWhatever comes next, we'd handle it as a team.{w}\nWe didn't come this far just to perish in the end."
-    "我告诉她，我没打算去任何地方。{w}\n无论接下来发生什么，我们都会作为一个团队去面对。{w}\n我们走了这么远，不是为了在最后殒命。"
+    "我告诉她，我没打算去任何地方。{w}\n无论接下来发生什么，我们都会共同面对。{w}\n我们走了这么远，不是为了在最后殒命。"
 
 # game/script.rpy:116988
 translate chinese map283_bf7f702b:
@@ -53932,7 +53932,7 @@ translate chinese map286_d9e1636a:
 translate chinese map286_6b04174b:
 
     # "We're in this together. We don't run away when things get difficult.{w}\nWe'll stand strong, and handle it as a team. That's what I truly want."
-    "我们同在一条船上。遇到困难，我们不会逃避。{w}\n我们会坚强地并肩而立，作为一个团队去应对。这才是真正想要的。"
+    "我们同在一条船上。遇到困难，我们不会逃避。{w}\n我们会坚强地并肩而立，共同应对。这才是我真正想要的。"
 
 # game/script.rpy:118500
 translate chinese map286_0ee40c03:
@@ -54086,7 +54086,7 @@ translate chinese map286_894d7e82:
 translate chinese map286_9795c785:
 
     # "So I pardon him right here and now.{w}\nOn the dawn of our final battle, he'd become a new man.{w}\nNo longer a swindler, but a trusted servant of The New Monarchy."
-    "所以我此刻就赦免他。{w}\n在决战的前夜，他变成了一个全新的人。{w}\n不再是骗子，而是新王权值得信赖的臣仆。"
+    "所以我此刻就赦免他。{w}\n在决战黎明到来之际，他已成为一个全新的人。{w}\n不再是骗子，而是新王权值得信赖的臣仆。"
 
 # game/script.rpy:118875
 translate chinese map286_c4405278:
@@ -54176,7 +54176,7 @@ translate chinese map285_688608d4:
     # voice "se/z02574.ogg"
     # char_ulric "That's the thing, though. Forgiveness shouldn't come so easy.\nWhen you're on the throne, you'll need to learn how to punish.\nI lied to you. I hurt you. I shouldn't deserve your forgiveness."
     voice "se/z02574.ogg"
-    char_ulric "可问题就在这儿。原谅不该来得这么轻易。\n等你坐上王座，你得学会如何惩罚。\n我对你撒了谎。我伤害了你。我不该配得上你的原谅。"
+    char_ulric "可问题就在这儿。原谅不该来得这么轻易。\n等你坐上王座，你得学会如何惩罚。\n我对你撒了谎。我伤害了你。我不配得到你的原谅。"
 
 # game/script.rpy:119099
 translate chinese map285_29d40894:
@@ -54266,7 +54266,7 @@ translate chinese map285_0bfcc08d:
     # voice "se/z02580.ogg"
     # char_ulric "Thank you, [firstname].\nI knew you'd be strong enough to make the tough decisions.\nSince we met, I've seen nothing but a capable ruler in you."
     voice "se/z02580.ogg"
-    char_ulric "谢谢你，[firstname]。\n我就知道你有足够坚强，能做出艰难的抉择。\n从我们相识起，我在你身上看到的只有一位能干的统治者。"
+    char_ulric "谢谢你，[firstname]。\n我就知道你足够坚强，能做出艰难的抉择。\n从我们相识起，我在你身上看到的只有一位能干的统治者。"
 
 # game/script.rpy:119272
 translate chinese map285_7bf6e612:
@@ -54640,7 +54640,7 @@ translate chinese map287_cb1d7dfc:
     # voice "se/z02614.ogg"
     # char_damek "If you keep it, you risk relying on its power.\nAnd I don't want to see what that does to you, [firstname].\nNot if it's even {i}anything{/i} close to what it's done to our enemies."
     voice "se/z02614.ogg"
-    char_damek "如果你留着它，就得承担依赖它力量的风险。\n我不想看到那会把你变成什么样，[firstname]。\n尤其是，如果它对我们敌人所做的事哪怕{i}有一丝{/i}会重演在你身上。"
+    char_damek "如果你留着它，就得承担依赖它力量的风险。\n我不想看到那会把你变成什么样，[firstname]。\n尤其是，如果那股力量会{i}像影响我们的敌人那样{/i}影响你。"
 
 # game/script.rpy:119962
 translate chinese map287_ec3cc773:
@@ -54938,7 +54938,7 @@ translate chinese map288_a42acd4f:
     # voice "se/z02637.ogg"
     # char_howl "It is not true, however. His mind has been twisted beyond repair.\nBut many soldiers are starting to doubt. What if he is telling the truth?\nCould they save their lives by switching sides in the final moments?"
     voice "se/z02637.ogg"
-    char_howl "然而，这不是真的。他的心智已被扭曲得无法修复。\n但许多士兵开始动摇了。万一他说的是真的呢？\n他们能否在最后关头倒戈，从而保住自己的性命？"
+    char_howl "然而，这不是真的。他的心智已被扭曲得无法修复。\n但许多士兵开始动摇了。万一他说的是真的呢？\n他们能否在最后关头倒戈，以此保住自己的性命？"
 
 # game/script.rpy:120587
 translate chinese map288_2cd59114:
@@ -55090,7 +55090,7 @@ translate chinese map288_41e878e8:
 translate chinese map288_03004c59:
 
     # "I don't know how to respond to what he's asking of me.{w}\nHe wants me to commit mass genocide against The Monarchy?{w}\nThis is all happening so fast, I'm unsure of how I should respond."
-    "我不知道该如何回应他对我的请求。{w}\n他想让我对王权进行一场大屠杀？{w}\n这一切发生得太快，我不确定该如何回应。"
+    "我不知道该如何回应他对我的请求。{w}\n他想让我将王权一族彻底灭绝？{w}\n这一切发生得太快，我不确定该如何回应。"
 
 # game/script.rpy:120916
 translate chinese map288_fb51b787:
@@ -55294,7 +55294,7 @@ translate chinese map289_aac0d6bb:
     # voice "se/sovy18.ogg"
     # char_sovy "And it seems like neither group cared about what cost they paid.\nBut it's impossible to pinpoint the moment The Monarchy was imprisoned.\nMany of these books are dated with a system I'm unable to decipher."
     voice "se/sovy18.ogg"
-    char_sovy "而且看来，两个群体都不在乎自己付出了什么代价。\n但无法确定王权究竟是在何时被囚禁的。\n这些书里有许多的日期标示方式，我无法解读。"
+    char_sovy "而且看来，两个群体都不在乎自己付出了什么代价。\n但无法确定王权究竟是在何时被囚禁的。\n这些书大多采用一种我无法解读的纪年方式。"
 
 # game/script.rpy:121358
 translate chinese map289_47ec7565:
@@ -55586,7 +55586,7 @@ translate chinese map179_0ae1803f:
 translate chinese map179_d814af62:
 
     # "We approach the bar. I assume Ulric is going to ask after Vivien.{w}\nI can't even see Drakeor. I look around and notice a bunch of eyes on us.{w}\nPart of me starts to wonder if this {i}was{/i} a trap. Something feels odd."
-    "我们走近吧台。我以为乌尔里克会去打听薇薇安。{w}\n我连德雷库的影子都没看到。我环顾四周，注意到许多目光落在我们身上。{w}\n我内心开始怀疑，这{i}是不是{/i}个陷阱。总觉得有些不对劲。"
+    "我们走近吧台。我以为乌尔里克会去打听薇薇安。{w}\n我连德雷克的人影都没看到。我环顾四周，注意到许多目光落在我们身上。{w}\n我内心开始怀疑，这{i}是不是{/i}个陷阱。总觉得有些不对劲。"
 
 # game/script.rpy:121988
 translate chinese map179_757d6fb9:
@@ -55680,7 +55680,7 @@ translate chinese map179_914149d2:
 translate chinese map179_6bf8899d:
 
     # "Before he can continue, Drakeor sneaks up behind us."
-    "还没等他说下去，德雷库从我们身后悄悄出现。"
+    "还没等他说下去，德雷克从我们身后悄悄出现。"
 
 # game/script.rpy:122264
 translate chinese map179_8383716f:
@@ -56080,7 +56080,7 @@ translate chinese map179_761017fa:
     # voice "se/z01790.ogg"
     # char_jit_map179_1_0_78 "I'll be making my move right after he addresses his people.\nMake sure you're there. That happens in the throne room.\nJust, don't make the wrong choice, [firstname]. Go with me."
     voice "se/z01790.ogg"
-    char_jit_map179_1_0_78 "等他一向民众致辞，我就会动手。\n你们务必到场。那会在王座厅举行。\n只是，别做错选择，[firstname]。站到我这边来。"
+    char_jit_map179_1_0_78 "等他向民众致辞后，我就会动手。\n你们务必到场。那会在王座厅举行。\n只是，别做错选择，[firstname]。站到我这边来。"
 
 # game/script.rpy:123206
 translate chinese map179_462b7319:
@@ -56134,7 +56134,7 @@ translate chinese click_map180_10_EV010_d997ae70:
 translate chinese click_map180_11_EV011_1962f320:
 
     # "The tavern is open, and I can see back outside.{w}\nBeing connected to the marketplace is a genius idea.{w}\nPeople enter and leave like it's a normal part of their day."
-    "酒馆敞开着，我能看到外面的景象。{w}\n和集市连在一起，这主意真是绝了。{w}\n人们进进出出，就像这是日常生活的一部分。"
+    "酒馆敞开着，我能看到外面的景象。{w}\n和集市连在一起，这主意真是太妙了。{w}\n人们进进出出，就像这是日常生活的一部分。"
 
 # game/script.rpy:123664
 translate chinese click_map180_62_EV062_fd9daad3:
@@ -57548,7 +57548,7 @@ translate chinese map205_52aa8500:
 translate chinese map205_a54b1ba5:
 
     # "Ulric's loyalty scene will be available when you return to the mainland.{w}\nThe game will notify you when the loyalty scenes have been unlocked.{w}\nWhen they have been — you can view them by going to the War Table."
-    "等你回到大陆，乌尔里克的忠诚剧情就会解锁。{w}\n忠诚剧情解锁时，游戏会通知你。{w}\n解锁之后——你可以前往战争桌查看。"
+    "等你回到大陆，乌尔里克的忠诚剧情就会解锁。{w}\n忠诚剧情解锁时，游戏会通知你。{w}\n解锁之后——你可以前往作战桌查看。"
 
 # game/script.rpy:126405
 translate chinese click_map181_15_EV015_04ffd5db:
@@ -57636,7 +57636,7 @@ translate chinese map184_a3c6e7cc:
     # voice "se/z01797.ogg"
     # char_damek "Right, right. Of course.\nSo what, do we just march right in?\nI don't see any guards, or security."
     voice "se/z01797.ogg"
-    char_damek "对，对。当然。\n那怎么办，我们就这么直接走进去？\n我没看到任何卫兵，也没看到安保。"
+    char_damek "对，对。当然。\n那怎么办，我们就这么直接走进去？\n我没看到任何卫兵，也没看到守卫。"
 
 # game/script.rpy:126644
 translate chinese map184_79055427:
@@ -57648,7 +57648,7 @@ translate chinese map184_79055427:
 translate chinese map184_22b9a346:
 
     # "I notice a large man exit the castle gates, and slowly approach us.{w}\nHe's not carrying any weapons, so I doubt he's some sort of security.{w}\nHe looks intimidating, of course, but that's about it. Is this Westy...?"
-    "我注意到一个高大的男人从城堡大门走出来，缓缓朝我们靠近。{w}\n他身上没带武器，所以我不觉得他是安保人员。{w}\n当然，他看起来很有威慑力，但也仅此而已。这就是韦斯蒂吗……？"
+    "我注意到一个高大的男人从城堡大门走出来，缓缓朝我们靠近。{w}\n他身上没带武器，所以我不觉得他是守卫。{w}\n当然，他看起来很有威慑力，但也仅此而已。这就是韦斯蒂吗……？"
 
 # game/script.rpy:126671
 translate chinese map184_14973538:
@@ -57760,7 +57760,7 @@ translate chinese map184_e5e75b17:
     # voice "se/z01809.ogg"
     # char_ulric "You might want to work on your public relations skills."
     voice "se/z01809.ogg"
-    char_ulric "你也许该练练你的公关技巧。"
+    char_ulric "你也许该练练待人接物的本事。"
 
 # game/script.rpy:127006
 translate chinese map184_9c7f084b:
@@ -57874,7 +57874,7 @@ translate chinese click_map185_5_EV005_aec04903:
     # voice "se/a00319.ogg"
     # char_ulric "Security, normally.\nBut there isn't any during the ball.\nAnybody is just free to walk inside."
     voice "se/a00319.ogg"
-    char_ulric "平时是安保用的。\n但舞会期间这里没有安保。\n任何人都可以随便走进去。"
+    char_ulric "平时是有守卫的。\n但舞会期间这里没有守卫。\n任何人都可以随便走进去。"
 
 # game/script.rpy:127528
 translate chinese click_map185_5_EV005_9234f21c:
@@ -57882,7 +57882,7 @@ translate chinese click_map185_5_EV005_9234f21c:
     # voice "se/a00320.ogg"
     # char_valessa "Oh, okay. Is security normally heavy?"
     voice "se/a00320.ogg"
-    char_valessa "哦，这样。平时安保很严吗？"
+    char_valessa "哦，这样。平时守卫很严吗？"
 
 # game/script.rpy:127532
 translate chinese click_map185_5_EV005_e5078c89:
@@ -57946,7 +57946,7 @@ translate chinese click_map185_5_EV005_5cfe68e1:
     # voice "se/a00327.ogg"
     # char_ulric "And it's not a change they need to respect.\nNo matter what, Vivien is still in charge.\nHe'd likely merge with The New Monarchy."
     voice "se/a00327.ogg"
-    char_ulric "而且这种改变也不需要他们认可。\n无论如何，掌权的还是薇薇安。\n他很可能会与新君主国合并。"
+    char_ulric "而且这种改变也不需要他们认可。\n无论如何，掌权的还是薇薇安。\n他很可能会与新王权合并。"
 
 # game/script.rpy:127564
 translate chinese click_map185_5_EV005_a98c28ac:
@@ -58686,7 +58686,7 @@ translate chinese click_map190_4_EV004_2f6096c5:
 translate chinese click_map190_4_EV004_b5b398d5:
 
     # char_pro "It's not your job to control everything!\nYou need to get that through your thick skull!"
-    char_pro "控制一切不是你的职责！\n你得把这一点刻进你那顽固的脑子里！"
+    char_pro "用不着你什么都管！\n你得把这一点刻进你那顽固的脑子里！"
 
 # game/script.rpy:129437
 translate chinese click_map190_4_EV004_89d02326:
@@ -59332,7 +59332,7 @@ translate chinese map191_6855da77:
     # voice "se/z01864.ogg"
     # char_jit_map191_1_0_38 "Prisoners...? At a party this grand?\nIf that's a complaint, you're grasping at straws.\nI have a party to enjoy. I suggest you do the same."
     voice "se/z01864.ogg"
-    char_jit_map191_1_0_38 "囚犯……？在这么盛大的宴会上？\n如果这算抱怨，那你可真是抓不住重点。\n我有宴会要享受。建议你也一样。"
+    char_jit_map191_1_0_38 "囚犯……？在这么盛大的宴会上？\n如果这算抱怨，那你就是在强词夺理。\n我有宴会要享受。建议你也一样。"
 
 # game/script.rpy:130710
 translate chinese map191_564f446e:
@@ -59694,7 +59694,7 @@ translate chinese click_map192_63_EV063_d9d047a3:
 translate chinese click_map192_63_EV063_a661a958:
 
     # char_damek "Now you're just putting words in my mouth.\nThe only person I'd tell is [firstname]. "
-    char_damek "你这是在替我说话。\n我唯一会告诉的人就是[firstname]。"
+    char_damek "你这是在曲解我的意思。\n我唯一会告诉的人就是[firstname]。"
 
 # game/script.rpy:131538
 translate chinese click_map192_63_EV063_7c040027:
@@ -60464,7 +60464,7 @@ translate chinese map207_46ee4a0f:
     # voice "se/y01422.ogg"
     # char_damek "Until I opened my eyes again, and saw you and Howl.\nThat changed something inside of me. My priorities shifted.\nThe thought of seeing my Mother again had completely disappeared."
     voice "se/y01422.ogg"
-    char_damek "直到我再次睁开眼，看到了你和豪尔。\n那改变了我内心的某些东西。我的优先次序变了。\n想再见到母亲的念头彻底消失了。"
+    char_damek "直到我再次睁开眼，看到了你和豪尔。\n那改变了我内心的某些东西。我真正看重的东西变了。\n想再见到母亲的念头彻底消失了。"
 
 # game/script.rpy:133015
 translate chinese map207_7d966951:
@@ -60576,7 +60576,7 @@ translate chinese map208_e3767c97:
     # voice "se/y01429.ogg"
     # char_valessa "I see your quick wit doesn't cave under stress.\nThat's good. We need some more optimism around here.\nIf only that's all it took to win wars, though. We'd be set."
     voice "se/y01429.ogg"
-    char_valessa "看来你的机敏在压力下也不会垮。\n这很好。我们这儿需要更多乐观。\n不过要是光靠这个就能打赢战争就好了。那我们早就稳了。"
+    char_valessa "看来你的机敏在压力下也不会垮。\n这很好。我们这儿需要更多乐观。\n不过要是光靠这个就能打赢战争就好了。那我们早就赢定了。"
 
 # game/script.rpy:133258
 translate chinese map208_81f3640b:
@@ -60882,7 +60882,7 @@ translate chinese map208_6735ad69:
 translate chinese map208_76ef1ceb:
 
     # "I smile at her, and dip her low as the music comes to an end.{w}\nI hold that pose for as long as I can, enjoying the sense of togetherness.{w}\nShortly after, I raise her back up, and we leave the dance floor amongst the crowd."
-    "我朝她微笑，在音乐结束时将她低低地放倒。{w}\n我尽可能久地保持着那个姿势，享受这份相依的感觉。{w}\n不久后，我扶她起身，我们随着人群离开了舞池。"
+    "我朝她微笑，在音乐结束时带她做了一个下腰动作。{w}\n我尽可能久地保持着那个姿势，享受这份相依的感觉。{w}\n不久后，我扶她起身，我们随着人群离开了舞池。"
 
 # game/script.rpy:133785
 translate chinese map208_caf17d19:
@@ -61410,7 +61410,7 @@ translate chinese map213_be55d5c3:
     # voice "se/x00451.ogg"
     # char_sovy "No, I'm not breaking the law.\nBut honestly, I don't know how to answer your question.\nI guess you could say that I'm “between things” right now."
     voice "se/x00451.ogg"
-    char_sovy "不，我没违法。\n但老实说，我不知道该怎么回答你。\n大概可以说，我现在“处于空档期”。"
+    char_sovy "不，我没违法。\n但老实说，我不知道该怎么回答你。\n眼下算是暂无差事在身。"
 
 # game/script.rpy:136156
 translate chinese map213_6ee17c8d:
@@ -61658,7 +61658,7 @@ translate chinese map198_ec4e0640:
 translate chinese map198_a8363e13:
 
     # char_valessa "Have we actually worked out who's fighting?\nI mean, which of our members are joining Draycu's reserve forces?\nThe Leader and the Champion, we know. But what about everyone else?"
-    char_valessa "我们真的确定谁上场了吗？\n我是说，我们有那些人要加入德雷库的后备队？\n首领和斗士，这我们知道。但其他人呢？"
+    char_valessa "我们真的确定谁上场了吗？\n我是说，我们有哪些人要加入德雷库的后备队？\n首领和斗士，这我们知道。但其他人呢？"
 
 # game/script.rpy:136833
 translate chinese map198_ce6f283f:
@@ -61676,7 +61676,7 @@ translate chinese map198_a3328cd2:
 translate chinese map198_f0e24d96:
 
     # char_howl "Ulric fights with Vivien. Pro fights with Draycu.\nVivien's reserve forces are part of his own army.\nDraycu's reserve forces will borrow from our army."
-    char_howl "乌尔里克对战薇薇安。普洛对战德雷库。\n薇薇安的后备队来自他自己的军队。\n德雷库的后备队则会从我们的军队里借调。"
+    char_howl "乌尔里克与薇薇安并肩作战。普洛与德雷库并肩作战。\n薇薇安的后备队来自他自己的军队。\n德雷库的后备队则会从我们的军队里借调。"
 
 # game/script.rpy:136875
 translate chinese map198_ef495f36:
@@ -61868,7 +61868,7 @@ translate chinese map198_1676d754:
 translate chinese map198_f68da76f:
 
     # "He points to a nearby staircase. That must lead to the private room.{w}\nYeah, everything was happening so fast. I could use a few moments to plan.{w}\nOne last team huddle before the fight would help. We need to minimize our losses."
-    "他指向附近的楼梯。那一定通往私人房间。{w}\n是啊，一切都发生得太快了。我需要一点时间谋划。{w}\n战前来最后一次团队商讨会有帮助。我们得把损失降到最低。"
+    "他指向附近的楼梯。那一定通往私人房间。{w}\n是啊，一切都发生得太快了。我需要一点时间谋划。{w}\n战前最后一次碰头会有帮助。我们得把损失降到最低。"
 
 # game/script.rpy:137198
 translate chinese map198_d659ff2b:
@@ -62516,7 +62516,7 @@ translate chinese map212_63d274eb:
 translate chinese map212_0869fe38:
 
     # "There was no real explanation for either, so both were oddities.{w}\nThe Old Monarchy had the power of visions, but where did they come from?{w}\nHowl turns to face me, the flames illuminating his differently colored eyes."
-    "两者都没有真正的解释，所以都算是怪事。{w}\n旧王朝拥有预见之力，可那力量从何而来？{w}\n豪尔转身面对我，火焰照亮了他异色的双瞳。"
+    "两者都没有真正的解释，所以都算是怪事。{w}\n旧王室拥有预见之力，可那力量从何而来？{w}\n豪尔转身面对我，火焰照亮了他异色的双瞳。"
 
 # game/script.rpy:138535
 translate chinese map212_7adde478:
@@ -62572,7 +62572,7 @@ translate chinese map212_4ce2f359:
 translate chinese map212_cd0851a3:
 
     # "Like all of this death is just a daily occurrence for them.{w}\nAt least it kept them introverted. The Triumvirate would like that.{w}\nThose focused on fighting themselves would be less inclined to rebel."
-    "仿佛所有这些死亡对他们来说只是日常。{w}\n至少这让他们内敛。三人执政团会喜欢这样。{w}\n那些专注于内斗的人，就不太会去反抗。"
+    "仿佛所有这些死亡对他们来说只是日常。{w}\n至少这让他们只顾内斗。三人执政团会喜欢这样。{w}\n那些专注于内斗的人，就不太会去反抗。"
 
 # game/script.rpy:138661
 translate chinese map212_03cc18a7:
@@ -62900,7 +62900,7 @@ translate chinese map200_6a7fbd73:
 translate chinese map200_8bee436a:
 
     # char_pro "I'm fighting alongside Draycu, as his Champion.\nThe fight is over if either him, or myself, fall in combat.\nOur reserve forces will consist of the Created Seers."
-    char_pro "我将作为德雷库的斗士，与他并肩作战。\n只要他或我中有一个倒下，战斗就结束。\n我们的后备力量将由被创造出的先知组成。"
+    char_pro "我将作为德雷库的斗士，与他并肩作战。\n只要他或我中有一个倒下，战斗就结束。\n我们的后备力量将由人造先知组成。"
 
 # game/script.rpy:139315
 translate chinese map200_b369031d:
@@ -62936,7 +62936,7 @@ translate chinese map200_1c7e9c0b:
 translate chinese map200_82329e61:
 
     # char_pro "If Draycu wins, the nation will stay exactly the same.\nBut if Vivien wins, he will lead Alarinthia in a new direction.\nHopefully, one that allies itself with The New Monarchy."
-    char_pro "如果德雷库赢了，这个国家将一成不变。\n但如果薇薇安赢了，他会带领阿拉林西亚走向新的方向。\n但愿是一个能与新君主国结盟的方向。"
+    char_pro "如果德雷库赢了，这个国家将一成不变。\n但如果薇薇安赢了，他会带领阿拉林西亚走向新的方向。\n但愿是一个能与新王权结盟的方向。"
 
 # game/script.rpy:139354
 translate chinese map200_1cfbd14a:
@@ -63038,7 +63038,7 @@ translate chinese map200_3d43df0f:
 translate chinese map200_d2dde44f:
 
     # char_ulric "I don't have much to say, I just wanted to get rid of Draycu.\nI'm not very good at farewells, either. So I won't waste your time.\nGood luck in the future. All of you. I hope to see you again."
-    char_ulric "我没什么好说的，我只是想把德雷库支开。\n我也不太擅长道别。所以我就不浪费你们的时间了。\n祝你们今后好运。你们所有人。希望还能再见。"
+    char_ulric "我没什么好说的，我只是想除掉德雷库。\n我也不太擅长道别。所以我就不浪费你们的时间了。\n祝你们今后好运。你们所有人。希望还能再见。"
 
 # game/script.rpy:139551
 translate chinese map200_545fadcf:
@@ -63068,7 +63068,7 @@ translate chinese map200_f3af68be:
 translate chinese map200_b47aae3a:
 
     # char_damek "The Created Seers are already waiting by the arena.\nI'll take everyone to our seats, so we can watch you fight.\nI guess it's on you now, [firstname]. Head to the arena. "
-    char_damek "被创造出的先知已经在竞技场旁等候了。\n我带大家去我们的座位，好在现场看你们战斗。\n现在就看你的了，[firstname]。去竞技场吧。"
+    char_damek "人造先知已经在竞技场旁等候了。\n我带大家去我们的座位，好在现场看你们战斗。\n现在就看你的了，[firstname]。去竞技场吧。"
 
 # game/script.rpy:139611
 translate chinese map200_05572626:
@@ -63336,7 +63336,7 @@ translate chinese map214_cc3657ae:
 translate chinese map214_0378306d:
 
     # "Your bond with Pro was irreparably damaged.{w}\nYou will be unable to access his Loyalty Scene in the future.{w}\nThis brings Pro's series of Heart-to-Hearts to an indefinite close."
-    "你与普洛的羁绊已被无法修复地破坏。{w}\n今后你将无法解锁他的忠诚剧情。{w}\n普洛的一系列“心灵相通”就此无限期搁置。"
+    "你与普洛的羁绊已遭到无法修复的破坏。{w}\n今后你将无法解锁他的忠诚剧情。{w}\n普洛的一系列“心灵对话”就此无限期搁置。"
 
 # game/script.rpy:140421
 translate chinese map214_00a51e27:
@@ -63714,7 +63714,7 @@ translate chinese map203_211d67c1:
 translate chinese map203_6d218931:
 
     # "I notice Drakeor make his way to my side.{w}\nHe looks me up and down, staring at my blade."
-    "我注意到德雷克奥尔走到我身边。{w}\n他上下打量着我，目光盯着我的剑。"
+    "我注意到德雷克走到我身边。{w}\n他上下打量着我，目光盯着我的剑。"
 
 # game/script.rpy:141225
 translate chinese map203_784dd9cb:
@@ -64096,7 +64096,7 @@ translate chinese map217_3101d14e:
 translate chinese map217_7369a556:
 
     # "They raise their blades, and ready themselves to attack.{w}\nThey're still far away, but it's enough to intimidate us.{w}\nI reach for my own weapon in response, and unsheathe it."
-    "他们举起兵剑，准备进攻。{w}\n他们离得还远，但已足以让我们心生畏惧。{w}\n我伸手握住自己的武器作为回应，将它拔出。"
+    "他们举起剑，准备进攻。{w}\n他们离得还远，但已足以让我们心生畏惧。{w}\n我伸手握住自己的武器作为回应，将它拔出。"
 
 # game/script.rpy:142120
 translate chinese map217_5a51d15c:
@@ -64150,7 +64150,7 @@ translate chinese map217_eba06cad:
 translate chinese map217_7369a556_1:
 
     # "They raise their blades, and ready themselves to attack.{w}\nThey're still far away, but it's enough to intimidate us.{w}\nI reach for my own weapon in response, and unsheathe it."
-    "他们举起兵剑，准备进攻。{w}\n他们离得还远，但已足以让我们心生畏惧。{w}\n我伸手握住自己的武器作为回应，将它拔出。"
+    "他们举起剑，准备进攻。{w}\n他们离得还远，但已足以让我们心生畏惧。{w}\n我伸手握住自己的武器作为回应，将它拔出。"
 
 # game/script.rpy:142247
 translate chinese map217_a1033199:
@@ -64412,7 +64412,7 @@ translate chinese map218_f2c51962:
 translate chinese map218_394d7940:
 
     # "In response, Ulric readies his blade, and steps closer to Pro.{w}\nThere's nothing I can do anymore. I'm practically choking on my own blood.{w}\nAny weak cries I emit would be easily overtaken by the chatter of our audience."
-    "作为回应，乌尔里克举起兵剑，朝普洛逼近。{w}\n我已经无能为力了。我几乎被自己的血呛住。{w}\n我发出的任何微弱呼喊，都会被观众的喧哗轻易盖过。"
+    "作为回应，乌尔里克举起剑，朝普洛逼近。{w}\n我已经无能为力了。我几乎被自己的血呛住。{w}\n我发出的任何微弱呼喊，都会被观众的喧哗轻易盖过。"
 
 # game/script.rpy:142764
 translate chinese map218_d128fcc8:
@@ -65126,13 +65126,13 @@ translate chinese map220_7a7a4341:
 translate chinese map220_4d284c81:
 
     # "One life gave us all the power we'd need to win this war.{w}\nBut at the same time, is it right to reduce a life to something like that?{w}\nA bargaining chip on some sort of table containing all of our lives?"
-    "一条命给了我们赢得这场战争所需的全部力量。{w}\n但与此同时，把一条生命简化成这样的东西，对吗？{w}\n像是一个摆在砧板上、与我们所有人性命一起被押上的筹码？"
+    "一条命给了我们赢得这场战争所需的全部力量。{w}\n但与此同时，把一条生命简化成这样的东西，对吗？{w}\n像是一张押上我们所有人性命的赌桌上的筹码？"
 
 # game/script.rpy:144382
 translate chinese map220_a0f002bd:
 
     # "This is something we'd have to talk about as an entire group.{w}\nI may be in charge, but this affected everybody — not just me.{w}\nThat's what I let Fortaime know. It's the only right way to handle this."
-    "这件事得由我们整个团队一起来谈。{w}\n我或许是负责人，但这件事影响的是所有人——不只是我。{w}\n这就是我让福泰姆明白的。这是处理此事的唯一正确方式。"
+    "这件事得由我们所有人一起来谈。{w}\n我或许是负责人，但这件事影响的是所有人——不只是我。{w}\n这就是我让福泰姆明白的。这是处理此事的唯一正确方式。"
 
 # game/script.rpy:144407
 translate chinese map220_3b76ef43:
@@ -65798,7 +65798,7 @@ translate chinese map222_b5cf0283:
 translate chinese map222_f8d91b2a:
 
     # "And that was my goal. We'd get back to Mazeo with no questions left unanswered.{w}\nNo matter how shocking the answers were, and whether or not I regretted learning them.{w}\nWe seemed to be running on everybody's agenda but my own. Everybody had their own plans."
-    "而这就是我的目标。我们要回到马泽奥，不留下任何未解之谜。{w}\n不管那些答案有多么惊人，也不管我是否会后悔知道它们。{w}\n我们似乎一直在按所有人的议程行事，唯独没有我的。每个人都有自己的盘算。"
+    "而这就是我的目标。我们要回到马泽奥，不留下任何未解之谜。{w}\n不管那些答案有多么惊人，也不管我是否会后悔知道它们。{w}\n我们似乎一直在按所有人的计划行事，唯独没有我自己的。每个人都有自己的盘算。"
 
 # game/script.rpy:146081
 translate chinese map222_7187768e:
@@ -66812,7 +66812,7 @@ translate chinese map225_7b4f45db:
 translate chinese map225_6210f7d7:
 
     # "Furthermore, the way Ulric handled this situation was extremely professional.{w}\nUnder any other circumstances, I might have taken this information badly.{w}\nBut he's right. It's in the past. He's gone on to prove his loyalty to me."
-    "而且，乌尔里克处理这件事的方式极为专业。{w}\n换作其他任何情况，我可能会对这条情报反应激烈。{w}\n但他说得对。那都是过去的事了。他已经用行动证明了对我的忠诚。"
+    "而且，乌尔里克把这件事处理得非常沉稳老练。{w}\n换作其他任何情况，我可能会对这条情报反应激烈。{w}\n但他说得对。那都是过去的事了。他已经用行动证明了对我的忠诚。"
 
 # game/script.rpy:148292
 translate chinese map225_00104fb5:
@@ -66998,7 +66998,7 @@ translate chinese map225_6ca0f110:
     # voice "se/z02177.ogg"
     # char_pro "Look — I made up for what I did...!\nAll those lives we lost? We got them back, and more!\nOur Alarinthian allies will help us win this war. Hands down."
     voice "se/z02177.ogg"
-    char_pro "听着——我已经弥补了我做过的事……！\n我们失去的那些生命？我们不仅夺回来了，还得到了更多！\n我们的阿拉林西亚盟友会帮我们赢得这场战争。毫无疑问。"
+    char_pro "听着——我已经弥补了我做过的事……！\n我们失去的那些人手？如今都补回来了，而且还多了不少！\n我们的阿拉林西亚盟友会帮我们赢得这场战争。毫无疑问。"
 
 # game/script.rpy:148724
 translate chinese map225_dfc58a11:
@@ -67380,7 +67380,7 @@ translate chinese map227_676fb92b:
 translate chinese map227_f57a6c05:
 
     # "There was no way that I could take such a risk.{w}\nIf he turned against us, he could destroy our entire cause.{w}\nIt was too risky. If his exile was even real, he'd be stuck with it."
-    "我不可能冒这样的险。{w}\n如果他背叛我们，他可能毁掉我们整个事业。{w}\n太冒险了。就算他的流放是真的，那也是他自作自受。"
+    "我不可能冒这样的险。{w}\n如果他背叛我们，他可能毁掉我们整个事业。{w}\n太冒险了。就算他的流放是真的，那也只能由他自己承受。"
 
 # game/script.rpy:149383
 translate chinese map227_7f625d2f:
@@ -67500,13 +67500,13 @@ translate chinese map227_1393127f:
 translate chinese map227_90ad5d77:
 
     # "Loyalty scenes are now available for the six main party members.{w}\nHowl has a fourth Heart-to-Heart that is hidden in one of the previous areas.{w}\nLoyalty scenes can be accessed by clicking the character icon on the War Table."
-    "六名主要队员的忠诚剧情现已开放。{w}\n豪尔还有一场隐藏在前述某个区域里的第四次心灵交汇。{w}\n点击作战桌上的角色图标即可进入忠诚剧情。"
+    "六名主要队员的忠诚剧情现已开放。{w}\n豪尔还有一场隐藏在前述某个区域里的第四次心灵对话。{w}\n点击作战桌上的角色图标即可进入忠诚剧情。"
 
 # game/script.rpy:149568
 translate chinese map227_b1549978:
 
     # "Fast Travel has now been unlocked, allowing easy navigation through Alestia.{w}\nA new blue icon has appeared in the top left of areas. Click it to move to the World Map.{w}\nThe World Map allows for easy navigation between every other map in the game."
-    "快速旅行现已解锁，可轻松穿梭阿拉斯蒂亚。{w}\n各区域左上角出现了新的蓝色图标。点击它即可前往世界地图。{w}\n世界地图可让你在游戏中的其他所有地图间轻松移动。"
+    "快速旅行现已解锁，可轻松穿梭阿莱斯蒂亚。{w}\n各区域左上角出现了新的蓝色图标。点击它即可前往世界地图。{w}\n世界地图可让你在游戏中的其他所有地图间轻松移动。"
 
 # game/script.rpy:149570
 translate chinese map227_4e1aae87:
@@ -67518,7 +67518,7 @@ translate chinese map227_4e1aae87:
 translate chinese map227_8b8b03c1:
 
     # "Sovy has now permanently joined your party.{w}\nA series of Heart-to-Hearts has been hidden all over Alestia.{w}\nA loyalty scene has been added, accessed like normal from the War Table."
-    "索维现已永久加入你的队伍。{w}\n一系列心灵交汇已隐藏在阿拉斯蒂亚各处。{w}\n新增了一场忠诚剧情，照常从作战桌进入。"
+    "索维现已永久加入你的队伍。{w}\n一系列心灵对话已隐藏在阿莱斯蒂亚各处。{w}\n新增了一场忠诚剧情，照常从作战桌进入。"
 
 # game/script.rpy:149987
 translate chinese Valessa1_map077_3_0_b41c75c8:
@@ -68216,7 +68216,7 @@ translate chinese map151_672d3c15:
 translate chinese map151_9714fc24:
 
     # char_jit_map151_1_0_153 "And mine, too! Trust me [firstname], we got this.\nAfter this is done, Alestia will belong to {i}us{/i}.\nAnd if I'm honest — it's about damn time."
-    char_jit_map151_1_0_153 "还有我！相信我，[firstname]，这事我们稳了。\n等这一切结束，阿莱斯蒂亚就属于{i}我们{/i}了。\n而且说实话——早该如此了。"
+    char_jit_map151_1_0_153 "还有我！相信我，[firstname]，这事我们赢定了。\n等这一切结束，阿莱斯蒂亚就属于{i}我们{/i}了。\n而且说实话——早该如此了。"
 
 # game/script.rpy:151344
 translate chinese map151_10bf68bc:
@@ -68500,7 +68500,7 @@ translate chinese map152_77636dcd:
 translate chinese map152_1c0c3d2c:
 
     # char_jit_map152_1_0_36 "Come on, you can all do better than that!{w}\nIf you want my favor in our new nation, then get to work!{w}\nA competent crew would already have us halfway to Alarinthia!"
-    char_jit_map152_1_0_36 "来吧，你们都能做得更好！{w}\n想在我们的新国度里得到我的青睐，就给我干活！{w}\n一支能干的船员早该把我们送到阿拉林西亚半路了！"
+    char_jit_map152_1_0_36 "来吧，你们都能做得更好！{w}\n想在我们的新国度里得到我的青睐，就给我干活！{w}\n一帮能干的船员早该把我们送到阿拉林西亚半路了！"
 
 # game/script.rpy:151991
 translate chinese map152_0abf4865:
@@ -68910,7 +68910,7 @@ translate chinese map152_3de0da7d:
 translate chinese map152_f5d694b1:
 
     # "Clicking the arrow in the top right will continue the story, and the voyage to Alarinthia.{w}\nIt is highly recommended that you complete the series of onboard Heart-to-Hearts."
-    "点击右上角的箭头将继续剧情，前往阿拉林西亚的航行。{w}\n强烈建议你完成船上的一系列心灵交汇。"
+    "点击右上角的箭头将继续剧情，前往阿拉林西亚的航行。{w}\n强烈建议你完成船上的一系列心灵对话。"
 
 # game/script.rpy:152881
 translate chinese map159_46b4ed2b:
@@ -68976,7 +68976,7 @@ translate chinese map159_57971349:
 translate chinese map159_322ebcc0:
 
     # "Damek and Howl stand together, so I slowly walk toward them.{w}\nHopefully some of the tension had settled after the long voyage.{w}\nIt would be detrimental to have two senior staff constantly at arms."
-    "达梅克和豪尔站在一起，我慢慢朝他们走去。{w}\n希望漫长的航行过后，有些紧张气氛已经平息。{w}\n两位高级幕僚一直剑拔弩张，对我们绝无好处。"
+    "达梅克和豪尔站在一起，我慢慢朝他们走去。{w}\n希望漫长的航行过后，有些紧张气氛已经平息。{w}\n两位重臣一直剑拔弩张，对我们绝无好处。"
 
 # game/script.rpy:153063
 translate chinese map159_243ab46b:
@@ -69764,7 +69764,7 @@ translate chinese map168_813d58eb:
 translate chinese map168_e724d04b:
 
     # char_halin "Of course, Master."
-    char_halin "当然，主人。"
+    char_halin "当然，师父。"
 
 # game/script.rpy:154855
 translate chinese map168_3ec658da:
@@ -69866,7 +69866,7 @@ translate chinese map168_da0ac7c3:
 translate chinese map168_d6df9816:
 
     # char_halin "Work on your personal issues, Master.\nI don't care what they are. Just get them sorted out.\nRemember, I'm likely to get chastised just as much as you."
-    char_halin "处理好你的私人问题，主人。\n我不在乎是什么问题。把它们解决掉就行。\n记住，我很可能和你一样会被斥责。"
+    char_halin "处理好你的私人问题，师父。\n我不在乎是什么问题。把它们解决掉就行。\n记住，我很可能和你一样会被斥责。"
 
 # game/script.rpy:155074
 translate chinese map168_4d1e9bbc:
@@ -69946,7 +69946,7 @@ translate chinese map168_5491a45a:
 translate chinese map168_18589eb7:
 
     # char_sovy "Oh, sorry — force of habit.\nWe were just talking about what we should tell our Masters.\nWhile we did damage The Rebellion, we failed in our objective."
-    char_sovy "哦，抱歉——习惯了。\n我们只是在商量该跟我们的主子们说些什么。\n虽然我们确实打击了反抗军，但我们没能达成目标。"
+    char_sovy "哦，抱歉——习惯了。\n我们只是在商量该跟几位主上说什么。\n虽然我们确实打击了反抗军，但我们没能达成目标。"
 
 # game/script.rpy:155246
 translate chinese map168_fbecf25f:
@@ -70624,7 +70624,7 @@ translate chinese map163_51b060c4:
     # voice "se/z01714.ogg"
     # char_howl "We cannot become the enemy we seek to dethrone.\nYour way of thinking requires some reevaluation, Damek.\nYou may say \"means to an end\", but so does The Triumvirate."
     voice "se/z01714.ogg"
-    char_howl "我们不能变成我们想要推翻的敌人。\n你的想法需要重新审视，达梅克。\n你或许会说“为达目的不择手段”，但三人执政团也是这么想的。"
+    char_howl "我们不能变成我们想要推翻的敌人。\n你的想法需要重新审视，达梅克。\n你或许会说这是“达成目的的手段”，但三人执政团也一样。"
 
 # game/script.rpy:157396
 translate chinese map163_de85ded5:
@@ -72518,7 +72518,7 @@ translate chinese map109_14d0c665:
 translate chinese map109_64511109:
 
     # "He makes his way to the spirit idol at the back of the church.{w}\nClapping his hands together, he frees himself of the dust."
-    "他走向教堂后方的灵界灵像。{w}\n他双手一拍，抖掉手上的灰尘。"
+    "他走向教堂后方的灵像。{w}\n他双手一拍，抖掉手上的灰尘。"
 
 # game/script.rpy:162198
 translate chinese map109_81360f6d:
@@ -72530,7 +72530,7 @@ translate chinese map109_81360f6d:
 translate chinese map109_690adfb4:
 
     # char_damek "This is the spirit idol of Mazeo.\nOr so we thought, until recently."
-    char_damek "这是马泽奥的灵界灵像。\n至少我们以前是这么以为的，直到最近。"
+    char_damek "这是马泽奥的灵像。\n至少我们以前是这么以为的，直到最近。"
 
 # game/script.rpy:162214
 translate chinese map109_f3bc2a06:
@@ -73270,7 +73270,7 @@ translate chinese map113_9620ee1e:
 translate chinese map113_4dc97f98:
 
     # char_sovy "Don't worry, I'll still let you visit Damek and The Rebels.\nIt's just — I have something {i}different{/i} in mind for you.\nA chance to \"pay him back\", if you'd be so inclined."
-    char_sovy "别担心，我还是会让你去见达梅克和反抗军的。\n只是——我为你准备了{i}不一样{/i}的东西。\n一个“回报他”的机会，如果你愿意的话。"
+    char_sovy "别担心，我还是会让你去见达梅克和反抗军的。\n只是——我为你准备了{i}不一样{/i}的东西。\n一个“回敬他”的机会，如果你愿意的话。"
 
 # game/script.rpy:164116
 translate chinese map113_a3f8e29d:
@@ -73948,7 +73948,7 @@ translate chinese map173_27c0c95e:
     # voice "se/y01245.ogg"
     # char_fortaime "It matches up with what people outside of Valinorth were saying.\nWe were just superstitious, and lived in a unique location.\nThe Monarchy gave us visions, and nothing more."
     voice "se/y01245.ogg"
-    char_fortaime "这和瓦利诺斯之外的人说法一致。\n我们只是迷信，又住在一个特别的地方。\n王室给我们的只是幻象，仅此而已。"
+    char_fortaime "这和瓦利诺斯之外的人说法一致。\n我们只是迷信，又住在一个特别的地方。\n君主国给我们的只是幻象，仅此而已。"
 
 # game/script.rpy:165464
 translate chinese map173_23067cf8:
@@ -74028,7 +74028,7 @@ translate chinese map173_602f38f6:
     # voice "se/y01252.ogg"
     # char_fortaime "They're adjustable, so you can wear them no matter what!\nYou don't need to look for a foothold anymore, you make them yourself!\nAs long as you're strong enough, there's nothing you can't climb, Monarch."
     voice "se/y01252.ogg"
-    char_fortaime "它们可以调节，所以你怎么都能戴！\n你不用再找落脚点了，自己就能造出来！\n只要你力气够，没什么是你爬不上去的，君主。"
+    char_fortaime "它们可以调节，所以你怎么都能戴！\n你不用再找落脚点了，落脚点可以自己造出来！\n只要你力气够，没什么是你爬不上去的，君主。"
 
 # game/script.rpy:165592
 translate chinese map173_e796ec33:
@@ -74290,7 +74290,7 @@ translate chinese map173_059716e4:
 translate chinese map173_6797eb7d:
 
     # "Fortaime's loyalty scene is now available when you return to the mainland.{w}\nThe game will notify you when you have access to the loyalty scene system.{w}\nLoyalty scenes can be initiated by clicking that character at the War Table."
-    "返回大陆后，福泰姆的忠诚剧情将解锁。{w}\n当你可以使用忠诚剧情系统时，游戏会通知你。{w}\n在战争桌面上点击该角色即可触发忠诚剧情。"
+    "返回大陆后，福泰姆的忠诚剧情将解锁。{w}\n当你可以使用忠诚剧情系统时，游戏会通知你。{w}\n在作战桌上点击该角色即可触发忠诚剧情。"
 
 # game/script.rpy:166004
 translate chinese map170_0ccad6fa:
@@ -74470,7 +74470,7 @@ translate chinese map170_5d71b509:
     # voice "se/y01182.ogg"
     # char_ulric "Remember me for the things I've done for {i}you{/i}, and The Rebellion.\nNo matter what you hear about me, or my past? Please don't judge me.\nI wouldn't judge you based on your past, so I expect the same from you."
     voice "se/y01182.ogg"
-    char_ulric "记住我为你{i}和{/i}反抗军做过的事。\n不管你听到关于我或我过去的什么？请别评判我。\n我不会因为你的过去评判你，所以我也期望你能同样对我。"
+    char_ulric "记住我为{i}你{/i}和反抗军做过的事。\n不管你听到关于我或我过去的什么？请别评判我。\n我不会因为你的过去评判你，所以我也期望你能同样对我。"
 
 # game/script.rpy:166349
 translate chinese map170_4ea38650:
@@ -74496,7 +74496,7 @@ translate chinese map170_e9288e20:
 translate chinese map170_3647ef8d:
 
     # char_ulric "It was especially hard since we're kind of \"involved\", now.\nIs that the right word for what we are? I don't really know.\nAfter what we did back in Mazeo, I think it's a safe term."
-    char_ulric "尤其难开口，因为我们现在算是“有牵连”了。\n这个词形容我们合适吗？我也不太清楚。\n鉴于我们在马泽奥做过的事，我想这说法还算稳妥。"
+    char_ulric "尤其难开口，因为我们现在算是“在一起”了。\n这个词形容我们合适吗？我也不太清楚。\n鉴于我们在马泽奥做过的事，我想这说法还算稳妥。"
 
 # game/script.rpy:166395
 translate chinese map170_c3951502:
@@ -74546,7 +74546,7 @@ translate chinese map170_8801b92a:
 translate chinese map170_bbaf2b77:
 
     # "He gives me another one of those trademark smirks.{w}\nI get the feeling that he really does use alcohol as a social crutch.{w}\nHe's much more open and lively while under the influence. Is that bad?"
-    "他又给了我一个标志性的坏笑。{w}\n我感觉他确实把酒精当作社交的拐杖。{w}\n他在酒意上头时开放活泼得多。这算坏事吗？"
+    "他又给了我一个标志性的坏笑。{w}\n我感觉他确实把酒精当作社交的拐杖。{w}\n他喝过酒后开放活泼得多。这算坏事吗？"
 
 # game/script.rpy:166443
 translate chinese map170_f03ae7c9:
@@ -74748,7 +74748,7 @@ translate chinese map169_70e9f5c2:
 translate chinese map169_8ff33e28:
 
     # "There's definitely more on her mind, I can tell.{w}\nBut I can't force her to open up, so I stand there in silence.{w}\nMy ears are open to her, as long as she decides to speak."
-    "我能看出她心里肯定还有别的事。{w}\n但我不能逼她开口，所以我默默站着。{w}\n只要她愿意说，我的耳朵为她敞开。"
+    "我能看出她心里肯定还有别的事。{w}\n但我不能逼她开口，所以我默默站着。{w}\n只要她愿意说，我随时都愿意听。"
 
 # game/script.rpy:166770
 translate chinese map169_d839ca15:
@@ -74840,7 +74840,7 @@ translate chinese map169_f945feb4:
 translate chinese map169_c225c204:
 
     # char_valessa "But they were killers. They broke the law. They pillaged.\nThey were part of the reason The Triumvirate launched The Occupation.\nI know what you're going to say. \"They wanted the idol\". Piracy was a cover."
-    char_valessa "但他们是杀人犯。他们违法。他们掠夺。\n他们是三人执政团发动“占领”的原因之一。\n我知道你要说什么。“他们想要偶像”。海盗只是幌子。"
+    char_valessa "但他们是杀人犯。他们违法。他们掠夺。\n他们是三人执政团发动“占领”的原因之一。\n我知道你要说什么。“他们想要灵像”。海盗只是幌子。"
 
 # game/script.rpy:166898
 translate chinese map169_48b17235:
@@ -75120,7 +75120,7 @@ translate chinese map174_63b20368:
 translate chinese map174_01187469:
 
     # "He lets out a soft laugh, and rests his hands behind his head, laying back.{w}\nMy heart beats incredibly fast, as this revelation slowly processes itself in my head.{w}\nThe final vision The Monarchy had given me, was of Pro betraying all of us...?"
-    "他轻笑一声，双手枕在脑后，向后躺下。{w}\n随着这个发现在我脑中慢慢消化，我的心跳得飞快。{w}\n王室给我的最后一段幻象，是普洛背叛我们所有人……？"
+    "他轻笑一声，双手枕在脑后，向后躺下。{w}\n随着这个发现在我脑中慢慢消化，我的心跳得飞快。{w}\n君主国给我的最后一段幻象，是普洛背叛我们所有人……？"
 
 # game/script.rpy:167374
 translate chinese map174_30fe9eb3:
@@ -75236,7 +75236,7 @@ translate chinese map174_cfbe5870:
     # voice "se/y01296.ogg"
     # char_pro "Why did they hate me...?\nWhy did they throw me away like garbage?\nIf they weren't proud of me, are they proud now...?"
     voice "se/y01296.ogg"
-    char_pro "他们为什么恨我……？\n他们为什么像扔垃圾一样把我扔掉？\n如果他们不曾以我为傲，那现在呢……？"
+    char_pro "他们为什么恨我……？\n他们为什么像扔垃圾一样把我扔掉？\n如果他们不曾以我为傲，那他们现在会以我为傲吗……？"
 
 # game/script.rpy:167557
 translate chinese map174_95765573:
@@ -75270,7 +75270,7 @@ translate chinese map174_a7bc0d66:
 translate chinese map174_c7b9f23f:
 
     # "No matter what happened — he'd always be welcome at my side.{w}\nWe continue to kiss, the sweet scent of the candle slowly filling the room.{w}\nThe perfect atmosphere, the perfect mood, to express our feelings for one another."
-    "无论发生什么——他永远都欢迎留在我身边。{w}\n我们继续亲吻，蜡烛的甜香慢慢充满房间。{w}\n完美的氛围，完美的情绪，去表达我们对彼此的感情。"
+    "无论发生什么，我身边永远有他的位置。{w}\n我们继续亲吻，蜡烛的甜香慢慢充满房间。{w}\n完美的氛围，完美的情绪，去表达我们对彼此的感情。"
 
 # game/script.rpy:167626
 translate chinese map174_23fd8560:
@@ -76244,7 +76244,7 @@ translate chinese Fortaime2_map012_7_0_2807467b:
     # voice "se/y00339.ogg"
     # char_fortaime "You two make a good duo. I'm just unnecessary at this point.\nBut if I became The Elder? We could all work as a team.\nIt'd be like we're a Triumvirate of our own...!"
     voice "se/y00339.ogg"
-    char_fortaime "你们俩是很棒的搭档。我现在只是多余的。\n但如果我当上长老呢？我们就能作为一个团队共事。\n就像我们自己组建了一个三人执政团……！"
+    char_fortaime "你们俩是很棒的搭档。我现在只是多余的。\n但如果我当上长老呢？我们就能一起共事。\n就像我们自己组建了一个三人执政团……！"
 
 # game/script.rpy:169952
 translate chinese Fortaime2_map012_7_0_4336c903:
@@ -76766,7 +76766,7 @@ translate chinese click_map012_22_EV022_30b136cf:
 translate chinese click_map012_23_EV023_5edc7922:
 
     # "The leaves are swaying in the wind.{w}\nA few fall down, and they soar around majestically.{w}\nWe're far enough from Eastcrown that they didn't wilt.{w}\nIt's amazing how much the spirits helped out our settlement."
-    "树叶在风中摇曳。{w}\n几片飘落下来，庄严地盘旋飞舞。{w}\n我们离东冠足够远，所以它们没有枯萎。{w}\n精灵对我们的聚居地帮助之大，真是不可思议。"
+    "树叶在风中摇曳。{w}\n几片飘落下来，庄严地盘旋飞舞。{w}\n我们离东冠足够远，所以它们没有枯萎。{w}\n众灵对我们的聚居地帮助之大，真是不可思议。"
 
 # game/script.rpy:171049
 translate chinese map026_ab548722:
@@ -76832,7 +76832,7 @@ translate chinese map026_ae5f5e58:
 translate chinese map026_e68d9238:
 
     # char_damek "Relieved, with a side of being terrified.\nAt least, that's how I feel about all of this.\nFinding another Spirit Idol. This changes everything."
-    char_damek "如释重负，同时又怕得要命。\n至少，我对这一切的感觉就是这样。\n又找到一尊精灵灵像。这会改变一切。"
+    char_damek "如释重负，同时又怕得要命。\n至少，我对这一切的感觉就是这样。\n又找到一尊灵像。这会改变一切。"
 
 # game/script.rpy:171218
 translate chinese map026_0dafdfe2:
@@ -76946,7 +76946,7 @@ translate chinese map026_c0cc40c5:
 translate chinese map027_b1fd2403:
 
     # "Halin finally caught up with his master.{w}\nHe was slightly out of breath, having run a great distance.{w}\nBut his annoyance outweighed anything. He was lied to."
-    "哈林终于追上了他的主人。{w}\n他跑了很远，微微有些气喘。{w}\n但恼怒压过了一切。他被骗了。"
+    "哈林终于追上了他的师父。{w}\n他跑了很远，微微有些气喘。{w}\n但恼怒压过了一切。他被骗了。"
 
 # game/script.rpy:171512
 translate chinese map027_859d37ca:
@@ -77158,7 +77158,7 @@ translate chinese map021_9a4a45d8:
 translate chinese map021_f2bccefa:
 
     # char_fortaime "And look at the Spirit Idol! That's so cool!\nEven if it's not lit up, it's still beautiful."
-    char_fortaime "看那尊精灵灵像！太酷了！\n就算它没亮起来，也依然很美。"
+    char_fortaime "看那尊灵像！太酷了！\n就算它没亮起来，也依然很美。"
 
 # game/script.rpy:172065
 translate chinese map021_efcd6b53:
@@ -77238,7 +77238,7 @@ translate chinese click_map014_3_EV003_8673176f:
     # voice "se/a00058.ogg"
     # char_fortaime "I always knew that Mylus had people guard Sauleberg.\nBut I thought it was to keep the spirit idol safe.\nNow we know, it's so they don't find out it's dark."
     voice "se/a00058.ogg"
-    char_fortaime "我一直知道迈勒斯派人守卫着索尔伯格。\n但我以为那是为了保护精灵灵像。\n现在我们知道，是为了不让人发现它已经黯淡了。"
+    char_fortaime "我一直知道迈勒斯派人守卫着索尔伯格。\n但我以为那是为了保护灵像。\n现在我们知道，是为了不让人发现它已经黯淡了。"
 
 # game/script.rpy:172463
 translate chinese click_map014_3_EV003_fb6b5d49:
@@ -77410,7 +77410,7 @@ translate chinese click_map014_10_EV010_ceecc327:
 translate chinese click_map014_10_EV010_aabde3af:
 
     # char_valessa "I can't believe we've lost our connection with the spirits.\nThere must be some way to get it back, right...?"
-    char_valessa "真不敢相信，我们失去了与精灵的联系。\n总有办法恢复的吧，对吧……？"
+    char_valessa "真不敢相信，我们失去了与众灵的联系。\n总有办法恢复的吧，对吧……？"
 
 # game/script.rpy:172749
 translate chinese click_map014_10_EV010_51e22999:
@@ -77500,7 +77500,7 @@ translate chinese click_map014_10_EV010_a8ffa70e_1:
 translate chinese click_map014_10_EV010_205ffc1b:
 
     # "We look at each other, and smile.{w}\nThere had to be a way to reconnect Valinorth with the spirits.{w}\nWe had a long journey ahead of us, and plenty of time to learn how."
-    "我们相视而笑。{w}\n一定有办法让瓦利诺斯重新与精灵相连。{w}\n前路漫长，我们有充足的时间去弄清楚。"
+    "我们相视而笑。{w}\n一定有办法让瓦利诺斯重新与众灵相连。{w}\n前路漫长，我们有充足的时间去弄清楚。"
 
 # game/script.rpy:172833
 translate chinese click_map014_40_EV040_b19efcda:
@@ -77536,7 +77536,7 @@ translate chinese click_map014_70_EV070_ceecc327:
 translate chinese click_map014_70_EV070_aabde3af:
 
     # char_valessa "I can't believe we've lost our connection with the spirits.\nThere must be some way to get it back, right...?"
-    char_valessa "真不敢相信，我们失去了与精灵的联系。\n总有办法恢复的吧，对吧……？"
+    char_valessa "真不敢相信，我们失去了与众灵的联系。\n总有办法恢复的吧，对吧……？"
 
 # game/script.rpy:172889
 translate chinese click_map014_70_EV070_51e22999:
@@ -77626,7 +77626,7 @@ translate chinese click_map014_70_EV070_a8ffa70e_1:
 translate chinese click_map014_70_EV070_205ffc1b:
 
     # "We look at each other, and smile.{w}\nThere had to be a way to reconnect Valinorth with the spirits.{w}\nWe had a long journey ahead of us, and plenty of time to learn how."
-    "我们相视而笑。{w}\n一定有办法让瓦利诺斯重新与精灵相连。{w}\n前路漫长，我们有充足的时间去弄清楚。"
+    "我们相视而笑。{w}\n一定有办法让瓦利诺斯重新与众灵相连。{w}\n前路漫长，我们有充足的时间去弄清楚。"
 
 # game/script.rpy:173009
 translate chinese map022_d93513bb:
@@ -77734,7 +77734,7 @@ translate chinese map022_de45a72a:
 translate chinese map022_c460cb60:
 
     # "The tone of his voice implied that he wouldn't be going with us.{w}\nIf he's seen it before, then I doubt that staying behind was a big deal.{w}\nBut for some reason, Fortaime and Valessa seem a bit upset at hearing this."
-    "他的语气暗示他不会和我们一起去。{w}\n如果他以前见过，那我想留下来也没什么大不了。{w}\n但不知为何，福泰姆和瓦莱莎听到后似乎有些失落。"
+    "他的语气暗示他不会和我们一起去。{w}\n如果他以前见过，那我想他留下来也没什么大不了。{w}\n但不知为何，福泰姆和瓦莱莎听到后似乎有些失落。"
 
 # game/script.rpy:173266
 translate chinese map022_dd6dabdc:
@@ -78430,7 +78430,7 @@ translate chinese Ulric3_map015_58_0_56d4d04a:
     # voice "se/y00456.ogg"
     # char_ulric "I'll be honest. He knew he was going to die. He used his final moments to get the blade.\nSome people think it's a little fishy. How could we win so easily? Did they let us win?\nI don't think it's that deep. They just didn't expect our leader to effectively commit suicide."
     voice "se/y00456.ogg"
-    char_ulric "老实说，他知道自己会死。他用最后的时刻拿到了那把剑。\n有些人觉得有点蹊跷。我们怎么能赢得这么容易？是他们故意放水吗？\n我觉得没那么复杂。他们只是没料到我方领袖会等同于自杀。"
+    char_ulric "老实说，他知道自己会死。他用最后的时刻拿到了那把剑。\n有些人觉得有点蹊跷。我们怎么能赢得这么容易？是他们故意放水吗？\n我觉得没那么复杂。他们只是没料到我方领袖会那样自杀式进攻。"
 
 # game/script.rpy:174843
 translate chinese Ulric4_map015_58_0_c5bc3cbd:
@@ -78462,7 +78462,7 @@ translate chinese Ulric4_map015_58_0_75dac8d9:
     # voice "se/y00459.ogg"
     # char_ulric "I guess breaking Valinorth's non-partisan stance made perfect sense to him.\nEvery little piece was in place. The liberation of Alestia was finally attainable.\nI just hope that you're everything he thought you'd be. Wielding that blade isn't easy."
     voice "se/y00459.ogg"
-    char_ulric "我猜打破瓦利诺斯的中立立场，在他看来完全合理。\n每一小块拼图都各就各位。阿莱斯蒂亚的解放终于触手可及。\n我只希望你能如他所想的那般。挥舞那把剑可不容易。"
+    char_ulric "我猜打破瓦利诺斯的中立立场，在他看来完全合理。\n每一小块拼图都各就各位。阿莱斯蒂亚的解放终于触手可及。\n我只希望你不负他的期望。挥舞那把剑可不容易。"
 
 # game/script.rpy:174885
 translate chinese Ulric4_map015_58_0_37a85e13:
@@ -78502,7 +78502,7 @@ translate chinese Ulric4_map015_58_0_59f130b1:
     # voice "se/y00463.ogg"
     # char_ulric "I'm still surprised though, he had a small vision when he did.\nPerhaps he has some spiritual energy inside of him...\nEither way — hopefully I went out in a blaze of glory."
     voice "se/y00463.ogg"
-    char_ulric "不过我还是很惊讶，他那样做时看到了一个小幻象。\n也许他体内也有某种精灵之力……\n不管怎样——但愿我是轰轰烈烈地死去的。"
+    char_ulric "不过我还是很惊讶，他那样做时看到了一个小幻象。\n也许他体内也有某种灵力……\n不管怎样——但愿我是轰轰烈烈地死去的。"
 
 # game/script.rpy:174935
 translate chinese Ulric5_map015_58_0_c5a555d4:
@@ -78522,7 +78522,7 @@ translate chinese Ulric5_map015_58_0_35021a7e:
     # voice "se/y00465.ogg"
     # char_ulric "I can understand a vision of Valinorth being attacked. But seeing me, and watching me die?\nWe've never even met. How is it possible to know what I look like, and how I act?\nI know the spirits give visions of the future, but that's so specific; and it won't happen."
     voice "se/y00465.ogg"
-    char_ulric "我能理解看到瓦利诺斯遭袭的幻象。但看到我，亲眼看着我死？\n我们甚至从未见过面。怎么可能知道我的长相和举止？\n我知道精灵会赐予未来的幻象，但那也太具体了；而且它不会发生。"
+    char_ulric "我能理解看到瓦利诺斯遭袭的幻象。但看到我，亲眼看着我死？\n我们甚至从未见过面。怎么可能知道我的长相和举止？\n我知道众灵会赐予未来的幻象，但那也太具体了；而且它不会发生。"
 
 # game/script.rpy:174958
 translate chinese Ulric5_map015_58_0_006516d2:
@@ -78546,7 +78546,7 @@ translate chinese Ulric5_map015_58_0_f6d1c30f:
 translate chinese Ulric5_map015_58_0_a06b35b1:
 
     # char_ulric "There's no way he should be able to. I imagine even {i}you're{/i} having trouble.\nIt's not meant for just anybody to wield. You need an incredible spiritual connection.\nDamek might have a small one, but Sovy? A man like that has {i}no{/i} connection to the spirits."
-    char_ulric "他绝不可能做到。我猜就连{i}你{/i}驾驭起来也很吃力。\n它不是随便什么人都能用的。你需要与精灵有非同寻常的联结。\n达梅克或许有一点，但索维？那样的人与精灵{i}毫无{/i}联结。"
+    char_ulric "他绝不可能做到。我猜就连{i}你{/i}驾驭起来也很吃力。\n它不是随便什么人都能用的。你需要与众灵有非同寻常的联结。\n达梅克或许有一点，但索维？那样的人与众灵{i}毫无{/i}联结。"
 
 # game/script.rpy:175000
 translate chinese Ulric5_map015_58_0_140a4159:
@@ -78590,7 +78590,7 @@ translate chinese Ulric6_map015_58_0_34f8e767:
 translate chinese Ulric6_map015_58_0_3d107c80:
 
     # char_ulric "You mean how do I feel without our most valuable assets? Pretty terrible.\nWithout visions to guide us, and the power of that blade, we'd be dead.\nThere's no way we could take them down through conventional means."
-    char_ulric "你是说失去我们最宝贵的资产后我感觉如何？糟透了。\n没有幻象指引我们，没有那把剑的力量，我们早就死了。\n我们绝不可能用常规手段扳倒他们。"
+    char_ulric "你是说失去我们最宝贵的战力后我感觉如何？糟透了。\n没有幻象指引我们，没有那把剑的力量，我们早就死了。\n我们绝不可能用常规手段扳倒他们。"
 
 # game/script.rpy:175047
 translate chinese Ulric6_map015_58_0_c6591291:
@@ -78998,7 +78998,7 @@ translate chinese Ulric10_map015_58_0_f1a60723:
     # voice "se/y00514.ogg"
     # char_ulric "The occupation didn't make things too much better. It's still dangerous.\nMazeo's spirit idol was also on its final days. Dim and defeated.\nAt least, that's what we thought — until very recently."
     voice "se/y00514.ogg"
-    char_ulric "占领也没让情况好多少。那里依然危险。\n马泽奥的精灵灵像也到了最后的日子。黯淡而衰败。\n至少我们一直是这么以为的——直到最近。"
+    char_ulric "占领也没让情况好多少。那里依然危险。\n马泽奥的灵像也到了最后的日子。黯淡而衰败。\n至少我们一直是这么以为的——直到最近。"
 
 # game/script.rpy:175726
 translate chinese Ulric13_map015_58_0_5f23e88a:
@@ -79010,7 +79010,7 @@ translate chinese Ulric13_map015_58_0_5f23e88a:
 translate chinese Ulric13_map015_58_0_0ec0327a:
 
     # char_ulric "Well, there's a church in Mazeo. It's supposed to be for Triumvirate worship.\nAt the altar there, rests a very dim spirit idol. We assumed it was dying.\nBut it's not even the true spirit idol. The true one rests deep underground."
-    char_ulric "嗯，马泽奥有座教堂。本该是用来供奉三人执政团的。\n那里的祭坛上摆着一尊非常黯淡的精灵灵像。我们以为它快消亡了。\n但它根本不是真正的精灵灵像。真正的那尊深埋在地下。"
+    char_ulric "嗯，马泽奥有座教堂。本该是用来供奉三人执政团的。\n那里的祭坛上摆着一尊非常黯淡的灵像。我们以为它快消亡了。\n但它根本不是真正的灵像。真正的那尊深埋在地下。"
 
 # game/script.rpy:175741
 translate chinese Ulric13_map015_58_0_83f4ce4e:
@@ -79058,7 +79058,7 @@ translate chinese Ulric12_map015_58_0_ac994b68:
     # voice "se/y00520.ogg"
     # char_ulric "If The Triumvirate did it, we have to wonder why.\nDo the spirit idols pose some threat to their rule...?\nThat's why Damek wants to try tapping into Mazeo's true idol."
     voice "se/y00520.ogg"
-    char_ulric "如果是三人执政团干的，我们就得想想为什么。\n精灵灵像是否对他们的统治构成了某种威胁……？\n这就是达梅克想尝试汲取马泽奥那尊真灵像力量的原因。"
+    char_ulric "如果是三人执政团干的，我们就得想想为什么。\n灵像是否对他们的统治构成了某种威胁……？\n这就是达梅克想尝试汲取马泽奥那尊真正灵像的力量的原因。"
 
 # game/script.rpy:175815
 translate chinese Ulric12_map015_58_0_c067cd8e:
@@ -79114,7 +79114,7 @@ translate chinese Ulric15_map015_58_0_8aa618dc:
 translate chinese Ulric15_map015_58_0_ac5cb89c:
 
     # char_ulric "Yeah. The elimination of piracy was just an excuse.\nI think they were searching for the spirit idol underneath Mazeo.\nBut what they wanted it for — and what they'd do with it — I have no idea."
-    char_ulric "是啊。剿灭海盗只是个借口。\n我觉得他们在寻找马泽奥地下的精灵灵像。\n但他们要它做什么——会拿它干什么——我毫无头绪。"
+    char_ulric "是啊。剿灭海盗只是个借口。\n我觉得他们在寻找马泽奥地下的灵像。\n但他们要它做什么——会拿它干什么——我毫无头绪。"
 
 # game/script.rpy:175899
 translate chinese Ulric15_map015_58_0_86d36094:
@@ -80328,7 +80328,7 @@ translate chinese TheChoice_map023_1_0_f806a435:
 translate chinese TheChoice_map023_1_0_616ef49a:
 
     # char_ulric "Now, I already told you about the spirit idol they found in Mazeo.\nDamek wants to use you, and that blade, to tap into its power.\nHe thinks it will give us more of a chance to win this war."
-    char_ulric "那么，我已经跟你说过他们在马泽奥发现的那尊精灵灵像了。\n达梅克想利用你，还有那把剑，来汲取它的力量。\n他认为这能让我们更有机会打赢这场战争。"
+    char_ulric "那么，我已经跟你说过他们在马泽奥发现的那尊灵像了。\n达梅克想利用你，还有那把剑，来汲取它的力量。\n他认为这能让我们更有机会打赢这场战争。"
 
 # game/script.rpy:178438
 translate chinese TheChoice_map023_1_0_2cd87413:
@@ -80340,7 +80340,7 @@ translate chinese TheChoice_map023_1_0_2cd87413:
 translate chinese TheChoice_map023_1_0_0663f853:
 
     # char_ulric "If you aren't already aware, a new spirit idol was found in Mazeo.\nDamek thinks we can use you, and that blade, to tap into its power.\nHe thinks it will give us more of a chance to win this war."
-    char_ulric "如果你还不知道，马泽奥发现了一尊新的精灵灵像。\n达梅克认为我们可以利用你，还有那把剑，来汲取它的力量。\n他认为这能让我们更有机会打赢这场战争。"
+    char_ulric "如果你还不知道，马泽奥发现了一尊新的灵像。\n达梅克认为我们可以利用你，还有那把剑，来汲取它的力量。\n他认为这能让我们更有机会打赢这场战争。"
 
 # game/script.rpy:178465
 translate chinese TheChoice_map023_1_0_7ab1f1fc:
@@ -80352,7 +80352,7 @@ translate chinese TheChoice_map023_1_0_7ab1f1fc:
 translate chinese TheChoice_map023_1_0_2fee8195:
 
     # char_fortaime "Wait, a {i}new{/i} spirit idol!? I didn't know that could happen.\nI thought we had all of them mapped out for a long time."
-    char_fortaime "等等，一尊{i}新的{/i}精灵灵像！？我不知道还能这样。\n我以为所有的灵像早就都被记录在案了。"
+    char_fortaime "等等，一尊{i}新的{/i}灵像！？我不知道还能这样。\n我以为所有的灵像早就都被记录在案了。"
 
 # game/script.rpy:178492
 translate chinese TheChoice_map023_1_0_71b98771:
@@ -80364,7 +80364,7 @@ translate chinese TheChoice_map023_1_0_71b98771:
 translate chinese TheChoice_map023_1_0_ba23e7ac:
 
     # char_ulric "I'll assume your studying abilities are limited in Valinorth.\nBut the occupation was just a cover for The Triumvirate's true goal.\nThey were looking for this spirit idol — so they could destroy it."
-    char_ulric "我猜你们在瓦利诺斯的学习条件有限。\n但那次占领只是三人执政团真正目的的掩护。\n他们在找这尊精灵灵像——好摧毁它。"
+    char_ulric "我猜你们在瓦利诺斯的学习条件有限。\n但那次占领只是三人执政团真正目的的掩护。\n他们在找这尊灵像——好摧毁它。"
 
 # game/script.rpy:178519
 translate chinese TheChoice_map023_1_0_b181659e:
@@ -80424,7 +80424,7 @@ translate chinese TheChoice_map023_1_0_eeadd783:
 translate chinese TheChoice_map023_1_0_806f117a:
 
     # char_valessa "So Damek wants to use this new spirit idol for power?\nIsn't that risky? Does he even know what will happen?"
-    char_valessa "所以达梅克想用这尊新的精灵灵像来获取力量？\n那不是很冒险吗？他到底知不知道会发生什么？"
+    char_valessa "所以达梅克想用这尊新的灵像来获取力量？\n那不是很冒险吗？他到底知不知道会发生什么？"
 
 # game/script.rpy:178654
 translate chinese TheChoice_map023_1_0_021d414e:
@@ -80442,7 +80442,7 @@ translate chinese TheChoice_map023_1_0_e8128180:
 translate chinese TheChoice_map023_1_0_dc2a7d4c:
 
     # "He stares directly at me. He must be talking about my power.{w}\nIt was gifted to me directly from Valinorth's now-dim spirit idol."
-    "他直直地盯着我。他一定是在说我的力量。{w}\n那是瓦利诺斯如今已黯淡的精灵灵像直接赐予我的。"
+    "他直直地盯着我。他一定是在说我的力量。{w}\n那是瓦利诺斯如今已黯淡的灵像直接赐予我的。"
 
 # game/script.rpy:178707
 translate chinese TheChoice_map023_1_0_c35856af:
@@ -80868,7 +80868,7 @@ translate chinese click_map016_8_EV008_7fe17546:
 translate chinese click_map016_8_EV008_806e7f0d:
 
     # char_jit_map008_1_0_111 "Didn't Damek frequent those underground tunnels?\nMaybe he was exposed to some level of spiritual energy.\nAt least enough to let him have a vision, or something."
-    char_jit_map008_1_0_111 "达梅克不是常去那些地下隧道吗？\n也许他接触过某种程度的灵能量。\n至少足以让他看到幻象之类的。"
+    char_jit_map008_1_0_111 "达梅克不是常去那些地下隧道吗？\n也许他接触过某种程度的灵力。\n至少足以让他看到幻象之类的。"
 
 # game/script.rpy:179811
 translate chinese click_map016_8_EV008_d18c14bb:
@@ -81072,7 +81072,7 @@ translate chinese click_map016_9_EV009_7fe17546:
 translate chinese click_map016_9_EV009_806e7f0d:
 
     # char_jit_map008_1_0_111 "Didn't Damek frequent those underground tunnels?\nMaybe he was exposed to some level of spiritual energy.\nAt least enough to let him have a vision, or something."
-    char_jit_map008_1_0_111 "达梅克不是常去那些地下隧道吗？\n也许他接触过某种程度的灵能量。\n至少足以让他看到幻象之类的。"
+    char_jit_map008_1_0_111 "达梅克不是常去那些地下隧道吗？\n也许他接触过某种程度的灵力。\n至少足以让他看到幻象之类的。"
 
 # game/script.rpy:180108
 translate chinese click_map016_9_EV009_d18c14bb:
@@ -81774,7 +81774,7 @@ translate chinese Pro11_map016_16_0_6f0710ee:
     # voice "se/y00543.ogg"
     # char_pro "Watching him on the war table is nothing short of an honor.\nI can't wait to get an interview with the guy. His story needs to be told.\nAfter this all blows over, I'm sure he'll go down in history as a hero."
     voice "se/y00543.ogg"
-    char_pro "看他在作战沙盘前运筹帷幄，简直是一种荣幸。\n我迫不及待想采访他。他的故事值得被讲述。\n等这一切平息之后，我敢肯定他会作为英雄载入史册。"
+    char_pro "看他在作战桌前运筹帷幄，简直是一种荣幸。\n我迫不及待想采访他。他的故事值得被讲述。\n等这一切平息之后，我敢肯定他会作为英雄载入史册。"
 
 # game/script.rpy:181133
 translate chinese Pro2_map016_16_0_a27e3111:
@@ -81854,7 +81854,7 @@ translate chinese Pro2_map016_16_0_3b382e00:
     # voice "se/y00551.ogg"
     # char_pro "With the right training, I think you'll be fine.\nSo that's what we'll do when we get to Mazeo. Train.\nAnd no complaining about the hours. The fate of Alestia is at stake."
     voice "se/y00551.ogg"
-    char_pro "只要训练得当，我想你会没事的。\n所以到了马泽奥我们就这么办。训练。\n还有，别抱怨训练时间长。阿拉斯蒂亚的命运危在旦夕。"
+    char_pro "只要训练得当，我想你会没事的。\n所以到了马泽奥我们就这么办。训练。\n还有，别抱怨训练时间长。阿莱斯蒂亚的命运危在旦夕。"
 
 # game/script.rpy:181219
 translate chinese Pro2_map016_16_0_1c38e32f:
@@ -82358,7 +82358,7 @@ translate chinese Pro9_map016_16_0_9590ebc9:
 translate chinese Pro9_map016_16_0_835aecd9:
 
     # char_pro "Their rule goes really far back. Like, we don't know about a time {i}without{/i} them.\nA lot of people on Alestia consider them Gods, and say they created our world.\nBut there's no way to know for sure. They never answer questions like that."
-    char_pro "他们的统治可以追溯到很久以前。久到我们不知道还有{i}没有{/i}他们的时代。\n阿拉斯蒂亚的很多人把他们当作神明，说他们创造了我们的世界。\n但无从确证。他们从不回答这类问题。"
+    char_pro "他们的统治可以追溯到很久以前。久到我们不知道还有{i}没有{/i}他们的时代。\n阿莱斯蒂亚的很多人把他们当作神明，说他们创造了我们的世界。\n但无从确证。他们从不回答这类问题。"
 
 # game/script.rpy:181881
 translate chinese Pro9_map016_16_0_d768040f:
@@ -82430,7 +82430,7 @@ translate chinese Pro10_map016_16_0_4649635b:
     # voice "se/y00574.ogg"
     # char_pro "It has the ability to repurpose our spiritual energy.\nThat's how they make their army, right?\nMaybe they used it to gain immortality, too."
     voice "se/y00574.ogg"
-    char_pro "它有能力重新利用我们的灵能量。\n他们就是这样组建军队的，对吧？\n也许他们也用它来获得永生。"
+    char_pro "它有能力重新利用我们的灵力。\n他们就是这样组建军队的，对吧？\n也许他们也用它来获得永生。"
 
 # game/script.rpy:181979
 translate chinese Pro10_map016_16_0_5bc27bc7:
@@ -82450,7 +82450,7 @@ translate chinese Pro10_map016_16_0_35d40896:
 translate chinese Pro10_map016_16_0_18f5c727:
 
     # char_pro "I don't think any ruler is truly evil.\nThe needs of a world and its people are always changing.\nI think they're out of touch on what Alestia needs right now."
-    char_pro "我认为没有哪个统治者是真正邪恶的。\n一个世界及其人民的需求总是在变。\n我觉得他们已经不了解阿拉斯蒂亚现在需要什么了。"
+    char_pro "我认为没有哪个统治者是真正邪恶的。\n一个世界及其人民的需求总是在变。\n我觉得他们已经不了解阿莱斯蒂亚现在需要什么了。"
 
 # game/script.rpy:182006
 translate chinese Pro10_map016_16_0_32a424b6:
@@ -82676,7 +82676,7 @@ translate chinese click_map016_22_EV022_d179ab0e:
     # voice "se/a00099.ogg"
     # char_ulric "Aren't you two a little young to be drinking?"
     voice "se/a00099.ogg"
-    char_ulric "你们俩喝酒是不是太年轻了点？"
+    char_ulric "你们俩喝酒是不是还太年轻了？"
 
 # game/script.rpy:182264
 translate chinese click_map016_22_EV022_2b93a9f9:
@@ -82738,7 +82738,7 @@ translate chinese click_map016_44_EV044_20f1e9f2:
     # voice "se/a00114.ogg"
     # char_ulric "Isn't that because of the spiritual energy?"
     voice "se/a00114.ogg"
-    char_ulric "那不是因为灵能量吗？"
+    char_ulric "那不是因为灵力吗？"
 
 # game/script.rpy:182329
 translate chinese click_map016_44_EV044_b6e9f57a:
@@ -82774,7 +82774,7 @@ translate chinese click_map016_44_EV044_02a36515:
 translate chinese click_map016_44_EV044_1166d5e6:
 
     # char_pro "Don't say {i}never{/i}, Fortaime.\nI'm sure we'll figure it out one day.\nAlestia won't be unmapped forever."
-    char_pro "别说{i}永远{/i}，福泰姆。\n我相信总有一天我们会弄清楚的。\n阿拉斯蒂亚不会永远是未知的。"
+    char_pro "别说{i}永远{/i}，福泰姆。\n我相信总有一天我们会弄清楚的。\n阿莱斯蒂亚不会永远是未知的。"
 
 # game/script.rpy:182346
 translate chinese click_map016_44_EV044_cb3f6ed1:
@@ -83076,7 +83076,7 @@ translate chinese map024_e584133b:
 translate chinese map024_cda0d337:
 
     # "At least I didn't. Regardless of my feelings, I couldn't turn my back on Alestia.{w}\nIf I did that — I'd be saying my own life was more important than our entire world.{w}\nNo matter how hard I tried, there's no way I could convince myself that was true."
-    "至少我没有选择。不管我心里怎么想，我都无法背弃阿拉斯蒂亚。{w}\n如果我那样做——就等于在说我的命比整个世界更重要。{w}\n无论怎么努力，我都没法说服自己那是真的。"
+    "至少我没有选择。不管我心里怎么想，我都无法背弃阿莱斯蒂亚。{w}\n如果我那样做——就等于在说我的命比整个世界更重要。{w}\n无论怎么努力，我都没法说服自己那是真的。"
 
 # game/script.rpy:182709
 translate chinese map024_d0cc870f:
@@ -83510,7 +83510,7 @@ translate chinese Choices_map024_1_0_e5877a23:
 translate chinese Choices_map024_1_0_27013063:
 
     # char_valessa "That won't happen again, and Fortaime can't see that.\nHe wants to unite with the rest of Alestia, and give up our identity.\nWhy waste all of our resources preparing for something that won't happen."
-    char_valessa "那样的事不会再发生，而福泰姆看不到这一点。\n他想和阿拉斯蒂亚其他地方联合，放弃我们的身份。\n为什么要浪费我们所有人力，去防备一件不会发生的事。"
+    char_valessa "那样的事不会再发生，而福泰姆看不到这一点。\n他想和阿莱斯蒂亚其他地方联合，放弃我们的身份。\n为什么要浪费我们所有人力，去防备一件不会发生的事。"
 
 # game/script.rpy:183546
 translate chinese Choices_map024_1_0_49e44a45:
@@ -83636,7 +83636,7 @@ translate chinese Choices_map024_1_0_4858ef71:
 translate chinese Choices_map024_1_0_7639b0f6:
 
     # char_fortaime "We can travel the world together, creating alliances!\nAfter we save Alestia, we can reconnect with the spirits, too!\nWe'll have a huge network of allies — ready to take on any challenge."
-    char_fortaime "我们可以一起周游世界，缔结同盟！\n等我们拯救了阿拉斯蒂亚，还能重新与众灵建立联系！\n我们会有一个庞大的盟友网络——随时准备迎接任何挑战。"
+    char_fortaime "我们可以一起周游世界，缔结同盟！\n等我们拯救了阿莱斯蒂亚，还能重新与众灵建立联系！\n我们会有一个庞大的盟友网络——随时准备迎接任何挑战。"
 
 # game/script.rpy:183784
 translate chinese Choices_map024_1_0_43478543:
@@ -83834,7 +83834,7 @@ translate chinese Choices_map024_1_0_2de1c578:
 translate chinese Choices_map024_1_0_3958417b:
 
     # "Not only that, but our culture, and hierarchy were important too.{w}\nThere'd be no place for Seers and Scribes in the rest of Alestia.{w}\nAfter this was all said and done, Valinorth would remain strong and free."
-    "不仅如此，我们的文化和等级制度也很重要。{w}\n在阿拉斯蒂亚其他地方，先知和书记官将无处容身。{w}\n等这一切尘埃落定，瓦利诺斯仍会强大而自由。"
+    "不仅如此，我们的文化和等级制度也很重要。{w}\n在阿莱斯蒂亚其他地方，先知和书记官将无处容身。{w}\n等这一切尘埃落定，瓦利诺斯仍会强大而自由。"
 
 # game/script.rpy:184242
 translate chinese Choices_map024_1_0_307f882d:
@@ -84278,7 +84278,7 @@ translate chinese click_map048_1_EV001_b0ca7e6e:
 translate chinese click_map048_1_EV001_8aba2007:
 
     # char_the_triumvirate "Do you act in Alestia's best interests? Or in the spirits?\nUntil now, everyone in Valinorth assumed that the two aligned.\nBut things are changing. They're starting to make a push."
-    char_the_triumvirate "你是为阿拉斯蒂亚的最大利益行事？还是为众灵？\n直到如今，瓦利诺斯所有人都以为二者是一致的。\n但情况在变。他们开始有所行动了。"
+    char_the_triumvirate "你是为阿莱斯蒂亚的最大利益行事？还是为众灵？\n直到如今，瓦利诺斯所有人都以为二者是一致的。\n但情况在变。他们开始有所行动了。"
 
 # game/script.rpy:185390
 translate chinese click_map048_1_EV001_0befb614:
@@ -84314,7 +84314,7 @@ translate chinese click_map048_1_EV001_1dfcacba:
 translate chinese click_map048_1_EV001_d4e1f4b2:
 
     # "They motion to the idol at the back of the room, before waving their arm.{w}\nAs the ability to move returns to my body, I stumble, failing to balance myself.{w}\nHow is it possible to do this...? Can they manipulate spiritual energy without the blade?"
-    "他们指向房间后方的灵像，然后一挥手。{w}\n当身体恢复行动能力时，我踉跄了一下，没能站稳。{w}\n这怎么可能做到……？他们不用那把剑就能操控灵能量吗？"
+    "他们指向房间后方的灵像，然后一挥手。{w}\n当身体恢复行动能力时，我踉跄了一下，没能站稳。{w}\n这怎么可能做到……？他们不用那把剑就能操控灵力吗？"
 
 # game/script.rpy:185451
 translate chinese click_map048_1_EV001_2f3cf862:
@@ -84418,7 +84418,7 @@ translate chinese map032_1e63964b:
 translate chinese map032_1e0d84ad:
 
     # char_fortaime "Oh, hey! Good morning, [firstname].\nI saw all this dust, and couldn't help myself.\nSure, it lost me a few hours of sleep, but I don't care."
-    char_fortaime "哦，嘿！早上好，[firstname]。\n看到这么多灰尘，我实在忍不住。\n是，这让我少睡了几小时，但我不在乎。"
+    char_fortaime "哦，嘿！早上好，[firstname]。\n看到这么多灰尘，我实在忍不住。\n确实，这让我少睡了几小时，但我不在乎。"
 
 # game/script.rpy:185673
 translate chinese map032_a04a1607:
@@ -84430,7 +84430,7 @@ translate chinese map032_a04a1607:
 translate chinese map032_1e0d84ad_1:
 
     # char_fortaime "Oh, hey! Good morning, [firstname].\nI saw all this dust, and couldn't help myself.\nSure, it lost me a few hours of sleep, but I don't care."
-    char_fortaime "哦，嘿！早上好，[firstname]。\n看到这么多灰尘，我实在忍不住。\n是，这让我少睡了几小时，但我不在乎。"
+    char_fortaime "哦，嘿！早上好，[firstname]。\n看到这么多灰尘，我实在忍不住。\n确实，这让我少睡了几小时，但我不在乎。"
 
 # game/script.rpy:185688
 translate chinese map032_0afaa91f:
@@ -85702,7 +85702,7 @@ translate chinese map025_d53a5ea5:
 translate chinese map025_cd78c317:
 
     # char_fortaime "As a team — we can do this.\nI'm stronger for having you by my side."
-    char_fortaime "作为一个团队——我们做得到。\n有你在身边，我变得更强了。"
+    char_fortaime "只要并肩作战——我们做得到。\n有你在身边，我变得更强了。"
 
 # game/script.rpy:188796
 translate chinese map025_9eadf2d5:
@@ -85786,7 +85786,7 @@ translate chinese map028_749a889e:
 translate chinese map028_1f23371b:
 
     # char_the_triumvirate "It appears that things have finally begun.\nDid you have your audience with The Seer, Master?"
-    char_the_triumvirate "看来一切终于开始了。\n师父，您和先知会过面了吗？"
+    char_the_triumvirate "看来一切终于开始了。\n主上，您和先知会过面了吗？"
 
 # game/script.rpy:189251
 translate chinese map028_a552dd2e:
@@ -85798,7 +85798,7 @@ translate chinese map028_a552dd2e:
 translate chinese map028_f59d3f52:
 
     # char_the_triumvirate "It appears that things have finally begun.\nDid you have your audience with The Seeress, Master?"
-    char_the_triumvirate "看来一切终于开始了。\n师父，您和先知会过面了吗？"
+    char_the_triumvirate "看来一切终于开始了。\n主上，您和先知会过面了吗？"
 
 # game/script.rpy:189279
 translate chinese map028_bfe9b07f:
@@ -85870,7 +85870,7 @@ translate chinese map028_ae550574:
 translate chinese map028_c8903453:
 
     # "The other Triumvir follows in turn, lowering his hood.{w}\nHowever, their master chooses not to do the same."
-    "另一位执政官也跟着放下兜帽。{w}\n然而，他们的师父却选择不这么做。"
+    "另一位执政官也跟着放下兜帽。{w}\n然而，他们的主上却选择不这么做。"
 
 # game/script.rpy:189455
 translate chinese map028_50374241:
@@ -86190,7 +86190,7 @@ translate chinese click_map088_9_EV009_df091f1b:
 translate chinese click_map088_9_EV009_2c9cb382:
 
     # "I notice the streams of water are in full flow today.{w}\nWe siphon off water from falls higher up in the mountains.{w}\nThat's how we fill the water tank each and every day.{w}\nEach morning, every citizen does a \"water run\", so to speak."
-    "我注意到今天水流淌得满满当当。{w}\n我们从山上更高处的瀑布引水。{w}\n我们每天就是这样把水塔灌满的。{w}\n每天早晨，每个村民都要跑一趟“取水”，可以这么说。"
+    "我注意到今天的水流很充沛。{w}\n我们从山上更高处的瀑布引水。{w}\n我们每天就是这样把水塔灌满的。{w}\n每天早晨，每个村民都要跑一趟“取水”，可以这么说。"
 
 # game/script.rpy:190638
 translate chinese click_map088_9_EV009_5807d5cf:
@@ -86580,7 +86580,7 @@ translate chinese Valessa2_map088_177_1_6dcfcce1:
     # voice "se/y00194.ogg"
     # char_valessa "I must sound like an awful person right now.\nI just feel like we all need to act professionally...!"
     voice "se/y00194.ogg"
-    char_valessa "我现在听起来一定像个很糟的人。\n我只是觉得，我们都该表现得专业些……！"
+    char_valessa "我现在听起来一定像个很糟的人。\n我只是觉得，我们都该拿出该有的担当……！"
 
 # game/script.rpy:191339
 translate chinese Valessa2_map088_177_1_c16a1229:
@@ -86752,7 +86752,7 @@ translate chinese Valessa3_map088_177_1_9072c197:
 translate chinese map097_bf15c44e:
 
     # "Pro slammed his hand of cards down on the table.{w}\nHis opponents scoffed, and shouted accusations of cheating.{w}\nHe smirked as he made his way to the bar, laughing them off.{w}\nWith his newfound riches, he'd celebrate over a drink."
-    "普洛把手里那副牌重重摔在桌上。{w}\n他的对手嗤之以鼻，大喊他出老千。{w}\n他咧嘴轻笑，一边走向吧台，一边把那些话当耳旁风。{w}\n靠着新到手的钱财，他要喝一杯庆祝庆祝。"
+    "普洛把手里的牌重重摔在桌上。{w}\n他的对手嗤之以鼻，大喊他出老千。{w}\n他咧嘴轻笑，一边走向吧台，一边把那些话当耳旁风。{w}\n靠着新到手的钱财，他要喝一杯庆祝庆祝。"
 
 # game/script.rpy:191695
 translate chinese map097_d7c3e95d:
@@ -87690,7 +87690,7 @@ translate chinese map093_2bd88a58:
 translate chinese map093_5621e7d8:
 
     # char_sovy "Halin has finished his interrogation, Masters.\nI thought it would be wise to relay the results.\nUnless you were plotting behind our backs...?"
-    char_sovy "师父们，哈林已经审问完毕。\n我想把结果转达给你们才是明智之举。\n除非……你们一直在背地里谋划什么？"
+    char_sovy "主上，哈林已经审问完毕。\n我想把结果转达给你们才是明智之举。\n除非……你们一直在背地里谋划什么？"
 
 # game/script.rpy:194461
 translate chinese map093_9c40b020:
@@ -87746,7 +87746,7 @@ translate chinese map093_4c1359c1:
 translate chinese map093_c14025dd:
 
     # char_sovy "That much was obvious, Masters.\nWhy did you keep it from me for so long?\nHalin and I are more than loyal enough...!"
-    char_sovy "这点显而易见，师父们。\n你们为什么瞒了我这么久？\n我和哈林已经足够忠诚了……！"
+    char_sovy "这点显而易见，主上。\n你们为什么瞒了我这么久？\n我和哈林已经足够忠诚了……！"
 
 # game/script.rpy:194583
 translate chinese map093_92079d3a:
@@ -88124,7 +88124,7 @@ translate chinese map099_3cd55aa3:
     # voice "se/z00332.ogg"
     # char_valessa "You've always had purpose, actually.\nBut I think I understand what you mean.\nYou aren't just another Seeress, you're special."
     voice "se/z00332.ogg"
-    char_valessa "其实你一直都有目标。\n但我想我明白你的意思。\n你不是普通意义上的先知，你很特别。"
+    char_valessa "其实你一直都有信念。\n但我想我明白你的意思。\n你不是普通意义上的先知，你很特别。"
 
 # game/script.rpy:195445
 translate chinese map099_5a2542c5:
@@ -88602,7 +88602,7 @@ translate chinese map100_3149df67:
 translate chinese map100_9c1c2032:
 
     # char_valessa "I know them. They typically guard the town gate.\nNo better person to carry out a secret mission in the night.\nI'm glad we'll have a guide. I was starting to worry we'd get lost."
-    char_valessa "我认识他们。他们一般是看守城门的人。\n夜里执行秘密任务，没有比他更合适的人选了。\n有向导就好，我正担心我们会迷路呢。"
+    char_valessa "我认识他。他一般是看守城门的人。\n夜里执行秘密任务，没有比他更合适的人选了。\n有向导就好，我正担心我们会迷路呢。"
 
 # game/script.rpy:196609
 translate chinese map100_bb54ae38:
@@ -90342,7 +90342,7 @@ translate chinese map094_f6d189c2:
     # voice "se/z00313.ogg"
     # char_mylus "We might be a bit behind, but we'll meet in Mazeo.\nThere's lots to plan, and little time to plan it.\nWe'll need new homes, and blades for any volunteers."
     voice "se/z00313.ogg"
-    char_mylus "我们或许会落后一些，但会在马泽奥会合。\n要筹划的事很多，时间却很少。\n我们需要新家园，还要为志愿者备好兵器。"
+    char_mylus "我们或许会落后一些，但会在马泽奥会合。\n要筹划的事很多，时间却很少。\n我们需要新家园，还要为志愿者备好剑。"
 
 # game/script.rpy:201290
 translate chinese map094_117ce0b9:
@@ -90940,7 +90940,7 @@ translate chinese Fortaime3_map095_143_0_1a9dbac3:
 translate chinese Fortaime3_map095_143_0_78d28dea:
 
     # char_fortaime "Please, don't change too much.\nWe're going to be fighting for peace.\nThat's not worth anything if I can't share it with {i}you{/i}."
-    char_fortaime "求你，别变太多。\n我们是为和平而战。\n如果不能和你{i}一起{/i}分享，那和平就毫无意义。"
+    char_fortaime "求你，别变太多。\n我们是为和平而战。\n如果不能和{i}你{/i}一起分享，那和平就毫无意义。"
 
 # game/script.rpy:203230
 translate chinese Fortaime3_map095_143_0_483e1aa4:
@@ -91482,7 +91482,7 @@ translate chinese map098_b21beebe:
 translate chinese map098_68931df3:
 
     # char_damek "Of course, I'd be more than happy to!\nBut you might have to wait a bit longer.\nTapping into it requires some \"special means\"."
-    char_damek "当然，我乐意之至！\n不过你可能要再多等一阵。\n要接通它，需要一些“特殊手段”。"
+    char_damek "当然，我乐意之至！\n不过你可能要再多等一阵。\n要汲取它的力量，需要一些“特殊手段”。"
 
 # game/script.rpy:204436
 translate chinese map098_9b1a95b3:
@@ -91524,7 +91524,7 @@ translate chinese map103_660f9b06:
 translate chinese map103_de74bd7f:
 
     # char_halin "Master? You seem unwell.\nWe leave tomorrow, you should get some rest.\nI know I'm not the one to give orders, but please."
-    char_halin "大人？您看着不太舒服。\n我们明天就出发，您该休息一下。\n我知道轮不到我来下令，但请您务必。"
+    char_halin "师父？您看着不太舒服。\n我们明天就出发，您该休息一下。\n我知道轮不到我来下令，但请您务必。"
 
 # game/script.rpy:204585
 translate chinese map103_482e37bf:
@@ -91710,7 +91710,7 @@ translate chinese map105_b0e319b8:
 translate chinese map105_2c4c6cf5:
 
     # char_sovy "I doubt he's long for this world.\nA Grand Inquisitor needs to be more than talk.\nThat, and I work {i}much{/i} better when I'm alone."
-    char_sovy "我看他活不长。\n大审判官可不能只会耍嘴皮子。\n再说，我{i}独自{/i}办事效率高得多。"
+    char_sovy "我看他活不长。\n大审判官可不能只会耍嘴皮子。\n再说，我{i}独自{/i}办事快得多。"
 
 # game/script.rpy:205067
 translate chinese map105_25f799d3:
@@ -92002,7 +92002,7 @@ translate chinese strings:
 
     # script.rpy:1248
     old "{image=icons/819.png} \"I'm the Seeress...\""
-    new "{image=icons/819.png} “我是先知……”"
+    new "{image=icons/819.png} “我是女先知……”"
 
     # script.rpy:1248
     old "{image=icons/818.png} \"I'm the Seer...\""
@@ -92218,7 +92218,7 @@ translate chinese strings:
 
     # script.rpy:7791
     old "{image=icons/651.png} \"What kind of 'summit' is this?\""
-    new "{image=icons/651.png} “这算哪门子的“峰会”？”"
+    new "{image=icons/651.png} “这算哪门子的‘峰会’？”"
 
     # script.rpy:7791
     old "{image=icons/651.png} \"You need my input, or my power?\""
@@ -92274,7 +92274,7 @@ translate chinese strings:
 
     # script.rpy:8133
     old "{image=icons/651.png} \"What happened to your 'birth' family, then?\""
-    new "{image=icons/651.png} “那你的“血亲”家庭怎么了？”"
+    new "{image=icons/651.png} “那你的‘血亲’家庭怎么了？”"
 
     # script.rpy:8217
     old "{image=icons/651.png} \"You must be exaggerating.\""
@@ -92334,11 +92334,11 @@ translate chinese strings:
 
     # script.rpy:13678
     old "{image=icons/656.png} [[Joking] \"According to your smell, it's 'no-bath day'.\""
-    new "{image=icons/656.png} [[玩笑] “闻你身上的味儿，今天是“不洗澡日”。”"
+    new "{image=icons/656.png} [[玩笑] “闻你身上的味儿，今天是‘不洗澡日’。”"
 
     # script.rpy:13678
     old "{image=icons/583.png} [[Flirty] \"You're here, so is it 'cute guy day'?\" "
-    new "{image=icons/583.png} [[调情] “你在这儿，那今天是“帅哥日”吗？”"
+    new "{image=icons/583.png} [[调情] “你在这儿，那今天是‘帅哥日’吗？”"
 
     # script.rpy:13678
     old "{image=icons/653.png} \"Whatever it is, I don't need your help.\""
@@ -92394,7 +92394,7 @@ translate chinese strings:
 
     # script.rpy:15561
     old "{image=icons/651.png} What do you do in your spare time?\""
-    new "{image=icons/651.png} 你空闲时间都做些什么？"
+    new "{image=icons/651.png} “你空闲时间都做些什么？”"
 
     # script.rpy:15561
     old "{image=icons/651.png} \"How long have you been in training?\""
@@ -92530,11 +92530,11 @@ translate chinese strings:
 
     # script.rpy:18999
     old "{image=icons/651.png} [[I believe there's something important in Eastcrown.]"
-    new "{image=icons/651.png} [[我相信东冠有什么重要的东西。]"
+    new "{image=icons/651.png} [[我相信东冠有什么重要的东西]"
 
     # script.rpy:18999
     old "{image=icons/651.png} [[I don't believe Eastcrown serves any important purpose.]"
-    new "{image=icons/651.png} [[我不相信东冠有什么重要用途。]"
+    new "{image=icons/651.png} [[我不相信东冠有什么重要用途]"
 
     # script.rpy:19319
     old "Reset all HTH/Loyalty Stats and Romance flags?\nWARNING: This cannot be undone."
@@ -92558,11 +92558,11 @@ translate chinese strings:
 
     # script.rpy:20110
     old "{image=icons/583.png} [[Hug and console him.]"
-    new "{image=icons/583.png} [[拥抱并安慰他。]"
+    new "{image=icons/583.png} [[拥抱并安慰他]"
 
     # script.rpy:20110
     old "{image=icons/580.png} [[Let him find inner strength.]"
-    new "{image=icons/580.png} [[让他自己寻找内心的力量。]"
+    new "{image=icons/580.png} [[让他自己寻找内心的力量]"
 
     # script.rpy:20528
     old "{image=icons/583.png} \"Of course. We'll handle everything {i}together{/i}.\""
@@ -92794,7 +92794,7 @@ translate chinese strings:
 
     # script.rpy:30487
     old "{image=icons/651.png} \"Where did The Rebellion stay before the underground tunnels?\""
-    new "{image=icons/651.png} “在那些地下隧道之前，反抗军驻扎在哪里？”"
+    new "{image=icons/651.png} “反抗军搬进地下隧道前驻扎在哪里？”"
 
     # script.rpy:30487
     old "{image=icons/651.png} \"Who was in charge of Mazeo before The Occupation?\""
@@ -92998,7 +92998,7 @@ translate chinese strings:
 
     # script.rpy:34046
     old "{image=icons/651.png} \"Do you have a detailed strategy for our final battle?\""
-    new "{image=icons/651.png} “我们决战的详细策略你有吗？”"
+    new "{image=icons/651.png} “你有我们决战的详细策略吗？”"
 
     # script.rpy:34046
     old "{image=icons/651.png} \"What will Alestia be like after the war is over?\""
@@ -93070,11 +93070,11 @@ translate chinese strings:
 
     # script.rpy:36325
     old "{image=icons/583.png} [[Get them as a romantic gesture.]"
-    new "{image=icons/583.png} [[以浪漫的心意把它们送出去。]"
+    new "{image=icons/583.png} [[以浪漫的心意把它们送出去]"
 
     # script.rpy:36325
     old "{image=icons/580.png} [[Don't get them.]"
-    new "{image=icons/580.png} [[不要买。]"
+    new "{image=icons/580.png} [[不要买]"
 
     # script.rpy:37188
     old "Access Pro Heart-to-Heart 1?"
@@ -93158,11 +93158,11 @@ translate chinese strings:
 
     # script.rpy:43611
     old "{image=icons/651.png} [[Point to the paper containing Alex's demands.]"
-    new "{image=icons/651.png} [[指向写着亚历克斯要求的纸。]"
+    new "{image=icons/651.png} [[指向写着亚历克斯要求的纸]"
 
     # script.rpy:43611
     old "{image=icons/651.png} [[Point to the paper containing Nada's demands.]"
-    new "{image=icons/651.png} [[指向写着娜达要求的纸。]"
+    new "{image=icons/651.png} [[指向写着娜达要求的纸]"
 
     # script.rpy:45301
     old "Would you like to initiate Act Three?"
@@ -93482,31 +93482,31 @@ translate chinese strings:
 
     # script.rpy:67733
     old "{image=icons/651.png} [[Let Gryz sacrifice himself.]"
-    new "{image=icons/651.png} [[让格瑞兹牺牲自己。]"
+    new "{image=icons/651.png} [[让格瑞兹牺牲自己]"
 
     # script.rpy:67733
     old "{image=icons/651.png} [[Tap into the idol's power yourself.]"
-    new "{image=icons/651.png} [[亲自汲取灵像的力量。]"
+    new "{image=icons/651.png} [[亲自汲取灵像的力量]"
 
     # script.rpy:74531
     old "{image=icons/651.png} [[Ask Valessa.]"
-    new "{image=icons/651.png} [[询问瓦莱莎。]"
+    new "{image=icons/651.png} [[询问瓦莱莎]"
 
     # script.rpy:74531
     old "{image=icons/651.png} [[Ask Fortaime.]"
-    new "{image=icons/651.png} [[询问福泰姆。]"
+    new "{image=icons/651.png} [[询问福泰姆]"
 
     # script.rpy:74531
     old "{image=icons/651.png} [[Make your final choice.]"
-    new "{image=icons/651.png} [[做出最终抉择。]"
+    new "{image=icons/651.png} [[做出最终抉择]"
 
     # script.rpy:74629
     old "{image=icons/651.png} [[Create an army of Seers.]"
-    new "{image=icons/651.png} [[创建一支先知大军。]"
+    new "{image=icons/651.png} [[创建一支先知大军]"
 
     # script.rpy:74629
     old "{image=icons/651.png} [[Create an army of Monarch Vessels.]"
-    new "{image=icons/651.png} [[创建一支君王容器大军。]"
+    new "{image=icons/651.png} [[创建一支君王容器大军]"
 
     # script.rpy:74999
     old "{image=icons/655.png} \"What about Vivien and her army?\""
@@ -93594,15 +93594,15 @@ translate chinese strings:
 
     # script.rpy:81385
     old "{image=icons/651.png} [[Remove the curse from Ulric.]"
-    new "{image=icons/651.png} [[解除乌尔里克身上的诅咒。]"
+    new "{image=icons/651.png} [[解除乌尔里克身上的诅咒]"
 
     # script.rpy:81385
     old "{image=icons/651.png} [[Keep him strong. He needs that power.]"
-    new "{image=icons/651.png} [[让他保持强大。他需要那份力量。]"
+    new "{image=icons/651.png} [[让他保持强大。他需要那份力量]"
 
     # script.rpy:82015
     old "{image=icons/651.png} \"Keep it. Honor her memory, and her life.\""
-    new "{image=icons/651.png} “留下它。纪念她的记忆，她的一生。”"
+    new "{image=icons/651.png} “留下它。缅怀她，也纪念她的一生。”"
 
     # script.rpy:82015
     old "{image=icons/651.png} \"Leave it. Move on from these painful memories.\""
@@ -93702,7 +93702,7 @@ translate chinese strings:
 
     # script.rpy:88197
     old "{image=icons/651.png} \"This journey could have easily compromised us, and forced us to do unspeakable things...\""
-    new "{image=icons/651.png} “这段旅程本可能轻易地让我们妥协，迫使我们做出无法言说的事……”"
+    new "{image=icons/651.png} “这段旅程本可能轻易危及我们，迫使我们做出无法言说的事……”"
 
     # script.rpy:88201
     old "{image=icons/651.png} \"...but we can rest easy knowing that we've clung to our values and traditions. We are {i}better{/i} than them.\""
@@ -93770,7 +93770,7 @@ translate chinese strings:
 
     # script.rpy:88315
     old "{image=icons/651.png} \"Using this blade, I will create a world just like Salus had always envisioned.\""
-    new "{image=icons/651.png} “用这把剑，我将创造一个萨卢斯一直所构想的世界。”"
+    new "{image=icons/651.png} “用这把剑，我将创造萨卢斯一直憧憬的世界。”"
 
     # script.rpy:88320
     old "{image=icons/651.png} Using this blade, I will secure a future that would make The Monarchy proud.\""
@@ -93902,11 +93902,11 @@ translate chinese strings:
 
     # script.rpy:113752
     old "{image=icons/651.png} [[Spare your life — cast away the idol temporarily.]"
-    new "{image=icons/651.png} [[饶你一命——暂时丢弃灵像。]"
+    new "{image=icons/651.png} [[饶你一命——暂时丢弃灵像]"
 
     # script.rpy:113752
     old "{image=icons/651.png} [[Sacrifice yourself — destroy the idol for good.]"
-    new "{image=icons/651.png} [[牺牲自己——彻底摧毁灵像。]"
+    new "{image=icons/651.png} [[牺牲自己——彻底摧毁灵像]"
 
     # script.rpy:119765
     old "{image=icons/651.png} \"I'd work hard, and earn it the right way.\""
@@ -93930,11 +93930,11 @@ translate chinese strings:
 
     # script.rpy:121005
     old "{image=icons/651.png} [[Remove the spirits to empower the blade.]"
-    new "{image=icons/651.png} [[取出灵以强化剑。]"
+    new "{image=icons/651.png} [[取出灵以强化剑]"
 
     # script.rpy:121005
     old "{image=icons/651.png} [[Leave Howl as he is. He's too valuable.]"
-    new "{image=icons/651.png} [[让豪尔保持原样。他太有价值了。]"
+    new "{image=icons/651.png} [[让豪尔保持原样。他太有价值了]"
 
     # script.rpy:123478
     old "View Parallel Chronicle \"Sovy 9\"?"
@@ -93942,7 +93942,7 @@ translate chinese strings:
 
     # script.rpy:123501
     old "Access Ulric Heart-to-Heart 4?"
-    new "开启乌尔里克交心 4？"
+    new "进入乌尔里克的心灵交流 4？"
 
     # script.rpy:126021
     old "{image=icons/660.png} \"I believe you. This war has proven almost anything is possible.\""
@@ -93978,7 +93978,7 @@ translate chinese strings:
 
     # script.rpy:128739
     old "{image=icons/651.png} [[Consult your advisor.]"
-    new "{image=icons/651.png} [[咨询你的顾问。]"
+    new "{image=icons/651.png} [[咨询你的顾问]"
 
     # script.rpy:129543
     old "{image=icons/651.png} \"What are your thoughts on this whole thing?\""
@@ -94018,11 +94018,11 @@ translate chinese strings:
 
     # script.rpy:131030
     old "Access Damek Heart-to-Heart 4?"
-    new "开启达梅克交心 4？"
+    new "进入达梅克的心灵交流 4？"
 
     # script.rpy:131058
     old "Access Valessa Heart-to-Heart 4?"
-    new "开启瓦莱莎交心 4？"
+    new "进入瓦莱莎的心灵交流 4？"
 
     # script.rpy:132700
     old "{image=icons/660.png} \"Of course I'll help you once we get back to Mazeo.\""
@@ -94082,11 +94082,11 @@ translate chinese strings:
 
     # script.rpy:138050
     old "Access Howl Heart-to-Heart 3?"
-    new "开启豪尔交心 3？"
+    new "进入豪尔的心灵交流 3？"
 
     # script.rpy:140014
     old "Access Pro Heart-to-Heart 4?"
-    new "开启普洛交心 4？"
+    new "进入普洛的心灵交流 4？"
 
     # script.rpy:140343
     old "{image=icons/579.png} \"Yeah, Pro. I'm afraid this is it.\""
@@ -94098,15 +94098,15 @@ translate chinese strings:
 
     # script.rpy:142292
     old "{image=icons/651.png} [[Attack him directly before they can retaliate.]"
-    new "{image=icons/651.png} [[在他们反击之前直接攻击他。]"
+    new "{image=icons/651.png} [[在他们反击之前直接攻击他]"
 
     # script.rpy:142292
     old "{image=icons/651.png} [[Wait for the blindness to subside, and fight back as a team.]"
-    new "{image=icons/651.png} [[等待失明消退，然后团队反击。]"
+    new "{image=icons/651.png} [[等失明消退后，大家一起反击]"
 
     # script.rpy:144302
     old "{image=icons/660.png} \"Yes. Everybody deserves a chance at redemption.\""
-    new "{image=icons/660.png} “是的。每个人都值得有获得救赎的机会。”"
+    new "{image=icons/660.png} “是的。每个人都该有获得救赎的机会。”"
 
     # script.rpy:144302
     old "{image=icons/579.png} \"I don't think I could ever forgive the murder of a comrade.\""
@@ -94118,11 +94118,11 @@ translate chinese strings:
 
     # script.rpy:149321
     old "{image=icons/651.png} [[Allow Sovy to assist The Rebellion.]"
-    new "{image=icons/651.png} [[允许索维协助反抗军。]"
+    new "{image=icons/651.png} [[允许索维协助反抗军]"
 
     # script.rpy:149321
     old "{image=icons/651.png} [[Deny Sovy's offer, and make him leave.]"
-    new "{image=icons/651.png} [[拒绝索维的提议，让他离开。]"
+    new "{image=icons/651.png} [[拒绝索维的提议，让他离开]"
 
     # script.rpy:149987
     old "{image=icons/651.png} \"What do you think of Mazeo so far?\""
@@ -94158,7 +94158,7 @@ translate chinese strings:
 
     # script.rpy:153241
     old "{image=icons/660.png} \"That's an understatement. This is amazing news!\""
-    new "{image=icons/660.png} “那还说得太轻了。这真是个惊人的好消息！”"
+    new "{image=icons/660.png} “那还太保守了。这真是个惊人的好消息！”"
 
     # script.rpy:153241
     old "{image=icons/583.png} \"Oh, Howl. I could hug you so hard right now.\""
@@ -94334,7 +94334,7 @@ translate chinese strings:
 
     # script.rpy:165151
     old "{image=icons/583.png} [[Say nothing. Offer your hand, and comfort, to Damek.]"
-    new "{image=icons/583.png} [[什么也别说。向达梅克伸出手，给予安慰。]"
+    new "{image=icons/583.png} [[什么也别说。向达梅克伸出手，给予安慰]"
 
     # script.rpy:165151
     old "{image=icons/579.png} \"I'm so sorry that happened to you. It's all so awful.\""
@@ -94358,7 +94358,7 @@ translate chinese strings:
 
     # script.rpy:166085
     old "{image=icons/583.png} \"Fighting side by side with you? That's a dream come true.\""
-    new "{image=icons/583.png} “与你并肩作战？那是梦想成真。”"
+    new "{image=icons/583.png} “和你并肩作战？那真是梦想成真。”"
 
     # script.rpy:166085
     old "{image=icons/656.png} \"Yeah. Marching into certain death? Born ready.\""
@@ -94398,7 +94398,7 @@ translate chinese strings:
 
     # script.rpy:166965
     old "{image=icons/583.png} [[Say nothing, and hold her hand.]"
-    new "{image=icons/583.png} [[什么也别说，握住她的手。]"
+    new "{image=icons/583.png} [[什么也别说，握住她的手]"
 
     # script.rpy:166965
     old "{image=icons/656.png} \"Brag about it, of course. That's pretty awesome.\""
@@ -94510,7 +94510,7 @@ translate chinese strings:
 
     # script.rpy:169679
     old "{image=icons/651.png} \"Maybe it's a lost cause, Fortaime...\""
-    new "{image=icons/651.png} “也许这是无可救药了，福泰姆……”"
+    new "{image=icons/651.png} “也许这事真的没救了，福泰姆……”"
 
     # script.rpy:169771
     old "{image=icons/651.png} \"I agree. Unity is our best choice.\""
@@ -94626,7 +94626,7 @@ translate chinese strings:
 
     # script.rpy:174830
     old "{image=icons/651.png} \"I would've liked to meet the old leader. I won't let him down.\""
-    new "{image=icons/651.png} “我本想见见老领袖。我不会让他失望的。”"
+    new "{image=icons/651.png} “我本想见见前任领袖。我不会让他失望的。”"
 
     # script.rpy:174830
     old "{image=icons/651.png} \"Do you think Damek will do a good job as his replacement?\""
@@ -94686,11 +94686,11 @@ translate chinese strings:
 
     # script.rpy:175218
     old "{image=icons/651.png} \"So The Rebellion is largely made up of occupation victims?\""
-    new "{image=icons/651.png} “所以反抗军主要由被占领的受害者组成？”"
+    new "{image=icons/651.png} “所以反抗军大多由占领时期的受害者组成？”"
 
     # script.rpy:175218
     old "{image=icons/651.png} \"Is The Rebellion large? Do we have the numbers to win?\""
-    new "{image=icons/651.png} “反抗军规模大吗？我们有人数取胜吗？”"
+    new "{image=icons/651.png} “反抗军规模大吗？我们人数够取胜吗？”"
 
     # script.rpy:175218
     old "{image=icons/651.png} \"Tell me about the previous leader.\""
@@ -94770,7 +94770,7 @@ translate chinese strings:
 
     # script.rpy:175711
     old "{image=icons/651.png} \"Is piracy still bad, even after the occupation?\""
-    new "{image=icons/651.png} “即使在占领之后，海盗行为仍然是坏事吗？”"
+    new "{image=icons/651.png} “即使在占领之后，海盗问题仍然严重吗？”"
 
     # script.rpy:175711
     old "{image=icons/651.png} \"Do you ever sail back home to visit?\""
@@ -94778,11 +94778,11 @@ translate chinese strings:
 
     # script.rpy:175760
     old "{image=icons/651.png} \"Valinorth's went dark the night I was born.\""
-    new "{image=icons/651.png} “瓦利诺斯的在我出生的那晚熄灭了。”"
+    new "{image=icons/651.png} “瓦利诺斯的灵像在我出生的那晚熄灭了。”"
 
     # script.rpy:175760
     old "{image=icons/651.png} \"Alarinthia's was destroyed...? How?\""
-    new "{image=icons/651.png} “阿拉林西亚的被摧毁了……？怎么会的？”"
+    new "{image=icons/651.png} “阿拉林西亚的灵像被摧毁了……？怎么会的？”"
 
     # script.rpy:175760
     old "{image=icons/651.png} \"So nobody knew Mazeo had a bigger idol?\""
@@ -94814,7 +94814,7 @@ translate chinese strings:
 
     # script.rpy:175970
     old "{image=icons/651.png} \"I guess that makes sense. Home is where you make it.\""
-    new "{image=icons/651.png} “我想这说得通。家就在你安身之处。”"
+    new "{image=icons/651.png} “我想这说得通。哪里安家，哪里就是家。”"
 
     # script.rpy:175970
     old "{image=icons/651.png} \"At least Alarinthia still exists. Valinorth is doomed.\""
@@ -94854,27 +94854,27 @@ translate chinese strings:
 
     # script.rpy:177624
     old "{image=icons/651.png} [[Ask Ulric for advice.]"
-    new "{image=icons/651.png} [[向乌尔里克征求意见。]"
+    new "{image=icons/651.png} [[向乌尔里克征求意见]"
 
     # script.rpy:177624
     old "{image=icons/651.png} [[Ask Valessa for advice.]"
-    new "{image=icons/651.png} [[向瓦莱莎征求意见。]"
+    new "{image=icons/651.png} [[向瓦莱莎征求意见]"
 
     # script.rpy:177624
     old "{image=icons/651.png} [[Ask Fortaime for advice.]"
-    new "{image=icons/651.png} [[向福泰姆征求意见。]"
+    new "{image=icons/651.png} [[向福泰姆征求意见]"
 
     # script.rpy:177624
     old "{image=icons/651.png} [[Make the final decision.]"
-    new "{image=icons/651.png} [[做出最终决定。]"
+    new "{image=icons/651.png} [[做出最终决定]"
 
     # script.rpy:177861
     old "{image=icons/651.png} [[Convert Peregrino into a barracks.]"
-    new "{image=icons/651.png} [[将佩雷格里诺改为兵营。]"
+    new "{image=icons/651.png} [[将佩雷格里诺改为兵营]"
 
     # script.rpy:177861
     old "{image=icons/651.png} [[Let Peregrino stay as it is.]"
-    new "{image=icons/651.png} [[让佩雷格里诺保持原样。]"
+    new "{image=icons/651.png} [[让佩雷格里诺保持原样]"
 
     # script.rpy:181020
     old "View Parallel Chronicle \"Sovy 4\"?"
@@ -95066,7 +95066,7 @@ translate chinese strings:
 
     # script.rpy:182741
     old "{image=icons/580.png} [[Remain silent.]"
-    new "{image=icons/580.png} [[保持沉默。]"
+    new "{image=icons/580.png} [[保持沉默]"
 
     # script.rpy:183237
     old "{image=icons/651.png} \"Do I really have to choose right now?\""
@@ -95122,15 +95122,15 @@ translate chinese strings:
 
     # script.rpy:185955
     old "{image=icons/651.png} [[Remain silent.]"
-    new "{image=icons/651.png} [[保持沉默。]"
+    new "{image=icons/651.png} [[保持沉默]"
 
     # script.rpy:186292
     old "Access Fortaime Heart-to-Heart 1?"
-    new "开启福泰姆交心 1？"
+    new "进入福泰姆的心灵交流 1？"
 
     # script.rpy:186320
     old "Access Valessa Heart-to-Heart 1?"
-    new "开启瓦莱莎交心 1？"
+    new "进入瓦莱莎的心灵交流 1？"
 
     # script.rpy:188744
     old "{image=icons/651.png} \"Yeah. Let's do this...\""
@@ -95150,7 +95150,7 @@ translate chinese strings:
 
     # script.rpy:189583
     old "{image=icons/651.png} \"I had a concerning vision last night.\""
-    new "{image=icons/651.png} “我昨晚做了一个令人不安的幻象。”"
+    new "{image=icons/651.png} “我昨晚看到了一个令人不安的幻象。”"
 
     # script.rpy:189664
     old "{image=icons/651.png} \"Fortaime, it's worse than you think.\""
@@ -95278,7 +95278,7 @@ translate chinese strings:
 
     # script.rpy:191619
     old "View Parallel Chronicle \"Pro 1\"?"
-    new "查看平行编年史 “普洛 1”？"
+    new "查看平行编年史“普洛 1”？"
 
     # script.rpy:192357
     old "{image=icons/653.png} \"At least ask before hugging me.\""
@@ -95322,15 +95322,15 @@ translate chinese strings:
 
     # script.rpy:193160
     old "View Parallel Chronicle \"Damek 1\"?"
-    new "查看平行编年史 “达梅克 1”？"
+    new "查看平行编年史“达梅克 1”？"
 
     # script.rpy:193182
     old "View Parallel Chronicle \"Sovy 1\"?"
-    new "查看平行编年史 “索维 1”？"
+    new "查看平行编年史“索维 1”？"
 
     # script.rpy:193598
     old "Access Sovy Heart-to-Heart 1?"
-    new "进入索维的谈心 1？"
+    new "进入索维的心灵交流 1？"
 
     # script.rpy:193699
     old "There's buckets lined up right beside the faucets.{w}\nIn my haste, I didn't even drink, or eat breakfast.{w}\nShould I wait until I'm free to drink, or...?"
@@ -95338,11 +95338,11 @@ translate chinese strings:
 
     # script.rpy:193699
     old "{image=icons/651.png} [[Put your mouth under the tap and drink.]"
-    new "{image=icons/651.png} [[把嘴凑到水龙头下喝水。]"
+    new "{image=icons/651.png} [[把嘴凑到水龙头下喝水]"
 
     # script.rpy:193699
     old "{image=icons/651.png} [[Go thirsty for an indeterminate amount of time.]"
-    new "{image=icons/651.png} [[继续渴着，不知道要等多久。]"
+    new "{image=icons/651.png} [[继续渴着，不知道要等多久]"
 
     # script.rpy:194788
     old "{image=icons/579.png} \"You were a murderer. Plain and simple.\""
@@ -95374,7 +95374,7 @@ translate chinese strings:
 
     # script.rpy:195030
     old "{image=icons/583.png} \"You can have as much of my time as you want, Sovy.\""
-    new "{image=icons/583.png} “索维，你想要我多少时间都行。”"
+    new "{image=icons/583.png} “索维，你想让我陪你多久都行。”"
 
     # script.rpy:195030
     old "{image=icons/579.png} \"I'm not so sure that's a good idea. Sorry.\""
@@ -95462,11 +95462,11 @@ translate chinese strings:
 
     # script.rpy:197196
     old "{image=icons/651.png} [[Prepare the blade for left handed access.]"
-    new "{image=icons/651.png} [[把剑调整为左手取用。]"
+    new "{image=icons/651.png} [[把剑调整为左手取用]"
 
     # script.rpy:197196
     old "{image=icons/651.png} [[Prepare the blade for right handed access.]"
-    new "{image=icons/651.png} [[把剑调整为右手取用。]"
+    new "{image=icons/651.png} [[把剑调整为右手取用]"
 
     # script.rpy:197411
     old "{image=icons/660.png} \"Yeah, it was a piece of cake.\""
@@ -95478,11 +95478,11 @@ translate chinese strings:
 
     # script.rpy:197919
     old "View Parallel Chronicle \"Shane 1\"?"
-    new "查看平行编年史 “肖恩 1”？"
+    new "查看平行编年史“肖恩 1”？"
 
     # script.rpy:202178
     old "View Parallel Chronicle \"Damek 2\"?"
-    new "查看平行编年史 “达梅克 2”？"
+    new "查看平行编年史“达梅克 2”？"
 
     # script.rpy:202215
     old "{image=icons/651.png} \"Actually, it's a {i}step{/i} ladder."
@@ -95502,7 +95502,7 @@ translate chinese strings:
 
     # script.rpy:202829
     old "{image=icons/651.png} \"Don't other nations handle fine without spirits?\""
-    new "{image=icons/651.png} “其他国家没有精灵不也过得好好的吗？”"
+    new "{image=icons/651.png} “其他国家没有灵不也过得好好的吗？”"
 
     # script.rpy:202829
     old "{image=icons/651.png} \"No need to act cool with me. You can be open.\""
@@ -95558,7 +95558,7 @@ translate chinese strings:
 
     # script.rpy:203348
     old "View Parallel Chronicle \"Sovy 2\"?"
-    new "查看平行编年史 “索维 2”？"
+    new "查看平行编年史“索维 2”？"
 
     # script.rpy:203398
     old "{image=icons/651.png} \"What do you think about this blade?\""

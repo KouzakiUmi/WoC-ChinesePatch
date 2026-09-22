@@ -1,0 +1,81 @@
+strings_0001.tsv	1	术语	{image=icons/819.png} “我是女先知……”	“Seeress”特指女性先知，应与“Seer”区分。
+strings_0001.tsv	55	标点	{image=icons/651.png} “这算哪门子的‘峰会’？”	外层对话引号内应使用单引号，避免嵌套双引号混淆。
+strings_0001.tsv	69	标点	{image=icons/651.png} “那你的‘血亲’家庭怎么了？”	外层对话引号内应使用单引号，避免嵌套双引号混淆。
+strings_0001.tsv	84	标点	{image=icons/656.png} [[玩笑] “闻你身上的味儿，今天是‘不洗澡日’。”	外层对话引号内应使用单引号，避免嵌套双引号混淆。
+strings_0001.tsv	85	标点	{image=icons/583.png} [[调情] “你在这儿，那今天是‘帅哥日’吗？”	外层对话引号内应使用单引号，避免嵌套双引号混淆。
+strings_0001.tsv	99	标点	{image=icons/651.png} “你空闲时间都做些什么？”	原译文缺少对话引号，与相邻选项格式不一致。
+strings_0001.tsv	133	标点	{image=icons/651.png} [[我相信东冠有什么重要的东西]	界面选项不应带句末句号。
+strings_0001.tsv	134	标点	{image=icons/651.png} [[我不相信东冠有什么重要用途]	界面选项不应带句末句号。
+strings_0001.tsv	140	标点	{image=icons/583.png} [[拥抱并安慰他]	界面选项不应带句末句号。
+strings_0001.tsv	141	标点	{image=icons/580.png} [[让他自己寻找内心的力量]	界面选项不应带句末句号。
+strings_0001.tsv	199	语气	{image=icons/651.png} “反抗军搬进地下隧道前驻扎在哪里？”	原译“在那些地下隧道之前”指代不清，改为自然的先后关系。
+strings_0001.tsv	250	语气	{image=icons/651.png} “你有我们决战的详细策略吗？”	原译语序生硬；原文是在询问是否有详细作战方案。
+strings_0001.tsv	268	标点	{image=icons/583.png} [[以浪漫的心意把它们送出去]	界面选项不应带句末句号。
+strings_0001.tsv	269	标点	{image=icons/580.png} [[不要买]	界面选项不应带句末句号。
+strings_0001.tsv	290	标点	{image=icons/651.png} [[指向写着亚历克斯要求的纸]	界面选项不应带句末句号。
+strings_0001.tsv	291	标点	{image=icons/651.png} [[指向写着娜达要求的纸]	界面选项不应带句末句号。
+strings_0001.tsv	371	标点	{image=icons/651.png} [[让格瑞兹牺牲自己]	界面选项不应带句末句号。
+strings_0001.tsv	372	标点	{image=icons/651.png} [[亲自汲取灵像的力量]	界面选项不应带句末句号。
+strings_0001.tsv	373	标点	{image=icons/651.png} [[询问瓦莱莎]	界面选项不应带句末句号。
+strings_0001.tsv	374	标点	{image=icons/651.png} [[询问福泰姆]	界面选项不应带句末句号。
+strings_0001.tsv	375	标点	{image=icons/651.png} [[做出最终抉择]	界面选项不应带句末句号。
+strings_0001.tsv	376	标点	{image=icons/651.png} [[创建一支先知大军]	界面选项不应带句末句号。
+strings_0001.tsv	377	标点	{image=icons/651.png} [[创建一支君王容器大军]	界面选项不应带句末句号。
+strings_0001.tsv	399	标点	{image=icons/651.png} [[解除乌尔里克身上的诅咒]	界面选项不应带句末句号。
+strings_0001.tsv	400	标点	{image=icons/651.png} [[让他保持强大。他需要那份力量]	界面选项不应带句末句号。
+strings_0002.tsv	401	误译	{image=icons/651.png} “留下它。缅怀她，也纪念她的一生。”	“纪念记忆”搭配不当，honor her memory 意为缅怀她。
+strings_0002.tsv	426	误译	{image=icons/651.png} “这段旅程本可能轻易危及我们，迫使我们做出无法言说的事……”	compromise us 在这里是危及、拖累，不是“让我们妥协”。
+strings_0002.tsv	443	语气	{image=icons/651.png} “用这把剑，我将创造萨卢斯一直憧憬的世界。”	“一直所构想的”生硬，改为自然的定语表达。
+strings_0002.tsv	476	标点	{image=icons/651.png} [[饶你一命——暂时丢弃灵像]	界面选项不应带句末句号。
+strings_0002.tsv	477	标点	{image=icons/651.png} [[牺牲自己——彻底摧毁灵像]	界面选项不应带句末句号。
+strings_0002.tsv	483	标点	{image=icons/651.png} [[取出灵以强化剑]	界面选项不应带句末句号。
+strings_0002.tsv	484	标点	{image=icons/651.png} [[让豪尔保持原样。他太有价值了]	界面选项不应带句末句号。
+strings_0002.tsv	486	术语	进入乌尔里克的心灵交流 4？	Heart-to-Heart 在本批前段统一为“心灵交流”，此处“交心”不一致。
+strings_0002.tsv	495	标点	{image=icons/651.png} [[咨询你的顾问]	界面选项不应带句末句号。
+strings_0002.tsv	505	术语	进入达梅克的心灵交流 4？	Heart-to-Heart 在本批前段统一为“心灵交流”，此处“交心”不一致。
+strings_0002.tsv	506	术语	进入瓦莱莎的心灵交流 4？	Heart-to-Heart 在本批前段统一为“心灵交流”，此处“交心”不一致。
+strings_0002.tsv	521	术语	进入豪尔的心灵交流 3？	Heart-to-Heart 在本批前段统一为“心灵交流”，此处“交心”不一致。
+strings_0002.tsv	522	术语	进入普洛的心灵交流 4？	Heart-to-Heart 在本批前段统一为“心灵交流”，此处“交心”不一致。
+strings_0002.tsv	525	标点	{image=icons/651.png} [[在他们反击之前直接攻击他]	界面选项不应带句末句号。
+strings_0002.tsv	526	语气	{image=icons/651.png} [[等失明消退后，大家一起反击]	“团队反击”偏现代职场语，改为自然的“大家一起反击”。
+strings_0002.tsv	527	语气	{image=icons/660.png} “是的。每个人都该有获得救赎的机会。”	原译“值得有获得”重复拗口，改为自然表达。
+strings_0002.tsv	530	标点	{image=icons/651.png} [[允许索维协助反抗军]	界面选项不应带句末句号。
+strings_0002.tsv	531	标点	{image=icons/651.png} [[拒绝索维的提议，让他离开]	界面选项不应带句末句号。
+strings_0002.tsv	540	语气	{image=icons/660.png} “那还太保守了。这真是个惊人的好消息！”	understatement 指说法过于保守，不是“说得太轻”。
+strings_0002.tsv	584	标点	{image=icons/583.png} [[什么也别说。向达梅克伸出手，给予安慰]	界面选项不应带句末句号。
+strings_0002.tsv	590	语气	{image=icons/583.png} “和你并肩作战？那真是梦想成真。”	“那是梦想成真”语法生硬，补足自然的主系表达。
+strings_0002.tsv	600	标点	{image=icons/583.png} [[什么也别说，握住她的手]	界面选项不应带句末句号。
+strings_0002.tsv	628	语气	{image=icons/651.png} “也许这事真的没救了，福泰姆……”	“这是无可救药了”搭配生硬，改写为自然的口语句。
+strings_0002.tsv	657	术语	{image=icons/651.png} “我本想见见前任领袖。我不会让他失望的。”	old leader 指前任领袖，统一为“前任”，避免误解为年老。
+strings_0002.tsv	672	误译	{image=icons/651.png} “所以反抗军大多由占领时期的受害者组成？”	occupation victims 是占领造成的受害者，不是“被占领的受害者”。
+strings_0002.tsv	673	语气	{image=icons/651.png} “反抗军规模大吗？我们人数够取胜吗？”	原译“有人数取胜”语法不顺，补足“够”使语义完整。
+strings_0002.tsv	693	误译	{image=icons/651.png} “即使在占领之后，海盗问题仍然严重吗？”	这里的 bad 指问题严重，不是道德意义上的“坏事”。
+strings_0002.tsv	695	语气	{image=icons/651.png} “瓦利诺斯的灵像在我出生的那晚熄灭了。”	原译“瓦利诺斯的”缺少中心词，结合上文补为“灵像”。
+strings_0002.tsv	696	语气	{image=icons/651.png} “阿拉林西亚的灵像被摧毁了……？怎么会的？”	原译“阿拉林西亚的”缺少中心词，应补为“灵像”。
+strings_0002.tsv	704	语气	{image=icons/651.png} “我想这说得通。哪里安家，哪里就是家。”	“家就在你安身之处”生硬，改用自然中文表达。
+strings_0002.tsv	714	标点	{image=icons/651.png} [[向乌尔里克征求意见]	界面选项不应带句末句号。
+strings_0002.tsv	715	标点	{image=icons/651.png} [[向瓦莱莎征求意见]	界面选项不应带句末句号。
+strings_0002.tsv	716	标点	{image=icons/651.png} [[向福泰姆征求意见]	界面选项不应带句末句号。
+strings_0002.tsv	717	标点	{image=icons/651.png} [[做出最终决定]	界面选项不应带句末句号。
+strings_0002.tsv	718	标点	{image=icons/651.png} [[将佩雷格里诺改为兵营]	界面选项不应带句末句号。
+strings_0002.tsv	719	标点	{image=icons/651.png} [[让佩雷格里诺保持原样]	界面选项不应带句末句号。
+strings_0002.tsv	767	标点	{image=icons/580.png} [[保持沉默]	界面选项不应带句末句号。
+strings_0002.tsv	781	标点	{image=icons/651.png} [[保持沉默]	界面选项不应带句末句号。
+strings_0002.tsv	782	术语	进入福泰姆的心灵交流 1？	Heart-to-Heart 在本批前段统一为“心灵交流”，此处“交心”不一致。
+strings_0002.tsv	783	术语	进入瓦莱莎的心灵交流 1？	Heart-to-Heart 在本批前段统一为“心灵交流”，此处“交心”不一致。
+strings_0002.tsv	788	误译	{image=icons/651.png} “我昨晚看到了一个令人不安的幻象。”	“幻象”应与“看到”搭配，不能说“做幻象”。
+strings_0003.tsv	820	标点	查看平行编年史“普洛 1”？	“平行编年史”后不应多出空格，需与其余条目统一。
+strings_0003.tsv	831	标点	查看平行编年史“达梅克 1”？	“平行编年史”后不应多出空格，需与其余条目统一。
+strings_0003.tsv	832	标点	查看平行编年史“索维 1”？	“平行编年史”后不应多出空格，需与其余条目统一。
+strings_0003.tsv	833	术语	进入索维的心灵交流 1？	Heart-to-Heart 在本批前段统一为“心灵交流”，此处“谈心”不一致。
+strings_0003.tsv	835	标点	{image=icons/651.png} [[把嘴凑到水龙头下喝水]	界面选项不应带句末句号。
+strings_0003.tsv	836	标点	{image=icons/651.png} [[继续渴着，不知道要等多久]	界面选项不应带句末句号。
+strings_0003.tsv	844	语气	{image=icons/583.png} “索维，你想让我陪你多久都行。”	“你想要我多少时间”搭配不自然，改为符合亲密语气的表达。
+strings_0003.tsv	866	标点	{image=icons/651.png} [[把剑调整为左手取用]	界面选项不应带句末句号。
+strings_0003.tsv	867	标点	{image=icons/651.png} [[把剑调整为右手取用]	界面选项不应带句末句号。
+strings_0003.tsv	870	标点	查看平行编年史“肖恩 1”？	“平行编年史”后不应多出空格，需与其余条目统一。
+strings_0003.tsv	871	标点	查看平行编年史“达梅克 2”？	“平行编年史”后不应多出空格，需与其余条目统一。
+strings_0003.tsv	876	术语	{image=icons/651.png} “其他国家没有灵不也过得好好的吗？”	全文将 spirits 统一译为“灵”，不应改用“精灵”。
+strings_0003.tsv	890	标点	查看平行编年史“索维 2”？	“平行编年史”后不应多出空格，需与其余条目统一。
+strings_0003.tsv	930	其他	{#file_time}%A，%B %d日 %Y年，%H:%M	日期格式丢失 %A、%B，并擅自加入 %m，必须保留原占位符。
+strings_0003.tsv	1034	其他	%b %d日，%H:%M	日期格式丢失 %b 并擅自加入 %m，必须保留原占位符。

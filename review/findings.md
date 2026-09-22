@@ -1,8 +1,8 @@
 # 翻译校对预筛报告
 
-生成时间: 2026-09-22 20:54
+生成时间: 2026-09-22 21:07
 
-扫描条目: 11623; 候选问题: 86
+扫描条目: 11623; 候选问题: 85
 
 | 等级 | 规则 | 数量 | 说明 |
 | --- | --- | --- | --- |
@@ -12,7 +12,7 @@
 | low | ascii-residue | 36 | 残留英文单词 |
 | low | halfwidth-punct | 2 | 半角标点 |
 | low | length-ratio | 12 | 长度异常 |
-| low | repeated-char | 14 | 重复用字 |
+| low | repeated-char | 13 | 重复用字 |
 | info | engine-string | 18 | 引擎内置串 (正常) |
 
 ---
@@ -52,7 +52,23 @@
   - 原文: Escape
   - 现译: Escape
   - 说明: 残留英文单词: Escape
-- ... 其余 34 条见 candidates.tsv
+- `strings_0003.tsv#968` 
+  - 原文: Ctrl
+  - 现译: Ctrl
+  - 说明: 残留英文单词: Ctrl
+- `strings_0003.tsv#970` 
+  - 原文: Tab
+  - 现译: Tab
+  - 说明: 残留英文单词: Tab
+- `strings_0003.tsv#972` 
+  - 原文: Page Up
+  - 现译: Page Up
+  - 说明: 残留英文单词: Page
+- `strings_0003.tsv#974` 
+  - 原文: Page Down
+  - 现译: Page Down
+  - 说明: 残留英文单词: Down,Page
+- ... 其余 30 条见 candidates.tsv
 
 ## [low] halfwidth-punct — 2 条
 
@@ -75,9 +91,25 @@
   - 原文: {w=1.0}.{w=1.0}.{w=1.0}.{w}
   - 现译: {w=1.0}.{w=1.0}.{w=1.0}.{w}
   - 说明: 长度比 1.00 偏离常规
-- ... 其余 10 条见 candidates.tsv
+- `dialogue_0026.tsv#10195` char_valessa
+  - 原文: {w=1.0}.{w=1.0}.{w=1.0}.{w}
+  - 现译: {w=1.0}.{w=1.0}.{w=1.0}.{w}
+  - 说明: 长度比 1.00 偏离常规
+- `dialogue_0026.tsv#10196` char_fortaime
+  - 原文: {w=1.0}.{w=1.0}.{w=1.0}.{w}
+  - 现译: {w=1.0}.{w=1.0}.{w=1.0}.{w}
+  - 说明: 长度比 1.00 偏离常规
+- `strings_0001.tsv#124` 
+  - 原文: {image=icons/651.png} Yes
+  - 现译: {image=icons/651.png} 是
+  - 说明: 长度比 0.92 偏离常规
+- `strings_0001.tsv#125` 
+  - 原文: {image=icons/651.png} No
+  - 现译: {image=icons/651.png} 否
+  - 说明: 长度比 0.96 偏离常规
+- ... 其余 6 条见 candidates.tsv
 
-## [low] repeated-char — 14 条
+## [low] repeated-char — 13 条
 
 - `dialogue_0003.tsv#897` 
   - 原文: He's almost cryptically telling me what I already know.{w}\nI know that the blade deals with the spirits of its victims.
@@ -87,7 +119,23 @@
   - 原文: Yeah, but it's not just Alarinthia, Valessa.\nYou could say that about this entire war in general.\nSometimes it's bette
   - 现译: 是啊，但不止是阿拉林西亚，瓦莱莎。\n整场战争都可以这么说。\n有时候，把别人看作“达到目的的手段”会更好。
   - 说明: 可能重复用字: 的的
-- ... 其余 12 条见 candidates.tsv
+- `dialogue_0009.tsv#3309` 
+  - 原文: I laugh softly, and tell him he's not dead.{w}\nBut he seems to have me confused with Salus.
+  - 现译: 我轻轻笑了笑，告诉他他没死。{w}\n但他似乎把我错认成了萨鲁斯。
+  - 说明: 可能重复用字: 他他
+- `dialogue_0012.tsv#4665` 
+  - 原文: After a few hours of waiting, I almost can't handle it anymore.{w}\nIt's impossible for me to rest when my friends could
+  - 现译: 等了几个小时后，我几乎再也受不了了。{w}\n朋友们可能身陷险境，我根本无法休息。{w}\n我朝出口走去，暗暗祈祷一切平安。
+  - 说明: 可能重复用字: 了了
+- `dialogue_0013.tsv#4828` char_valessa
+  - 原文: Maybe not. We're here for a reason, remember?\nLet's find the owner, and see what they can tell us.
+  - 现译: 还是别了。我们来这儿是有目的的，还记得吗？\n先找到这里的主人，看看他能告诉我们什么。
+  - 说明: 可能重复用字: 的的
+- `dialogue_0016.tsv#6268` 
+  - 原文: I tell him that he can. He just needs to be brave enough.{w}\nThere may not be any music here, but I hold out my hands.{
+  - 现译: 我告诉他他可以。他只需要鼓起勇气。{w}\n这里也许没有音乐，但我伸出了双手。{w}\n我问他是否愿意试一试。就在一切结束之前，试一次。
+  - 说明: 可能重复用字: 他他
+- ... 其余 7 条见 candidates.tsv
 
 ## [info] engine-string — 18 条
 
@@ -99,5 +147,21 @@
   - 原文: {#quick_page}Q
   - 现译: {#quick_page}Q
   - 说明: 引擎内置字符串, 通常保留原文
-- ... 其余 16 条见 candidates.tsv
+- `strings_0003.tsv#966` 
+  - 原文: Escape
+  - 现译: Escape
+  - 说明: 引擎内置字符串, 通常保留原文
+- `strings_0003.tsv#968` 
+  - 原文: Ctrl
+  - 现译: Ctrl
+  - 说明: 引擎内置字符串, 通常保留原文
+- `strings_0003.tsv#970` 
+  - 原文: Tab
+  - 现译: Tab
+  - 说明: 引擎内置字符串, 通常保留原文
+- `strings_0003.tsv#972` 
+  - 原文: Page Up
+  - 现译: Page Up
+  - 说明: 引擎内置字符串, 通常保留原文
+- ... 其余 12 条见 candidates.tsv
 

@@ -1,6 +1,6 @@
 # 语域分层检查 (内心独白 / 人物对话)
 
-生成时间: 2026-09-22 20:54
+生成时间: 2026-09-22 21:02
 
 | 层 | 行数 |
 | --- | --- |
@@ -10,149 +10,20 @@
 
 ---
 
-## [人物对话] 书面/文言腔 — 标记「并非如此」 6 条
+## [人物对话] 书面/文言腔 — 标记「皆」 1 条
 
-- `dialogue_0005.tsv#1604` char_sovy
-  - EN: If that's not the truth, then perhaps they made it themselves.\nBut I'm starting to think they either stole it
-  - CN: 如果事实并非如此，那也许就是他们自己造的。\n但我开始觉得，他们要么是偷来的，要么是偶然发现的。\n偷窃这种事他们干得出来，我们都已经领教过了。
-- `dialogue_0009.tsv#3467` char_damek
-  - EN: The Triumvirate may think that they've crippled our resolve — but no.\nEach swing of that blade will carry the
-  - CN: 三人执政团也许以为他们摧毁了我们的决心——但并非如此。\n那把剑每一次挥动，都将承载着倒下战友的重量。\n我们要用这份重量{i}碾碎{/i}他们的军队，让他们为这次袭击付出代价。
-- `dialogue_0011.tsv#4130` char_sovy
-  - EN: Once more, the desire for justice rose to the forefront of my mind.\nYou may think my allegiance changed, and 
-  - CN: 对正义的渴望，又一次涌上我心头。\n你可能觉得我的效忠变了，而且变得很突然——但事实并非如此。\n我一直都在为同一件事而战。只是有时候，形势需要一点扭转。
-- `dialogue_0015.tsv#5740` char_the_triumvirate
-  - EN: They knew not what they trifled with, Monarch. \nThey thought that the blade was a symbol of victory, but no.\
-  - CN: 他们不知道自己玩弄的是什么，君主。\n他们以为那把剑是胜利的象征，但并非如此。\n经历过这一切之后，你我都清楚它真正的含义。
-- `dialogue_0020.tsv#7666` char_sovy
-  - EN: If you want to take down The Triumvirate, you'll have to enter their chambers.\nI've never seen them leave, an
-  - CN: 如果你想扳倒三人执政团，就必须进入他们的内殿。\n我从没见过他们离开那里，也不认为他们会有离开的一天。\n我一直以为他们是在躲藏，但我觉得并非如此。
-- `dialogue_0020.tsv#7767` char_sovy
-  - EN: Everything they ever told me was a lie. I thought they were Alestia's rightful rulers.\nBut then I figured out
-  - CN: 他们告诉我的一切都是谎言。我本以为他们是阿莱斯蒂亚正当的统治者。\n但后来我明白了，事实并非如此。王位的继承人是[firstname]。\n我是他们暴政的受害者。就像你们一样。你们所有人。希望你们能明白。
-
-## [人物对话] 书面/文言腔 — 标记「何况」 4 条
-
-- `dialogue_0003.tsv#811` char_fortaime
-  - EN: So that's what I'll do.\nI won't pursue justice for a memory.\nLet alone a memory that's almost gone.
-  - CN: 所以，我就这么做。\n我不会为一段记忆去追寻正义。\n更何况，那是一段几乎消散的记忆。
-- `dialogue_0012.tsv#4410` char_jit_map258_1_0_135
-  - EN: Besides, it also sent a message to every Alarinthian.\nTheir old way of doing things was wrong. Individual str
-  - CN: 何况，这也给每个阿拉林西亚人传递了一个讯息。\n他们旧日的做法是错的。个人的力量无关紧要。\n真正重要的是，当我们团结在共同的理想之下时，能有多强大。
-- `dialogue_0023.tsv#9073` char_ulric
-  - EN: I'll be by your side. Damek should be, as well. You'll be fine.\nWe know the lay of the land, and how to deal 
-  - CN: 我会在你身边。达梅克应该也会。你不会有事。\n我们熟悉那里的地形，也知道怎么和人打交道。跟着我们走就行。\n何况，我们大部分时间都会待在反抗军总部——那里很安全。
-- `dialogue_0025.tsv#9942` char_sovy
-  - EN: It's not like I could've done anything else. Valinorth was too far away.\nThat, and they still had me under th
-  - CN: 我当时也做不了别的。瓦利诺斯太远了。\n何况他们仍控制着我。我任由他们驱使。\n至少我总算挣脱了。我真为哈林感到难过，真的。
-
-## [人物对话] 书面/文言腔 — 标记「皆」 3 条
-
-- `dialogue_0007.tsv#2441` char_jit_map127_19_1_19
-  - EN: That's certainly a pessimistic view, Ignace.\nThere might be a way to save our minds, you know.\nThis Rebellio
-  - CN: 这看法可真是悲观，伊格纳斯。\n你知道，也许有办法拯救我们的心智。\n这场反抗已经证明了{i}一切{/i}皆有可能。
 - `dialogue_0017.tsv#6412` char_valessa
   - EN: I guess so. But don't say that too loud.\nSomething tells me it's not common knowledge.
   - CN: 好像是吧。不过别说得太大声。\n我总觉得，这可不是人尽皆知的事。
-- `dialogue_0021.tsv#8186` char_jit_map164_9_1_19
-  - EN: That's certainly a pessimistic view, Ignace.\nThere might be a way to save our minds, you know.\nThis Rebellio
-  - CN: 这看法确实挺悲观的，伊格纳斯。\n也许有办法保住我们的心智，你知道的。\n这场反抗已经证明了{i}任何事{/i}皆有可能。
 
-## [人物对话] 书面/文言腔 — 标记「乃至」 3 条
+## [人物对话] 现代职场词 — 标记「团队」 2 条
 
-- `dialogue_0007.tsv#2502` char_fortaime
-  - EN: It shouldn't have to be that way, though...\nThe future of a nation, and our world, is a gamble...?\nThat's ba
-  - CN: 可本不该如此……\n一个国家、乃至我们整个世界的未来，竟是一场赌博……？\n这可不是好消息。在这一点上，薇薇安的想法绝对是对的。
-- `dialogue_0017.tsv#6489` char_fortaime
-  - EN: It shouldn't have to be that way, though...\nThe future of a nation, and our world, is a gamble...?\nThat's ba
-  - CN: 可本不该如此……\n一个国家、乃至我们整个世界的未来，竟是一场赌博……？\n这可不是好消息。在这一点上，薇薇安的想法绝对是对的。
-- `dialogue_0023.tsv#9155` char_valessa
-  - EN: If I had to choose, I'd keep this place the way it is.\nAfter the war, Valinorth, and the rest of the world, w
-  - CN: 如果非让我选，我会让这地方保持原样。\n战争结束后，瓦利诺斯，乃至整个世界，都会安全。\n我们何必在扳倒三人执政团{i}之后{/i}还训练一支军队？
-
-## [人物对话] 书面/文言腔 — 标记「极为」 3 条
-
-- `dialogue_0017.tsv#6770` char_howl
-  - EN: The strength he could've offered was incredible, too.\nBut instead you decided to choose the weaker man.\nIdea
-  - CN: 他本可提供的实力也极为惊人。\n可你却决定选择较弱的一方。\n抛开理想不谈，选择软弱毫无道理。
-- `dialogue_0019.tsv#7253` char_howl
-  - EN: That would be impossible.\nAlarinthia takes these battles very seriously.\nDelaying it would insult the honor 
-  - CN: 那不可能。\n阿拉林西亚对这些战斗极为重视。\n拖延会侮辱所有参与者的荣誉。
-- `dialogue_0023.tsv#9060` char_ulric
-  - EN: Well, there's a church in Mazeo. It's supposed to be for Triumvirate worship.\nAt the altar there, rests a ver
-  - CN: 嗯，马泽奥有座教堂。本该是用来供奉三人执政团的。\n那里的祭坛上摆着一尊极为黯淡的精灵灵像。我们以为它快消亡了。\n但它根本不是真正的精灵灵像。真正的那尊深埋在地下。
-
-## [人物对话] 书面/文言腔 — 标记「因而」 2 条
-
-- `dialogue_0009.tsv#3480` char_damek
-  - EN: But so far, every insurrection has failed.\nThat is what we will change, thanks to [firstname].
-  - CN: 但迄今为止，每一次起义都失败了。\n而这一点，我们将因[firstname]而改变。
-- `dialogue_0009.tsv#3481` char_damek
-  - EN: But so far, every insurrection has failed.\nThat is what we will change, thanks to [firstname].
-  - CN: 但迄今为止，每一次起义都失败了。\n而这一点，我们将因[firstname]而改变。
-
-## [人物对话] 书面/文言腔 — 标记「加以」 2 条
-
-- `dialogue_0013.tsv#4881` char_the_triumvirate
-  - EN: If they think they're going to win, they're more prone to slipping up.\nIt's up to you to figure out when that
-  - CN: 如果他们以为自己会赢，就更容易露出破绽。\n什么时候是那个时机，要由你来判断并加以利用。\n哪怕要付出你的性命，你也必须阻止他们进入我们的议事厅。
-- `dialogue_0023.tsv#9072` char_ulric
-  - EN: Right now, they're a wild card. Not on our side — but not against us, either.\nWe should use that to our advan
-  - CN: 眼下，他们是张未知牌。不站在我们这边——但也不与我们为敌。\n我们该趁还能利用时加以利用。他们以后可能会转过来对付我们。
-
-## [人物对话] 书面/文言腔 — 标记「岂」 1 条
-
-- `dialogue_0007.tsv#2759` char_fortaime
-  - EN: Though I'm worried that sword will put me out of business.\nVisions while you're awake...? You'll always know 
-  - CN: 不过我担心那把剑会让我失业。\n清醒时就能看到预视……？你总能知道那是预视。\n那我提醒你的本事岂不是没用了？
-
-## [人物对话] 书面/文言腔 — 标记「从而」 1 条
-
-- `dialogue_0016.tsv#6295` char_howl
-  - EN: It is not true, however. His mind has been twisted beyond repair.\nBut many soldiers are starting to doubt. Wh
-  - CN: 然而，这不是真的。他的心智已被扭曲得无法修复。\n但许多士兵开始动摇了。万一他说的是真的呢？\n他们能否在最后关头倒戈，从而保住自己的性命？
-
-## [人物对话] 现代职场词 — 标记「团队」 4 条
-
-- `dialogue_0012.tsv#4590` char_pro
-  - EN: Look, it's probably best not to think about it too much.\nHe's in good hands. We just need to forge on as a te
-  - CN: 听着，最好别想太多。\n他有人照顾。我们只需要作为一个团队继续前进。\n要不是他，我们早就葬身大海了。这是一场胜利。
-- `dialogue_0012.tsv#4597` char_pro
-  - EN: Look, it's probably best not to think about it too much.\nHe's in good hands. We just need to forge on as a te
-  - CN: 听着，最好别想太多。\n她有人照顾。我们只需要作为一个团队继续前进。\n要不是她，我们早就葬身大海了。这是一场胜利。
 - `dialogue_0022.tsv#8783` char_fortaime
   - EN: You two make a good duo. I'm just unnecessary at this point.\nBut if I became The Elder? We could all work as 
   - CN: 你们俩是很棒的搭档。我现在只是多余的。\n但如果我当上长老呢？我们就能作为一个团队共事。\n就像我们自己组建了一个三人执政团……！
 - `dialogue_0025.tsv#9721` char_fortaime
   - EN: As a team — we can do this.\nI'm stronger for having you by my side.
   - CN: 作为一个团队——我们做得到。\n有你在身边，我变得更强了。
-
-## [人物对话] 现代职场词 — 标记「管理员」 3 条
-
-- `dialogue_0013.tsv#4820` char_damek
-  - EN: Hey, uh, let's get inside, alright?\nMaybe the Librarian knows more about this.\nWe shouldn't stand around in 
-  - CN: 嘿，呃，我们进去吧，好吗？\n也许图书管理员知道得更多。\n我们不该这样站在外面空地上。
-- `dialogue_0013.tsv#4889` char_howl
-  - EN: We finally put the Librarian to rest.\nAlgus, right? He certainly likes to talk a lot.\nAnswers in the form of
-  - CN: 我们终于把那个图书管理员安置好了。\n阿尔古斯，对吧？他确实话很多。\n答案都是谜语。他只是在拖延时间。
-- `dialogue_0013.tsv#4900` char_damek
-  - EN: We finally put the Librarian to rest.\nHe sure likes to talk a lot — and about nothing at all.\nLots of answer
-  - CN: 我们终于把那个图书管理员安置好了。\n他确实很爱说话——而且尽说些没用的。\n很多答案都是谜语。无聊得很。
-
-## [人物对话] 现代职场词 — 标记「制度」 2 条
-
-- `dialogue_0008.tsv#2813` char_valessa
-  - EN: Damek is wasting no time telling everybody who we are.\nIt's only a matter of time until word spreads to the r
-  - CN: 达梅克一刻不停地到处宣扬我们是谁。\n消息传遍马泽奥其余地方只是时间问题。\n我们得想出某种制度，或者别的什么办法。
-- `dialogue_0025.tsv#9800` char_valessa
-  - EN: We're not plagued with piracy like Mazeo.\nOur hierarchy works, and we're always stable.\nIf I ever got the ch
-  - CN: 我们不像马泽奥那样被海盗问题困扰。\n我们的等级制度运转良好，一直很稳定。\n就算有机会离开，我想我也不会走。
-
-## [人物对话] 现代职场词 — 标记「失业」 1 条
-
-- `dialogue_0007.tsv#2759` char_fortaime
-  - EN: Though I'm worried that sword will put me out of business.\nVisions while you're awake...? You'll always know 
-  - CN: 不过我担心那把剑会让我失业。\n清醒时就能看到预视……？你总能知道那是预视。\n那我提醒你的本事岂不是没用了？
 
 ## [人物对话] 现代职场词 — 标记「效率」 1 条
 
@@ -229,19 +100,4 @@
 - `dialogue_0012.tsv#4446` 旁白
   - EN: Nada runs off and climbs the netting of the ship.{w}\nI look over at the other ships, and pirates start doing 
   - CN: 娜达跑开，爬上了船上的网绳。{w}\n我望向其他船只，海盗们也开始做同样的事。{w}\n他们简直像有一套完整的语言，能在远距离互相沟通。
-
-## [内心独白] 现代职场词 — 标记「管理员」 2 条
-
-- `dialogue_0013.tsv#4821` 旁白
-  - EN: Having successfully changed the subject, we start heading inside.{w}\nHowl made a good point, but none of us w
-  - CN: 成功转移了话题后，我们开始往里走。{w}\n豪尔说得有道理，但我们谁都没能反驳他。{w}\n我怀疑图书管理员不会愿意跟我们这样的入侵者说话。
-- `dialogue_0013.tsv#4824` 旁白
-  - EN: Whoever has been taking care of this place only cares about the literature.{w}\nI guess that's acceptable, sin
-  - CN: 打理这里的人只在乎那些书籍。{w}\n我想这也能理解，毕竟那本该是图书管理员的主要职责。{w}\n但总觉得有些奇怪。有的是时间，这里却还是这么脏。
-
-## [内心独白] 现代职场词 — 标记「制度」 1 条
-
-- `dialogue_0024.tsv#9532` 旁白
-  - EN: Not only that, but our culture, and hierarchy were important too.{w}\nThere'd be no place for Seers and Scribe
-  - CN: 不仅如此，我们的文化和等级制度也很重要。{w}\n在阿拉斯蒂亚其他地方，先知和书记官将无处容身。{w}\n等这一切尘埃落定，瓦利诺斯仍会强大而自由。
 

@@ -13442,7 +13442,7 @@ translate chinese Damek3_map064_4_0_10afef25:
 translate chinese Damek3_map064_4_0_6f4d8898:
 
     # char_damek "Several hundred, but under a thousand.\nWe're a fully realized army, and I {i}know{/i} we can do this.\nWith you and that blade, our victory is pretty much secured."
-    char_damek "几百人，不到一千。\n我们是一支羽翼丰满的军队，我{i}知道{/i}我们做得到。\n有你，还有那把剑，我们的胜利几乎已经稳了。"
+    char_damek "几百人，不到一千。\n我们是一支羽翼丰满的军队，我{i}知道{/i}我们做得到。\n有你，还有那把剑，我们的胜利几乎已是定局。"
 
 # game/script.rpy:33714
 translate chinese Damek3_map064_4_0_9d6ce4e3:
@@ -26620,7 +26620,7 @@ translate chinese map133_cd20a136:
     # voice "se/y00921.ogg"
     # char_fortaime "Though I'm worried that sword will put me out of business.\nVisions while you're awake...? You'll always know they're visions.\nKinda puts my ability to tip you off in the garbage, doesn't it?"
     voice "se/y00921.ogg"
-    char_fortaime "不过我担心那把剑会让我失业。\n清醒时就能看到预视……？你总能知道那是预视。\n那我提醒你的本事岂不是没用了？"
+    char_fortaime "不过我担心那把剑会让我没活干。\n清醒时就能看到预视……？你总能知道那是预视。\n那我提醒你的本事岂不是没用了？"
 
 # game/script.rpy:61327
 translate chinese map133_0015786b:
@@ -27164,7 +27164,7 @@ translate chinese map129_262614cd:
 translate chinese map129_0c5b82ce:
 
     # char_valessa "Damek is wasting no time telling everybody who we are.\nIt's only a matter of time until word spreads to the rest of Mazeo.\nWe'll need to come up with some kind of system, or something."
-    char_valessa "达梅克一刻不停地到处宣扬我们是谁。\n消息传遍马泽奥其余地方只是时间问题。\n我们得想出某种制度，或者别的什么办法。"
+    char_valessa "达梅克一刻不停地到处宣扬我们是谁。\n消息传遍马泽奥其余地方只是时间问题。\n我们得想出某种规矩，或者别的什么办法。"
 
 # game/script.rpy:62084
 translate chinese map129_41c4b65a:
@@ -41396,7 +41396,7 @@ translate chinese map265_aef27335:
     # voice "se/pro6.ogg"
     # char_pro "Look, it's probably best not to think about it too much.\nHe's in good hands. We just need to forge on as a team.\nIf it weren't for him, we'd all be dead at sea. This is a victory."
     voice "se/pro6.ogg"
-    char_pro "听着，最好别想太多。\n他有人照顾。我们只需要作为一个团队继续前进。\n要不是他，我们早就葬身大海了。这是一场胜利。"
+    char_pro "听着，最好别想太多。\n他有人照顾。我们只需要一起继续前进。\n要不是他，我们早就葬身大海了。这是一场胜利。"
 
 # game/script.rpy:92609
 translate chinese map265_2fe293b4:
@@ -41452,7 +41452,7 @@ translate chinese map265_aa508b80:
     # voice "se/pro8.ogg"
     # char_pro "Look, it's probably best not to think about it too much.\nHe's in good hands. We just need to forge on as a team.\nIf it weren't for her, we'd all be dead at sea. This is a victory."
     voice "se/pro8.ogg"
-    char_pro "听着，最好别想太多。\n她有人照顾。我们只需要作为一个团队继续前进。\n要不是她，我们早就葬身大海了。这是一场胜利。"
+    char_pro "听着，最好别想太多。\n她有人照顾。我们只需要一起继续前进。\n要不是她，我们早就葬身大海了。这是一场胜利。"
 
 # game/script.rpy:92770
 translate chinese map265_2fe293b4_1:
@@ -55814,7 +55814,7 @@ translate chinese map179_80a8198b:
     # voice "se/z01763.ogg"
     # char_valessa "I guess so. But don't say that too loud.\nSomething tells me it's not common knowledge."
     voice "se/z01763.ogg"
-    char_valessa "好像是吧。不过别说得太大声。\n我总觉得，这可不是人尽皆知的事。"
+    char_valessa "好像是吧。不过别说得太大声。\n我总觉得，这可不是人尽都知的事。"
 
 # game/script.rpy:122618
 translate chinese map179_397175e0:

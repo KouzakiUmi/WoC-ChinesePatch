@@ -2,7 +2,7 @@
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
  "version": "1.2.0-dev",
- "built": "2026-09-22 20:59:16",
+ "built": "2026-09-22 21:03:31",
  "base_check": {
   "path": "game/script.rpy",
   "sha256": "c11fbeb67c84d9b649f09e8a39aacd43adf28428b2493e1e988c4871d9de7368",
@@ -612,7 +612,7 @@
   {
    "path": "game/00title_particles.rpyc",
    "type": "new",
-   "sha256": "947b2b2d8658e08a5e3547ac02590924d43cc00cac05831ebfc6f11e99c58fd0",
+   "sha256": "a68c5c4f1aa45250138aaa112449d9022e23a8896c68146f0df958952d37e2ca",
    "size": 3200
   },
   {
@@ -624,7 +624,7 @@
   {
    "path": "game/tl/chinese/common.rpyc",
    "type": "new",
-   "sha256": "0fd983f42972a186a0727ce69e2a5725ffc2df1c3af8a218c4ac4507399f7ce9",
+   "sha256": "8becb980582a71d9d3bc15faf52be5e9fc79d0af67677c31698ace17d8d34b51",
    "size": 26884
   },
   {
@@ -636,7 +636,7 @@
   {
    "path": "game/tl/chinese/fonts.rpyc",
    "type": "new",
-   "sha256": "d4a8cc515570b6274bead192a43dfdd1b7df40b2ae77b85e9e4a0f8c965f7e82",
+   "sha256": "edb7ddc038ea3da7c4c3cf48b72fbcc75a5532e026d6fa2d87cf3099f3daafe7",
    "size": 998
   },
   {
@@ -648,7 +648,7 @@
   {
    "path": "game/tl/chinese/names.rpyc",
    "type": "new",
-   "sha256": "224e6e399ca06b208101a6ea45e7dca93a6b11fc8b4b1ddcdad7c1602c57a85e",
+   "sha256": "417ba792320fd6b91a0b99157018ae9826478b4317eee4a8fbf48e632035e210",
    "size": 2706
   },
   {
@@ -660,7 +660,7 @@
   {
    "path": "game/tl/chinese/options.rpyc",
    "type": "new",
-   "sha256": "8f1a04ae1d88c10dd1ca1fd99784a64d3f09b714fb919c9eb2c9c55ece0e9917",
+   "sha256": "ef9bf09fd376b16b9ecc9b0a6dac631a44ab0e24cbed66872a9bef9e53acfd31",
    "size": 1266
   },
   {
@@ -672,19 +672,19 @@
   {
    "path": "game/tl/chinese/screens.rpyc",
    "type": "new",
-   "sha256": "c31967e4217ee5eabed5d646ff221a8844a7e2774a27beed13ff0e02a5a430d6",
+   "sha256": "f5ae78f30741e01dae249599573ad0256defcadc1505a95cf6d8534d8cf4ce18",
    "size": 8732
   },
   {
    "path": "game/tl/chinese/script.rpy",
    "type": "new",
-   "sha256": "3c192172aa93dd9cd034bf05589b7dabf2bcf9681486ae838d08234548ee859e",
+   "sha256": "473034732ad28a59898a05dafbf0b2294a798ddbe5b24808da3dfd7563260244",
    "size": 4544929
   },
   {
    "path": "game/tl/chinese/script.rpyc",
    "type": "new",
-   "sha256": "21398e3c814bd524c590ffe60a747798d8b4450ff6aa92a6b230e54202d9b8d3",
+   "sha256": "bf35df8ef41bea77dea9523feab19fea05bcabb1b348bf1951a295f7be908910",
    "size": 2456713
   },
   {
@@ -696,7 +696,7 @@
   {
    "path": "game/zzz_chinese_language.rpyc",
    "type": "new",
-   "sha256": "1ea1bb3f839d322897f46bb2a8681681e0e51a1f8b6afece2e4b757aecd487e4",
+   "sha256": "5419018faab088690dea3f680b151905a241fa887b37d1f31b8e29cb15f31d84",
    "size": 942
   }
  ],
@@ -704,7 +704,7 @@
   "pc": "7.1.1.929",
   "android": "8.6.0.25112108"
  },
- "notes": "1.2.0-dev (迭代中, 未发布): 全量收敛 + 角色档案驱动精校。Howl 对君主统一用「您」; 对话层去文言; 重复句零分歧; 笔误病句已修。定稿后去掉 -dev 再发布。",
+ "notes": "1.2.0-dev (迭代中, 未发布): 标记表校准后逐 chunk 复检; 语域真问题已修 (团队/制度/失业/稳了/皆)。",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

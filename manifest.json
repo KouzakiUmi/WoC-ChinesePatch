@@ -1,8 +1,8 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.2.9",
- "built": "2026-09-23 00:29:13",
+ "version": "1.3.0",
+ "built": "2026-09-23 00:31:51",
  "base_check": {
   "path": "game/script.rpy",
   "sha256": "c11fbeb67c84d9b649f09e8a39aacd43adf28428b2493e1e988c4871d9de7368",
@@ -630,7 +630,7 @@
   {
    "path": "game/tl/chinese/fonts.rpy",
    "type": "new",
-   "sha256": "a6de5960cec555bc3a57ce33ee179a4cae2774fa7e7743c10f79d039ea7edf37",
+   "sha256": "0f0e07159e6529e456dfb8191d4564464c68138e0a7556fc2aa2ae7b4d0d5a11",
    "size": 308
   },
   {
@@ -698,13 +698,23 @@
    "type": "new",
    "sha256": "edea1ec0ac018618d03798557d1396b57685f1f9cde5d7600bfbf204cbaade36",
    "size": 942
+  },
+  {
+   "path": "game/fonts/SarasaUiSC-Regular.ttf",
+   "type": "new",
+   "sha256": "2d6e1dccfba46320b4c0c4bc6e5f4087e85c39a7f98a21079c1a5a3b6112fb68"
+  },
+  {
+   "path": "game/fonts/OFL-SarasaGothic.txt",
+   "type": "new",
+   "sha256": "32c932e0dbae4f6e6386964bbc2d04178707665a05ca65cf636241af13d50a53"
   }
  ],
  "engines": {
   "pc": "7.1.1.929",
   "android": "8.6.0.25112108"
  },
- "notes": "1.2.9: 中文字体顺序改为「本地附带中文字体优先 -> 系统字体兜底」。本机存在 fonts/dengxian-regular.ttf 时用它; 干净安装无该文件时自动使用系统字体(微软雅黑/等线/黑体/宋体; Android Noto CJK), 不再回退到无中文字形的 gothic.ttf。",
+ "notes": "1.3.0: 中文字体改为随包 Sarasa UI SC (更纱黑体, SIL OFL 1.1) 优先, 系统字体兜底; 不再依赖微软等线副本, 也不再回退到无中文字形的 gothic.ttf。随包附 OFL 许可文本。",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

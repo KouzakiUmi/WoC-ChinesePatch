@@ -15676,7 +15676,7 @@ translate chinese map068_07c17b87:
 translate chinese map068_71f0c4d7:
 
     # char_pro "Maybe I'll tell you a bit more back at HQ.\nI'll use this big score to buy a bottle of wine.\nWe can crack it open and get to know each other."
-    char_pro "也许回总部后我会多告诉你一些。\n我会用这次大捞一笔的钱买瓶酒。\n我们可以开瓶畅饮，彼此认识认识。"
+    char_pro "也许回总部后我会多告诉你一些。\n我会用这次捞到的钱买瓶酒。\n我们可以开瓶畅饮，彼此认识认识。"
 
 # game/script.rpy:38014
 translate chinese map068_3a0b6716:
@@ -15696,7 +15696,7 @@ translate chinese map068_57ff3a81:
     # voice "se/y00803.ogg"
     # char_pro "I can win you over, yet. Especially if you have wiggle room.\nTell you what — I'll use this big score to pick up a bottle of wine.\nWe can crack it open back at HQ and get to know each other better."
     voice "se/y00803.ogg"
-    char_pro "我还是能说服你的。尤其要是你还有回旋的余地。\n这样吧——我会用这次大捞一笔的钱买瓶酒。\n回总部后我们可以开瓶畅饮，更好地了解彼此。"
+    char_pro "我还是能说服你的。尤其要是你还有回旋的余地。\n这样吧——我会用这次捞到的钱买瓶酒。\n回总部后我们可以开瓶畅饮，更好地了解彼此。"
 
 # game/script.rpy:38036
 translate chinese map068_d1f0fd48:
@@ -65760,7 +65760,7 @@ translate chinese map222_33e1f9d6:
     # voice "se/z02085.ogg"
     # char_howl "Maybe. Means to an end, we suppose.\nThe enemy likely thinks the same way."
     voice "se/z02085.ogg"
-    char_howl "也许吧。我们猜，是为了达到目的的手段。\n敌人多半也是这么想的。"
+    char_howl "也许吧。我们猜，这算是达到目的的手段。\n敌人多半也是这么想的。"
 
 # game/script.rpy:145995
 translate chinese map222_da8c665b:

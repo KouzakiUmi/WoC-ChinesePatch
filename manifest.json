@@ -1,8 +1,8 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.2.5",
- "built": "2026-09-22 23:07:57",
+ "version": "1.2.6",
+ "built": "2026-09-22 23:16:53",
  "base_check": {
   "path": "game/script.rpy",
   "sha256": "c11fbeb67c84d9b649f09e8a39aacd43adf28428b2493e1e988c4871d9de7368",
@@ -612,7 +612,7 @@
   {
    "path": "game/00title_particles.rpyc",
    "type": "new",
-   "sha256": "552dfbcdaf5e83adf72586f7f50d667ac5c406ac98157a650e8f0dfe7977d34a",
+   "sha256": "d488039de4d9119d8465cb741ec346c2c931f0870fa2b7487abe0b09188cc2bb",
    "size": 3200
   },
   {
@@ -624,7 +624,7 @@
   {
    "path": "game/tl/chinese/common.rpyc",
    "type": "new",
-   "sha256": "e7bfc7dea81611de63c5cfd1c07a5cbd0a806de35dd6477f85cd36cea13ed0d0",
+   "sha256": "9ed0e5aa483eb6dd96dc337729ba4ebe33fcf4c0a548a718e9dc99b5a61d3eea",
    "size": 26884
   },
   {
@@ -636,7 +636,7 @@
   {
    "path": "game/tl/chinese/fonts.rpyc",
    "type": "new",
-   "sha256": "5d6b19e2fcda5c84d39ecfc6b1299b9468eb82f6dfe7690b497b5903580be483",
+   "sha256": "ed01870c8e451b86acf544424a09536ae3c05c0a909b1a1bf8ea8c7857fe1d40",
    "size": 998
   },
   {
@@ -648,7 +648,7 @@
   {
    "path": "game/tl/chinese/names.rpyc",
    "type": "new",
-   "sha256": "e2c70709499fda61cf3124a3706eb3be320f340dc622b71de267f481a9994e8d",
+   "sha256": "0b1efb143b8b4c5d4efb9f4591aaa92b9df4f6f91222ad6fedbf1b23e21e765b",
    "size": 2706
   },
   {
@@ -660,7 +660,7 @@
   {
    "path": "game/tl/chinese/options.rpyc",
    "type": "new",
-   "sha256": "177f882773ff0bf4c6061cdd40e353f383891bef1ffabdecc9c063fcca835c65",
+   "sha256": "77e53c469b3db2f6731e035645829c61a3589ecf98aa213ebbfe9f6f931024e7",
    "size": 1266
   },
   {
@@ -672,19 +672,19 @@
   {
    "path": "game/tl/chinese/screens.rpyc",
    "type": "new",
-   "sha256": "9df0b7023dcc6c9a267fb4fb8b7cad0b02532660528443f0285859ebb9f437e9",
+   "sha256": "684294ab66b842256cb9e3542b528f4c1aca6ea8c29cd1db1966ba8e3e2243dc",
    "size": 8732
   },
   {
    "path": "game/tl/chinese/script.rpy",
    "type": "new",
-   "sha256": "8e672a113f3dd0ccd317241ce78d3eb7f10cb81ed692809c45ca7f15dac81744",
+   "sha256": "aadd45d49a82f7aeff616d6fceef49453256dd8a5369498dd11967859794c130",
    "size": 4544929
   },
   {
    "path": "game/tl/chinese/script.rpyc",
    "type": "new",
-   "sha256": "1fec0379c7b7cc66b97d10a48c60074fdffeb35dda5e630ff2d8a102aabbb75a",
+   "sha256": "35f93d75ffc93f902f69d5bc37eb87c239faf7f4d4b759c8506a880e83583bdd",
    "size": 2456713
   },
   {
@@ -696,7 +696,7 @@
   {
    "path": "game/zzz_chinese_language.rpyc",
    "type": "new",
-   "sha256": "19988688a8dbe7675f22fee657e477586d73bcf69d8324bc049e5b16d3de1fad",
+   "sha256": "d9cf0fc03a9e0883f638e85a839db6dda95e19041cf5f2ba347d9f7fd941f42b",
    "size": 942
   }
  ],
@@ -704,7 +704,7 @@
   "pc": "7.1.1.929",
   "android": "8.6.0.25112108"
  },
- "notes": "1.2.5: 跨行指代专项审计 —— 3 个代理审计全篇回指/同义指代, 105 条候选中修复 97 条: Salus 音译统一「萨鲁斯」(18), Monarchy 系列统一「王室/旧王室/新王权」(16), vessel 系列, Town Square / War Table / suits of armor / The Outlook 等地点与物件名统一, 以及 his Masters→主上、big score / play it by ear / means to an end 等俚语回指。另 8 条待人工判断。",
+ "notes": "1.2.6: 审查跨行指代审计的 8 条待定候选 —— 3 条真不顺已修 (Howl 的 means to an end 改顺、Pro 两处 big score 的定语形式改为「用这次捞到的钱」); 其余 5 条复核后确认无需改动。",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

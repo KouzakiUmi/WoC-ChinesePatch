@@ -4794,7 +4794,7 @@ translate chinese map042_9fd14bf4:
 translate chinese map042_1a66be1b:
 
     # char_sovy "My orders had nothing to do with burning down this village.\nI wasn't supposed to kill anyone unless I had to, either.\nBut you know, my Apprentice isn't very fun to train with."
-    char_sovy "我的命令跟烧掉这个村子毫无关系。\n除非迫不得已，我也不该杀人。\n可你知道，教我的学徒实在没什么意思。"
+    char_sovy "我的命令跟烧掉这个村子毫无关系。\n除非迫不得已，我也不该杀人。\n可你知道，跟我的学徒对练实在没什么意思。"
 
 # game/script.rpy:13032
 translate chinese map042_717888d4:

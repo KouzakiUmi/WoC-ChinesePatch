@@ -388,6 +388,132 @@ def apply_changes(args, diff, label):
     return 0
 
 
+TAIL_MARKS = ["啊", "吧", "呢", "吗", "嘛", "呀", "哦", "哈", "嗯", "啦", "哟", "欸", "唉"]
+ADDRESS_MARKS = ["大人", "阁下", "长官", "先生", "女士", "小姐", "兄弟", "姐妹们", "同胞们",
+                 "朋友", "孩子", "小子", "老家伙", "头儿", "陛下", "君主", "长老", "先知"]
+
+
+def cmd_chars(args):
+    """按说话人统计语气证据, 输出 docs/character-stats.md (供人工写角色档案)。"""
+    rows = list(iter_rows(args.tl_dir))
+    spk = collections.defaultdict(list)
+    for r in rows:
+        if r["kind"] == "dialogue":
+            spk[r["speaker"] or "(旁白/内心独白)"].append(r)
+    stats = {}
+    for name, items in spk.items():
+        tgts = [r["tgt"] for r in items]
+        blob = "".join(tgts)
+        lens = [len(t) for t in tgts if t]
+        stats[name] = {
+            "n": len(items),
+            "avg": sum(lens) / max(1, len(lens)),
+            "nin": blob.count("您"), "ni": blob.count("你"),
+            "written": sum(blob.count(m) for m in WRITTEN_MARKS),
+            "modern": sum(blob.count(m) for m in MODERN_MARKS),
+            "colloq": sum(blob.count(m) for m in COLLOQ_MARKS),
+            "tails": sorted(((m, blob.count(m)) for m in TAIL_MARKS if blob.count(m)), key=lambda x: -x[1])[:4],
+            "addr": sorted(((m, blob.count(m)) for m in ADDRESS_MARKS if blob.count(m)), key=lambda x: -x[1])[:4],
+            "samples": [items[len(items) // 5]["tgt"], items[len(items) // 2]["tgt"], items[-len(items) // 5]["tgt"]],
+        }
+    os.makedirs(os.path.join(ROOT, "docs"), exist_ok=True)
+    out = os.path.join(ROOT, "docs", "character-stats.md")
+    with io.open(out, "w", encoding="utf-8", newline="\n") as f:
+        f.write("# 角色语气证据表 (自动生成, 勿手改)\n\n生成时间: %s\n\n" % time.strftime("%Y-%m-%d %H:%M"))
+        f.write("由 `review_tool.py chars` 生成, 供 `docs/characters.md` 人工定稿参考。\n\n")
+        f.write("| 说话人 | 行数 | 平均句长 | 您/你 | 书面腔 | 现代词 | 口语词 | 常见句末 | 称呼 |\n")
+        f.write("| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n")
+        for name, s in sorted(stats.items(), key=lambda kv: -kv[1]["n"]):
+            f.write("| %s | %d | %.0f | %d/%d | %d | %d | %d | %s | %s |\n" % (
+                name, s["n"], s["avg"], s["nin"], s["ni"], s["written"], s["modern"], s["colloq"],
+                " ".join("%s%d" % t for t in s["tails"]) or "-",
+                " ".join("%s%d" % t for t in s["addr"]) or "-"))
+        f.write("\n---\n\n")
+        for name, s in sorted(stats.items(), key=lambda kv: -kv[1]["n"]):
+            f.write("## %s (%d 行)\n\n" % (name, s["n"]))
+            for x in s["samples"]:
+                f.write("- %s\n" % x.replace("\n", " ")[:120])
+            f.write("\n")
+    print("证据表 -> docs/character-stats.md (%d 个说话人)" % len(stats))
+    return 0
+
+
+def cmd_worklist(args):
+    """按 chunk 生成精校工单与进度清单。"""
+    rows = list(iter_rows(args.tl_dir))
+    cand = scan_rows(rows, load_terms())
+    per = collections.defaultdict(list)
+    for c in cand:
+        per[c["chunk"]].append(c)
+    counts = collections.Counter()
+    for r in rows:
+        counts[(r["chunk"], classify(r))] += 1
+    chunks = sorted(set(list(per) + [k[0] for k in counts]))
+    os.makedirs(REVIEW, exist_ok=True)
+    order = {"high": 0, "term": 1, "low": 2, "info": 3}
+    with io.open(os.path.join(REVIEW, "worklist.md"), "w", encoding="utf-8", newline="\n") as f:
+        f.write("# 精校工单 (按 chunk)\n\n生成时间: %s\n\n" % time.strftime("%Y-%m-%d %H:%M"))
+        f.write("逐个 chunk 精校: 先读 `docs/characters.md` 确认该角色语气, 处理完本页候选后在 checklist.csv 标记。\n\n")
+        for ch in chunks:
+            items = sorted(per.get(ch, []), key=lambda c: (order.get(c["sev"], 9), int(c["seq"] or 0)))
+            kinds = " ".join("%s=%d" % (k, counts[(ch, k)]) for k in ("monologue", "dialogue", "ui") if counts[(ch, k)])
+            f.write("## %s\n\n行数: %s | 候选: %d\n\n" % (ch, kinds or "-", len(items)))
+            if not items:
+                f.write("无候选, 可直接人工通读一遍。\n\n"); continue
+            for c in items[:args.show]:
+                f.write("- **%s** `%s#%s` %s\n  - EN: %s\n  - CN: %s\n  - %s\n"
+                        % (c["sev"], c["chunk"], c["seq"], c["speaker"] or "旁白",
+                           c["src"].replace("\n", " ")[:110], c["tgt"].replace("\n", " ")[:110], c["note"]))
+            if len(items) > args.show:
+                f.write("- ... 其余 %d 条见 review/candidates.tsv\n" % (len(items) - args.show))
+            f.write("\n")
+    ck = os.path.join(REVIEW, "checklist.csv")
+    old = {}
+    if os.path.isfile(ck):
+        for ln in read_text(ck).split("\n"):
+            p = ln.split(",")
+            if len(p) >= 2 and p[0] != "chunk":
+                old[p[0]] = p
+    with io.open(ck, "w", encoding="utf-8", newline="\n") as f:
+        f.write("chunk,rows,candidates,status,reviewer,date,note\n")
+        for ch in chunks:
+            prev = old.get(ch)
+            n = sum(v for (c, k), v in counts.items() if c == ch)
+            f.write("%s,%d,%d,%s,%s,%s,%s\n" % (ch, n, len(per.get(ch, [])),
+                    prev[3] if prev else "未开始", prev[4] if prev and len(prev) > 4 else "",
+                    prev[5] if prev and len(prev) > 5 else "", prev[6] if prev and len(prev) > 6 else ""))
+    print("工单 -> review/worklist.md (%d 个 chunk)" % len(chunks))
+    print("进度清单 -> review/checklist.csv")
+    return 0
+
+
+def cmd_mark(args):
+    """更新 checklist.csv 中某个 chunk 的校对状态。"""
+    ck = os.path.join(REVIEW, "checklist.csv")
+    if not os.path.isfile(ck):
+        sys.exit("先运行 worklist 生成 review/checklist.csv")
+    lines = read_text(ck).rstrip("\n").split("\n")
+    hit = False
+    for i, ln in enumerate(lines):
+        p = ln.split(",")
+        if p and p[0] == args.chunk:
+            while len(p) < 7:
+                p.append("")
+            p[3] = args.status
+            if args.reviewer:
+                p[4] = args.reviewer
+            p[5] = time.strftime("%Y-%m-%d")
+            if args.note:
+                p[6] = args.note.replace(",", ";")
+            lines[i] = ",".join(p)
+            hit = True
+    if not hit:
+        sys.exit("checklist.csv 里没有: " + args.chunk)
+    write_text(ck, "\n".join(lines) + "\n")
+    print("已标记 %s = %s" % (args.chunk, args.status))
+    return 0
+
+
 def cmd_stats(args):
     rows = list(iter_rows(args.tl_dir))
     for kind in KINDS:
@@ -601,6 +727,13 @@ def main():
     dd.add_argument("--game-root")
     dd.add_argument("--show", type=int, default=6)
     dd.set_defaults(fn=cmd_dedupe)
+    ch = sub.add_parser("chars"); ch.set_defaults(fn=cmd_chars)
+    wl = sub.add_parser("worklist"); wl.add_argument("--show", type=int, default=8); wl.set_defaults(fn=cmd_worklist)
+    mk = sub.add_parser("mark")
+    mk.add_argument("chunk")
+    mk.add_argument("status", choices=["未开始", "进行中", "已完成", "待确认"])
+    mk.add_argument("--reviewer"); mk.add_argument("--note")
+    mk.set_defaults(fn=cmd_mark)
     ap_ = sub.add_parser("apply")
     ap_.add_argument("--sheet", help="指定清单文件 (默认 review/sheet_*.tsv)")
     ap_.add_argument("--write", action="store_true", help="真正写回 chunks")

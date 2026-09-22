@@ -1,8 +1,8 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.2.1",
- "built": "2026-09-22 21:35:05",
+ "version": "1.2.2",
+ "built": "2026-09-22 21:59:11",
  "base_check": {
   "path": "game/script.rpy",
   "sha256": "c11fbeb67c84d9b649f09e8a39aacd43adf28428b2493e1e988c4871d9de7368",
@@ -144,8 +144,8 @@
   {
    "path": "game/images/WorldMap.png",
    "type": "modified",
-   "sha256": "7ed6e655159664634ff5453d9492f07d87cddd557db805100240d5a40e658c34",
-   "size": 1500141,
+   "sha256": "7406ca794101109ed995c4f65d62d413138b921c8fb87307cc5ef1fc7cd76e16",
+   "size": 1424278,
    "original": {
     "sha256": "f0eeffeaef76f23e8cee23eac3ecf8314f28e837045aaced4bdaa5398dd5af45",
     "size": 1227273,
@@ -243,8 +243,8 @@
   {
    "path": "game/images/b0009.png",
    "type": "modified",
-   "sha256": "21027549bf0f8fbbde0411626729dda64d4b0432555e59e7c5dd55ceeea71881",
-   "size": 1459231,
+   "sha256": "df4c2b605a7817e45f44b1c3e5e9c7d2d6aab39603052bf2c37d2328ca3e8a92",
+   "size": 1617061,
    "original": {
     "sha256": "f9527cc8e09c68e662b6b2f6c80759499b60abc2400a0e8c2c14e98f3966d269",
     "size": 1304824,
@@ -704,7 +704,7 @@
   "pc": "7.1.1.929",
   "android": "8.6.0.25112108"
  },
- "notes": "1.2.1: 子代理逐句精校 + 语境复核。采纳 318 条建议, 复核阶段撤销 2 条/再改 15 条 (含 train with 语法修正)。",
+ "notes": "1.2.2: 更新图片资源 —— WorldMap.png (世界地图地名) 与 b0009.png (迈勒斯书页, 含「放逐之刃」术语)。 其余 50 张图片与全部文本保持 1.2.1 状态不变。",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

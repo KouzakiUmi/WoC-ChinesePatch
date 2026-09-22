@@ -1,8 +1,8 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.2.6",
- "built": "2026-09-22 23:16:53",
+ "version": "1.2.7",
+ "built": "2026-09-23 00:23:38",
  "base_check": {
   "path": "game/script.rpy",
   "sha256": "c11fbeb67c84d9b649f09e8a39aacd43adf28428b2493e1e988c4871d9de7368",
@@ -612,7 +612,7 @@
   {
    "path": "game/00title_particles.rpyc",
    "type": "new",
-   "sha256": "d488039de4d9119d8465cb741ec346c2c931f0870fa2b7487abe0b09188cc2bb",
+   "sha256": "88c1dbae8d49bb8cce765ddbdc76b3a22aa0c871387c81e0d09dbe66af2332b8",
    "size": 3200
   },
   {
@@ -624,19 +624,19 @@
   {
    "path": "game/tl/chinese/common.rpyc",
    "type": "new",
-   "sha256": "9ed0e5aa483eb6dd96dc337729ba4ebe33fcf4c0a548a718e9dc99b5a61d3eea",
+   "sha256": "92acb8dde8c1f8fc9e1cbc3bb999f31b913190229a7c9906d22d87db112179a7",
    "size": 26884
   },
   {
    "path": "game/tl/chinese/fonts.rpy",
    "type": "new",
-   "sha256": "7e53c62f02c4318f9633f485cba7521bd66395893b59ef127deb7890f0b6c6dc",
+   "sha256": "565a0a1034b018efd14133e7f59d8a4951669b6969769f7b08dbae814fd93af2",
    "size": 308
   },
   {
    "path": "game/tl/chinese/fonts.rpyc",
    "type": "new",
-   "sha256": "ed01870c8e451b86acf544424a09536ae3c05c0a909b1a1bf8ea8c7857fe1d40",
+   "sha256": "4a508fdef97f2737c6ef0f240d22537a7af54cd0c39a9cfc886af2d7cbfaee82",
    "size": 998
   },
   {
@@ -648,7 +648,7 @@
   {
    "path": "game/tl/chinese/names.rpyc",
    "type": "new",
-   "sha256": "0b1efb143b8b4c5d4efb9f4591aaa92b9df4f6f91222ad6fedbf1b23e21e765b",
+   "sha256": "1afcf3ca6d10cdb89b099d07a6ae0e8c7d34560fa850d7182e874cdcc6a0cb73",
    "size": 2706
   },
   {
@@ -660,7 +660,7 @@
   {
    "path": "game/tl/chinese/options.rpyc",
    "type": "new",
-   "sha256": "77e53c469b3db2f6731e035645829c61a3589ecf98aa213ebbfe9f6f931024e7",
+   "sha256": "fc92b50f15c41874886bb1653f773e43c3fa8f101141ed5dd29c825cf93cf341",
    "size": 1266
   },
   {
@@ -672,7 +672,7 @@
   {
    "path": "game/tl/chinese/screens.rpyc",
    "type": "new",
-   "sha256": "684294ab66b842256cb9e3542b528f4c1aca6ea8c29cd1db1966ba8e3e2243dc",
+   "sha256": "0168cd5db69f20fc3e0f2473c4fd4998a2a9e933072ca4f91c67b6ed9940ebf9",
    "size": 8732
   },
   {
@@ -684,7 +684,7 @@
   {
    "path": "game/tl/chinese/script.rpyc",
    "type": "new",
-   "sha256": "35f93d75ffc93f902f69d5bc37eb87c239faf7f4d4b759c8506a880e83583bdd",
+   "sha256": "796ec66067e745e99c74345c1acef93692b4bccaa6771522807f719c9222450f",
    "size": 2456713
   },
   {
@@ -696,7 +696,7 @@
   {
    "path": "game/zzz_chinese_language.rpyc",
    "type": "new",
-   "sha256": "d9cf0fc03a9e0883f638e85a839db6dda95e19041cf5f2ba347d9f7fd941f42b",
+   "sha256": "65d95b007f4fdf18276141514621fbe63a1ae9d7b52664be052e4fcd242f5277",
    "size": 942
   }
  ],
@@ -704,7 +704,7 @@
   "pc": "7.1.1.929",
   "android": "8.6.0.25112108"
  },
- "notes": "1.2.6: 审查跨行指代审计的 8 条待定候选 —— 3 条真不顺已修 (Howl 的 means to an end 改顺、Pro 两处 big score 的定语形式改为「用这次捞到的钱」); 其余 5 条复核后确认无需改动。",
+ "notes": "1.2.7: 中文字体改为系统字体优先 —— tl/chinese/fonts.rpy 不再硬编码 fonts/dengxian-regular.ttf, 改为打开 config.allow_sysfonts 并按候选列表匹配系统字体 (Windows: 微软雅黑/等线/黑体/宋体; Android: NotoSansCJK/NotoSansSC/DroidSansFallback), 仅当系统字体不可用时才回退到游戏目录字体。",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

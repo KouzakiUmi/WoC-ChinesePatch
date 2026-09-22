@@ -580,7 +580,7 @@ translate chinese map035_c47e204b:
 translate chinese map035_7209ef9b:
 
     # char_the_triumvirate "The Blade of Exodus?"
-    char_the_triumvirate "流亡之刃？"
+    char_the_triumvirate "放逐之刃？"
 
 # game/script.rpy:2378
 translate chinese map035_e4627821:
@@ -908,7 +908,7 @@ translate chinese map036_ec8cc4d6:
     # voice "se/z00066.ogg"
     # char_halin "Good — now I expect you to answer my questions.\nThe Blade of Exodus, is it in Valinorth Village?\nAnd the one who can wield it, do they live there as well?"
     voice "se/z00066.ogg"
-    char_halin "很好——现在，我希望你如实回答我的问题。\n流亡之刃，是不是在瓦利诺斯村？\n还有那个能驾驭它的人，是不是也住在那儿？"
+    char_halin "很好——现在，我希望你如实回答我的问题。\n放逐之刃，是不是在瓦利诺斯村？\n还有那个能驾驭它的人，是不是也住在那儿？"
 
 # game/script.rpy:3262
 translate chinese map037_c6464eb7:
@@ -1560,7 +1560,7 @@ translate chinese map038_4f7c7a19:
 translate chinese map038_4344e864:
 
     # char_damek "Valinorth... The Blade of Exodus...\nThere must be something the spirits aren't telling us.\nSomething we could use to take down The Triumvirate."
-    char_damek "瓦利诺斯……流亡之刃……\n灵一定还有什么没告诉我们。\n某种我们能用来了结三人执政团的东西。"
+    char_damek "瓦利诺斯……放逐之刃……\n灵一定还有什么没告诉我们。\n某种我们能用来了结三人执政团的东西。"
 
 # game/script.rpy:4900
 translate chinese map038_8c2cc44a:
@@ -3848,7 +3848,7 @@ translate chinese Ulric2_map084_7_0_9bc98964:
 translate chinese Ulric2_map084_7_0_524a4ae1:
 
     # char_ulric "Actually, I come from Alarinthia.\nPractically born with a blade in my hand.\nA figure of speech of course. Don't picture that."
-    char_ulric "其实我来自阿拉林西亚。\n几乎是握着刀剑出生的。\n当然，这是比喻。别去想象那画面。"
+    char_ulric "其实我来自阿拉林西亚。\n几乎是握着剑出生的。\n当然，这是比喻。别去想象那画面。"
 
 # game/script.rpy:10917
 translate chinese Ulric2_map084_7_0_9d2002a9:
@@ -3878,7 +3878,7 @@ translate chinese Ulric3_map084_7_0_64882735:
     # voice "se/y00019.ogg"
     # char_ulric "It's good not to make any close friends.\nYou never know who you'll have to put to the blade.\nIt's a culture of war, and only the strongest prevail." nointeract
     voice "se/y00019.ogg"
-    char_ulric "最好别交什么密友。\n你永远不知道哪天得对谁拔刀。\n那是个崇尚战争的文化，只有最强者才能胜出。" nointeract
+    char_ulric "最好别交什么密友。\n你永远不知道哪天得对谁拔剑。\n那是个崇尚战争的文化，只有最强者才能胜出。" nointeract
 
 # game/script.rpy:10971
 translate chinese Ulric3_map084_7_0_82adfa06:
@@ -4298,7 +4298,7 @@ translate chinese map086_1e390ffd:
 translate chinese map086_5c5e3325:
 
     # char_valessa "So Mylus {i}was{/i} working with The Rebellion!\nApparently, he was sheltering a blade...?\nCould that be why they attacked us?"
-    char_valessa "所以迈勒斯{i}确实{/i}在跟反抗军合作！\n据说，他窝藏了一把刀……？\n他们袭击我们会不会就是因为这个？"
+    char_valessa "所以迈勒斯{i}确实{/i}在跟反抗军合作！\n据说，他窝藏了一把剑……？\n他们袭击我们会不会就是因为这个？"
 
 # game/script.rpy:11908
 translate chinese map086_2a9323db:
@@ -4310,7 +4310,7 @@ translate chinese map086_2a9323db:
 translate chinese map086_dc2447a5:
 
     # char_ulric "Doing all this for a blade?\nLet's be realistic, Valessa."
-    char_ulric "搞这么大动静就为一把刀？\n现实点吧，瓦莱莎。"
+    char_ulric "搞这么大动静就为一把剑？\n现实点吧，瓦莱莎。"
 
 # game/script.rpy:11937
 translate chinese map086_3e713492:
@@ -4322,7 +4322,7 @@ translate chinese map086_3e713492:
 translate chinese map086_1aabbed1:
 
     # char_valessa "It must've been very important.\nI'm assuming Mylus took it with him.\nI don't see any blades lying around here."
-    char_valessa "那一定非常重要。\n我猜迈勒斯把它带走了。\n我没看到这里有刀放着。"
+    char_valessa "那一定非常重要。\n我猜迈勒斯把它带走了。\n我没看到这里有剑放着。"
 
 # game/script.rpy:11944
 translate chinese map086_3f86cfaf:
@@ -4404,7 +4404,7 @@ translate chinese map042_76c6c0f7:
 translate chinese map042_7f64339a:
 
     # "There's one thing I can't seem to get off my mind.{w}\nThis blade, or whatever; was it worth all this?{w}\nDestroying an entire culture over something so simple?"
-    "有件事我怎么也放不下。{w}\n这把刀，或者说别的什么；真值得这一切吗？{w}\n为了这么个东西就毁掉一整个文明？"
+    "有件事我怎么也放不下。{w}\n这把剑，或者说别的什么；真值得这一切吗？{w}\n为了这么个东西就毁掉一整个文明？"
 
 # game/script.rpy:12149
 translate chinese map042_ee833a54:
@@ -4656,7 +4656,7 @@ translate chinese map042_2b0dfb4e:
 translate chinese map042_e0153b64:
 
     # "We stop in our tracks and look up at the water tank.{w}\nA silhouette of a man stands there, gripping a large blade.{w}\nIt's white and gold, with majesty embellished by the flames."
-    "我们停下脚步，抬头望向水箱。{w}\n一个男人的剪影立在那里，握着一把大刀。{w}\n刀身金白相间，火焰更衬出它的威严。"
+    "我们停下脚步，抬头望向水箱。{w}\n一个男人的剪影立在那里，握着一把大剑。{w}\n剑身金白相间，火焰更衬出它的威严。"
 
 # game/script.rpy:12697
 translate chinese map042_467dd5bc:
@@ -4716,7 +4716,7 @@ translate chinese map042_79aa8308:
 translate chinese map042_f8fbeb5d:
 
     # char_ulric "Sovy, you already have the blade.\nLet us leave, we can resolve this peacefully."
-    char_ulric "索维，你已经拿到那把刀了。\n放我们走，我们可以和平解决。"
+    char_ulric "索维，你已经拿到那把剑了。\n放我们走，我们可以和平解决。"
 
 # game/script.rpy:12828
 translate chinese map042_7baffef3:
@@ -4824,13 +4824,13 @@ translate chinese map042_16703b07:
 translate chinese map042_df0a8cef:
 
     # "Ulric pulls out his blade, and assumes a fighting stance.{w}\nSovy does the same, and their eyes meet in deadlock.{w}\nI look at Valessa, and we nod before starting to run."
-    "乌尔里克拔出刀，摆出战斗姿势。{w}\n索维也照做，两人的目光僵持着交汇。{w}\n我看向瓦莱莎，我们点了点头，随即开始奔逃。"
+    "乌尔里克拔出剑，摆出战斗姿势。{w}\n索维也照做，两人的目光僵持着交汇。{w}\n我看向瓦莱莎，我们点了点头，随即开始奔逃。"
 
 # game/script.rpy:13101
 translate chinese map042_5f9a3c5e:
 
     # "Unfortunately, we don't make it very far.{w}\nWe hear Ulric scream, and turn back to look.{w}\nSovy smirks at us, his blade deep in Ulric's abdomen."
-    "不幸的是，我们没跑出多远。{w}\n我们听到乌尔里克的惨叫，回头看去。{w}\n索维冲我们得意地一笑，他的刀已深深没入乌尔里克的腹部。"
+    "不幸的是，我们没跑出多远。{w}\n我们听到乌尔里克的惨叫，回头看去。{w}\n索维冲我们得意地一笑，他的剑已深深没入乌尔里克的腹部。"
 
 # game/script.rpy:13131
 translate chinese map042_dc30f003:
@@ -4854,7 +4854,7 @@ translate chinese map042_f6af276c:
 translate chinese map042_51fa960a:
 
     # "With a grin on his face, he twists the blade inside Ulric.{w}\nDefying all possibility, the gear on the base starts to spin.{w}\nSoon after, everything is engulfed in a blinding white light."
-    "他咧嘴一笑，在乌尔里克体内转动刀身。{w}\n不可思议的是，刀柄底部的齿轮开始转动。{w}\n紧接着，一切都被刺眼的白光吞没。"
+    "他咧嘴一笑，在乌尔里克体内转动剑身。{w}\n不可思议的是，剑柄底部的齿轮开始转动。{w}\n紧接着，一切都被刺眼的白光吞没。"
 
 # game/script.rpy:13177
 translate chinese map042_f4e7b765:
@@ -4938,7 +4938,7 @@ translate chinese map042_7f907538:
 translate chinese map042_f4d42f92:
 
     # "He takes slow steps toward me, holding out his blade.{w}\nI finally understood why it was so important to The Triumvirate.{w}\nThey could command an army of spirits simply by possessing it."
-    "他握着刀，缓缓朝我走来。{w}\n我终于明白它为什么对三人执政团如此重要。{w}\n只要拥有它，他们就能号令一支灵体大军。"
+    "他握着剑，缓缓朝我走来。{w}\n我终于明白它为什么对三人执政团如此重要。{w}\n只要拥有它，他们就能号令一支灵体大军。"
 
 # game/script.rpy:13398
 translate chinese map042_e6e8276e:
@@ -4968,7 +4968,7 @@ translate chinese map042_0ec70057:
 translate chinese map042_faff6d3a:
 
     # "This is it. If he attacked me, the vision would end.{w}\nI was armed with all the information I needed to counter this attack.{w}\nThe true purpose, the major players, and even the nature of the blade."
-    "就是现在。只要他攻击我，幻象就会结束。{w}\n我已经掌握了应对这场袭击所需的全部情报。{w}\n真正的目的、关键人物，甚至那把刀的本质。"
+    "就是现在。只要他攻击我，幻象就会结束。{w}\n我已经掌握了应对这场袭击所需的全部情报。{w}\n真正的目的、关键人物，甚至那把剑的本质。"
 
 # game/script.rpy:13455
 translate chinese map042_77751908:
@@ -4982,7 +4982,7 @@ translate chinese map042_83833955:
     # voice "se/swordstab.ogg"
     # "He thrusts the blade inside of me with little effort.{w}\nThe pain is so intense, but I'm overcome with hope.{w}\nAs my vision fades, I find the strength to say one final thing."
     voice "se/swordstab.ogg"
-    "他毫不费力地把刀刺入我体内。{w}\n剧痛难忍，可我心中却充满希望。{w}\n视野渐渐模糊，我攒起力气，说出最后一句话。"
+    "他毫不费力地把剑刺入我体内。{w}\n剧痛难忍，可我心中却充满希望。{w}\n视野渐渐模糊，我攒起力气，说出最后一句话。"
 
 # game/script.rpy:13473
 translate chinese map042_9d5fe4b7:
@@ -5906,7 +5906,7 @@ translate chinese Fortaime5_map078_166_1_9072c197:
 translate chinese map008_9665833d:
 
     # "We head back to Main Street, in search of Zamira.{w}\nThe Blade of Exodus is strapped to my back, and it's heavy.{w}\nGlances from the townspeople show that they're aware of this artifact.{w}\nHowever, being who I am, they raise no concerns to my face."
-    "我们回到主街，去寻找扎米拉。{w}\n流亡之刃绑在我背上，沉甸甸的。{w}\n镇上的人瞥过来的目光说明他们认得这件神器。{w}\n不过碍于我的身份，没人当面提出疑虑。"
+    "我们回到主街，去寻找扎米拉。{w}\n放逐之刃绑在我背上，沉甸甸的。{w}\n镇上的人瞥过来的目光说明他们认得这件神器。{w}\n不过碍于我的身份，没人当面提出疑虑。"
 
 # game/script.rpy:16668
 translate chinese map008_0307dc54:
@@ -5930,7 +5930,7 @@ translate chinese map008_58d6cd99:
 translate chinese map008_5550e903:
 
     # char_valessa "Yeah, sorry, I'll point him out.\nI'm just not used to the villagers {i}staring{/i} like this.\nThat blade really makes us stand out, doesn't it...?"
-    char_valessa "嗯，抱歉，我来指给你看。\n我只是不习惯村民们这样{i}盯着{/i}看。\n那把刀真让我们显眼，是吧……？"
+    char_valessa "嗯，抱歉，我来指给你看。\n我只是不习惯村民们这样{i}盯着{/i}看。\n那把剑真让我们显眼，是吧……？"
 
 # game/script.rpy:16726
 translate chinese map008_eb3e79a7:
@@ -5942,7 +5942,7 @@ translate chinese map008_eb3e79a7:
 translate chinese map008_679d8734:
 
     # char_fortaime "Or maybe they're just admiring our good looks.\nCome on Valessa, don't be so uptight.\nNobody knows what this blade can do. Let 'em stare."
-    char_fortaime "也许他们只是在欣赏我们的美貌呢。\n得了吧，瓦莱莎，别那么紧张。\n没人知道这把刀有什么用。让他们看呗。"
+    char_fortaime "也许他们只是在欣赏我们的美貌呢。\n得了吧，瓦莱莎，别那么紧张。\n没人知道这把剑有什么用。让他们看呗。"
 
 # game/script.rpy:16749
 translate chinese map008_abaf312d:
@@ -6002,7 +6002,7 @@ translate chinese map008_fd55ac93:
 translate chinese map008_423400f5:
 
     # "He looks me up and down, before staring at the blade.{w}\nSomething told me he wouldn't stay quiet like the villagers."
-    "他上下打量我，然后盯着那把刀。{w}\n我有种预感，他不会像村民们那样默不作声。"
+    "他上下打量我，然后盯着那把剑。{w}\n我有种预感，他不会像村民们那样默不作声。"
 
 # game/script.rpy:16950
 translate chinese map008_3da50a2a:
@@ -6092,7 +6092,7 @@ translate chinese map008_8fbab8ad:
 translate chinese map008_60b16f86:
 
     # char_jit_map008_1_0_111 "Actually, I heard something about that.\nDamek, the leader of the Rebels, had a vision.\nApparently, that blade is more than just a weapon."
-    char_jit_map008_1_0_111 "其实，我听说过一些。\n反抗军的领袖达梅克看到了一个幻象。\n据说，那把刀不只是一件武器。"
+    char_jit_map008_1_0_111 "其实，我听说过一些。\n反抗军的领袖达梅克看到了一个幻象。\n据说，那把剑不只是一件武器。"
 
 # game/script.rpy:17179
 translate chinese map008_7b3b6b91:
@@ -6492,7 +6492,7 @@ translate chinese click_map013_7_EV007_00a0b6fc_1:
 translate chinese click_map013_26_EV026_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "此时无法访问此内容。\n如果显示 X，你必须先完成之前的交心事件。\n如果显示对勾，你必须前往下一个交心事件。"
 
 # game/script.rpy:18635
 translate chinese click_map013_27_EV027_2e6056e0:
@@ -7574,7 +7574,7 @@ translate chinese map047_07473311:
 translate chinese map047_e95da8d9:
 
     # char_valessa "From this point forward, your visions are {i}very{/i} important.\nI doubt that the one you had about Valinorth will be the last.\nEspecially now that this blade is involved in everything."
-    char_valessa "从今往后，你的预言{i}非常{/i}重要。\n我猜你关于瓦利诺斯的那次预言不会是最后一次。\n尤其现在这把刃牵涉进了所有事情里。"
+    char_valessa "从今往后，你的预言{i}非常{/i}重要。\n我猜你关于瓦利诺斯的那次预言不会是最后一次。\n尤其现在这把剑牵涉进了所有事情里。"
 
 # game/script.rpy:20818
 translate chinese map047_ba0917c3:
@@ -7794,7 +7794,7 @@ translate chinese map047_98b15005:
 translate chinese map047_66226860:
 
     # char_valessa "Oh. Well, yeah — of course.\nI'd never interrupt your training, you know.\nIf you don't learn to wield that blade, we're doomed."
-    char_valessa "哦。嗯，是啊——当然。\n你知道，我绝不会打断你的训练。\n要是你学不会挥舞那把刃，我们就完了。"
+    char_valessa "哦。嗯，是啊——当然。\n你知道，我绝不会打断你的训练。\n要是你学不会挥舞那把剑，我们就完了。"
 
 # game/script.rpy:21069
 translate chinese map047_9a5673d5:
@@ -7958,7 +7958,7 @@ translate chinese map171_bafb844c:
     # voice "se/y01201.ogg"
     # char_howl "There is only one thing that remains constant throughout these visions.\nYourself, The Blade of Exodus — and the death that it feeds off of.\nThere's something self serving about all three of these things."
     voice "se/y01201.ogg"
-    char_howl "在这些预言中，只有一样东西始终不变。\n你自己、流亡之刃——以及它所赖以为生的死亡。\n这三样东西身上，都有某种自私之处。"
+    char_howl "在这些预言中，只有一样东西始终不变。\n你自己、放逐之刃——以及它所赖以为生的死亡。\n这三样东西身上，都有某种自私之处。"
 
 # game/script.rpy:21396
 translate chinese map171_b7cc4089:
@@ -7966,7 +7966,7 @@ translate chinese map171_b7cc4089:
     # voice "se/y01202.ogg"
     # char_howl "You always have that blade; and the people around you always die.\nWhen they do, it's almost like that makes the blade more powerful.\nIt's like there's an essence released from our bodies when we pass on."
     voice "se/y01202.ogg"
-    char_howl "你总是握着那把刃，而身边的人总是死去。\n当他们死去时，几乎就像是让那刃变得更强大。\n仿佛我们逝去时，身体里会释放出某种精魄。"
+    char_howl "你总是握着那把剑，而身边的人总是死去。\n当他们死去时，几乎就像是让那剑变得更强大。\n仿佛我们逝去时，身体里会释放出某种精魄。"
 
 # game/script.rpy:21400
 translate chinese map171_d6b22018:
@@ -7974,7 +7974,7 @@ translate chinese map171_d6b22018:
     # voice "se/y01203.ogg"
     # char_howl "But is that the essence of life, or the essence of death?\nPerhaps that is a choice the wielder of the blade must make.\nWhat do you think, [firstname]? Is that energy life, or is it death...?" nointeract
     voice "se/y01203.ogg"
-    char_howl "可那是生命的精魄，还是死亡的精魄？\n也许，那是持刃者必须做出的选择。\n你怎么看，[firstname]？那股能量是生命，还是死亡……？" nointeract
+    char_howl "可那是生命的精魄，还是死亡的精魄？\n也许，那是持剑者必须做出的选择。\n你怎么看，[firstname]？那股能量是生命，还是死亡……？" nointeract
 
 # game/script.rpy:21421
 translate chinese map171_acc06ba5:
@@ -7986,13 +7986,13 @@ translate chinese map171_acc06ba5:
 translate chinese map171_0f09e495:
 
     # char_howl "An interesting thought, to say the least.\nIf it is up to the wielder, at least we know where you stand.\nThat blade is such a mysterious thing, and it grows ever stronger."
-    char_howl "至少可以说，这想法很有意思。\n若这取决于持刃者，那至少我们知道你的立场。\n那把刃真是神秘之物，而且正变得愈发强大。"
+    char_howl "至少可以说，这想法很有意思。\n若这取决于持剑者，那至少我们知道你的立场。\n那把剑真是神秘之物，而且正变得愈发强大。"
 
 # game/script.rpy:21437
 translate chinese map171_e761f4d8:
 
     # "He's almost cryptically telling me what I already know.{w}\nI know that the blade deals with the spirits of its victims.{w}\nThe Triumvirate used it to create their own massive army."
-    "他几乎是在隐晦地告诉我我早已知道的事。{w}\n我知道那把刃会摆布受害者的灵。{w}\n三人执政团曾用它制造出他们自己的庞大军队。"
+    "他几乎是在隐晦地告诉我我早已知道的事。{w}\n我知道那把剑会摆布受害者的灵。{w}\n三人执政团曾用它制造出他们自己的庞大军队。"
 
 # game/script.rpy:21439
 translate chinese map171_b0261dd7:
@@ -8060,7 +8060,7 @@ translate chinese map171_a9c8da90:
     # voice "se/y01211.ogg"
     # char_howl "When we see your death, we feel pain.\nA pain worse than death — the loss of hope.\nThat blade falls to the ground, coated in your blood."
     voice "se/y01211.ogg"
-    char_howl "当我们看见你的死亡，我们会感到痛苦。\n一种比死亡更甚的痛苦——希望的丧失。\n那把刃坠落在地，沾满你的鲜血。"
+    char_howl "当我们看见你的死亡，我们会感到痛苦。\n一种比死亡更甚的痛苦——希望的丧失。\n那把剑坠落在地，沾满你的鲜血。"
 
 # game/script.rpy:21558
 translate chinese map171_68eb2403:
@@ -8120,37 +8120,37 @@ translate chinese map171_cf49624d:
 translate chinese click_map154_10_EV010_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:21823
 translate chinese click_map154_11_EV011_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:21851
 translate chinese click_map154_12_EV012_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:21879
 translate chinese click_map154_13_EV013_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:21907
 translate chinese click_map154_14_EV014_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:21935
 translate chinese click_map154_15_EV015_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:21972
 translate chinese click_map154_23_EV023_ee97019d:
@@ -8360,7 +8360,7 @@ translate chinese click_map154_23_EV023_9dfbc127:
 translate chinese map155_64e512a4:
 
     # "I make my way down into the crew area of the ship.{w}\nMy bed isn't too hard to find, and at least I have privacy.{w}\nI find myself remembering what Gryz told me about the blade."
-    "我下到船上的船员区。{w}\n我的床不难找，至少这里还有私密可言。{w}\n我不由想起格瑞兹告诉过我的关于那把刃的事。"
+    "我下到船上的船员区。{w}\n我的床不难找，至少这里还有私密可言。{w}\n我不由想起格瑞兹告诉过我的关于那把剑的事。"
 
 # game/script.rpy:22264
 translate chinese map155_1ff0362c:
@@ -8372,37 +8372,37 @@ translate chinese map155_1ff0362c:
 translate chinese map155_ff661b3f:
 
     # "I rest the blade on my bed and sit beside it, cross-legged.{w}\nClosing my eyes, I start to focus, and clear my mind.{w}\nThis is probably a good time to test my limits."
-    "我把刃放在床上，盘腿坐在旁边。{w}\n闭上眼，我开始凝神，清空思绪。{w}\n这大概是个测试自己极限的好时机。"
+    "我把剑放在床上，盘腿坐在旁边。{w}\n闭上眼，我开始凝神，清空思绪。{w}\n这大概是个测试自己极限的好时机。"
 
 # game/script.rpy:22271
 translate chinese map155_88ca8a8c:
 
     # "Blade of Exodus — show me our victory."
-    "流亡之刃——向我展现我们的胜利。"
+    "放逐之刃——向我展现我们的胜利。"
 
 # game/script.rpy:22273
 translate chinese map155_ac1a412c:
 
     # "I reach forward, and gently touch the blade.{w}\nMy eyes are shut tight, and my resolve is clear.{w}\nYet, try and wish as I might — nothing happens at all."
-    "我伸出手，轻轻触碰那把刃。{w}\n我双目紧闭，心意坚定。{w}\n可无论我怎样尝试、怎样期盼——什么也没有发生。"
+    "我伸出手，轻轻触碰那把剑。{w}\n我双目紧闭，心意坚定。{w}\n可无论我怎样尝试、怎样期盼——什么也没有发生。"
 
 # game/script.rpy:22275
 translate chinese map155_473f70ed:
 
     # "Did the blade have nothing to show me?{w}\nOr maybe, was I scared of seeing the future?{w}\nIt could be worse. Was there no victory in sight...?"
-    "是那把刃无物可给我看吗？{w}\n又或者，是我害怕看见未来？{w}\n情况可能更糟。难道看不到任何胜利……？"
+    "是那把剑无物可给我看吗？{w}\n又或者，是我害怕看见未来？{w}\n情况可能更糟。难道看不到任何胜利……？"
 
 # game/script.rpy:22277
 translate chinese map155_9b881887:
 
     # "I pull back, and open my eyes. It didn't work.{w}\nI scoff, and rest the blade at my bedside, concerned.{w}\nI drift off to sleep, with an anxiety that wasn't there before."
-    "我收回手，睁开眼。没有成功。{w}\n我嗤了一声，忧心地把刃放在床边。{w}\n我沉沉睡去，带着一份此前不曾有过的焦虑。"
+    "我收回手，睁开眼。没有成功。{w}\n我嗤了一声，忧心地把剑放在床边。{w}\n我沉沉睡去，带着一份此前不曾有过的焦虑。"
 
 # game/script.rpy:22295
 translate chinese map155_c265fc58:
 
     # "When I wake up, I see the sun pierce through the windows.{w}\nWith everything I was told — that means we're in Alarinthia.{w}\nI grab the blade, and immediately get out of bed."
-    "醒来时，我看见阳光穿过窗棂。{w}\n按我听说的种种——这意味着我们到了阿拉林西亚。{w}\n我抓起那把刃，立刻下了床。"
+    "醒来时，我看见阳光穿过窗棂。{w}\n按我听说的种种——这意味着我们到了阿拉林西亚。{w}\n我抓起那把剑，立刻下了床。"
 
 # game/script.rpy:22297
 translate chinese map155_be5ede46:
@@ -8420,37 +8420,37 @@ translate chinese map155_b6f103da:
 translate chinese click_map158_5_EV005_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:22758
 translate chinese click_map158_6_EV006_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:22786
 translate chinese click_map158_7_EV007_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:22814
 translate chinese click_map158_8_EV008_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:22842
 translate chinese click_map158_9_EV009_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:22870
 translate chinese click_map158_10_EV010_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:22904
 translate chinese click_map158_24_EV024_ee97019d:
@@ -11118,7 +11118,7 @@ translate chinese map061_2c6156af:
 translate chinese map061_8f23af37:
 
     # char_jit_map061_1_0_13 "Is their Exodus training regiment finalized?\nYour schedule should be able to accommodate changes.\nYour plan is still slow exposure to develop a tolerance, yes?"
-    char_jit_map061_1_0_13 "他们的流亡训练计划定下来了吗？\n你的日程应该还能调整。\n你的方案还是逐步接触、培养耐受，对吧？"
+    char_jit_map061_1_0_13 "他们的放逐训练计划定下来了吗？\n你的日程应该还能调整。\n你的方案还是逐步接触、培养耐受，对吧？"
 
 # game/script.rpy:28903
 translate chinese map061_55b478c4:
@@ -11312,7 +11312,7 @@ translate chinese map053_0f1465d6:
     # voice "se/z00742.ogg"
     # char_pro "Excuse me!? That's not what I meant!\nI'm talking about that huge blade you have on your back!\nThe Triumvirate might have eyes in Mazeo. We need to cover it up."
     voice "se/z00742.ogg"
-    char_pro "什么！？我不是那个意思！\n我说的是你背上的那把巨刃！\n三人执政团在马泽奥可能有眼线。我们得把它遮起来。"
+    char_pro "什么！？我不是那个意思！\n我说的是你背上的那把巨剑！\n三人执政团在马泽奥可能有眼线。我们得把它遮起来。"
 
 # game/script.rpy:29293
 translate chinese map053_437206a6:
@@ -11320,7 +11320,7 @@ translate chinese map053_437206a6:
     # voice "se/z00743.ogg"
     # char_pro "Actually, that's kind of what I had in mind.\nI don't think you should walk around with that Blade out in the open.\nLet's cover it up, alright? There might be spies in Mazeo."
     voice "se/z00743.ogg"
-    char_pro "其实，我正有此意。\n我觉得你不该把那把刃明晃晃地背在身上到处走。\n我们把它遮起来，好吗？马泽奥可能有间谍。"
+    char_pro "其实，我正有此意。\n我觉得你不该把那把剑明晃晃地背在身上到处走。\n我们把它遮起来，好吗？马泽奥可能有间谍。"
 
 # game/script.rpy:29310
 translate chinese map053_84f48f7c:
@@ -11328,7 +11328,7 @@ translate chinese map053_84f48f7c:
     # voice "se/z00744.ogg"
     # char_pro "What!? No! That's not what I meant at all.\nI'm talking about The Blade of Exodus, you know.\nWe need to cover it up so nobody sees it."
     voice "se/z00744.ogg"
-    char_pro "什么！？不！我完全不是那个意思。\n我说的是流亡之刃，你懂的。\n我们得把它遮起来，别让人看见。"
+    char_pro "什么！？不！我完全不是那个意思。\n我说的是放逐之刃，你懂的。\n我们得把它遮起来，别让人看见。"
 
 # game/script.rpy:29325
 translate chinese map053_729f93ea:
@@ -11336,7 +11336,7 @@ translate chinese map053_729f93ea:
     # voice "se/z00745.ogg"
     # char_pro "Yeesh, I'm just trying to help you out!\nIn Mazeo, there's eyes and ears everywhere. Spies, even.\nWe can't have you walk around with that blade so openly."
     voice "se/z00745.ogg"
-    char_pro "啧，我只是想帮你而已！\n在马泽奥，到处都是眼睛和耳朵，甚至还有间谍。\n我们不能让你就这么明晃晃地背着那把刃到处走。"
+    char_pro "啧，我只是想帮你而已！\n在马泽奥，到处都是眼睛和耳朵，甚至还有间谍。\n我们不能让你就这么明晃晃地背着那把剑到处走。"
 
 # game/script.rpy:29340
 translate chinese map053_53304f95:
@@ -11344,7 +11344,7 @@ translate chinese map053_53304f95:
     # voice "se/z00746.ogg"
     # char_pro "That huge blade you have on your back...?\nYou know, the one The Triumvirate will want to steal?\nI think we should cover it up. It's too open right now."
     voice "se/z00746.ogg"
-    char_pro "你背上的那把巨刃……？\n就是三人执政团想抢走的那把？\n我觉得我们该把它遮起来。现在太显眼了。"
+    char_pro "你背上的那把巨剑……？\n就是三人执政团想抢走的那把？\n我觉得我们该把它遮起来。现在太显眼了。"
 
 # game/script.rpy:29366
 translate chinese map053_dfa687c7:
@@ -11440,7 +11440,7 @@ translate chinese map053_06103318:
 translate chinese map053_98647573:
 
     # char_valessa "So we need to cover up the blade..."
-    char_valessa "所以我们需要把刃遮起来……"
+    char_valessa "所以我们需要把剑遮起来……"
 
 # game/script.rpy:29558
 translate chinese map053_785553bf:
@@ -11470,7 +11470,7 @@ translate chinese map053_b21ee89f:
 translate chinese map053_f1350b14:
 
     # "She holds up the cloth that was wrapping the blade in The Grand Tree.{w}\nIt's large enough that I could wrap it around myself like a cloak.{w}\nI'm positive that they'll ask what's underneath, but it's worth a try."
-    "她举起在巨树里包裹那把刃的布。{w}\n它足够大，我可以像披风一样裹在身上。{w}\n我敢肯定他们会问布下面是什么，但值得一试。"
+    "她举起在巨树里包裹那把剑的布。{w}\n它足够大，我可以像披风一样裹在身上。{w}\n我敢肯定他们会问布下面是什么，但值得一试。"
 
 # game/script.rpy:29616
 translate chinese map053_912b126f:
@@ -11548,7 +11548,7 @@ translate chinese map053_0296c154:
 translate chinese map053_c2937740:
 
     # "I wrap the cloak around my back, and fashion the top into a hood.{w}\nThe Blade of Exodus, as well as my identity, was sufficiently masked.{w}\nWith the small hope that this facade will work, we continue toward Mazeo."
-    "我把布裹在背上，将上端做成兜帽。{w}\n流亡之刃和我的身份都被很好地遮掩住了。{w}\n怀着这伪装能奏效的一丝希望，我们继续朝马泽奥前进。"
+    "我把布裹在背上，将上端做成兜帽。{w}\n放逐之刃和我的身份都被很好地遮掩住了。{w}\n怀着这伪装能奏效的一丝希望，我们继续朝马泽奥前进。"
 
 # game/script.rpy:29988
 translate chinese click_map054_4_EV004_b63c0d04:
@@ -12066,7 +12066,7 @@ translate chinese Ulric6_map054_9_0_043fef18:
 translate chinese Ulric6_map054_9_0_f0cbb1d4:
 
     # char_ulric "His name was Salus, and he was a man of pure genius.\nI know we say that Damek is a good strategist, but Salus? He was incredible.\nIf it weren't for him, you wouldn't even be wearing that blade on your back."
-    char_ulric "他叫萨卢斯，是个不折不扣的天才。\n我知道我们都说达梅克是个出色的战略家，可萨卢斯？他简直不可思议。\n要不是他，你背上根本不会背着那把刃。"
+    char_ulric "他叫萨卢斯，是个不折不扣的天才。\n我知道我们都说达梅克是个出色的战略家，可萨卢斯？他简直不可思议。\n要不是他，你背上根本不会背着那把剑。"
 
 # game/script.rpy:30736
 translate chinese Ulric6_map054_9_0_c18ae496:
@@ -13116,7 +13116,7 @@ translate chinese map065_a36714c7:
 translate chinese map065_8ee9a8bd:
 
     # char_pro "Yeah, and they were really good reasons!\nI couldn't just march into Valinorth with the blade!\nI need to have {i}some{/i} discretion. It took time!"
-    char_pro "是啊，而且都是非常充分的理由！\n我总不能背着那把刃大摇大摆走进瓦利诺斯吧！\n我总得有点{i}分寸{/i}。这需要时间！"
+    char_pro "是啊，而且都是非常充分的理由！\n我总不能背着那把剑大摇大摆走进瓦利诺斯吧！\n我总得有点{i}分寸{/i}。这需要时间！"
 
 # game/script.rpy:32860
 translate chinese map065_7101a1a9:
@@ -13194,7 +13194,7 @@ translate chinese map065_3226f94c:
 translate chinese map065_0a192bb6:
 
     # "With that said, I guess it was time to head to The Mayor's house.{w}\nI knew nothing about Mazeo, so I didn't know if this was a detour or not.{w}\nBut either way, my training with The Blade of Exodus would surely begin today."
-    "话虽如此，该去市长家了。{w}\n我对马泽奥一无所知，所以不知道这算不算绕路。{w}\n但无论如何，我的流亡之刃训练今天肯定要开始了。"
+    "话虽如此，该去市长家了。{w}\n我对马泽奥一无所知，所以不知道这算不算绕路。{w}\n但无论如何，我的放逐之刃训练今天肯定要开始了。"
 
 # game/script.rpy:33055
 translate chinese map065_f061bd87:
@@ -13374,7 +13374,7 @@ translate chinese Damek3_map064_4_0_dccd3172:
     # voice "se/y00693.ogg"
     # char_damek "I'm not sure what he wants to do with it.\nBut he can't really do anything, if I'm honest.\nNot without you, or The Blade of Exodus."
     voice "se/y00693.ogg"
-    char_damek "我不清楚他想拿它做什么。\n但说实话，他也做不了什么。\n没有你，或是没有流亡之刃，他都办不到。"
+    char_damek "我不清楚他想拿它做什么。\n但说实话，他也做不了什么。\n没有你，或是没有放逐之刃，他都办不到。"
 
 # game/script.rpy:33631
 translate chinese Damek3_map064_4_0_fceb8a0f:
@@ -13430,7 +13430,7 @@ translate chinese Damek3_map064_4_0_ee9ad858:
     # voice "se/y00699.ogg"
     # char_damek "Over the next twenty years, the orphans grew stronger.\nAs soon as we were battle-ready, we launched the Exodus Raid.\nSalus told me more about {i}you{/i}, and I took over when he passed."
     voice "se/y00699.ogg"
-    char_damek "接下来的二十年里，孤儿们越来越强。\n我们一做好战斗准备，就发动了流亡突袭。\n萨卢斯跟我讲了更多关于{i}你{/i}的事，他去世后便由我接手。"
+    char_damek "接下来的二十年里，孤儿们越来越强。\n我们一做好战斗准备，就发动了放逐突袭。\n萨卢斯跟我讲了更多关于{i}你{/i}的事，他去世后便由我接手。"
 
 # game/script.rpy:33695
 translate chinese Damek3_map064_4_0_10afef25:
@@ -13442,7 +13442,7 @@ translate chinese Damek3_map064_4_0_10afef25:
 translate chinese Damek3_map064_4_0_6f4d8898:
 
     # char_damek "Several hundred, but under a thousand.\nWe're a fully realized army, and I {i}know{/i} we can do this.\nWith you and that blade, our victory is pretty much secured."
-    char_damek "几百人，不到一千。\n我们是一支羽翼丰满的军队，我{i}知道{/i}我们做得到。\n有你，还有那把刃，我们的胜利几乎已经稳了。"
+    char_damek "几百人，不到一千。\n我们是一支羽翼丰满的军队，我{i}知道{/i}我们做得到。\n有你，还有那把剑，我们的胜利几乎已经稳了。"
 
 # game/script.rpy:33714
 translate chinese Damek3_map064_4_0_9d6ce4e3:
@@ -13454,7 +13454,7 @@ translate chinese Damek3_map064_4_0_9d6ce4e3:
 translate chinese Damek3_map064_4_0_590b65d7:
 
     # char_damek "It's wonderful. Everybody is in a great mood.\nWe have the numbers, and the strength to put up a fight.\nBut on top of that, we have {i}you{/i}, and The Blade of Exodus."
-    char_damek "非常好。每个人都斗志高昂。\n我们有兵力，也有抗衡的实力。\n而除此之外，我们还有{i}你{/i}，还有流亡之刃。"
+    char_damek "非常好。每个人都斗志高昂。\n我们有兵力，也有抗衡的实力。\n而除此之外，我们还有{i}你{/i}，还有放逐之刃。"
 
 # game/script.rpy:33719
 translate chinese Damek3_map064_4_0_a209ac92:
@@ -13462,7 +13462,7 @@ translate chinese Damek3_map064_4_0_a209ac92:
     # voice "se/y00702.ogg"
     # char_damek "When you're trained with it, you can lead the final battle.\nThat Blade isn't just a weapon — but a symbol of hope.\nIt sets us apart from every previous insurrection."
     voice "se/y00702.ogg"
-    char_damek "等你练成之后，就能领军打最后一战。\n那把刃不只是武器——更是希望的象征。\n它让我们与以往每一次起义都截然不同。"
+    char_damek "等你练成之后，就能领军打最后一战。\n那把剑不只是武器——更是希望的象征。\n它让我们与以往每一次起义都截然不同。"
 
 # game/script.rpy:33725
 translate chinese Damek3_map064_4_0_f107c7d0:
@@ -13566,7 +13566,7 @@ translate chinese Damek4_map064_4_0_07a5cb0f:
 translate chinese Damek4_map064_4_0_1262a964:
 
     # char_damek "I think so. As far as we know, they've had it forever.\nAncient writings and murals have depicted the blade.\nWe still don't know for sure, though. They could've found it."
-    char_damek "我想是的。据我们所知，那把刃一直属于他们。\n古老的文字和壁画上都描绘过那把刃。\n不过我们还不能确定。也许他们是捡到的。"
+    char_damek "我想是的。据我们所知，那把剑一直属于他们。\n古老的文字和壁画上都描绘过那把剑。\n不过我们还不能确定。也许他们是捡到的。"
 
 # game/script.rpy:33859
 translate chinese Damek4_map064_4_0_fd70a3c3:
@@ -13574,7 +13574,7 @@ translate chinese Damek4_map064_4_0_fd70a3c3:
     # voice "se/y00713.ogg"
     # char_damek "What we need to worry about, is the power the blade houses.\nIt gave them the power to enslave an entire world of innocent people.\nWe must never resort to the same thing. I want to destroy it when this is over."
     voice "se/y00713.ogg"
-    char_damek "我们该担心的是那把刃蕴含的力量。\n它赋予了他们奴役这整个无辜世界的力量。\n我们绝不能重蹈覆辙。等这一切结束后，我想毁掉它。"
+    char_damek "我们该担心的是那把剑蕴含的力量。\n它赋予了他们奴役这整个无辜世界的力量。\n我们绝不能重蹈覆辙。等这一切结束后，我想毁掉它。"
 
 # game/script.rpy:33877
 translate chinese Damek4_map064_4_0_cc0696e8:
@@ -13714,7 +13714,7 @@ translate chinese Damek6_map064_4_0_2ff9e176:
 translate chinese Damek6_map064_4_0_fa28a0e7:
 
     # char_damek "Well, I'll have you rest for the day. \nThen we'll start training you with The Blade of Exodus tomorrow.\nI think that slow exposure therapy will be the best possible approach."
-    char_damek "嗯，今天你先休息。\n明天我们就开始带你练流亡之刃。\n我觉得逐步接触的疗法是最好的办法。"
+    char_damek "嗯，今天你先休息。\n明天我们就开始带你练放逐之刃。\n我觉得逐步接触的疗法是最好的办法。"
 
 # game/script.rpy:34074
 translate chinese Damek6_map064_4_0_1e2a73de:
@@ -13790,13 +13790,13 @@ translate chinese Damek6_map064_4_0_82104ef8:
     # voice "se/y00735.ogg"
     # char_damek "If the spirits can move power from the land, to an individual?\nWell, there's no reason to believe that the reverse isn't possible.\nThat blade is capable of so much. I think it will be the key to {i}all{/i} of that."
     voice "se/y00735.ogg"
-    char_damek "如果灵能把力量从土地转移到一个人身上？\n那就没有理由认为反过来不可能。\n那把刃能做到的事太多了。我认为它会成为{i}这一切{/i}的关键。"
+    char_damek "如果灵能把力量从土地转移到一个人身上？\n那就没有理由认为反过来不可能。\n那把剑能做到的事太多了。我认为它会成为{i}这一切{/i}的关键。"
 
 # game/script.rpy:34223
 translate chinese click_map064_6_EV006_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问该内容。\n如果显示叉号，你必须先完成之前的心灵交流。\n如果显示对勾，你必须继续下一个心灵交流。"
 
 # game/script.rpy:34246
 translate chinese click_map064_9_EV009_1c64fb4c:
@@ -14200,7 +14200,7 @@ translate chinese click_map064_84_EV084_f855d016:
 translate chinese click_map064_113_EV113_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问该内容。\n如果显示叉号，你必须先完成之前的心灵交流。\n如果显示对勾，你必须继续下一个心灵交流。"
 
 # game/script.rpy:34628
 translate chinese map067_dbbfb941:
@@ -14856,7 +14856,7 @@ translate chinese map231_e15f5da0:
     # voice "se/y01891.ogg"
     # char_sovy "It won't take too long, I promise.\nI just remembered what we talked about before.\nThere's a trick or two I can teach you with that blade."
     voice "se/y01891.ogg"
-    char_sovy "不会花太久，我保证。\n我刚想起我们之前谈过的事。\n关于那把刃，我能教你一两手。"
+    char_sovy "不会花太久，我保证。\n我刚想起我们之前谈过的事。\n关于那把剑，我能教你一两手。"
 
 # game/script.rpy:35845
 translate chinese map231_6cc830fb:
@@ -14864,7 +14864,7 @@ translate chinese map231_6cc830fb:
     # voice "se/y01892.ogg"
     # char_sovy "Stop it. That's not what I meant.\nIt's about that blade. I know a trick or two.\nI think I can teach you while we have a moment."
     voice "se/y01892.ogg"
-    char_sovy "别闹。我不是那个意思。\n是关于那把刃的。我懂一两手。\n趁我们现在有空，我想我能教你。"
+    char_sovy "别闹。我不是那个意思。\n是关于那把剑的。我懂一两手。\n趁我们现在有空，我想我能教你。"
 
 # game/script.rpy:35861
 translate chinese map231_b9a4c650:
@@ -14872,7 +14872,7 @@ translate chinese map231_b9a4c650:
     # voice "se/y01893.ogg"
     # char_sovy "No. But you don't have any other choice.\nYou'll be using that blade when you assault Balteus.\nIf you don't know how to use it — you'll probably die."
     voice "se/y01893.ogg"
-    char_sovy "不。但你别无选择。\n进攻巴尔泰乌斯时你得用那把刃。\n要是不会用——你多半会死。"
+    char_sovy "不。但你别无选择。\n进攻巴尔泰乌斯时你得用那把剑。\n要是不会用——你多半会死。"
 
 # game/script.rpy:35877
 translate chinese map231_3ddece12:
@@ -14886,7 +14886,7 @@ translate chinese map231_3ddece12:
 translate chinese map231_7f6ea1bb:
 
     # "Without saying another word, he walks to the back alley.{w}\nI follow after him, ready to learn more about The Blade of Exodus.{w}\nWhen we arrive, I start to ask him questions. Mainly about its origin."
-    "他一言不发地走向后巷。{w}\n我跟在他身后，准备好更多地了解流亡之刃。{w}\n抵达之后，我开始向他提问，主要是关于它的来历。"
+    "他一言不发地走向后巷。{w}\n我跟在他身后，准备好更多地了解放逐之刃。{w}\n抵达之后，我开始向他提问，主要是关于它的来历。"
 
 # game/script.rpy:35924
 translate chinese map231_cf5d1853:
@@ -16628,7 +16628,7 @@ translate chinese map071_8171cd12:
 translate chinese map071_6f12fd50:
 
     # char_jit_map071_1_0_50 "I'm guessing that's The Blade of Exodus?"
-    char_jit_map071_1_0_50 "我猜那就是流亡之刃？"
+    char_jit_map071_1_0_50 "我猜那就是放逐之刃？"
 
 # game/script.rpy:40506
 translate chinese map071_38de3e7c:
@@ -18650,7 +18650,7 @@ translate chinese map115_b6ff8508:
 translate chinese map115_9711a3e0:
 
     # char_damek "Yeah. They were created by The Blade of Exodus.\nThe spirits inside are victims of their vicious occupation."
-    char_damek "是啊。他们是被流亡之刃创造出来的。\n里面的灵是他们那场残暴占领的受害者。"
+    char_damek "是啊。他们是被放逐之刃创造出来的。\n里面的灵是他们那场残暴占领的受害者。"
 
 # game/script.rpy:45887
 translate chinese map115_c8ec9de3:
@@ -18800,7 +18800,7 @@ translate chinese map115_5dc668c8:
 translate chinese click_map121_4_EV004_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n如果显示 X，你必须先完成前面的心灵交流。\n如果显示对勾，你必须继续下一个心灵交流。"
 
 # game/script.rpy:46469
 translate chinese click_map121_6_EV006_c9ee2804:
@@ -19574,7 +19574,7 @@ translate chinese click_map122_8_EV008_caaf4ed1:
 translate chinese click_map122_115_EV115_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n如果显示 X，你必须先完成前面的心灵交流。\n如果显示对勾，你必须继续下一个心灵交流。"
 
 # game/script.rpy:48313
 translate chinese map118_978f3343:
@@ -20348,7 +20348,7 @@ translate chinese click_map124_13_EV013_ad768bda:
 translate chinese click_map124_15_EV015_cb1b6512:
 
     # "B1 - An Unfair Race\nB2 - Ulric's Big Sword\nB3 - An Exodus Theory\nB4 - Faith in The Rebellion"
-    "B1 - 一场不公平的比赛\nB2 - 乌尔里克的大剑\nB3 - 流亡理论\nB4 - 对反抗军的信念"
+    "B1 - 一场不公平的比赛\nB2 - 乌尔里克的大剑\nB3 - 放逐理论\nB4 - 对反抗军的信念"
 
 # game/script.rpy:49860
 translate chinese click_map124_16_EV016_e7372863:
@@ -28762,7 +28762,7 @@ translate chinese map149_728b905a:
 translate chinese map149_488a121c:
 
     # char_howl "Why do you say that seeing these things is important?\nIt is death, and carnage. The loss of all hope; and ultimately, death.\nOnly one thing remains constant in all of this. The Blade of Exodus." nointeract
-    char_howl "你为什么说看见这些很重要？\n这是死亡与杀戮。是一切希望的破灭；最终，还是死亡。\n这一切之中唯一不变的，只有流亡之刃。" nointeract
+    char_howl "你为什么说看见这些很重要？\n这是死亡与杀戮。是一切希望的破灭；最终，还是死亡。\n这一切之中唯一不变的，只有放逐之刃。" nointeract
 
 # game/script.rpy:64868
 translate chinese map149_1b4a560b:
@@ -28932,7 +28932,7 @@ translate chinese map059_f041938f:
 translate chinese map059_2cf542e7:
 
     # char_damek "So, tomorrow we'll begin your training with The Blade of Exodus.\nBut in addition to that, we'll have to train you in swordplay as well.\nI'll see if I can find someone left-handed to train you. It should work."
-    char_damek "那么，明天我们就开始训练你使用流亡之刃。\n但除此之外，我们还得训练你的剑术。\n我看看能不能找个左撇子来教你。应该行得通。"
+    char_damek "那么，明天我们就开始训练你使用放逐之刃。\n但除此之外，我们还得训练你的剑术。\n我看看能不能找个左撇子来教你。应该行得通。"
 
 # game/script.rpy:65153
 translate chinese map059_b3b51b33:
@@ -28944,7 +28944,7 @@ translate chinese map059_b3b51b33:
 translate chinese map059_c2149b07:
 
     # char_damek "So, tomorrow we'll begin your training with The Blade of Exodus.\nBut in addition to that, we'll have to train you in swordplay as well.\nI think Ulric should be free. I can't really think of a better teacher."
-    char_damek "那么，明天我们就开始训练你使用流亡之刃。\n但除此之外，我们还得训练你的剑术。\n我想乌尔里克应该有空。我想不出比他更好的老师了。"
+    char_damek "那么，明天我们就开始训练你使用放逐之刃。\n但除此之外，我们还得训练你的剑术。\n我想乌尔里克应该有空。我想不出比他更好的老师了。"
 
 # game/script.rpy:65171
 translate chinese map059_35c2397a:
@@ -29198,7 +29198,7 @@ translate chinese map134_725ada78:
 translate chinese map134_c59f2b42:
 
     # "Oh, so it was the idol he wanted...?{w}\nAnd from the way he spoke, he wanted me as well.{w}\nOf course, this is all likely related to The Blade of Exodus."
-    "哦，原来他想要的是灵像……？{w}\n从他说话的方式看，他也想要我。{w}\n当然，这一切多半都和流亡之刃有关。"
+    "哦，原来他想要的是灵像……？{w}\n从他说话的方式看，他也想要我。{w}\n当然，这一切多半都和放逐之刃有关。"
 
 # game/script.rpy:65817
 translate chinese map134_abb90ff1:
@@ -29406,7 +29406,7 @@ translate chinese map134_19b35b7a:
 translate chinese map134_667f09f7:
 
     # "Sovy steps forward, looking at all of us.{w}\nUlric grips his blade, and stands in the way."
-    "索维上前一步，扫视着我们所有人。{w}\n乌尔里克紧握刀刃，挡在路中。"
+    "索维上前一步，扫视着我们所有人。{w}\n乌尔里克紧握剑，挡在路中。"
 
 # game/script.rpy:66295
 translate chinese map134_008df716:
@@ -29494,7 +29494,7 @@ translate chinese map134_0ad19a23:
 translate chinese map134_0e107e1c:
 
     # "All hell breaks loose before I can even start to process these events.{w}\nThe Honor Guard grab their blades and start massacring the rebels.{w}\nWith a simple snap of his fingers, he sent them all into a murderous rage."
-    "我还没来得及理清这些事，一切就已乱作一团。{w}\n荣誉卫队抄起刀刃，开始屠戮反抗军。{w}\n仅仅一个响指，他就让它们全都陷入了杀戮的狂怒。"
+    "我还没来得及理清这些事，一切就已乱作一团。{w}\n荣誉卫队抄起剑，开始屠戮反抗军。{w}\n仅仅一个响指，他就让它们全都陷入了杀戮的狂怒。"
 
 # game/script.rpy:66489
 translate chinese map134_c74f4675:
@@ -30334,7 +30334,7 @@ translate chinese map137_3d5f707c:
 translate chinese map137_208a4b86:
 
     # "I expected him to fight me for the blade, but he accepts defeat.{w}\nTurning around, he starts to walk away — his shoulders slumped down.{w}\nThis was my job. This was my destiny. To harness The Blade of Exodus."
-    "我原以为他会为这把剑跟我争抢，可他却认输了。{w}\n他转过身，耷拉着肩膀，开始走开。{w}\n这是我的职责。这是我的命运。驾驭流亡之刃。"
+    "我原以为他会为这把剑跟我争抢，可他却认输了。{w}\n他转过身，耷拉着肩膀，开始走开。{w}\n这是我的职责。这是我的命运。驾驭放逐之刃。"
 
 # game/script.rpy:67999
 translate chinese map137_6fc0ae79:
@@ -30450,7 +30450,7 @@ translate chinese map137_f23f8194:
 translate chinese map137_60399b0a:
 
     # "Gripping the blade in one hand, he uses the other to punch me.{w}\nRepeatedly in my chest, causing the wound to open more, and bleed.{w}\nI kick and scream in agony, trying my best to withstand his harsh blows."
-    "他一手紧握刀刃，另一只手挥拳砸向我。{w}\n一拳又一拳落在我的胸口，让伤口裂得更开，鲜血直流。{w}\n我在剧痛中又踢又叫，竭力承受着他凶狠的殴打。"
+    "他一手紧握剑，另一只手挥拳砸向我。{w}\n一拳又一拳落在我的胸口，让伤口裂得更开，鲜血直流。{w}\n我在剧痛中又踢又叫，竭力承受着他凶狠的殴打。"
 
 # game/script.rpy:68118
 translate chinese map137_61495079:
@@ -30486,7 +30486,7 @@ translate chinese map137_10380f48_1:
 translate chinese map137_28dd9ded:
 
     # "Smirking, he lowers the blade to my neck."
-    "他冷笑着，把刀刃向下抵到我的脖子上。"
+    "他冷笑着，把剑向下抵到我的脖子上。"
 
 # game/script.rpy:68185
 translate chinese map137_5e6e54b7:
@@ -30500,7 +30500,7 @@ translate chinese map137_5e6e54b7:
 translate chinese map137_f8688a6c:
 
     # "I use all of my strength to reach up, and grab the blade.{w}\nTrying to push it away, I realize there's almost no point.{w}\nBut soon after, the blade reacts to both of our touches."
-    "我用尽全力抬手，抓住了刀刃。{w}\n我试图把它推开，却发现几乎毫无用处。{w}\n但没过多久，刀刃对我和他的触碰都起了反应。"
+    "我用尽全力抬手，抓住了剑。{w}\n我试图把它推开，却发现几乎毫无用处。{w}\n但没过多久，剑对我和他的触碰都起了反应。"
 
 # game/script.rpy:68214
 translate chinese map137_c31fa549_1:
@@ -30512,7 +30512,7 @@ translate chinese map137_c31fa549_1:
 translate chinese map137_f46aa792:
 
     # "Another flash of white light engulfs the entire room.{w}\nThe pressure is relieved from my neck, and I hear Sovy struggle.{w}\nJust like Gryz said — the blade reacts to the will of the wielder."
-    "又一道白光吞没了整个房间。{w}\n我脖子上的压迫感松开了，我听见索维在挣扎。{w}\n正如格瑞兹所说——刀刃会回应持刀者的意志。"
+    "又一道白光吞没了整个房间。{w}\n我脖子上的压迫感松开了，我听见索维在挣扎。{w}\n正如格瑞兹所说——剑会回应持剑者的意志。"
 
 # game/script.rpy:68218
 translate chinese map137_5a05b978:
@@ -30524,19 +30524,19 @@ translate chinese map137_5a05b978:
 translate chinese map137_3e281118:
 
     # "I raise up my other hand to grab the blade as well.{w}\nI close my eyes, and focus with every fiber of my being.{w}\nSpirits — please do something! Save me! Save us all...!"
-    "我抬起另一只手，也抓住了刀刃。{w}\n我闭上眼，倾尽身心全部的力量专注起来。{w}\n灵啊——求你们做点什么！救救我！救救我们所有人……！"
+    "我抬起另一只手，也抓住了剑。{w}\n我闭上眼，倾尽身心全部的力量专注起来。{w}\n灵啊——求你们做点什么！救救我！救救我们所有人……！"
 
 # game/script.rpy:68234
 translate chinese map137_56bc4bed:
 
     # "The light subsides, and I see Sovy looking down at me in shock.{w}\nI can see the horror in his eyes, but I have no idea what just happened.{w}\nPerhaps the blade gave him visions, like it did for me back in Valinorth."
-    "光芒褪去，我看见索维惊骇地俯视着我。{w}\n我能从他眼中看到恐惧，却完全不知道刚才发生了什么。{w}\n也许那刀刃也让他看见了幻象，就像当初在瓦利诺斯对我那样。"
+    "光芒褪去，我看见索维惊骇地俯视着我。{w}\n我能从他眼中看到恐惧，却完全不知道刚才发生了什么。{w}\n也许那剑也让他看见了幻象，就像当初在瓦利诺斯对我那样。"
 
 # game/script.rpy:68236
 translate chinese map137_636400a6:
 
     # "He panics and throws the blade on the ground."
-    "他惊慌失措，把刀刃扔到了地上。"
+    "他惊慌失措，把剑扔到了地上。"
 
 # game/script.rpy:68261
 translate chinese map137_26a109bc:
@@ -30586,7 +30586,7 @@ translate chinese map137_61d341da:
 translate chinese map137_5128f9c9:
 
     # "To my complete shock, he simply runs away.{w}\nI tilt my head to the side, and watch him leave.{w}\nThe blade rests beside me, so I reach for it."
-    "让我完全没想到的是，他就那样转身逃走了。{w}\n我侧过头，看着他离去。{w}\n刀刃就落在我身旁，于是我伸手去够。"
+    "让我完全没想到的是，他就那样转身逃走了。{w}\n我侧过头，看着他离去。{w}\n剑就落在我身旁，于是我伸手去够。"
 
 # game/script.rpy:68337
 translate chinese map137_1da898de:
@@ -30598,7 +30598,7 @@ translate chinese map137_1da898de:
 translate chinese map137_1cb04e6c:
 
     # "I look over at Damek's lifeless body, and start to cry.{w}\nMy wound bleeds profusely, and my vision slowly wanes.{w}\nWith my final moments, I grip the blade, and pray for help."
-    "我望向达梅克毫无生气的尸体，哭了起来。{w}\n我的伤口大量失血，视野渐渐模糊。{w}\n在最后的时刻，我握紧刀刃，祈祷有人来救我。"
+    "我望向达梅克毫无生气的尸体，哭了起来。{w}\n我的伤口大量失血，视野渐渐模糊。{w}\n在最后的时刻，我握紧剑，祈祷有人来救我。"
 
 # game/script.rpy:68341
 translate chinese map137_a3fdaf59:
@@ -31140,7 +31140,7 @@ translate chinese map139_4c55918c:
 translate chinese map139_3ba31702:
 
     # "I wanted to be saved. I wanted to make it through this alive.{w}\nCould the blade have that much power...? Could it have saved me?{w}\nI back myself up against a wall, and lay against it. Then, I scan the room."
-    "我想被拯救。我想活着挺过这一切。{w}\n那把刀刃真的有那样的力量吗……？它救了我吗？{w}\n我靠到墙边，倚着它躺下。然后，我环视房间。"
+    "我想被拯救。我想活着挺过这一切。{w}\n那把剑真的有那样的力量吗……？它救了我吗？{w}\n我靠到墙边，倚着它躺下。然后，我环视房间。"
 
 # game/script.rpy:69602
 translate chinese map139_416b5e1e:
@@ -32004,7 +32004,7 @@ translate chinese map140_e5aaf50c:
 translate chinese map140_85830d95:
 
     # char_ulric "If that's the case, then there's nothing we can do.\nWe'd never be able to win this war conventionally.\nThat blade and their power was all we had, Pro."
-    char_ulric "如果是那样，我们就无能为力了。\n我们绝不可能以常规方式赢得这场战争。\n那把刀刃和他们的力量，是我们仅有的依仗，普洛。"
+    char_ulric "如果是那样，我们就无能为力了。\n我们绝不可能以常规方式赢得这场战争。\n那把剑和他们的力量，是我们仅有的依仗，普洛。"
 
 # game/script.rpy:71645
 translate chinese map140_a4e875a8:
@@ -32358,7 +32358,7 @@ translate chinese map141_f0dbf0ec:
 translate chinese map141_7f41d907:
 
     # char_howl "Yes. That is why we gave The Seer all of our power.\nEnough to wield that blade against your creators, and our captors.\nThe timing seemed correct. It is a gamble, but with favorable odds."
-    char_howl "是的。所以我们把全部力量都赐予了先知。\n足以挥舞那把刀刃，对抗你们的创造者，我们的囚禁者。\n时机似乎正好。这是一场赌博，但胜算有利。"
+    char_howl "是的。所以我们把全部力量都赐予了先知。\n足以挥舞那把剑，对抗你们的创造者，我们的囚禁者。\n时机似乎正好。这是一场赌博，但胜算有利。"
 
 # game/script.rpy:72541
 translate chinese map141_9dca7ca1:
@@ -32370,7 +32370,7 @@ translate chinese map141_9dca7ca1:
 translate chinese map141_08fa20bf:
 
     # char_howl "Yes. That is why we gave The Seeress all of our power.\nEnough to wield that blade against your creators, and our captors.\nThe timing seemed correct. It is a gamble, but with favorable odds."
-    char_howl "是的。所以我们把全部力量都赐予了先知。\n足以挥舞那把刀刃，对抗你们的创造者，我们的囚禁者。\n时机似乎正好。这是一场赌博，但胜算有利。"
+    char_howl "是的。所以我们把全部力量都赐予了先知。\n足以挥舞那把剑，对抗你们的创造者，我们的囚禁者。\n时机似乎正好。这是一场赌博，但胜算有利。"
 
 # game/script.rpy:72551
 translate chinese map141_0f2465c0:
@@ -32382,7 +32382,7 @@ translate chinese map141_0f2465c0:
 translate chinese map141_d92f8b17:
 
     # char_howl "However, there is another matter at hand. There is no more Spirit Realm.\nThe idols are all gone, and the power resides within us, and that blade.\nThe power within you, [firstname], is immense. You carry on our legacy."
-    char_howl "不过，还有另一件事。灵界已经不存在了。\n灵像全都消失了，而力量寄居在我们体内，以及那把刀刃之中。\n你体内的力量，[firstname]，无比庞大。你承载着我们的传承。"
+    char_howl "不过，还有另一件事。灵界已经不存在了。\n灵像全都消失了，而力量寄居在我们体内，以及那把剑之中。\n你体内的力量，[firstname]，无比庞大。你承载着我们的传承。"
 
 # game/script.rpy:72558
 translate chinese map141_a1ec9b9f:
@@ -32394,7 +32394,7 @@ translate chinese map141_a1ec9b9f:
 translate chinese map141_d92f8b17_1:
 
     # char_howl "However, there is another matter at hand. There is no more Spirit Realm.\nThe idols are all gone, and the power resides within us, and that blade.\nThe power within you, [firstname], is immense. You carry on our legacy."
-    char_howl "不过，还有另一件事。灵界已经不存在了。\n灵像全都消失了，而力量寄居在我们体内，以及那把刀刃之中。\n你体内的力量，[firstname]，无比庞大。你承载着我们的传承。"
+    char_howl "不过，还有另一件事。灵界已经不存在了。\n灵像全都消失了，而力量寄居在我们体内，以及那把剑之中。\n你体内的力量，[firstname]，无比庞大。你承载着我们的传承。"
 
 # game/script.rpy:72564
 translate chinese map141_457859cf:
@@ -32648,7 +32648,7 @@ translate chinese map142_186929e6:
     # voice "se/z01405.ogg"
     # char_damek "But trust me. We will {i}never{/i} give up.\nJoin me Brothers, and Sisters. Grab a blade from the floor.\nEven if it belonged to their Honor Guard — take it. I'd prefer that."
     voice "se/z01405.ogg"
-    char_damek "但相信我。我们{i}绝不{/i}放弃。\n加入我吧，兄弟们，姐妹们。从地上捡起一把刀。\n即使那是荣誉卫队的——也拿走。我宁愿如此。"
+    char_damek "但相信我。我们{i}绝不{/i}放弃。\n加入我吧，兄弟们，姐妹们。从地上捡起一把剑。\n即使那是荣誉卫队的——也拿走。我宁愿如此。"
 
 # game/script.rpy:73106
 translate chinese map142_8bb149a6:
@@ -32656,7 +32656,7 @@ translate chinese map142_8bb149a6:
     # voice "se/z01406.ogg"
     # char_damek "The Triumvirate may think that they've crippled our resolve — but no.\nEach swing of that blade will carry the weight of our fallen comrades behind it.\nWe will use that weight to {i}crush{/i} their army, and make them pay for this attack."
     voice "se/z01406.ogg"
-    char_damek "三人执政团也许以为他们摧毁了我们的决心——但并非如此。\n那把刀刃每一次挥动，都将承载着倒下战友的重量。\n我们要用这份重量{i}碾碎{/i}他们的军队，让他们为这次袭击付出代价。"
+    char_damek "三人执政团也许以为他们摧毁了我们的决心——但并非如此。\n那把剑每一次挥动，都将承载着倒下战友的重量。\n我们要用这份重量{i}碾碎{/i}他们的军队，让他们为这次袭击付出代价。"
 
 # game/script.rpy:73121
 translate chinese map142_831b4cf5:
@@ -32670,7 +32670,7 @@ translate chinese map142_a0161ac1:
     # voice "se/z01407.ogg"
     # char_damek "When The Triumvirate looks down on that blade in their final moments?\nI want them to know that they sealed their own fate. Mark my words, family.\nThe Triumvirate shall fall. They will {i}burn{/i} for what they've done here today."
     voice "se/z01407.ogg"
-    char_damek "当三人执政团在生命最后时刻低头看着那把刀刃时？\n我要让他们知道，是他们自己注定了自己的命运。记住我的话，同胞们。\n三人执政团必将覆灭。他们会为今天在这里犯下的一切而被烈焰{i}焚尽{/i}。"
+    char_damek "当三人执政团在生命最后时刻低头看着那把剑时？\n我要让他们知道，是他们自己注定了自己的命运。记住我的话，同胞们。\n三人执政团必将覆灭。他们会为今天在这里犯下的一切而被烈焰{i}焚尽{/i}。"
 
 # game/script.rpy:73160
 translate chinese map142_5b82ceb7:
@@ -32784,7 +32784,7 @@ translate chinese map142_d44d7ea9:
     # voice "se/z01418.ogg"
     # char_damek "You see, the Spirit Realm is no more. \nAll of the energy in that realm has found a new home.\nSome of it is in this vessel, and some of it is in the blade."
     voice "se/z01418.ogg"
-    char_damek "你看，灵界已经不存在了。\n那界域中所有的能量都找到了新的归宿。\n有些在这具躯壳里，有些在那把刀刃里。"
+    char_damek "你看，灵界已经不存在了。\n那界域中所有的能量都找到了新的归宿。\n有些在这具躯壳里，有些在那把剑里。"
 
 # game/script.rpy:73352
 translate chinese map142_625fb9bb:
@@ -32796,7 +32796,7 @@ translate chinese map142_625fb9bb:
 translate chinese map142_569a4d4c:
 
     # char_damek "But the largest portion resides within [firstname].\nThis is why {i}he{/i} is uniquely capable of wielding the blade.\nAlestia's previous residents, the ancient Monarchy, are responsible."
-    char_damek "但最大的一部分寄居在[firstname]体内。\n这就是为什么{i}他{/i}独一无二地能够挥舞那把刀刃。\n阿莱斯蒂亚昔日的居民，古老的王室，就是这一切的缘由。"
+    char_damek "但最大的一部分寄居在[firstname]体内。\n这就是为什么{i}他{/i}独一无二地能够挥舞那把剑。\n阿莱斯蒂亚昔日的居民，古老的王室，就是这一切的缘由。"
 
 # game/script.rpy:73359
 translate chinese map142_fd014e71:
@@ -32808,7 +32808,7 @@ translate chinese map142_fd014e71:
 translate chinese map142_569a4d4c_1:
 
     # char_damek "But the largest portion resides within [firstname].\nThis is why {i}he{/i} is uniquely capable of wielding the blade.\nAlestia's previous residents, the ancient Monarchy, are responsible."
-    char_damek "但最大的一部分寄居在[firstname]体内。\n这就是为什么{i}他{/i}独一无二地能够挥舞那把刀刃。\n阿莱斯蒂亚昔日的居民，古老的王室，就是这一切的缘由。"
+    char_damek "但最大的一部分寄居在[firstname]体内。\n这就是为什么{i}他{/i}独一无二地能够挥舞那把剑。\n阿莱斯蒂亚昔日的居民，古老的王室，就是这一切的缘由。"
 
 # game/script.rpy:73365
 translate chinese map142_c8cb87ab:
@@ -32828,7 +32828,7 @@ translate chinese map142_a3543c28:
     # voice "se/z01422.ogg"
     # char_damek "We are the only people capable of carrying out this objective.\nThere won't be another chance. No more Seers, no more blades.\nWe will show them that their vision of a {i}pure{/i} world is flawed."
     voice "se/z01422.ogg"
-    char_damek "我们是唯一有能力完成这个目标的人。\n不会再有第二次机会。没有更多先知，没有更多刀刃。\n我们要让他们看到，他们那个{i}纯净{/i}世界的构想是有缺陷的。"
+    char_damek "我们是唯一有能力完成这个目标的人。\n不会再有第二次机会。没有更多先知，没有更多剑。\n我们要让他们看到，他们那个{i}纯净{/i}世界的构想是有缺陷的。"
 
 # game/script.rpy:73384
 translate chinese map142_6fb6ce4c:
@@ -32854,7 +32854,7 @@ translate chinese map142_3f077551:
 translate chinese map142_9579f39f:
 
     # char_damek "As I mentioned, [firstname] was blessed with immense power.\nBut what he truly has within, is the souls of the Monarchy.\nGiving him the strength to use that blade — he is our champion."
-    char_damek "如我所说，[firstname]被赐予了庞大的力量。\n但他体内真正拥有的，是王室的灵魂。\n给予他挥舞那把刀刃的力量——他就是我们的斗士。"
+    char_damek "如我所说，[firstname]被赐予了庞大的力量。\n但他体内真正拥有的，是王室的灵魂。\n给予他挥舞那把剑的力量——他就是我们的斗士。"
 
 # game/script.rpy:73441
 translate chinese map142_0c3baebd:
@@ -32874,7 +32874,7 @@ translate chinese map142_9764e669:
 translate chinese map142_921c8af0:
 
     # char_damek "As I mentioned, [firstname] was blessed with immense power.\nBut what she truly has within, is the souls of the Monarchy. \nGiving her the strength to use that blade — she is our champion."
-    char_damek "如我所说，[firstname]被赐予了庞大的力量。\n但她体内真正拥有的，是王室的灵魂。\n给予她挥舞那把刀刃的力量——她就是我们的斗士。"
+    char_damek "如我所说，[firstname]被赐予了庞大的力量。\n但她体内真正拥有的，是王室的灵魂。\n给予她挥舞那把剑的力量——她就是我们的斗士。"
 
 # game/script.rpy:73462
 translate chinese map142_441196ad:
@@ -32888,13 +32888,13 @@ translate chinese map142_441196ad:
 translate chinese map142_ad742eac:
 
     # "All eyes are on me, now. I glance over at Valessa and Fortaime.{w}\nThey are in complete shock and awe at this revelation. But I am, too.{w}\nWithout saying anything, I reach back for the blade, and pull it out."
-    "所有的目光现在都落在我身上。我瞥了一眼瓦莱莎和福泰姆。{w}\n他们对这个揭示震惊又敬畏。但我也是。{w}\n一言不发，我伸手向后取出那把刀刃，把它拔了出来。"
+    "所有的目光现在都落在我身上。我瞥了一眼瓦莱莎和福泰姆。{w}\n他们对这个揭示震惊又敬畏。但我也是。{w}\n一言不发，我伸手向后取出那把剑，把它拔了出来。"
 
 # game/script.rpy:73481
 translate chinese map142_65ba4398:
 
     # "I look at the rebels, and hold the blade up in the air.{w}\nThe beams of light from the surface serve to illuminate its beauty.{w}\nThis elicits rigorous applause from the rebels, as they cheer me on."
-    "我看向反抗军们，把刀刃高举在空中。{w}\n从地面透下的光束照亮了它的华美。{w}\n这引来了反抗军们热烈的掌声，他们为我欢呼。"
+    "我看向反抗军们，把剑高举在空中。{w}\n从地面透下的光束照亮了它的华美。{w}\n这引来了反抗军们热烈的掌声，他们为我欢呼。"
 
 # game/script.rpy:73490
 translate chinese map142_f924d23b:
@@ -33594,7 +33594,7 @@ translate chinese ChoiceMap_map143_1_0_a27cff6d:
 translate chinese map144_7e88eafc:
 
     # "I follow \"Salus\" back to the room with the Spirit Idol.{w}\nIt's dark, and dim. With its death, the Monarchy was imprisoned no more.{w}\nHowever, existing within vessels, and the blade — was that considered freedom?"
-    "我跟着“萨鲁斯”回到存放灵像的房间。{w}\n那里黑暗而昏沉。随着灵像的消亡，王室不再被囚禁。{w}\n然而，寄居于容器和刀刃之中——那能算作自由吗？"
+    "我跟着“萨鲁斯”回到存放灵像的房间。{w}\n那里黑暗而昏沉。随着灵像的消亡，王室不再被囚禁。{w}\n然而，寄居于容器和剑之中——那能算作自由吗？"
 
 # game/script.rpy:74860
 translate chinese map144_2527de43:
@@ -33630,7 +33630,7 @@ translate chinese map144_8cbc1d5f:
 translate chinese map144_b78f58d2:
 
     # "It was just like I thought. The blade is an extension of the wielder's mind.{w}\n\"Salus\" told me how to wield it, and I rested the blade on the volunteers.{w}\nAlmost like a knighting ceremony in the stories of old — I declared them Seers."
-    "果然如我所料。刀刃是持刀者心智的延伸。{w}\n“萨鲁斯”教我如何运用它，我把刀刃放在了志愿者身上。{w}\n几乎就像古老故事里的授爵仪式——我宣布他们成为先知。"
+    "果然如我所料。剑是持剑者心智的延伸。{w}\n“萨鲁斯”教我如何运用它，我把剑放在了志愿者身上。{w}\n几乎就像古老故事里的授爵仪式——我宣布他们成为先知。"
 
 # game/script.rpy:74875
 translate chinese map144_4b46823c:
@@ -33654,7 +33654,7 @@ translate chinese map144_250609c8:
 translate chinese map144_0c434c5c:
 
     # "It was just like I thought. The blade is an extension of the wielder's mind.{w}\n\"Salus\" told me how to wield it, and I touched the bodies of the fallen with it.{w}\nAlmost like a knighting ceremony in the stories of old — I declared them Vessels."
-    "果然如我所料。刀刃是持刀者心智的延伸。{w}\n“萨鲁斯”教我如何运用它，我用刀刃触碰了倒下者的尸体。{w}\n几乎就像古老故事里的授爵仪式——我宣布他们成为容器。"
+    "果然如我所料。剑是持剑者心智的延伸。{w}\n“萨鲁斯”教我如何运用它，我用剑触碰了倒下者的尸体。{w}\n几乎就像古老故事里的授爵仪式——我宣布他们成为容器。"
 
 # game/script.rpy:74886
 translate chinese map144_25a8dcf5:
@@ -34338,7 +34338,7 @@ translate chinese map146_4c3b091d:
 translate chinese map146_fe9d0cd2:
 
     # "It's true. The implications of this truth were staggering.{w}\nHowever, we had something that nobody else would.{w}\nI take the blade off my back, and rest it against the wall."
-    "没错。这个真相的意味令人震惊。{w}\n然而，我们拥有别人不会有的东西。{w}\n我把背上的刃取下，靠在墙边。"
+    "没错。这个真相的意味令人震惊。{w}\n然而，我们拥有别人不会有的东西。{w}\n我把背上的剑取下，靠在墙边。"
 
 # game/script.rpy:76491
 translate chinese map146_282e6702:
@@ -34346,7 +34346,7 @@ translate chinese map146_282e6702:
     # voice "se/z01546.ogg"
     # char_damek "I guess that blade really {i}is{/i} our only hope.\nLook — I'll let you sleep. I know how interruptions can be.\nI just wanted to let you know that I don't hate you. I never will."
     voice "se/z01546.ogg"
-    char_damek "看来那把刃{i}真的{/i}是我们唯一的希望。\n听着——我不打扰你休息了。我知道被打断是什么滋味。\n我只是想让你知道，我不恨你。永远不会。"
+    char_damek "看来那把剑{i}真的{/i}是我们唯一的希望。\n听着——我不打扰你休息了。我知道被打断是什么滋味。\n我只是想让你知道，我不恨你。永远不会。"
 
 # game/script.rpy:76505
 translate chinese map146_7f243880:
@@ -34464,7 +34464,7 @@ translate chinese map146_ee57a96c:
 translate chinese map146_37f3b7b0:
 
     # "He gives me a slight bow, as a sign of respect, before leaving.{w}\nBeing the Exodus wielder was intense enough, but being the Monarch?{w}\nThankfully I had the support of my friends. They would keep me strong."
-    "他微微躬身，以示敬意，然后离开。{w}\n光是流亡之刃的持有者已经够让人紧绷了，更别说当君主？{w}\n幸好有朋友们的支持。他们会让我保持坚强。"
+    "他微微躬身，以示敬意，然后离开。{w}\n光是放逐之刃的持有者已经够让人紧绷了，更别说当君主？{w}\n幸好有朋友们的支持。他们会让我保持坚强。"
 
 # game/script.rpy:76740
 translate chinese map146_fd18128f:
@@ -36256,13 +36256,13 @@ translate chinese map239_35fa26df:
 translate chinese map238_e63223d5:
 
     # "I stand alone in my room, swinging the blade from side to side.{w}\nEverything feels different than it did back at the start of my journey.{w}\nWhen I first touched the blade, I could barely even hold on to it."
-    "我独自站在房间里，左右挥动着那把刃。{w}\n一切都与旅程开始时不同了。{w}\n我第一次触碰这把刃时，几乎连握都握不住。"
+    "我独自站在房间里，左右挥动着那把剑。{w}\n一切都与旅程开始时不同了。{w}\n我第一次触碰这把剑时，几乎连握都握不住。"
 
 # game/script.rpy:80822
 translate chinese map238_5952f661:
 
     # "But now, I'm starting to master it. I'm able to make it my own.{w}\nHowever, just as I think that — the blade disappears from my hand.{w}\nUlric laughs, and I turn around. I didn't even notice him come in."
-    "但现在，我开始驾驭它了。我能让它为我所用。{w}\n然而，就在我这么想时——刃从我手中消失了。{w}\n乌尔里克笑起来，我转过身。我甚至没注意到他进来。"
+    "但现在，我开始驾驭它了。我能让它为我所用。{w}\n然而，就在我这么想时——剑从我手中消失了。{w}\n乌尔里克笑起来，我转过身。我甚至没注意到他进来。"
 
 # game/script.rpy:80847
 translate chinese map238_a045959b:
@@ -36274,13 +36274,13 @@ translate chinese map238_a045959b:
 translate chinese map238_33b948a9:
 
     # char_ulric "Sorry. It's just an old prank I used to pull on Sovy.\nI'd take the blade from him when he least expected it.\nI guess it has a time and place. Sorry if I startled you."
-    char_ulric "抱歉。这只是我以前常对索维使的老把戏。\n我会在他最意想不到的时候把刃拿走。\n我想这得分场合。如果我吓到你了，抱歉。"
+    char_ulric "抱歉。这只是我以前常对索维使的老把戏。\n我会在他最意想不到的时候把剑拿走。\n我想这得分场合。如果我吓到你了，抱歉。"
 
 # game/script.rpy:80863
 translate chinese map238_8973b146:
 
     # "He swings the blade a few times, before handing it back to me.{w}\nI shake my head. He didn't startle me. It was actually kind of funny."
-    "他挥了几下刃，然后递还给我。{w}\n我摇摇头。他没吓到我。其实还挺好笑的。"
+    "他挥了几下剑，然后递还给我。{w}\n我摇摇头。他没吓到我。其实还挺好笑的。"
 
 # game/script.rpy:80888
 translate chinese map238_75b589d0:
@@ -36480,7 +36480,7 @@ translate chinese map238_ae4e8484:
     # voice "se/y02021.ogg"
     # char_ulric "They knew what they were doing. They were creating slaves.\nUsing that blade, they gave us what they deemed eternal life.\nI know we can use the blade, too — but we can't reverse it."
     voice "se/y02021.ogg"
-    char_ulric "他们清楚自己在做什么。他们在制造奴隶。\n用那把刃，他们赐予我们所认为的永生。\n我知道我们也能使用那把刃——但我们无法逆转它。"
+    char_ulric "他们清楚自己在做什么。他们在制造奴隶。\n用那把剑，他们赐予我们所认为的永生。\n我知道我们也能使用那把剑——但我们无法逆转它。"
 
 # game/script.rpy:81252
 translate chinese map238_acba4f45:
@@ -36518,7 +36518,7 @@ translate chinese map238_80aef58b:
     # voice "se/y02025.ogg"
     # char_ulric "Someone who can use the blade. Someone who can lift the curse.\nAnd — after all we've been through — even someone I can grow old with.\nPlease use that blade, and give me my life back. I don't want to belong to them."
     voice "se/y02025.ogg"
-    char_ulric "一个能用那把刃的人。一个能解除诅咒的人。\n而且——经历了这一切之后——还是一个能与我白头偕老的人。\n请用那把刃，把我的生命还给我。我不想再属于他们。"
+    char_ulric "一个能用那把剑的人。一个能解除诅咒的人。\n而且——经历了这一切之后——还是一个能与我白头偕老的人。\n请用那把剑，把我的生命还给我。我不想再属于他们。"
 
 # game/script.rpy:81317
 translate chinese map238_6a2e5d27:
@@ -36540,7 +36540,7 @@ translate chinese map238_22cc1836:
     # voice "se/y02027.ogg"
     # char_ulric "Now there's somebody else who can use the blade.\nSomebody to lift this curse, and give me my life back.\nMy life belongs to your cause, [firstname]. Not theirs."
     voice "se/y02027.ogg"
-    char_ulric "现在有了另一个能用那把刃的人。\n一个能解除这诅咒，把我的生命还给我的人。\n我这条命属于你的事业，[firstname]。不属于他们。"
+    char_ulric "现在有了另一个能用那把剑的人。\n一个能解除这诅咒，把我的生命还给我的人。\n我这条命属于你的事业，[firstname]。不属于他们。"
 
 # game/script.rpy:81364
 translate chinese map238_6399030b:
@@ -36590,7 +36590,7 @@ translate chinese map238_27e2b831:
 translate chinese map238_ef55839c:
 
     # "I grab the blade, and try to figure out what to do.{w}\nOne thing was for sure — he'd soon have his life back.{w}\nHe would have the freedom to grow old, and finally find peace."
-    "我握起那把刃，试着弄清该怎么做。{w}\n有一点可以肯定——他很快就能取回自己的生命。{w}\n他将拥有衰老的自由，并终于得到安宁。"
+    "我握起那把剑，试着弄清该怎么做。{w}\n有一点可以肯定——他很快就能取回自己的生命。{w}\n他将拥有衰老的自由，并终于得到安宁。"
 
 # game/script.rpy:81455
 translate chinese map238_fe03f90e:
@@ -37100,7 +37100,7 @@ translate chinese map242_8033a67e:
     # voice "se/y02117.ogg"
     # char_howl "The key to all of this is The Blade of Exodus. It's a constant in every vision.\nBut the power within it varies, even when it shouldn't. There are... inconsistencies.\nEven if we have a vision of the same situation, the power inside the blade is different."
     voice "se/y02117.ogg"
-    char_howl "这一切的关键是流亡之刃。它在每个幻象中都是恒定的。\n但它蕴含的力量却会变化，哪怕本不该如此。存在着……矛盾之处。\n即便我们看到的是同一个情景的幻象，剑中的力量也不一样。"
+    char_howl "这一切的关键是放逐之刃。它在每个幻象中都是恒定的。\n但它蕴含的力量却会变化，哪怕本不该如此。存在着……矛盾之处。\n即便我们看到的是同一个情景的幻象，剑中的力量也不一样。"
 
 # game/script.rpy:82480
 translate chinese map242_7f425699:
@@ -37122,7 +37122,7 @@ translate chinese map242_d7bc5048:
     # voice "se/y02119.ogg"
     # char_howl "Mainly, in a way that could be used to strengthen The Blade of Exodus.\nThey could create a cycle — full of death and despair — that we are unable to break.\nWhen the cycle reaches an end, they could revert time, and gather that power all over again."
     voice "se/y02119.ogg"
-    char_howl "主要是，用来强化流亡之刃。\n他们可以制造一个轮回——充满死亡与绝望——让我们无法打破。\n当轮回走到尽头，他们便能逆转时间，将那份力量再次收集起来。"
+    char_howl "主要是，用来强化放逐之刃。\n他们可以制造一个轮回——充满死亡与绝望——让我们无法打破。\n当轮回走到尽头，他们便能逆转时间，将那份力量再次收集起来。"
 
 # game/script.rpy:82524
 translate chinese map242_55c757ff:
@@ -37136,7 +37136,7 @@ translate chinese map242_55c757ff:
 translate chinese map242_52e1b695:
 
     # "Now that he mentions it, they did. I was stabbed by Sovy in the vision that started all of this.{w}\nAnd after touching the blade, my series of visions ended with me getting stabbed. That's odd.{w}\nI tell him these stories, and he smirks. It seems I'm only confirming his outlandish theories."
-    "经他这么一提，确实有。在一切开始的那场幻象里，我被索维刺了一刀。{w}\n而触碰那把剑之后，我那一连串的幻象也以我被刺中告终。这很奇怪。{w}\n我把这些告诉他，他勾起嘴角。看来我只是在印证他那些荒诞的推论。"
+    "经他这么一提，确实有。在一切开始的那场幻象里，我被索维刺了一剑。{w}\n而触碰那把剑之后，我那一连串的幻象也以我被刺中告终。这很奇怪。{w}\n我把这些告诉他，他勾起嘴角。看来我只是在印证他那些荒诞的推论。"
 
 # game/script.rpy:82564
 translate chinese map242_e3fde0d7:
@@ -37388,7 +37388,7 @@ translate chinese map148_c57b3b31:
     # voice "se/x00327.ogg"
     # char_halin "Let's not even mention The Blade of Exodus.\nYou just let them walk away with it...?\nI can't believe you were so foolish."
     voice "se/x00327.ogg"
-    char_halin "更别提流亡之刃了。\n你就那样让他们把它带走了……？\n我真不敢相信你会这么愚蠢。"
+    char_halin "更别提放逐之刃了。\n你就那样让他们把它带走了……？\n我真不敢相信你会这么愚蠢。"
 
 # game/script.rpy:83004
 translate chinese map148_f9d38716:
@@ -40496,7 +40496,7 @@ translate chinese map260_900b7713:
 translate chinese map260_0c0a1ba8:
 
     # "I can hear swords clashing as The Honor Guard tries to defend against the pirates' charge.{w}\nShips on both sides start to sink, and soon enough, it's almost impossible to see what's happening.{w}\nFrom this distance, it's too chaotic. But if enemy ships are sinking, we must've seized some weapons."
-    "伴随着荣誉卫队抵抗海盗冲锋的厮杀声，我能听见刀剑相交。{w}\n双方的船只都开始下沉，很快，几乎看不出战况如何。{w}\n从这个距离看，一切太过混乱。但既然敌舰在沉没，我们一定已经夺下了一些武器。"
+    "伴随着荣誉卫队抵抗海盗冲锋的厮杀声，我能听见剑刃相交。{w}\n双方的船只都开始下沉，很快，几乎看不出战况如何。{w}\n从这个距离看，一切太过混乱。但既然敌舰在沉没，我们一定已经夺下了一些武器。"
 
 # game/script.rpy:90623
 translate chinese map260_7a6d17cb:
@@ -40534,7 +40534,7 @@ translate chinese map260_2a5123f5:
 translate chinese map260_95fea8f8:
 
     # "He places a fist in the air. An intense silence follows.{w}\nBoth sides are armed. The question is, who attacks first...?{w}\nI take a deep breath, and pull out The Blade of Exodus."
-    "他把拳头举向空中。随之而来的是死一般的寂静。{w}\n双方都已持械。问题是，谁会先出手……？{w}\n我深吸一口气，拔出了流亡之刃。"
+    "他把拳头举向空中。随之而来的是死一般的寂静。{w}\n双方都已持械。问题是，谁会先出手……？{w}\n我深吸一口气，拔出了放逐之刃。"
 
 # game/script.rpy:90709
 translate chinese map260_bc3bc0b1:
@@ -40762,7 +40762,7 @@ translate chinese map261_cf2546fa:
 translate chinese map261_0805524f:
 
     # "My fist shakes as I grip The Blade of Exodus. Shane scoffs as he watches.{w}\nI shout at him in anger and despair. I call him a traitor, and condemn him.{w}\nHe almost killed Damek. He caused irreparable damage to my family...!"
-    "我紧握着流亡之刃，拳头在颤抖。肖恩看着，嗤笑了一声。{w}\n我带着愤怒与绝望对他大喊，骂他是叛徒，谴责他。{w}\n他差点杀了达梅克。他给我的家人造成了无法弥补的伤害……！"
+    "我紧握着放逐之刃，拳头在颤抖。肖恩看着，嗤笑了一声。{w}\n我带着愤怒与绝望对他大喊，骂他是叛徒，谴责他。{w}\n他差点杀了达梅克。他给我的家人造成了无法弥补的伤害……！"
 
 # game/script.rpy:91227
 translate chinese map262_a2eba11d:
@@ -40984,7 +40984,7 @@ translate chinese map263_5c76fe09:
 translate chinese map263_3847b6a6:
 
     # "As his anger and rage empowers him, I start to tremble even more.{w}\nIt takes a lot to resist the strength of a man wielding The Blade of Exodus."
-    "随着愤怒与狂暴为他注入力量，我开始颤抖得更厉害。{w}\n要抵挡一个手握流亡之刃之人的力量，需要极大的力气。"
+    "随着愤怒与狂暴为他注入力量，我开始颤抖得更厉害。{w}\n要抵挡一个手握放逐之刃之人的力量，需要极大的力气。"
 
 # game/script.rpy:91678
 translate chinese map263_6033c4f7:
@@ -41052,7 +41052,7 @@ translate chinese map263_6f1378e6:
 translate chinese map263_20679120:
 
     # "As his anger and rage empowers him, I start to tremble even more.{w}\nIt takes a lot to resist the strength of a man wielding The Blade of Exodus.{w}\nI do my best to buy time until I find the right opportunity. I contest Shane's words."
-    "随着愤怒与狂暴为他注入力量，我开始颤抖得更厉害。{w}\n要抵挡一个手握流亡之刃之人的力量，需要极大的力气。{w}\n我尽力拖延时间，等待合适的时机。我反驳肖恩的话。"
+    "随着愤怒与狂暴为他注入力量，我开始颤抖得更厉害。{w}\n要抵挡一个手握放逐之刃之人的力量，需要极大的力气。{w}\n我尽力拖延时间，等待合适的时机。我反驳肖恩的话。"
 
 # game/script.rpy:91783
 translate chinese map263_4969c1ab:
@@ -42318,7 +42318,7 @@ translate chinese map271_4438451a:
 translate chinese map271_770f7dd5:
 
     # char_sovy "Damek — if you'd let me join them, I could help out.\nRemember who tipped you off about this hidden trail...?\nI can even use The Blade of Exodus if [firstname] is in a bind."
-    char_sovy "达梅克——如果你让我加入他们，我能帮上忙。\n还记得是谁告诉你这条隐秘山路的吗……？\n如果[firstname]陷入困境，我甚至能使用流亡之刃。"
+    char_sovy "达梅克——如果你让我加入他们，我能帮上忙。\n还记得是谁告诉你这条隐秘山路的吗……？\n如果[firstname]陷入困境，我甚至能使用放逐之刃。"
 
 # game/script.rpy:94648
 translate chinese map271_0b46aa97:
@@ -43022,7 +43022,7 @@ translate chinese map276_1f55db21:
 translate chinese map276_b0e70637:
 
     # "After speaking, he immediately places a finger against his mouth.{w}\nIt's clear that we need to remain silent while the Vessels carry out their goal.{w}\nWe wait there in an intense silence, waiting to hear the clashing of swords."
-    "说完，他立刻把一根手指按在唇上。{w}\n显然，在容器们执行任务时，我们必须保持安静。{w}\n我们在死一般的寂静中等待着，等着听见刀剑相交的声音。"
+    "说完，他立刻把一根手指按在唇上。{w}\n显然，在容器们执行任务时，我们必须保持安静。{w}\n我们在死一般的寂静中等待着，等着听见剑刃相交的声音。"
 
 # game/script.rpy:96235
 translate chinese map276_0d68fddc:
@@ -43098,7 +43098,7 @@ translate chinese map276_54403f71:
 translate chinese map276_ae38c808:
 
     # "After speaking, he immediately places a finger against his mouth.{w}\nIt's clear that we need to remain silent while the Seers carry out their goal.{w}\nWe wait there in an intense silence, waiting to hear the clashing of swords."
-    "说完，他立刻把一根手指按在唇上。{w}\n显然，在先知们执行任务时，我们必须保持安静。{w}\n我们在死一般的寂静中等待着，等着听见刀剑相交的声音。"
+    "说完，他立刻把一根手指按在唇上。{w}\n显然，在先知们执行任务时，我们必须保持安静。{w}\n我们在死一般的寂静中等待着，等着听见剑刃相交的声音。"
 
 # game/script.rpy:96418
 translate chinese map276_0d68fddc_1:
@@ -45570,7 +45570,7 @@ translate chinese map297_a40d54dd:
 translate chinese map297_b592b7b2:
 
     # "I suppose that's a good strategy.{w}\nAfter I unsheathe The Blade of Exodus, I step forward.{w}\nMy goal is to find a good opening, so I can hop in and assist them."
-    "这策略倒是不错。{w}\n我拔出流亡之刃后，向前迈步。{w}\n我的目标是找机会，好插进去支援他们。"
+    "这策略倒是不错。{w}\n我拔出放逐之刃后，向前迈步。{w}\n我的目标是找机会，好插进去支援他们。"
 
 # game/script.rpy:102709
 translate chinese map297_4f33ad1c:
@@ -45582,7 +45582,7 @@ translate chinese map297_4f33ad1c:
 translate chinese map297_d90bfdd0:
 
     # "I suppose that's a good strategy.{w}\nAfter I unsheathe The Blade of Exodus, I step forward.{w}\nMy goal is to find a good opening, so I can hop in and assist Ulric."
-    "这策略倒是不错。{w}\n我拔出流亡之刃后，向前迈步。{w}\n我的目标是找机会，好插进去支援乌尔里克。"
+    "这策略倒是不错。{w}\n我拔出放逐之刃后，向前迈步。{w}\n我的目标是找机会，好插进去支援乌尔里克。"
 
 # game/script.rpy:102716
 translate chinese map297_47aa8e83:
@@ -46416,7 +46416,7 @@ translate chinese map299_9520c18c:
 translate chinese map299_1dcf6d6d:
 
     # "It seems that they too, followed the rule of never accepting defeat.{w}\nSwords clash, as Pro is soon accosted from every possible angle.{w}\nA blade grazes his shoulder, and blood drips down his clothing."
-    "看来它们也奉行着那绝不认输的准则。{w}\n兵刃相交，普洛很快遭到四面八方的围攻。{w}\n一柄剑擦过他的肩膀，鲜血顺着衣物滴落。"
+    "看来它们也奉行着那绝不认输的准则。{w}\n兵剑刃相交，普洛很快遭到四面八方的围攻。{w}\n一柄剑擦过他的肩膀，鲜血顺着衣物滴落。"
 
 # game/script.rpy:104635
 translate chinese map299_fcc134f1:
@@ -47048,7 +47048,7 @@ translate chinese map301_915063d3:
 translate chinese map301_e0f7d5a0:
 
     # "He takes out a few more suits before they start to fight back.{w}\nPerhaps they were giving him a chance to surrender, and accept death.{w}\nHowever, such opportunity has passed, and swords soon assault him."
-    "在它们开始反击前，他又干掉了好几架空甲。{w}\n或许它们是在给他机会投降，接受死亡。{w}\n然而，这机会已然错过，刀剑很快向他袭来。"
+    "在它们开始反击前，他又干掉了好几架空甲。{w}\n或许它们是在给他机会投降，接受死亡。{w}\n然而，这机会已然错过，剑很快向他袭来。"
 
 # game/script.rpy:105939
 translate chinese map301_d072b889:
@@ -47162,7 +47162,7 @@ translate chinese map302_60c03f80:
 translate chinese map302_f9cafe28:
 
     # "Sword clashed against sword, as he fought for his life.{w}\nBut not just his. Almost everybody else's lives were at stake, too.{w}\nThey were relying on him to ring that bell; and he couldn't let them down!"
-    "刀剑相交，他为自己的性命而战。{w}\n但不只是他自己的。几乎所有人的性命都悬于一线。{w}\n他们都指望他去敲响那口钟；他不能让他们失望！"
+    "剑刃相交，他为自己的性命而战。{w}\n但不只是他自己的。几乎所有人的性命都悬于一线。{w}\n他们都指望他去敲响那口钟；他不能让他们失望！"
 
 # game/script.rpy:106061
 translate chinese map302_9bbb27b8:
@@ -47294,7 +47294,7 @@ translate chinese map303_5652f83f:
 translate chinese map303_cf6dc66a:
 
     # "I unsheathe my blade, and hold it out toward our enemy.{w}\nThere was no time to argue semantics with the likes of him.{w}\nBut, as if to guard me, Ulric and Sovy step forward, getting in the way."
-    "我拔出刀刃，指向我们的敌人。{w}\n没时间跟他这种人抠字眼。{w}\n但乌尔里克和索维像是要护住我，上前挡在了中间。"
+    "我拔出剑，指向我们的敌人。{w}\n没时间跟他这种人抠字眼。{w}\n但乌尔里克和索维像是要护住我，上前挡在了中间。"
 
 # game/script.rpy:106365
 translate chinese map303_166886f9:
@@ -47322,7 +47322,7 @@ translate chinese map303_2eca3785:
 translate chinese map303_aacef994:
 
     # "I unsheathe my blade, and hold it out toward our enemy.{w}\nThere was no time to argue semantics with the likes of him.{w}\nBut, as if to guard me, Ulric steps forward, getting in the way."
-    "我拔出刀刃，指向我们的敌人。{w}\n没时间跟他这种人抠字眼。{w}\n但乌尔里克像是要护住我，上前挡在了中间。"
+    "我拔出剑，指向我们的敌人。{w}\n没时间跟他这种人抠字眼。{w}\n但乌尔里克像是要护住我，上前挡在了中间。"
 
 # game/script.rpy:106436
 translate chinese map303_5fe48005:
@@ -47384,7 +47384,7 @@ translate chinese map303_516c453a:
 translate chinese map303_78aca40d:
 
     # "The suits of armor stand no chance against The Blade of Exodus.{w}\nThe same could be said of Ulric's greatsword, and Sovy's fists.{w}\nI'm confident in our victory, but I try not to get too cocky."
-    "空甲在流亡之刃面前毫无胜算。{w}\n乌尔里克的巨剑与索维的双拳也是如此。{w}\n我对胜利充满信心，但尽量不让自己太过自负。"
+    "空甲在放逐之刃面前毫无胜算。{w}\n乌尔里克的巨剑与索维的双拳也是如此。{w}\n我对胜利充满信心，但尽量不让自己太过自负。"
 
 # game/script.rpy:106528
 translate chinese map303_5e6dfd26:
@@ -47448,7 +47448,7 @@ translate chinese map303_e2e209bf:
 translate chinese map303_aa5eeb0f:
 
     # "He sheathes his massive blade as the suits close in on us."
-    "空甲向我们逼近，他收起那把巨刃。"
+    "空甲向我们逼近，他收起那把巨剑。"
 
 # game/script.rpy:106689
 translate chinese map303_17753692:
@@ -47476,7 +47476,7 @@ translate chinese map303_dc220920:
 translate chinese map303_67a6a8ce:
 
     # "Then, the blade moves from my hands, to Sovy's.{w}\nHe does the same as me, and destroys several suits.{w}\nAs if passing a baton, Ulric is up next, swinging the blade."
-    "随后，刀刃从我的手中移到了索维手中。{w}\n他如我一般，摧毁了好几架空甲。{w}\n如同传递接力棒，接下来轮到乌尔里克挥动刀刃。"
+    "随后，剑从我的手中移到了索维手中。{w}\n他如我一般，摧毁了好几架空甲。{w}\n如同传递接力棒，接下来轮到乌尔里克挥动剑。"
 
 # game/script.rpy:106769
 translate chinese map303_3e5b08c5:
@@ -47490,7 +47490,7 @@ translate chinese map303_3e5b08c5:
 translate chinese map303_78a1b832:
 
     # "Then, almost instantaneously, it's back in my hands. I keep fighting.{w}\nWe're pressed back to back, exchanging the blade with our power.{w}\nPhasing it from person to person as needed, we're almost one mind."
-    "紧接着，几乎在一瞬间，它又回到我手中。我继续战斗。{w}\n我们背贴着背，用力量传递着刀刃。{w}\n按需在彼此之间相位转移，我们几乎心意相通。"
+    "紧接着，几乎在一瞬间，它又回到我手中。我继续战斗。{w}\n我们背贴着背，用力量传递着剑。{w}\n按需在彼此之间相位转移，我们几乎心意相通。"
 
 # game/script.rpy:106809
 translate chinese map303_e3e50db0:
@@ -47504,7 +47504,7 @@ translate chinese map303_e3e50db0:
 translate chinese map303_6e7da7a6:
 
     # "As if it's an intricately choreographed dance, we continue to fight.{w}\nIn this moment, we really did command the blade. We were its owners.{w}\nI feel unstoppable. But then I realize, could The Triumvirate do this as well...?"
-    "我们继续战斗，仿佛一支编排精妙的舞蹈。{w}\n这一刻，我们真正掌控了刀刃。我们是它的主人。{w}\n我感到势不可挡。但随即我意识到，三人执政团是否也能做到……？"
+    "我们继续战斗，仿佛一支编排精妙的舞蹈。{w}\n这一刻，我们真正掌控了剑。我们是它的主人。{w}\n我感到势不可挡。但随即我意识到，三人执政团是否也能做到……？"
 
 # game/script.rpy:106826
 translate chinese map303_f3c20183:
@@ -47524,7 +47524,7 @@ translate chinese map303_098e507d:
 translate chinese map303_d9db2735:
 
     # "I let Ulric take the blade, and we continue passing it around.{w}\nIt isn't much longer until the horde is thinned out. We're winning...!{w}\nThis is true teamwork. Unlike anything I've seen in my entire life."
-    "我让乌尔里克接过刀刃，我们继续轮流传递。{w}\n没过多久，敌潮便被削减殆尽。我们要赢了……！{w}\n这才是真正的团队协作。是我一生中从未见过的。"
+    "我让乌尔里克接过剑，我们继续轮流传递。{w}\n没过多久，敌潮便被削减殆尽。我们要赢了……！{w}\n这才是真正的团队协作。是我一生中从未见过的。"
 
 # game/script.rpy:106891
 translate chinese map303_22b0e4d0:
@@ -47538,7 +47538,7 @@ translate chinese map303_22b0e4d0:
 translate chinese map303_94533098:
 
     # "I take back the blade, and destroy the suits in front of me.{w}\nTheir numbers have easily halved in just a few short minutes.{w}\nAt this rate, we'd be free to take those stairs at any second."
-    "我收回刀刃，摧毁面前的空甲。{w}\n短短几分钟内，它们的数量就轻松减半。{w}\n照这速度，我们随时都能腾出身来登上那些楼梯。"
+    "我收回剑，摧毁面前的空甲。{w}\n短短几分钟内，它们的数量就轻松减半。{w}\n照这速度，我们随时都能腾出身来登上那些楼梯。"
 
 # game/script.rpy:106931
 translate chinese map303_26b188ea:
@@ -47580,7 +47580,7 @@ translate chinese map303_90c9ab6d:
 translate chinese map303_ba4f228e:
 
     # "I phase the blade back into my hands, and sheathe it.{w}\nLooking toward the stairs, it seems our next goal is clear.{w}\nWhen we got up there, we'd make him regret taunting us."
-    "我将刀刃相位转移回手中，收入鞘内。{w}\n望向楼梯，我们接下来的目标已然明确。{w}\n等我们上去，就让他为嘲弄我们而后悔。"
+    "我将剑相位转移回手中，收入鞘内。{w}\n望向楼梯，我们接下来的目标已然明确。{w}\n等我们上去，就让他为嘲弄我们而后悔。"
 
 # game/script.rpy:107034
 translate chinese map303_54f435c5:
@@ -47592,7 +47592,7 @@ translate chinese map303_54f435c5:
 translate chinese map303_c230ad60:
 
     # "The suits of armor stood no chance against The Blade of Exodus.{w}\nBut in this case — they also stood no chance against Ulric.{w}\nI'm confident in our victory, but I try not to get cocky."
-    "空甲在流亡之刃面前毫无胜算。{w}\n但这一次——它们在乌尔里克面前同样毫无胜算。{w}\n我对胜利充满信心，但尽量不让自己太过自负。"
+    "空甲在放逐之刃面前毫无胜算。{w}\n但这一次——它们在乌尔里克面前同样毫无胜算。{w}\n我对胜利充满信心，但尽量不让自己太过自负。"
 
 # game/script.rpy:107038
 translate chinese map303_5e6dfd26_1:
@@ -47650,7 +47650,7 @@ translate chinese map303_1e408a80:
 translate chinese map303_8c5d448b:
 
     # "The blade disappears from my hands, and appears in Ulric's.{w}\nHe uses it to slice through the suits that were closing in on him.{w}\nAs if passing a baton, the blade phases back into my hands."
-    "刀刃从我手中消失，出现在乌尔里克手中。{w}\n他用它劈开逼近自己的空甲。{w}\n如同传递接力棒，刀刃又相位转移回我手中。"
+    "剑从我手中消失，出现在乌尔里克手中。{w}\n他用它劈开逼近自己的空甲。{w}\n如同传递接力棒，剑又相位转移回我手中。"
 
 # game/script.rpy:107176
 translate chinese map303_b172395b:
@@ -47664,7 +47664,7 @@ translate chinese map303_b172395b:
 translate chinese map303_ab740be8:
 
     # "We're pressed back to back, and we keep exchanging the blade.{w}\nPhasing it from person to person as needed, we're almost one mind.{w}\nLike an intricately choreographed dance, we continue to fight."
-    "我们紧贴着背，不断交换刀刃。{w}\n按需在彼此之间相位转移，我们几乎心意相通。{w}\n如同一支编排精妙的舞蹈，我们继续战斗。"
+    "我们紧贴着背，不断交换剑。{w}\n按需在彼此之间相位转移，我们几乎心意相通。{w}\n如同一支编排精妙的舞蹈，我们继续战斗。"
 
 # game/script.rpy:107216
 translate chinese map303_a375113c:
@@ -47678,7 +47678,7 @@ translate chinese map303_a375113c:
 translate chinese map303_9f49a740:
 
     # "With each passing second, we thin out the horde.{w}\nTheir numbers easily half, then they do so again, and again.{w}\nI let Ulric take the blade again, and we keep passing it back and forth."
-    "每一秒过去，我们都在削减敌潮。{w}\n它们的数量轻松减半，接着又减半，一再减半。{w}\n我让乌尔里克再次接过刀刃，我们继续来回传递。"
+    "每一秒过去，我们都在削减敌潮。{w}\n它们的数量轻松减半，接着又减半，一再减半。{w}\n我让乌尔里克再次接过剑，我们继续来回传递。"
 
 # game/script.rpy:107256
 translate chinese map303_71a47332:
@@ -47704,13 +47704,13 @@ translate chinese map303_73c4080d:
 translate chinese map303_26122fc4:
 
     # "I'll never forget this moment. Not for the rest of my life.{w}\nFighting side by side with another Exodus wielder...?{w}\nIf I were The Triumvirate, I'd be very, very afraid."
-    "我永远不会忘记这一刻。余生都不会。{w}\n与另一位流亡之刃的持有者并肩作战……？{w}\n如果我是在三人执政团，我会非常、非常害怕。"
+    "我永远不会忘记这一刻。余生都不会。{w}\n与另一位放逐之刃的持有者并肩作战……？{w}\n如果我是在三人执政团，我会非常、非常害怕。"
 
 # game/script.rpy:107277
 translate chinese map303_ca6ecc4f:
 
     # "It feels like an eternity before I can rise to my feet again.{w}\nBut when I do, I sheathe the blade, and look over at Ulric.{w}\nHe was staring at the stairs. Our next objective."
-    "仿佛过了永恒那么久，我才重新站起身。{w}\n起身后，我收起刀刃，望向乌尔里克。{w}\n他正盯着楼梯。那是我们的下一个目标。"
+    "仿佛过了永恒那么久，我才重新站起身。{w}\n起身后，我收起剑，望向乌尔里克。{w}\n他正盯着楼梯。那是我们的下一个目标。"
 
 # game/script.rpy:107302
 translate chinese map303_ab495a61:
@@ -47718,7 +47718,7 @@ translate chinese map303_ab495a61:
     # voice "se/z02793.ogg"
     # char_ulric "If we get into a bind, let's just do the same thing.\nThat blade, and our connection, is our greatest weapon."
     voice "se/z02793.ogg"
-    char_ulric "要是陷入困境，我们就再来一次。\n那把刀刃，以及我们之间的联结，就是我们最强的武器。"
+    char_ulric "要是陷入困境，我们就再来一次。\n那把剑，以及我们之间的联结，就是我们最强的武器。"
 
 # game/script.rpy:107317
 translate chinese map303_8ce61eb8:
@@ -47776,13 +47776,13 @@ translate chinese map304_8b7aa209:
 translate chinese map304_c892ab4a:
 
     # "If he was made from the blade, could he phase around as well?{w}\nI hope that's not the case. That would prove far too tricky.{w}\nHowever, due to his loyalty, I know we'd be in for a fight."
-    "如果他是刀刃所造，那是否也能相位转移？{w}\n希望不是如此。那会棘手得多。{w}\n不过，鉴于他的忠诚，我知道这一战在所难免。"
+    "如果他是剑所造，那是否也能相位转移？{w}\n希望不是如此。那会棘手得多。{w}\n不过，鉴于他的忠诚，我知道这一战在所难免。"
 
 # game/script.rpy:107447
 translate chinese map304_740df668:
 
     # "Destroyed suits of armor, and their swords, line the floor.{w}\nThis must've been the remnant of a previous fight.{w}\nPerhaps Fortaime or Pro came here before us."
-    "地上散落着毁坏的空甲与它们的刀剑。{w}\n这一定是先前某场战斗留下的残迹。{w}\n也许福泰姆或普洛比我们先到过这里。"
+    "地上散落着毁坏的空甲与它们的剑。{w}\n这一定是先前某场战斗留下的残迹。{w}\n也许福泰姆或普洛比我们先到过这里。"
 
 # game/script.rpy:107473
 translate chinese map304_4a361ee7:
@@ -47794,7 +47794,7 @@ translate chinese map304_4a361ee7:
 translate chinese map304_b2b3a7fc:
 
     # char_sovy "Be careful, [firstname].\nTry not to let Halin steal the blade from you.\nRemember, we all possess the same ability."
-    char_sovy "小心，[firstname]。\n别让哈林把刀刃从你手中夺走。\n记住，我们都拥有相同的能力。"
+    char_sovy "小心，[firstname]。\n别让哈林把剑从你手中夺走。\n记住，我们都拥有相同的能力。"
 
 # game/script.rpy:107500
 translate chinese map304_87bdd7bf:
@@ -47818,7 +47818,7 @@ translate chinese map304_b6aee705:
 translate chinese map304_bc039c2b:
 
     # char_ulric "Be careful, [firstname]. This could be tricky.\nRemember that Halin can wield the blade, just like us.\nIn fact, since he was made from it, his affinity could be stronger."
-    char_ulric "小心，[firstname]。这可能很棘手。\n记住哈林能像我们一样驾驭那把刀刃。\n事实上，既然他是刀刃所造，他的亲和力或许更强。"
+    char_ulric "小心，[firstname]。这可能很棘手。\n记住哈林能像我们一样驾驭那把剑。\n事实上，既然他是剑所造，他的亲和力或许更强。"
 
 # game/script.rpy:107543
 translate chinese map304_beeb2470:
@@ -47904,7 +47904,7 @@ translate chinese map304_b6dde4a2:
 translate chinese map304_d4c62dec:
 
     # "Halin draws another sword, holding out two large blades."
-    "哈林又拔出一把剑，手持两柄巨刃。"
+    "哈林又拔出一把剑，手持两柄巨剑。"
 
 # game/script.rpy:107789
 translate chinese map304_68f81179:
@@ -47926,7 +47926,7 @@ translate chinese map304_0c984988:
 translate chinese map304_345e4ae7:
 
     # "He charges toward me, and I do the same.{w}\nPulling out The Blade of Exodus, our swords clash as we meet.{w}\nThey meet again, and again — the echo filling the room as we fight."
-    "他朝我冲来，我也迎了上去。{w}\n我拔出流亡之刃，两剑相接，我们正面交锋。{w}\n剑锋一次次相击——交锋声中，回响充满了整个房间。"
+    "他朝我冲来，我也迎了上去。{w}\n我拔出放逐之刃，两剑相接，我们正面交锋。{w}\n剑锋一次次相击——交锋声中，回响充满了整个房间。"
 
 # game/script.rpy:107832
 translate chinese map304_2b26bf4e:
@@ -47974,7 +47974,7 @@ translate chinese map304_91be6ddd:
 translate chinese map304_2219c89a:
 
     # "Sovy lunges forward, and pushes me to the ground.{w}\nPhasing the blade into his hands, he blocks Halin's next attack.{w}\nI bleed on the floor as I watch Sovy fight his former Apprentice."
-    "索维冲上前，把我推倒在地。{w}\n他将刀刃相位转移到手中，挡下哈林接下来的攻击。{w}\n我躺在地上流血，看着索维与他昔日的学徒交手。"
+    "索维冲上前，把我推倒在地。{w}\n他将剑相位转移到手中，挡下哈林接下来的攻击。{w}\n我躺在地上流血，看着索维与他昔日的学徒交手。"
 
 # game/script.rpy:107913
 translate chinese map304_e0e7dad0:
@@ -47992,7 +47992,7 @@ translate chinese map304_8dabdd70:
 translate chinese map304_1446c538:
 
     # "Swords continue to clash, and Halin is right.{w}\nI've never seen Sovy quite so determined."
-    "刀剑继续相交，哈林说得没错。{w}\n我从未见过索维如此决绝。"
+    "剑继续相交，哈林说得没错。{w}\n我从未见过索维如此决绝。"
 
 # game/script.rpy:107954
 translate chinese map304_e9039750:
@@ -48082,7 +48082,7 @@ translate chinese map304_cee711fa:
 translate chinese map304_861ca680:
 
     # "Sovy lowers the blade, signalling his intent to stop fighting."
-    "索维放下刀刃，示意自己无意再战。"
+    "索维放下剑，示意自己无意再战。"
 
 # game/script.rpy:108178
 translate chinese map304_737ab43e:
@@ -48110,7 +48110,7 @@ translate chinese map304_8b0408f7:
 translate chinese map304_25e7012c:
 
     # "And a moment later, Sovy thrusts the blade through Halin's gut.{w}\nSovy looks horrified, as he harms his former Apprentice, and friend.{w}\nNo turning back. This was the exact moment his defection was complete."
-    "片刻之后，索维把刀刃刺进了哈林的腹部。{w}\n伤到自己昔日的学徒兼朋友，索维一脸骇然。{w}\n再无回头路。就在这一刻，他的叛离彻底完成。"
+    "片刻之后，索维把剑刺进了哈林的腹部。{w}\n伤到自己昔日的学徒兼朋友，索维一脸骇然。{w}\n再无回头路。就在这一刻，他的叛离彻底完成。"
 
 # game/script.rpy:108258
 translate chinese map304_91d9fd8e:
@@ -48124,7 +48124,7 @@ translate chinese map304_91d9fd8e:
 translate chinese map304_71a5a612:
 
     # "Halin grunts in pain as Sovy removes the blade.{w}\nA horrific wound, but I don't think it would be enough.{w}\nCreated from the blade, Halin was surely resilient."
-    "索维拔出刀刃，哈林痛得闷哼出声。{w}\n好可怕的伤口，但我觉得这还不够。{w}\n既然由刀刃所造，哈林一定很顽强。"
+    "索维拔出剑，哈林痛得闷哼出声。{w}\n好可怕的伤口，但我觉得这还不够。{w}\n既然由剑所造，哈林一定很顽强。"
 
 # game/script.rpy:108305
 translate chinese map304_1f67d867:
@@ -48188,7 +48188,7 @@ translate chinese map304_a83226c2:
 translate chinese map304_a32241ef:
 
     # "Ulric lunges forward, and pushes me to the ground.{w}\nPhasing the blade into his hands, he blocks Halin's next attack.{w}\nI bleed on the floor as I watch Ulric fight The Triumvirate's right hand."
-    "乌尔里克冲上前，把我推倒在地。{w}\n他将刀刃相位转移到手中，挡下哈林接下来的攻击。{w}\n我躺在地上流血，看着乌尔里克与三人执政团的右手交手。"
+    "乌尔里克冲上前，把我推倒在地。{w}\n他将剑相位转移到手中，挡下哈林接下来的攻击。{w}\n我躺在地上流血，看着乌尔里克与三人执政团的右手交手。"
 
 # game/script.rpy:108443
 translate chinese map304_0cb6ae72:
@@ -48214,7 +48214,7 @@ translate chinese map304_2eb6acb2:
 translate chinese map304_f99e239e:
 
     # "Halin laughs, and they continue to fight.{w}\nSwords clash, but Ulric clearly has the edge."
-    "哈林大笑，两人继续交手。{w}\n刀剑相交，但乌尔里克明显占了上风。"
+    "哈林大笑，两人继续交手。{w}\n刀剑刃相交，但乌尔里克明显占了上风。"
 
 # game/script.rpy:108510
 translate chinese map304_b107e1e7:
@@ -48390,7 +48390,7 @@ translate chinese map304_1541cc7d:
 translate chinese map304_89243dab:
 
     # "Even if it was born from denial, we couldn't afford it right now.{w}\nWe needed to get to The Triumvirate's chambers, and end this.{w}\nI phase the blade back into my hand, and slowly stand up."
-    "即便这念头源于自欺，我们此刻也承担不起。{w}\n我们必须抵达三人执政团的房间，了结这一切。{w}\n我将刀刃相位转移回手中，缓缓站起。"
+    "即便这念头源于自欺，我们此刻也承担不起。{w}\n我们必须抵达三人执政团的房间，了结这一切。{w}\n我将剑相位转移回手中，缓缓站起。"
 
 # game/script.rpy:108889
 translate chinese map304_b10c46cc:
@@ -48402,7 +48402,7 @@ translate chinese map304_b10c46cc:
 translate chinese map304_a830d7de:
 
     # "I raise my blade in the air, and the suits of armor on the floor start to shake.{w}\nBut that's not what I was after. A moment later, Sovy and Ulric gasp softly.{w}\nAll of their swords slowly rise. Hundreds of them float in the air."
-    "我高举刀刃，地上的空甲开始颤动。{w}\n但那并非我的目标。片刻之后，索维和乌尔里克轻轻倒吸一口气。{w}\n它们所有的剑缓缓升起。数百把剑悬浮在空中。"
+    "我高举剑，地上的空甲开始颤动。{w}\n但那并非我的目标。片刻之后，索维和乌尔里克轻轻倒吸一口气。{w}\n它们所有的剑缓缓升起。数百把剑悬浮在空中。"
 
 # game/script.rpy:108896
 translate chinese map304_129a27a2:
@@ -48414,7 +48414,7 @@ translate chinese map304_129a27a2:
 translate chinese map304_7e3787d5:
 
     # "I raise my blade in the air, and the suits of armor on the floor start to shake.{w}\nBut that's not what I was after. A moment later, Ulric gasps softly.{w}\nAll of their swords slowly rise. Hundreds of them float in the air."
-    "我高举刀刃，地上的空甲开始颤动。{w}\n但那并非我的目标。片刻之后，乌尔里克轻轻倒吸一口气。{w}\n它们所有的剑缓缓升起。数百把剑悬浮在空中。"
+    "我高举剑，地上的空甲开始颤动。{w}\n但那并非我的目标。片刻之后，乌尔里克轻轻倒吸一口气。{w}\n它们所有的剑缓缓升起。数百把剑悬浮在空中。"
 
 # game/script.rpy:108902
 translate chinese map304_95920d54:
@@ -48426,25 +48426,25 @@ translate chinese map304_95920d54:
 translate chinese map304_740ec742:
 
     # "He would've let out a scream, if he was capable. But he's not.{w}\nHis head slumps down, and he stares at the blades in his body.{w}\nTrying to pull them out, he realizes very fast that he's too weak."
-    "若他还能，他定会惨叫出声。但他不能。{w}\n他的头垂了下来，盯着插在身上的刀刃。{w}\n他想把它们拔出，却很快意识到自己太过虚弱。"
+    "若他还能，他定会惨叫出声。但他不能。{w}\n他的头垂了下来，盯着插在身上的剑。{w}\n他想把它们拔出，却很快意识到自己太过虚弱。"
 
 # game/script.rpy:108906
 translate chinese map304_493cd221:
 
     # "But this wasn't enough to satisfy me. Halin needed to suffer.{w}\nFor every Rebel he killed, I would make him feel {i}all{/i} of my fury.{w}\nHe was created by the blade, so I use that fact against him."
-    "但这还不足以让我满足。哈林必须受苦。{w}\n他每杀一名反抗军，我就要让他感受我{i}全部{/i}的怒火。{w}\n他是刀刃所造，我便利用这一点来对付他。"
+    "但这还不足以让我满足。哈林必须受苦。{w}\n他每杀一名反抗军，我就要让他感受我{i}全部{/i}的怒火。{w}\n他是剑所造，我便利用这一点来对付他。"
 
 # game/script.rpy:108908
 translate chinese map304_0b42b0e7:
 
     # "If I could control the blade, then I could easily control him as well.{w}\nI hold The Blade of Exodus toward him, and make it enact my will.{w}\nHalin's armor starts to crack, and I use it to crush his body."
-    "若我能操控刀刃，那也能轻易操控他。{w}\n我把流亡之刃指向他，让它执行我的意志。{w}\n哈林的甲胄开始开裂，我用它来挤压他的身体。"
+    "若我能操控剑，那也能轻易操控他。{w}\n我把放逐之刃指向他，让它执行我的意志。{w}\n哈林的甲胄开始开裂，我用它来挤压他的身体。"
 
 # game/script.rpy:108910
 translate chinese map304_352ae1ae:
 
     # "I make it squeeze so tight around him, that I hear his bones crack.{w}\nThe constriction of his body is so grotesque, but I don't let up until the end.{w}\nWhen I'm done with him, he slumps over, crushed and pierced with swords."
-    "我让它紧紧箍住他，紧得我听见他骨骼碎裂的声音。{w}\n那躯体被挤压的模样如此可怖，但我一刻也不松懈。{w}\n等我收手时，他已瘫倒下去，被压碎，被刀剑刺穿。"
+    "我让它紧紧箍住他，紧得我听见他骨骼碎裂的声音。{w}\n那躯体被挤压的模样如此可怖，但我一刻也不松懈。{w}\n等我收手时，他已瘫倒下去，被压碎，被剑刺穿。"
 
 # game/script.rpy:108918
 translate chinese map304_7885aaff:
@@ -48456,13 +48456,13 @@ translate chinese map304_7885aaff:
 translate chinese map304_2ff01765:
 
     # "I tell Sovy to release the chokehold, but hold Halin in place.{w}\nHe obeys without hesitation, and I slowly make my way over to him.{w}\nPressing the blade against Halin's chest, I ask it to give him his freedom."
-    "我叫索维松开锁喉，但按紧哈林。{w}\n他毫不迟疑地照做，我缓缓走向哈林。{w}\n我把刀刃抵在哈林胸口，请它赐予他自由。"
+    "我叫索维松开锁喉，但按紧哈林。{w}\n他毫不迟疑地照做，我缓缓走向哈林。{w}\n我把剑抵在哈林胸口，请它赐予他自由。"
 
 # game/script.rpy:108928
 translate chinese map304_1295df8e:
 
     # "I tell Ulric to release the chokehold, but hold Halin in place.{w}\nHe obeys without hesitation, and I slowly make my way over to him.{w}\nPressing the blade against Halin's chest, I ask it to give him his freedom."
-    "我叫乌尔里克松开锁喉，但按紧哈林。{w}\n他毫不迟疑地照做，我缓缓走向哈林。{w}\n我把刀刃抵在哈林胸口，请它赐予他自由。"
+    "我叫乌尔里克松开锁喉，但按紧哈林。{w}\n他毫不迟疑地照做，我缓缓走向哈林。{w}\n我把剑抵在哈林胸口，请它赐予他自由。"
 
 # game/script.rpy:108932
 translate chinese map304_519f9296:
@@ -49070,13 +49070,13 @@ translate chinese map307_bd4a9e0c:
 translate chinese map307_76e71f28:
 
     # "I nod. The thought filled me with fright.{w}\nI hold out the torch, and see the bizarre sight before me.{w}\nThe walls are lined with gears, just like those on the blade."
-    "我点点头。这个念头让我满心恐惧。{w}\n我举起火把，看到了眼前离奇的景象。{w}\n墙上排满了齿轮，就像刀刃上的那些一样。"
+    "我点点头。这个念头让我满心恐惧。{w}\n我举起火把，看到了眼前离奇的景象。{w}\n墙上排满了齿轮，就像剑上的那些一样。"
 
 # game/script.rpy:110116
 translate chinese map307_78b62e55:
 
     # "They spin, and rotate, in directions that they shouldn't.{w}\nIt makes no sense to me. But then again, neither does the blade.{w}\nThe gear on the blade spun in a way that was physically impossible."
-    "它们以不该有的方向旋转、转动。{w}\n我完全无法理解。不过，那把刀刃也是一样。{w}\n刀刃上的齿轮，以一种物理上不可能的方式转动着。"
+    "它们以不该有的方向旋转、转动。{w}\n我完全无法理解。不过，那把剑也是一样。{w}\n剑上的齿轮，以一种物理上不可能的方式转动着。"
 
 # game/script.rpy:110118
 translate chinese map307_4f128004:
@@ -52836,19 +52836,19 @@ translate chinese map338_f0bb177c:
 translate chinese map340_cd4d4744:
 
     # "I stumble down the stairs, making my way to the atrium.{w}\nHolding the destroyed Blade of Exodus, I use it for support.{w}\nIt would never jeopardize the future of other innocent worlds."
-    "我踉跄着走下楼梯，朝中庭走去。{w}\n我握着已被毁去的流亡之刃，靠它支撑着身体。{w}\n它再也不会危及其他无辜世界的未来。"
+    "我踉跄着走下楼梯，朝中庭走去。{w}\n我握着已被毁去的放逐之刃，靠它支撑着身体。{w}\n它再也不会危及其他无辜世界的未来。"
 
 # game/script.rpy:115613
 translate chinese map340_9937fc09:
 
     # "But I start to wonder if I may have made the wrong decision.{w}\nI used the blade to temporarily destroy that idol. It wasn't gone for good.{w}\nWherever it ended up in the future, how would {i}they{/i} fight it off...?"
-    "但我开始怀疑，自己是不是做错了决定。{w}\n我用那把刃暂时摧毁了那尊灵像。它并未就此彻底消失。{w}\n无论它将来流落到哪里，{i}他们{/i}又该如何抵御它……？"
+    "但我开始怀疑，自己是不是做错了决定。{w}\n我用那把剑暂时摧毁了那尊灵像。它并未就此彻底消失。{w}\n无论它将来流落到哪里，{i}他们{/i}又该如何抵御它……？"
 
 # game/script.rpy:115615
 translate chinese map340_4ddbbb5f:
 
     # "Or maybe, not having to rely on the Blade of Exodus was a good thing.{w}\nMaybe the next world it plagued could create another means to destroy it.{w}\nAll I knew for sure, was that the blade was destroyed, and Alestia was safe."
-    "又或者，不必再依赖流亡之刃，反而是件好事。{w}\n也许它将要祸害的下一个世界，能创造别的办法来摧毁它。{w}\n我唯一确定的是，刃已毁去，而阿莱斯蒂亚安全了。"
+    "又或者，不必再依赖放逐之刃，反而是件好事。{w}\n也许它将要祸害的下一个世界，能创造别的办法来摧毁它。{w}\n我唯一确定的是，剑已毁去，而阿莱斯蒂亚安全了。"
 
 # game/script.rpy:115617
 translate chinese map340_f25287c5:
@@ -52962,13 +52962,13 @@ translate chinese map340_503f67e0:
 translate chinese map340_d2a21a07:
 
     # "Everybody gathers around me, looking at the broken blade.{w}\nI guess there was no point in holding onto it anymore.{w}\nI throw it to the ground. I'd never use it again."
-    "众人围拢到我身边，注视着那把断裂的刃。{w}\n我想，再留着它也没什么意义了。{w}\n我把它扔在地上。我永远不会再用它。"
+    "众人围拢到我身边，注视着那把断裂的剑。{w}\n我想，再留着它也没什么意义了。{w}\n我把它扔在地上。我永远不会再用它。"
 
 # game/script.rpy:115807
 translate chinese map340_0a3ed319:
 
     # "But I consider it a blessing that I'd never {i}need{/i} to.{w}\nI survived, and The Blade of Exodus was no more."
-    "但我庆幸自己永远不必{i}需要{/i}它。{w}\n我活了下来，而流亡之刃已不复存在。"
+    "但我庆幸自己永远不必{i}需要{/i}它。{w}\n我活了下来，而放逐之刃已不复存在。"
 
 # game/script.rpy:115809
 translate chinese map340_f675ae1c:
@@ -53810,7 +53810,7 @@ translate chinese map286_aadeb99d:
     # voice "se/pro25.ogg"
     # char_pro "I know the layout of their castle based on past reconnaissance. \nBut when we stole The Blade of Exodus, they weren't expecting us.\nThey know we're here, now. For us, this will be a purely uphill battle."
     voice "se/pro25.ogg"
-    char_pro "根据过去的侦察，我了解他们城堡的布局。\n可当初我们偷走流亡之刃时，他们毫无防备。\n现在他们知道我们来了。对我们来说，这将是场纯粹的硬仗。"
+    char_pro "根据过去的侦察，我了解他们城堡的布局。\n可当初我们偷走放逐之刃时，他们毫无防备。\n现在他们知道我们来了。对我们来说，这将是场纯粹的硬仗。"
 
 # game/script.rpy:118240
 translate chinese map286_d7d00814:
@@ -54058,7 +54058,7 @@ translate chinese map286_bad71a11:
 translate chinese map286_96ce3c27:
 
     # "I tell him not to worry, and that everything would be fine.{w}\nWe have a solid battle plan, and I have The Blade of Exodus.{w}\nThere wasn't anything we could do to stand a better chance at winning."
-    "我告诉他别担心，一切都会好起来的。{w}\n我们有周密的作战计划，而我有流亡之刃。{w}\n我们已没有别的办法能让自己胜算更大。"
+    "我告诉他别担心，一切都会好起来的。{w}\n我们有周密的作战计划，而我有放逐之刃。{w}\n我们已没有别的办法能让自己胜算更大。"
 
 # game/script.rpy:118829
 translate chinese map286_7d3bcc6c:
@@ -54424,7 +54424,7 @@ translate chinese map285_5ca18485:
 translate chinese map285_18ef6bd5:
 
     # "That's true. It was Salus who broke Valinorth's non-partisan stance.{w}\nHe helped seize the blade, and deliver it to me. He knew about my power.{w}\nHe may not have known about The Monarchy, but he knew enough."
-    "确实如此。正是萨卢斯打破了瓦利诺斯不结盟的立场。{w}\n他帮忙夺下刃，又把它交给了我。他知道我的力量。{w}\n他或许不知道王权的存在，但他知道的已经够多了。"
+    "确实如此。正是萨卢斯打破了瓦利诺斯不结盟的立场。{w}\n他帮忙夺下剑，又把它交给了我。他知道我的力量。{w}\n他或许不知道王权的存在，但他知道的已经够多了。"
 
 # game/script.rpy:119563
 translate chinese map285_fcf8ec57:
@@ -54602,7 +54602,7 @@ translate chinese map287_a306c773:
     # voice "se/z02610.ogg"
     # char_damek "It just makes me wonder who The Triumvirate really is.\nThey aren't Gods — and I doubt that they made The Blade of Exodus.\nThere's a chance that they're just like us. Using power to achieve their goals."
     voice "se/z02610.ogg"
-    char_damek "这让我不禁想，三人执政团究竟是什么来头。\n他们不是神——我也怀疑流亡之刃是他们造的。\n有可能，他们和我们一样。用力量来达成自己的目标。"
+    char_damek "这让我不禁想，三人执政团究竟是什么来头。\n他们不是神——我也怀疑放逐之刃是他们造的。\n有可能，他们和我们一样。用力量来达成自己的目标。"
 
 # game/script.rpy:119890
 translate chinese map287_f0000409:
@@ -54632,7 +54632,7 @@ translate chinese map287_86046428:
     # voice "se/z02613.ogg"
     # char_damek "But what foe would that be? And what was their goal...?\nWhat I'm trying to say is — I think the blade should be destroyed.\nOnce we achieve our goal, we have no use for it anymore — right?"
     voice "se/z02613.ogg"
-    char_damek "但那会是什么样的敌人？他们的目标又是什么……？\n我想说的是——我认为这把刃应当被毁掉。\n一旦达成目标，它就再无用武之地了——对吧？"
+    char_damek "但那会是什么样的敌人？他们的目标又是什么……？\n我想说的是——我认为这把剑应当被毁掉。\n一旦达成目标，它就再无用武之地了——对吧？"
 
 # game/script.rpy:119948
 translate chinese map287_cb1d7dfc:
@@ -54664,7 +54664,7 @@ translate chinese map287_0490caba:
     # voice "se/z02617.ogg"
     # char_damek "I don't know if that's a good idea, [firstname].\nWhoever wields that blade will be led down a dark path.\nThat's not a path I'd like to see you walk. I couldn't bear it."
     voice "se/z02617.ogg"
-    char_damek "我不确定那是不是个好主意，[firstname]。\n无论谁挥舞那把刃，都会被引向一条黑暗的道路。\n那不是我愿你走的路。我无法承受。"
+    char_damek "我不确定那是不是个好主意，[firstname]。\n无论谁挥舞那把剑，都会被引向一条黑暗的道路。\n那不是我愿你走的路。我无法承受。"
 
 # game/script.rpy:120011
 translate chinese map287_2841e3fd:
@@ -55070,7 +55070,7 @@ translate chinese map288_410abe5d:
     # voice "se/z02649.ogg"
     # char_howl "Please, use that blade. Absorb the souls inside of us.\nLeave one behind — and let us feel what it is like to be alive.\nAfter the weight is gone from our shoulders, lift it from the world."
     voice "se/z02649.ogg"
-    char_howl "求你，用那把刃。吸取我们体内的灵魂。\n只留下一个——让我们感受活着是什么滋味。\n等这重担从我们肩上卸下后，再把它从这世上移去。"
+    char_howl "求你，用那把剑。吸取我们体内的灵魂。\n只留下一个——让我们感受活着是什么滋味。\n等这重担从我们肩上卸下后，再把它从这世上移去。"
 
 # game/script.rpy:120861
 translate chinese map288_eb1bbb7d:
@@ -55106,7 +55106,7 @@ translate chinese map288_7e3451c2:
     # voice "se/z02652.ogg"
     # char_howl "But if you can take our spirits, and use it to power the blade?\nMaybe it will give you the edge you need to win this yourselves.\nWe may have lost — but that doesn't mean you need to, as well."
     voice "se/z02652.ogg"
-    char_howl "但如果你能取走我们的灵，用它来强化那把刃呢？\n也许它能给你们制胜所需的优势。\n我们也许输了——但这不意味着你们也会。"
+    char_howl "但如果你能取走我们的灵，用它来强化那把剑呢？\n也许它能给你们制胜所需的优势。\n我们也许输了——但这不意味着你们也会。"
 
 # game/script.rpy:120934
 translate chinese map288_325e7a7e:
@@ -55150,13 +55150,13 @@ translate chinese map288_9a0b8753:
     # voice "se/z02656.ogg"
     # char_howl "The spirits would be more useful in the blade, than this body.\nBut like we said, one can remain, to aid you in fighting.\nWhat do you say, [firstname]...? What will you do...?" nointeract
     voice "se/z02656.ogg"
-    char_howl "这些灵在刃中，比在这具躯体里更有用。\n但正如我们所说，可以留下一个，助你战斗。\n你意下如何，[firstname]……？你会怎么做……？" nointeract
+    char_howl "这些灵在剑中，比在这具躯体里更有用。\n但正如我们所说，可以留下一个，助你战斗。\n你意下如何，[firstname]……？你会怎么做……？" nointeract
 
 # game/script.rpy:121023
 translate chinese map288_25b77938:
 
     # "I agree to grant him his request.{w}\nI need this blade as strong as possible for the coming battle.{w}\nHis people may be lost, but they can still help us win this war."
-    "我同意满足他的请求。{w}\n为了即将到来的战斗，我需要这把刃尽可能强大。{w}\n他的族人或许已经消逝，但他们仍能助我们赢下这场战争。"
+    "我同意满足他的请求。{w}\n为了即将到来的战斗，我需要这把剑尽可能强大。{w}\n他的族人或许已经消逝，但他们仍能助我们赢下这场战争。"
 
 # game/script.rpy:121048
 translate chinese map288_47affe9e:
@@ -55170,13 +55170,13 @@ translate chinese map288_47affe9e:
 translate chinese map288_867dd234:
 
     # "With a nod, I take out the blade, and hold it to his chest.{w}\nIt responds to my will, so I do my best to envision Howl's request.{w}\nLeave one soul to inhabit the body — and use the rest to power the blade."
-    "我点点头，取出刃，抵在他的胸口。{w}\n它会回应我的意志，所以我尽力去构想豪尔的请求。{w}\n留下一个灵魂留在这具躯体里——用其余的来强化这把刃。"
+    "我点点头，取出剑，抵在他的胸口。{w}\n它会回应我的意志，所以我尽力去构想豪尔的请求。{w}\n留下一个灵魂留在这具躯体里——用其余的来强化这把剑。"
 
 # game/script.rpy:121065
 translate chinese map288_3830779e:
 
     # "I close my eyes, and try my hardest to make his dream a reality.{w}\nAfter a while, he takes a deep breath, and he seems a bit different.{w}\nThe blade didn't seem to \"activate\", but I guess I did what I needed to."
-    "我闭上双眼，竭尽全力让他的愿望成真。{w}\n过了一会儿，他深吸一口气，看起来有些不一样了。{w}\n那把刃似乎并未“启动”，但我想我做了该做的事。"
+    "我闭上双眼，竭尽全力让他的愿望成真。{w}\n过了一会儿，他深吸一口气，看起来有些不一样了。{w}\n那把剑似乎并未“启动”，但我想我做了该做的事。"
 
 # game/script.rpy:121090
 translate chinese map288_dcc46e9d:
@@ -55360,7 +55360,7 @@ translate chinese map289_7700029d:
 translate chinese map289_727a1a6f:
 
     # "This seems to have been a conquest meant to reclaim their world.{w}\nThey may not be alive to see it happen, but we should rule it like they did.{w}\nI have the blade, too, and I was from Valinorth. I always looked toward the future."
-    "这似乎是一场旨在夺回他们世界的征伐。{w}\n他们或许无法活着看到这一天，但我们应该像他们那样统治它。{w}\n我也有那把刃，我也出自瓦利诺斯。我一向放眼未来。"
+    "这似乎是一场旨在夺回他们世界的征伐。{w}\n他们或许无法活着看到这一天，但我们应该像他们那样统治它。{w}\n我也有那把剑，我也出自瓦利诺斯。我一向放眼未来。"
 
 # game/script.rpy:121453
 translate chinese map289_aa3f8696:
@@ -56116,7 +56116,7 @@ translate chinese map179_01f02c23:
 translate chinese click_map180_6_EV006_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。"
 
 # game/script.rpy:123539
 translate chinese click_map180_9_EV009_cf145c57:
@@ -56740,7 +56740,7 @@ translate chinese map204_cd08cc63:
 translate chinese map204_b516ab12:
 
     # char_the_triumvirate "But what of The Seer...?\nWe notice that you don't have our blade.\nThis displeases us. Please explain, Sovy."
-    char_the_triumvirate "那先知呢……？\n我们注意到，你没有带我们的刀回来。\n这让我们很不快。解释一下，索维。"
+    char_the_triumvirate "那先知呢……？\n我们注意到，你没有带我们的剑回来。\n这让我们很不快。解释一下，索维。"
 
 # game/script.rpy:124488
 translate chinese map204_f7bc40e6:
@@ -56752,7 +56752,7 @@ translate chinese map204_f7bc40e6:
 translate chinese map204_8553338c:
 
     # char_the_triumvirate "But what of The Seeress...?\nWe notice that you don't have our blade.\nThis displeases us. Please explain, Sovy."
-    char_the_triumvirate "那先知呢……？\n我们注意到，你没有带我们的刀回来。\n这让我们很不快。解释一下，索维。"
+    char_the_triumvirate "那先知呢……？\n我们注意到，你没有带我们的剑回来。\n这让我们很不快。解释一下，索维。"
 
 # game/script.rpy:124515
 translate chinese map204_57694919:
@@ -56764,7 +56764,7 @@ translate chinese map204_57694919:
 translate chinese map204_abcff6d7:
 
     # char_sovy "We thought it better to damage their morale.\nThey have the blade, but they can never recover.\nNext time we see them, it'll be like crushing an insect."
-    char_sovy "我们认为，打击他们的士气更为妥当。\n刀在他们手上，但他们永远无法恢复元气。\n下次再见，捏死他们就像捏死一只虫子。"
+    char_sovy "我们认为，打击他们的士气更为妥当。\n剑在他们手上，但他们永远无法恢复元气。\n下次再见，捏死他们就像捏死一只虫子。"
 
 # game/script.rpy:124542
 translate chinese map204_41fa2aa6:
@@ -56772,7 +56772,7 @@ translate chinese map204_41fa2aa6:
     # voice "se/x00385b.ogg"
     # char_the_triumvirate "You failed your mission, Sovy.\nWe wanted you to retrieve that blade.\nNow they have time to regroup, and replan."
     voice "se/x00385b.ogg"
-    char_the_triumvirate "你的任务失败了，索维。\n我们要你把那把刀夺回来。\n现在他们有时间重整旗鼓、重新谋划了。"
+    char_the_triumvirate "你的任务失败了，索维。\n我们要你把那把剑夺回来。\n现在他们有时间重整旗鼓、重新谋划了。"
 
 # game/script.rpy:124568
 translate chinese map204_1f47411b:
@@ -56788,7 +56788,7 @@ translate chinese map204_2e361fe8:
     # voice "se/x00386.ogg"
     # char_the_triumvirate "End what should already be over...?\nSovy, do you realize what you've done?\nThere's a {i}reason{/i} we needed that blade."
     voice "se/x00386.ogg"
-    char_the_triumvirate "终结一件本该早已了结的事……？\n索维，你意识到自己做了什么吗？\n我们需要那把刀，是有{i}原因{/i}的。"
+    char_the_triumvirate "终结一件本该早已了结的事……？\n索维，你意识到自己做了什么吗？\n我们需要那把剑，是有{i}原因{/i}的。"
 
 # game/script.rpy:124610
 translate chinese map204_b669d06f:
@@ -56876,7 +56876,7 @@ translate chinese map204_5c76bca3:
 translate chinese map204_306c8b4c:
 
     # char_halin "Of course, Masters. Sovy failed on purpose.\nHe had the blade, and The Seers life, but took neither.\nI don't know why. I regret letting him run off alone."
-    char_halin "当然，主人们。索维是故意失败的。\n刀和先知的命都在他手里，他却一样都没取。\n我不知道为什么。我很后悔让他独自行动。"
+    char_halin "当然，主人们。索维是故意失败的。\n剑和先知的命都在他手里，他却一样都没取。\n我不知道为什么。我很后悔让他独自行动。"
 
 # game/script.rpy:124791
 translate chinese map204_808e4e8e:
@@ -56888,7 +56888,7 @@ translate chinese map204_808e4e8e:
 translate chinese map204_94a38dfa:
 
     # char_halin "Of course, Masters. Sovy failed on purpose.\nHe had the blade, and The Seeress' life, but took neither.\nI don't know why. I regret letting him run off alone."
-    char_halin "当然，主人们。索维是故意失败的。\n刀和先知的命都在他手里，他却一样都没取。\n我不知道为什么。我很后悔让他独自行动。"
+    char_halin "当然，主人们。索维是故意失败的。\n剑和先知的命都在他手里，他却一样都没取。\n我不知道为什么。我很后悔让他独自行动。"
 
 # game/script.rpy:124807
 translate chinese map204_197ce81d:
@@ -57098,7 +57098,7 @@ translate chinese map204_d597e78d:
     # voice "se/x00412.ogg"
     # char_the_triumvirate "Your punishment must be rather severe.\nWithout that blade, we are vulnerable."
     voice "se/x00412.ogg"
-    char_the_triumvirate "你的惩罚必须相当严厉。\n没有那把刀，我们就很脆弱。"
+    char_the_triumvirate "你的惩罚必须相当严厉。\n没有那把剑，我们就很脆弱。"
 
 # game/script.rpy:125372
 translate chinese map204_614b2cc0:
@@ -57186,7 +57186,7 @@ translate chinese map204_3a5d930a:
 translate chinese map204_fc36fa97:
 
     # char_the_triumvirate "No, Sovy. There's nothing you can do. It's too late.\nUnless you march in here with that blade {i}and{/i} The Seer?\nWell, to put it bluntly, we never wish to see your face again."
-    char_the_triumvirate "不，索维。你什么也做不了。太迟了。\n除非你能带着那把刀{i}和{/i}先知走进这里？\n说白了，我们永远不想再见到你的脸。"
+    char_the_triumvirate "不，索维。你什么也做不了。太迟了。\n除非你能带着那把剑{i}和{/i}先知走进这里？\n说白了，我们永远不想再见到你的脸。"
 
 # game/script.rpy:125607
 translate chinese map204_44589c51:
@@ -57198,7 +57198,7 @@ translate chinese map204_44589c51:
 translate chinese map204_4782f832:
 
     # char_the_triumvirate "No, Sovy. There's nothing you can do. It's too late.\nUnless you march in here with that blade {i}and{/i} The Seeress?\nWell, to put it bluntly, we never wish to see your face again."
-    char_the_triumvirate "不，索维。你什么也做不了。太迟了。\n除非你能带着那把刀{i}和{/i}先知走进这里？\n说白了，我们永远不想再见到你的脸。"
+    char_the_triumvirate "不，索维。你什么也做不了。太迟了。\n除非你能带着那把剑{i}和{/i}先知走进这里？\n说白了，我们永远不想再见到你的脸。"
 
 # game/script.rpy:125642
 translate chinese map205_660f424a:
@@ -57836,7 +57836,7 @@ translate chinese map184_6c363997:
 translate chinese map184_607fc6b8:
 
     # "It's crazy to think that within a few days we'd be attacking Balteus.{w}\nWe couldn't waste any time. We'd go right after securing this alliance.{w}\nBut I think back to the moment on the ship, where I touched the blade."
-    "一想到几天之内我们就要进攻巴尔泰乌斯，实在疯狂。{w}\n我们一刻也不能浪费。一敲定结盟，我们就立刻出发。{w}\n但我又回想起在船上的那一刻，我触碰那把刀的时候。"
+    "一想到几天之内我们就要进攻巴尔泰乌斯，实在疯狂。{w}\n我们一刻也不能浪费。一敲定结盟，我们就立刻出发。{w}\n但我又回想起在船上的那一刻，我触碰那把剑的时候。"
 
 # game/script.rpy:127181
 translate chinese map184_9d6bedb6:
@@ -58412,7 +58412,7 @@ translate chinese map189_b3bc5639:
 translate chinese map189_6614ec1e:
 
     # "He looks straight at me, eyeing the blade on my back."
-    "他直直看着我，目光落在我背上的刀上。"
+    "他直直看着我，目光落在我背上的剑上。"
 
 # game/script.rpy:128664
 translate chinese map189_e15a5858:
@@ -59376,13 +59376,13 @@ translate chinese click_map192_4_EV004_c4b1db4d:
 translate chinese click_map192_51_EV051_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问该内容。\n如果显示 X，你必须先完成前面的心灵交流。\n如果显示对勾，你必须继续下一个心灵交流。"
 
 # game/script.rpy:131073
 translate chinese click_map192_53_EV053_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问该内容。\n如果显示 X，你必须先完成前面的心灵交流。\n如果显示对勾，你必须继续下一个心灵交流。"
 
 # game/script.rpy:131107
 translate chinese click_map192_58_EV058_2218e82a:
@@ -61658,7 +61658,7 @@ translate chinese map198_ec4e0640:
 translate chinese map198_a8363e13:
 
     # char_valessa "Have we actually worked out who's fighting?\nI mean, which of our members are joining Draycu's reserve forces?\nThe Leader and the Champion, we know. But what about everyone else?"
-    char_valessa "我们真的确定谁上场了吗？\n我是说，我们有哪些人要加入德雷库的后备队？\n首领和斗士，这我们知道。但其他人呢？"
+    char_valessa "我们真的确定谁上场了吗？\n我是说，我们有那些人要加入德雷库的后备队？\n首领和斗士，这我们知道。但其他人呢？"
 
 # game/script.rpy:136833
 translate chinese map198_ce6f283f:
@@ -62302,7 +62302,7 @@ translate chinese click_map199_8_EV008_82c40432:
 translate chinese click_map199_9_EV009_e7b93957:
 
     # "Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart."
-    "目前无法访问此内容。\n若显示叉号，你必须先完成前置的交心事件。\n若显示对勾，你必须前往下一个交心事件。"
+    "目前无法访问该内容。\n如果显示 X，你必须先完成前面的心灵交流。\n如果显示对勾，你必须继续下一个心灵交流。"
 
 # game/script.rpy:138088
 translate chinese click_map199_12_EV012_abaeee00:
@@ -62320,13 +62320,13 @@ translate chinese click_map199_13_EV013_abaeee00:
 translate chinese click_map199_14_EV014_ff617598:
 
     # "This door leads to the private rooms where we're supposed to prepare.{w}\nBut we wouldn't have much time to prepare, so we'd be fighting pretty soon.{w}\nCould I use The Blade of Exodus in combat? Do they even know what it is...?"
-    "这扇门通往我们该去准备的私人房间。{w}\n但我们不会有很多准备时间，所以很快就会开打。{w}\n我能在战斗中使用流亡之刃吗？他们甚至知道那是什么吗……？"
+    "这扇门通往我们该去准备的私人房间。{w}\n但我们不会有很多准备时间，所以很快就会开打。{w}\n我能在战斗中使用放逐之刃吗？他们甚至知道那是什么吗……？"
 
 # game/script.rpy:138199
 translate chinese click_map199_15_EV015_ff617598:
 
     # "This door leads to the private rooms where we're supposed to prepare.{w}\nBut we wouldn't have much time to prepare, so we'd be fighting pretty soon.{w}\nCould I use The Blade of Exodus in combat? Do they even know what it is...?"
-    "这扇门通往我们该去准备的私人房间。{w}\n但我们不会有很多准备时间，所以很快就会开打。{w}\n我能在战斗中使用流亡之刃吗？他们甚至知道那是什么吗……？"
+    "这扇门通往我们该去准备的私人房间。{w}\n但我们不会有很多准备时间，所以很快就会开打。{w}\n我能在战斗中使用放逐之刃吗？他们甚至知道那是什么吗……？"
 
 # game/script.rpy:138236
 translate chinese click_map199_16_EV016_104ebf5b:
@@ -64096,7 +64096,7 @@ translate chinese map217_3101d14e:
 translate chinese map217_7369a556:
 
     # "They raise their blades, and ready themselves to attack.{w}\nThey're still far away, but it's enough to intimidate us.{w}\nI reach for my own weapon in response, and unsheathe it."
-    "他们举起兵刃，准备进攻。{w}\n他们离得还远，但已足以让我们心生畏惧。{w}\n我伸手握住自己的武器作为回应，将它拔出。"
+    "他们举起兵剑，准备进攻。{w}\n他们离得还远，但已足以让我们心生畏惧。{w}\n我伸手握住自己的武器作为回应，将它拔出。"
 
 # game/script.rpy:142120
 translate chinese map217_5a51d15c:
@@ -64150,7 +64150,7 @@ translate chinese map217_eba06cad:
 translate chinese map217_7369a556_1:
 
     # "They raise their blades, and ready themselves to attack.{w}\nThey're still far away, but it's enough to intimidate us.{w}\nI reach for my own weapon in response, and unsheathe it."
-    "他们举起兵刃，准备进攻。{w}\n他们离得还远，但已足以让我们心生畏惧。{w}\n我伸手握住自己的武器作为回应，将它拔出。"
+    "他们举起兵剑，准备进攻。{w}\n他们离得还远，但已足以让我们心生畏惧。{w}\n我伸手握住自己的武器作为回应，将它拔出。"
 
 # game/script.rpy:142247
 translate chinese map217_a1033199:
@@ -64162,7 +64162,7 @@ translate chinese map217_a1033199:
 translate chinese map217_4119c447:
 
     # "Gripping the blade tightly, I try and figure out how to “activate” it.{w}\nAs if sensing my instinct, the gear on the base starts to spin fervently.{w}\nI raise it up in the air, and demand that the blade assist us in battle."
-    "我紧紧握住剑刃，试图弄明白该如何“激活”它。{w}\n仿佛感应到我的意念，剑柄底部的齿轮开始疯狂转动。{w}\n我将它高举空中，命令剑刃在战斗中助我们一臂之力。"
+    "我紧紧握住剑，试图弄明白该如何“激活”它。{w}\n仿佛感应到我的意念，剑柄底部的齿轮开始疯狂转动。{w}\n我将它高举空中，命令剑在战斗中助我们一臂之力。"
 
 # game/script.rpy:142263
 translate chinese map217_c31fa549:
@@ -64186,13 +64186,13 @@ translate chinese map217_59ff68ef:
 translate chinese map217_fe117545:
 
     # "And that gap is exactly where Vivien now stands.{w}\nWith my comrades also blinded, it might just be up to me.{w}\nI grip the blade, and watch Vivien panic in his sight-robbed state."
-    "而那个缺口正是薇薇安此刻站立的位置。{w}\n我的战友们也同样失明，或许只能靠我了。{w}\n我握紧剑刃，看着薇薇安在失去视线的状态下惊慌失措。"
+    "而那个缺口正是薇薇安此刻站立的位置。{w}\n我的战友们也同样失明，或许只能靠我了。{w}\n我握紧剑，看着薇薇安在失去视线的状态下惊慌失措。"
 
 # game/script.rpy:142284
 translate chinese map217_4b4e8728:
 
     # "And that gap is exactly where Draycu now stands.\nWith my comrades also blinded, it might just be up to me.{w}\nI grip the blade, and watch Draycu panic in his sight-robbed state."
-    "而那个缺口正是德雷库此刻站立的位置。\n我的战友们也同样失明，或许只能靠我了。{w}\n我握紧剑刃，看着德雷库在失去视线的状态下惊慌失措。"
+    "而那个缺口正是德雷库此刻站立的位置。\n我的战友们也同样失明，或许只能靠我了。{w}\n我握紧剑，看着德雷库在失去视线的状态下惊慌失措。"
 
 # game/script.rpy:142288
 translate chinese map217_81dde7fe:
@@ -64210,7 +64210,7 @@ translate chinese map217_19ebc04f:
 translate chinese map217_35c27376:
 
     # "I grab my blade, and guide my body to a battle-ready stance.{w}\nThis is it. I was about to decide the fate of Alarinthia.{w}\nIt would be over, without the death of my comrades."
-    "我握紧剑刃，把身体摆成随时应战的姿势。{w}\n就是现在。我即将决定阿拉林西亚的命运。{w}\n一切都会结束，而不必让我的战友们死去。"
+    "我握紧剑，把身体摆成随时应战的姿势。{w}\n就是现在。我即将决定阿拉林西亚的命运。{w}\n一切都会结束，而不必让我的战友们死去。"
 
 # game/script.rpy:142298
 translate chinese map217_30b27256:
@@ -64228,7 +64228,7 @@ translate chinese map217_360a6797:
 translate chinese map217_dc5a07a8:
 
     # "I prepare to sheathe my blade, but then — everything changes.{w}\nI feel a grip on my shoulder, preventing me from moving at all.{w}\nTurning to face the source of the intrusion, I tremble in fright."
-    "我准备收回剑刃，但就在这时——一切都变了。{w}\n我感觉到一只手抓住我的肩膀，让我完全动弹不得。{w}\n我转身面对这突如其来的打扰，恐惧得发抖。"
+    "我准备收回剑，但就在这时——一切都变了。{w}\n我感觉到一只手抓住我的肩膀，让我完全动弹不得。{w}\n我转身面对这突如其来的打扰，恐惧得发抖。"
 
 # game/script.rpy:142308
 translate chinese map217_85e8d73e:
@@ -64252,7 +64252,7 @@ translate chinese map217_878f90a6:
 translate chinese map217_625fb0f6:
 
     # "The grip on my shoulder tightens, into something more crushing.{w}\nHis aggression is clear, and for the first time, I'm frightened by him.{w}\nHe holds up his blade, and re-positions his hand, to use the base as a weapon."
-    "抓住我肩膀的手收紧了，变得更像是一种碾压。{w}\n他的敌意显而易见，我第一次对他感到恐惧。{w}\n他举起剑刃，调整握法，要将剑柄当作武器。"
+    "抓住我肩膀的手收紧了，变得更像是一种碾压。{w}\n他的敌意显而易见，我第一次对他感到恐惧。{w}\n他举起剑，调整握法，要将剑柄当作武器。"
 
 # game/script.rpy:142358
 translate chinese map217_1228ea34:
@@ -64270,7 +64270,7 @@ translate chinese map217_976caaf9:
 translate chinese map217_04a93603:
 
     # "He holds a dagger out at Ulric, who holds out his blade in turn.{w}\nThe light still blinds most of the other fighters, making this a one-on-one battle.{w}\nI reach out and try to stop them, but it's no use. They immediately charge at one another."
-    "他用匕首指着乌尔里克，乌尔里克也举起了剑刃。{w}\n那道光仍让大多数其他战斗者失明，使这场战斗变成了一对一。{w}\n我伸手想阻止他们，但毫无用处。他们立刻朝彼此冲了过去。"
+    "他用匕首指着乌尔里克，乌尔里克也举起了剑。{w}\n那道光仍让大多数其他战斗者失明，使这场战斗变成了一对一。{w}\n我伸手想阻止他们，但毫无用处。他们立刻朝彼此冲了过去。"
 
 # game/script.rpy:142388
 translate chinese map218_ed81acd3:
@@ -64412,7 +64412,7 @@ translate chinese map218_f2c51962:
 translate chinese map218_394d7940:
 
     # "In response, Ulric readies his blade, and steps closer to Pro.{w}\nThere's nothing I can do anymore. I'm practically choking on my own blood.{w}\nAny weak cries I emit would be easily overtaken by the chatter of our audience."
-    "作为回应，乌尔里克举起兵刃，朝普洛逼近。{w}\n我已经无能为力了。我几乎被自己的血呛住。{w}\n我发出的任何微弱呼喊，都会被观众的喧哗轻易盖过。"
+    "作为回应，乌尔里克举起兵剑，朝普洛逼近。{w}\n我已经无能为力了。我几乎被自己的血呛住。{w}\n我发出的任何微弱呼喊，都会被观众的喧哗轻易盖过。"
 
 # game/script.rpy:142764
 translate chinese map218_d128fcc8:
@@ -65898,7 +65898,7 @@ translate chinese map223_e2c990ba:
 translate chinese map223_d4b4eb68:
 
     # "He holds up a dagger. The same one he used from the coliseum.{w}\nStabbing it through his hand, that's when the true nature of the weapon was revealed.{w}\nRather than piercing his hand, the blade sunk into the handle of the dagger. It was a fake."
-    "他举起一把匕首。正是他在竞技场用过的那把。{w}\n他把匕首刺向自己的手，武器的真实本质才显露出来。{w}\n刀刃没有刺穿他的手，而是缩进了匕首的握柄里。那是把假匕首。"
+    "他举起一把匕首。正是他在竞技场用过的那把。{w}\n他把匕首刺向自己的手，武器的真实本质才显露出来。{w}\n剑没有刺穿他的手，而是缩进了匕首的握柄里。那是把假匕首。"
 
 # game/script.rpy:146310
 translate chinese map223_cf41dd57:
@@ -65906,7 +65906,7 @@ translate chinese map223_cf41dd57:
     # voice "se/z02094.ogg"
     # char_pro "Along with some chaos, and acting, they'd believe the battle was over.\nThe chaos, of course, was the moment [firstname] used the blade.\nWe pushed you toward using it, so we could have our opportunity."
     voice "se/z02094.ogg"
-    char_pro "再加上一些混乱和演技，他们便会相信战斗已经结束。\n那场混乱，当然就是[firstname]使用刀刃的那一刻。\n我们推着你使用它，为的就是给自己创造机会。"
+    char_pro "再加上一些混乱和演技，他们便会相信战斗已经结束。\n那场混乱，当然就是[firstname]使用剑的那一刻。\n我们推着你使用它，为的就是给自己创造机会。"
 
 # game/script.rpy:146336
 translate chinese map223_b74bf324:
@@ -66122,7 +66122,7 @@ translate chinese map223_a750f91d:
 translate chinese map223_925b6b64:
 
     # "I do as instructed, and notice that we're accompanied by at least a dozen ships.{w}\nIf that was the strength of our new Alarinthian army, then I was at a loss for words.{w}\nThat fleet, combined with our own, and my blade, stood a real chance in Balteus."
-    "我依言照做，发现至少有十几艘船与我们同行。{w}\n如果这就是我们新阿拉林西亚军队的实力，那我真是无话可说了。{w}\n那支舰队，加上我们自己的船队，还有我的刀刃，在巴尔泰乌斯确实有一战之力。"
+    "我依言照做，发现至少有十几艘船与我们同行。{w}\n如果这就是我们新阿拉林西亚军队的实力，那我真是无话可说了。{w}\n那支舰队，加上我们自己的船队，还有我的剑，在巴尔泰乌斯确实有一战之力。"
 
 # game/script.rpy:146721
 translate chinese map223_20d27556:
@@ -66224,7 +66224,7 @@ translate chinese map224_8a3313bd:
     # voice "se/z02114.ogg"
     # char_sovy "Back when we attacked your HQ in Mazeo?\nMy goal was to kill your friend, and retrieve the blade.\nI failed both objectives, and The Triumvirate punished me."
     voice "se/z02114.ogg"
-    char_sovy "还记得我们袭击你们在马泽奥的总部那次吗？\n我的目标是杀了你的朋友，取回刀刃。\n我两个目标都失败了，三人执政团因此惩罚了我。"
+    char_sovy "还记得我们袭击你们在马泽奥的总部那次吗？\n我的目标是杀了你的朋友，取回剑。\n我两个目标都失败了，三人执政团因此惩罚了我。"
 
 # game/script.rpy:146950
 translate chinese map224_d4795823:
@@ -66238,7 +66238,7 @@ translate chinese map224_d4795823:
 translate chinese map224_58c44918:
 
     # "It's true. Sovy did show me mercy during our brief encounter.{w}\nHe had my life in his hands, but he chose to run away instead.{w}\nHe saw something when he touched the blade — I could tell."
-    "这是真的。在那次短暂的交锋中，索维确实对我手下留情了。{w}\n我的命就攥在他手里，可他却选择逃走。{w}\n他触碰刀刃时看到了什么——我能看出来。"
+    "这是真的。在那次短暂的交锋中，索维确实对我手下留情了。{w}\n我的命就攥在他手里，可他却选择逃走。{w}\n他触碰剑时看到了什么——我能看出来。"
 
 # game/script.rpy:146967
 translate chinese map224_b60bc87d:
@@ -66524,7 +66524,7 @@ translate chinese map224_cc80cb01:
     # voice "se/z02140.ogg"
     # char_sovy "And that's where my next piece of information comes in.\nHalin may seem just like you and I — but he's not.\nThe Triumvirate created him with that blade."
     voice "se/z02140.ogg"
-    char_sovy "而这就是我下一条情报的由来。\n哈林看起来和你我没什么两样——但他不是。\n三人执政团用那把刀刃创造了他。"
+    char_sovy "而这就是我下一条情报的由来。\n哈林看起来和你我没什么两样——但他不是。\n三人执政团用那把剑创造了他。"
 
 # game/script.rpy:147730
 translate chinese map224_c7d659a4:
@@ -66554,7 +66554,7 @@ translate chinese map224_9288fa02:
     # voice "se/z02143.ogg"
     # char_sovy "You must never let them get their hands on that blade again.\nThey aren't limited to suits of armor. They've mastered it enough to create {i}life{/i}.\nOf course, their first test was Halin. They needed someone trustworthy enough to serve them."
     voice "se/z02143.ogg"
-    char_sovy "你们绝不能让他们再次拿到那把刀刃。\n他们的造物不限于盔甲。他们已经精通到足以创造{i}生命{/i}。\n当然，他们的第一个试验品就是哈林。他们需要一个足够可靠的人来服侍他们。"
+    char_sovy "你们绝不能让他们再次拿到那把剑。\n他们的造物不限于盔甲。他们已经精通到足以创造{i}生命{/i}。\n当然，他们的第一个试验品就是哈林。他们需要一个足够可靠的人来服侍他们。"
 
 # game/script.rpy:147767
 translate chinese map224_2794820c:
@@ -66570,7 +66570,7 @@ translate chinese map224_d2f2706a:
     # voice "se/z02145.ogg"
     # char_sovy "But there's your information. I'm sure it will help you out.\nA possible weakness, and the true nature of Halin.\nWith that blade, you could even give him freedom."
     voice "se/z02145.ogg"
-    char_sovy "但这就是我给你们的情报。我相信它会帮上你们的忙。\n一个可能的弱点，以及哈林的真实本质。\n有了那把刀刃，你们甚至可以赐予他自由。"
+    char_sovy "但这就是我给你们的的情报。我相信它会帮上你们的忙。\n一个可能的弱点，以及哈林的真实本质。\n有了那把剑，你们甚至可以赐予他自由。"
 
 # game/script.rpy:147785
 translate chinese map224_e661af01:
@@ -66748,13 +66748,13 @@ translate chinese map225_af14aec7:
 translate chinese map225_9a75d0de:
 
     # "I notice a weight lift itself from my back.{w}\nThe blade disappears from my scabbard. Sovy is doing it again...!{w}\nHowever, much to my surprise — that's not what happens next."
-    "我感觉到一股压力从背上卸下。{w}\n刀刃从我的剑鞘里消失了。索维又要故技重施……！{w}\n然而，出乎我意料的是——接下来发生的并非如此。"
+    "我感觉到一股压力从背上卸下。{w}\n剑从我的剑鞘里消失了。索维又要故技重施……！{w}\n然而，出乎我意料的是——接下来发生的并非如此。"
 
 # game/script.rpy:148152
 translate chinese map225_cb4ad9e2:
 
     # "Ulric sighs, in both relief and fright, as the blade appears in his hands.{w}\nI take a few steps back, shocked. How in the world was this possible...!?"
-    "刀刃出现在乌尔里克手中，他松了口气，却又满怀惊惧。{w}\n我震惊地后退了几步。这到底怎么可能……！？"
+    "剑出现在乌尔里克手中，他松了口气，却又满怀惊惧。{w}\n我震惊地后退了几步。这到底怎么可能……！？"
 
 # game/script.rpy:148177
 translate chinese map225_d232885e:
@@ -66784,7 +66784,7 @@ translate chinese map225_f73fd33a:
     # voice "se/z02160.ogg"
     # char_sovy "I never said I was intending to hurt you.\nThis is merely information that might help you in Balteus.\nUlric has inside knowledge, [firstname] — and he can wield the blade."
     voice "se/z02160.ogg"
-    char_sovy "我从没说过我打算伤害你。\n这只是一条或许能在巴尔泰乌斯帮到你们的情报。\n乌尔里克掌握着内部情报，[firstname]——而且他能使用刀刃。"
+    char_sovy "我从没说过我打算伤害你。\n这只是一条或许能在巴尔泰乌斯帮到你们的情报。\n乌尔里克掌握着内部情报，[firstname]——而且他能使用剑。"
 
 # game/script.rpy:148247
 translate chinese map225_f8065df3:
@@ -66830,7 +66830,7 @@ translate chinese map225_d1a5d2b4:
 translate chinese map225_c44c90ae:
 
     # "Ulric passes the blade back to me, and I place it in the scabbard.{w}\nPro looks worried. Perhaps his secret was worse than Ulric's...?"
-    "乌尔里克把刀刃递还给我，我将其插回剑鞘。{w}\n普洛看起来很担忧。也许他的秘密比乌尔里克的更糟糕……？"
+    "乌尔里克把剑递还给我，我将其插回剑鞘。{w}\n普洛看起来很担忧。也许他的秘密比乌尔里克的更糟糕……？"
 
 # game/script.rpy:148330
 translate chinese map225_b05859e1:
@@ -68296,7 +68296,7 @@ translate chinese map151_5fa5f3b8:
 translate chinese map151_4be77f10:
 
     # char_damek "Damek: z01605\nShould we continue the rest on the ship?\nThere's sitll a few people you need to meet.\nAfter that, we're in for a long, boring trip."
-    char_damek "剩下的要不要到船上再说？\n还有几个人你得见一见。\n之后，我们就要踏上漫长又无聊的旅程了。"
+    char_damek "Damek: z01605\n剩下的要不要到船上再说？\n还有几个人你得见一见。\n之后，我们就要踏上漫长又无聊的旅程了。"
 
 # game/script.rpy:151529
 translate chinese map151_fcd219b2_1:
@@ -68672,7 +68672,7 @@ translate chinese map152_34c4b16a:
 translate chinese map152_da4d7a85:
 
     # "I nod, dismissing them. It's good to see that things went well.{w}\nHonestly, creating Seers could've gone horribly wrong, horribly fast.{w}\nTo know that I used the blade effectively gave me great pleasure."
-    "我点点头，让他们退下。很高兴事情进展顺利。{w}\n老实说，创造先知可能会以可怕的方式迅速失控。{w}\n知道自己有效地使用了刀刃，让我感到极大的满足。"
+    "我点点头，让他们退下。很高兴事情进展顺利。{w}\n老实说，创造先知可能会以可怕的方式迅速失控。{w}\n知道自己有效地使用了剑，让我感到极大的满足。"
 
 # game/script.rpy:152278
 translate chinese map152_c56f9929:
@@ -68714,7 +68714,7 @@ translate chinese map152_c5b320e8:
 translate chinese map152_bd118556:
 
     # "I nod, dismissing them. It's good to see that things went well.{w}\nHonestly, creating Monarch vessels could've gone horribly wrong, and fast.{w}\nTo know that I used the blade effectively gave me great pleasure."
-    "我点点头，让他们退下。很高兴事情进展顺利。{w}\n老实说，创造君主容器可能会以可怕的方式迅速失控。{w}\n知道自己有效地使用了刀刃，让我感到极大的满足。"
+    "我点点头，让他们退下。很高兴事情进展顺利。{w}\n老实说，创造君主容器可能会以可怕的方式迅速失控。{w}\n知道自己有效地使用了剑，让我感到极大的满足。"
 
 # game/script.rpy:152345
 translate chinese map152_c195c2f6:
@@ -73134,7 +73134,7 @@ translate chinese map113_4cbc34e9:
 translate chinese map113_8e6c9a65:
 
     # char_sovy "He already had all the intel he needed.\nThat was the purpose of The Exodus Raid.\nThey mapped out our entire castle, Shane."
-    char_sovy "他早就拿到了所有需要的情报。\n那正是“流亡突袭”的目的。\n他们摸清了我们整座城堡的布局，肖恩。"
+    char_sovy "他早就拿到了所有需要的情报。\n那正是“放逐突袭”的目的。\n他们摸清了我们整座城堡的布局，肖恩。"
 
 # game/script.rpy:163826
 translate chinese map113_51da071d:
@@ -74840,7 +74840,7 @@ translate chinese map169_f945feb4:
 translate chinese map169_c225c204:
 
     # char_valessa "But they were killers. They broke the law. They pillaged.\nThey were part of the reason The Triumvirate launched The Occupation.\nI know what you're going to say. \"They wanted the idol\". Piracy was a cover."
-    char_valessa "但他们是杀人犯。他们违法。他们掠夺。\n他们是三人执政团发动“占领”的原因之一。\n我知道你要说什么。“他们想要灵像”。海盗只是幌子。"
+    char_valessa "但他们是杀人犯。他们违法。他们掠夺。\n他们是三人执政团发动“占领”的原因之一。\n我知道你要说什么。“他们想要偶像”。海盗只是幌子。"
 
 # game/script.rpy:166898
 translate chinese map169_48b17235:
@@ -75108,7 +75108,7 @@ translate chinese map174_c5d80862:
 translate chinese map174_35635042:
 
     # "When I first touched The Blade of Exodus, back in Valinorth.{w}\nThe series of visions ended with me getting stabbed by a man.{w}\nA man, that unfortunately, I'm now able to identify as Pro..."
-    "在我第一次触碰“流亡之刃”时，就在瓦利诺斯。{w}\n那一系列幻象以我被一个男人刺中而结束。{w}\n很不幸，现在我能认出那个男人是普洛……"
+    "在我第一次触碰“放逐之刃”时，就在瓦利诺斯。{w}\n那一系列幻象以我被一个男人刺中而结束。{w}\n很不幸，现在我能认出那个男人是普洛……"
 
 # game/script.rpy:167365
 translate chinese map174_63b20368:
@@ -76588,7 +76588,7 @@ translate chinese click_map012_9_EV009_b8a38810:
 translate chinese click_map012_9_EV009_ddb577b5:
 
     # char_valessa "Because the spirits have blessed us, right?"
-    char_valessa "因为灵祝福了我们，对吧？"
+    char_valessa "因为精灵祝福了我们，对吧？"
 
 # game/script.rpy:170558
 translate chinese click_map012_9_EV009_6d4d53c1:
@@ -76600,7 +76600,7 @@ translate chinese click_map012_9_EV009_6d4d53c1:
 translate chinese click_map012_9_EV009_997556c3:
 
     # char_jit_map008_1_0_111 "I guess that's one popular theory.\nBut to be honest, I don't buy it.\nSpirits can't change our nature."
-    char_jit_map008_1_0_111 "我猜那是流行说法之一。\n但说实话，我不信。\n灵改变不了我们的本性。"
+    char_jit_map008_1_0_111 "我猜那是流行说法之一。\n但说实话，我不信。\n精灵改变不了我们的本性。"
 
 # game/script.rpy:170575
 translate chinese click_map012_9_EV009_979f2dfe:
@@ -76766,7 +76766,7 @@ translate chinese click_map012_22_EV022_30b136cf:
 translate chinese click_map012_23_EV023_5edc7922:
 
     # "The leaves are swaying in the wind.{w}\nA few fall down, and they soar around majestically.{w}\nWe're far enough from Eastcrown that they didn't wilt.{w}\nIt's amazing how much the spirits helped out our settlement."
-    "树叶在风中摇曳。{w}\n几片飘落下来，庄严地盘旋飞舞。{w}\n我们离东冠足够远，所以它们没有枯萎。{w}\n灵对我们聚居地的帮助之大，真是不可思议。"
+    "树叶在风中摇曳。{w}\n几片飘落下来，庄严地盘旋飞舞。{w}\n我们离东冠足够远，所以它们没有枯萎。{w}\n精灵对我们的聚居地帮助之大，真是不可思议。"
 
 # game/script.rpy:171049
 translate chinese map026_ab548722:
@@ -76832,7 +76832,7 @@ translate chinese map026_ae5f5e58:
 translate chinese map026_e68d9238:
 
     # char_damek "Relieved, with a side of being terrified.\nAt least, that's how I feel about all of this.\nFinding another Spirit Idol. This changes everything."
-    char_damek "如释重负，同时又怕得要命。\n至少，我对这一切的感觉就是这样。\n又找到一尊灵像。这会改变一切。"
+    char_damek "如释重负，同时又怕得要命。\n至少，我对这一切的感觉就是这样。\n又找到一尊精灵灵像。这会改变一切。"
 
 # game/script.rpy:171218
 translate chinese map026_0dafdfe2:
@@ -77158,7 +77158,7 @@ translate chinese map021_9a4a45d8:
 translate chinese map021_f2bccefa:
 
     # char_fortaime "And look at the Spirit Idol! That's so cool!\nEven if it's not lit up, it's still beautiful."
-    char_fortaime "看那尊灵像！太酷了！\n就算它没亮起来，也依然很美。"
+    char_fortaime "看那尊精灵灵像！太酷了！\n就算它没亮起来，也依然很美。"
 
 # game/script.rpy:172065
 translate chinese map021_efcd6b53:
@@ -77238,7 +77238,7 @@ translate chinese click_map014_3_EV003_8673176f:
     # voice "se/a00058.ogg"
     # char_fortaime "I always knew that Mylus had people guard Sauleberg.\nBut I thought it was to keep the spirit idol safe.\nNow we know, it's so they don't find out it's dark."
     voice "se/a00058.ogg"
-    char_fortaime "我一直知道迈勒斯派人守卫着索尔伯格。\n但我以为那是为了保护灵像。\n现在我们知道，是为了不让人发现它已经黯淡了。"
+    char_fortaime "我一直知道迈勒斯派人守卫着索尔伯格。\n但我以为那是为了保护精灵灵像。\n现在我们知道，是为了不让人发现它已经黯淡了。"
 
 # game/script.rpy:172463
 translate chinese click_map014_3_EV003_fb6b5d49:
@@ -77362,7 +77362,7 @@ translate chinese click_map014_7_EV007_2df93be9:
 translate chinese click_map014_7_EV007_fcfe506f:
 
     # char_valessa "Anyway, isn't the spirit idol beautiful?"
-    char_valessa "总之，这灵像不美吗？"
+    char_valessa "总之，这精灵灵像不美吗？"
 
 # game/script.rpy:172675
 translate chinese click_map014_7_EV007_63658f38:
@@ -77410,7 +77410,7 @@ translate chinese click_map014_10_EV010_ceecc327:
 translate chinese click_map014_10_EV010_aabde3af:
 
     # char_valessa "I can't believe we've lost our connection with the spirits.\nThere must be some way to get it back, right...?"
-    char_valessa "真不敢相信，我们失去了与灵的联系。\n总有办法恢复的吧，对吧……？"
+    char_valessa "真不敢相信，我们失去了与精灵的联系。\n总有办法恢复的吧，对吧……？"
 
 # game/script.rpy:172749
 translate chinese click_map014_10_EV010_51e22999:
@@ -77500,7 +77500,7 @@ translate chinese click_map014_10_EV010_a8ffa70e_1:
 translate chinese click_map014_10_EV010_205ffc1b:
 
     # "We look at each other, and smile.{w}\nThere had to be a way to reconnect Valinorth with the spirits.{w}\nWe had a long journey ahead of us, and plenty of time to learn how."
-    "我们相视而笑。{w}\n一定有办法让瓦利诺斯重新与灵相连。{w}\n前路漫长，我们有充足的时间去弄清楚。"
+    "我们相视而笑。{w}\n一定有办法让瓦利诺斯重新与精灵相连。{w}\n前路漫长，我们有充足的时间去弄清楚。"
 
 # game/script.rpy:172833
 translate chinese click_map014_40_EV040_b19efcda:
@@ -77536,7 +77536,7 @@ translate chinese click_map014_70_EV070_ceecc327:
 translate chinese click_map014_70_EV070_aabde3af:
 
     # char_valessa "I can't believe we've lost our connection with the spirits.\nThere must be some way to get it back, right...?"
-    char_valessa "真不敢相信，我们失去了与灵的联系。\n总有办法恢复的吧，对吧……？"
+    char_valessa "真不敢相信，我们失去了与精灵的联系。\n总有办法恢复的吧，对吧……？"
 
 # game/script.rpy:172889
 translate chinese click_map014_70_EV070_51e22999:
@@ -77626,7 +77626,7 @@ translate chinese click_map014_70_EV070_a8ffa70e_1:
 translate chinese click_map014_70_EV070_205ffc1b:
 
     # "We look at each other, and smile.{w}\nThere had to be a way to reconnect Valinorth with the spirits.{w}\nWe had a long journey ahead of us, and plenty of time to learn how."
-    "我们相视而笑。{w}\n一定有办法让瓦利诺斯重新与灵相连。{w}\n前路漫长，我们有充足的时间去弄清楚。"
+    "我们相视而笑。{w}\n一定有办法让瓦利诺斯重新与精灵相连。{w}\n前路漫长，我们有充足的时间去弄清楚。"
 
 # game/script.rpy:173009
 translate chinese map022_d93513bb:
@@ -78358,7 +78358,7 @@ translate chinese Ulric2_map015_58_0_688be752:
 translate chinese Ulric2_map015_58_0_be0103ff:
 
     # char_ulric "About The Blade of Exodus? It's extraordinary.\nI have no idea where it came from, or the full range of its power.\nIt can repurpose life into an energy that serves the wielder."
-    char_ulric "是说出流亡之刃吗？它非同凡响。\n我不知道它从何而来，也不知道它力量的全部范围。\n它能把生命转化为供持有者驱使的能量。"
+    char_ulric "是说出放逐之刃吗？它非同凡响。\n我不知道它从何而来，也不知道它力量的全部范围。\n它能把生命转化为供持有者驱使的能量。"
 
 # game/script.rpy:174737
 translate chinese Ulric2_map015_58_0_c0eb65bb:
@@ -78494,7 +78494,7 @@ translate chinese Ulric4_map015_58_0_003e8e74:
 translate chinese Ulric4_map015_58_0_59200aa6:
 
     # char_ulric "Wait — he used The Blade of Exodus on me? That's impossible.\nThere's no way he'd be able to wield it. You're the only one.\nEven Damek nearly died the first time he touched it."
-    char_ulric "等等——他用流亡之刃对我施了法？这不可能。\n他绝不可能驾驭它。你是唯一能做到的人。\n就连达梅克第一次碰它时都差点死掉。"
+    char_ulric "等等——他用放逐之刃对我施了法？这不可能。\n他绝不可能驾驭它。你是唯一能做到的人。\n就连达梅克第一次碰它时都差点死掉。"
 
 # game/script.rpy:174917
 translate chinese Ulric4_map015_58_0_59f130b1:
@@ -78502,7 +78502,7 @@ translate chinese Ulric4_map015_58_0_59f130b1:
     # voice "se/y00463.ogg"
     # char_ulric "I'm still surprised though, he had a small vision when he did.\nPerhaps he has some spiritual energy inside of him...\nEither way — hopefully I went out in a blaze of glory."
     voice "se/y00463.ogg"
-    char_ulric "不过我还是很惊讶，他那样做时看到了一个小幻象。\n也许他体内也有某种灵力……\n不管怎样——但愿我是轰轰烈烈地死去的。"
+    char_ulric "不过我还是很惊讶，他那样做时看到了一个小幻象。\n也许他体内也有某种精灵之力……\n不管怎样——但愿我是轰轰烈烈地死去的。"
 
 # game/script.rpy:174935
 translate chinese Ulric5_map015_58_0_c5a555d4:
@@ -78522,7 +78522,7 @@ translate chinese Ulric5_map015_58_0_35021a7e:
     # voice "se/y00465.ogg"
     # char_ulric "I can understand a vision of Valinorth being attacked. But seeing me, and watching me die?\nWe've never even met. How is it possible to know what I look like, and how I act?\nI know the spirits give visions of the future, but that's so specific; and it won't happen."
     voice "se/y00465.ogg"
-    char_ulric "我能理解看到瓦利诺斯遭袭的幻象。但看到我，亲眼看着我死？\n我们甚至从未见过面。怎么可能知道我的长相和举止？\n我知道灵会赐予未来的幻象，但那也太具体了；而且它不会发生。"
+    char_ulric "我能理解看到瓦利诺斯遭袭的幻象。但看到我，亲眼看着我死？\n我们甚至从未见过面。怎么可能知道我的长相和举止？\n我知道精灵会赐予未来的幻象，但那也太具体了；而且它不会发生。"
 
 # game/script.rpy:174958
 translate chinese Ulric5_map015_58_0_006516d2:
@@ -78546,7 +78546,7 @@ translate chinese Ulric5_map015_58_0_f6d1c30f:
 translate chinese Ulric5_map015_58_0_a06b35b1:
 
     # char_ulric "There's no way he should be able to. I imagine even {i}you're{/i} having trouble.\nIt's not meant for just anybody to wield. You need an incredible spiritual connection.\nDamek might have a small one, but Sovy? A man like that has {i}no{/i} connection to the spirits."
-    char_ulric "他绝不可能做到。我猜就连{i}你{/i}驾驭起来也很吃力。\n它不是随便什么人都能用的。你需要与灵有非同寻常的联结。\n达梅克或许有一点，但索维？那样的人与灵{i}毫无{/i}联结。"
+    char_ulric "他绝不可能做到。我猜就连{i}你{/i}驾驭起来也很吃力。\n它不是随便什么人都能用的。你需要与精灵有非同寻常的联结。\n达梅克或许有一点，但索维？那样的人与精灵{i}毫无{/i}联结。"
 
 # game/script.rpy:175000
 translate chinese Ulric5_map015_58_0_140a4159:
@@ -78734,7 +78734,7 @@ translate chinese Ulric8_map015_58_0_36bf5791:
     # voice "se/y00486.ogg"
     # char_ulric "I'm sure there's been insurrections in the past. There must've been.\nBut the thing about us — is that we have The Blade of Exodus. Our victory."
     voice "se/y00486.ogg"
-    char_ulric "我相信过去一定有过起义。肯定有。\n但我们不同的一点——是我们拥有流亡之刃。我们的胜利。"
+    char_ulric "我相信过去一定有过起义。肯定有。\n但我们不同的一点——是我们拥有放逐之刃。我们的胜利。"
 
 # game/script.rpy:175278
 translate chinese Ulric8_map015_58_0_04a4d774:
@@ -78810,7 +78810,7 @@ translate chinese Ulric8_map015_58_0_3bea026a:
     # voice "se/y00495.ogg"
     # char_ulric "He's aware that The Blade of Exodus isn't a \"free victory\" card.\nThe way he approaches strategy is really something else.\nYou'll probably warm up to him. I know I did."
     voice "se/y00495.ogg"
-    char_ulric "他清楚流亡之刃不是一张“免费的胜利”牌。\n他研究战略的方式确实非同一般。\n你大概会渐渐喜欢上他。反正我是。"
+    char_ulric "他清楚放逐之刃不是一张“免费的胜利”牌。\n他研究战略的方式确实非同一般。\n你大概会渐渐喜欢上他。反正我是。"
 
 # game/script.rpy:175407
 translate chinese Ulric8_map015_58_0_e476c21d:
@@ -78998,7 +78998,7 @@ translate chinese Ulric10_map015_58_0_f1a60723:
     # voice "se/y00514.ogg"
     # char_ulric "The occupation didn't make things too much better. It's still dangerous.\nMazeo's spirit idol was also on its final days. Dim and defeated.\nAt least, that's what we thought — until very recently."
     voice "se/y00514.ogg"
-    char_ulric "占领也没让情况好多少。那里依然危险。\n马泽奥的灵像也到了最后的日子。黯淡而衰败。\n至少我们一直是这么以为的——直到最近。"
+    char_ulric "占领也没让情况好多少。那里依然危险。\n马泽奥的精灵灵像也到了最后的日子。黯淡而衰败。\n至少我们一直是这么以为的——直到最近。"
 
 # game/script.rpy:175726
 translate chinese Ulric13_map015_58_0_5f23e88a:
@@ -79010,7 +79010,7 @@ translate chinese Ulric13_map015_58_0_5f23e88a:
 translate chinese Ulric13_map015_58_0_0ec0327a:
 
     # char_ulric "Well, there's a church in Mazeo. It's supposed to be for Triumvirate worship.\nAt the altar there, rests a very dim spirit idol. We assumed it was dying.\nBut it's not even the true spirit idol. The true one rests deep underground."
-    char_ulric "嗯，马泽奥有座教堂。本该是用来供奉三人执政团的。\n那里的祭坛上摆着一尊极为黯淡的灵像。我们以为它快消亡了。\n但它根本不是真正的灵像。真正的那尊深埋在地下。"
+    char_ulric "嗯，马泽奥有座教堂。本该是用来供奉三人执政团的。\n那里的祭坛上摆着一尊极为黯淡的精灵灵像。我们以为它快消亡了。\n但它根本不是真正的精灵灵像。真正的那尊深埋在地下。"
 
 # game/script.rpy:175741
 translate chinese Ulric13_map015_58_0_83f4ce4e:
@@ -79058,7 +79058,7 @@ translate chinese Ulric12_map015_58_0_ac994b68:
     # voice "se/y00520.ogg"
     # char_ulric "If The Triumvirate did it, we have to wonder why.\nDo the spirit idols pose some threat to their rule...?\nThat's why Damek wants to try tapping into Mazeo's true idol."
     voice "se/y00520.ogg"
-    char_ulric "如果是三人执政团干的，我们就得想想为什么。\n灵像是否对他们的统治构成了某种威胁……？\n这就是达梅克想尝试汲取马泽奥那尊真灵像力量的原因。"
+    char_ulric "如果是三人执政团干的，我们就得想想为什么。\n精灵灵像是否对他们的统治构成了某种威胁……？\n这就是达梅克想尝试汲取马泽奥那尊真灵像力量的原因。"
 
 # game/script.rpy:175815
 translate chinese Ulric12_map015_58_0_c067cd8e:
@@ -79114,7 +79114,7 @@ translate chinese Ulric15_map015_58_0_8aa618dc:
 translate chinese Ulric15_map015_58_0_ac5cb89c:
 
     # char_ulric "Yeah. The elimination of piracy was just an excuse.\nI think they were searching for the spirit idol underneath Mazeo.\nBut what they wanted it for — and what they'd do with it — I have no idea."
-    char_ulric "是啊。剿灭海盗只是个借口。\n我觉得他们在寻找马泽奥地下的灵像。\n但他们要它做什么——会拿它干什么——我毫无头绪。"
+    char_ulric "是啊。剿灭海盗只是个借口。\n我觉得他们在寻找马泽奥地下的精灵灵像。\n但他们要它做什么——会拿它干什么——我毫无头绪。"
 
 # game/script.rpy:175899
 translate chinese Ulric15_map015_58_0_86d36094:
@@ -80328,7 +80328,7 @@ translate chinese TheChoice_map023_1_0_f806a435:
 translate chinese TheChoice_map023_1_0_616ef49a:
 
     # char_ulric "Now, I already told you about the spirit idol they found in Mazeo.\nDamek wants to use you, and that blade, to tap into its power.\nHe thinks it will give us more of a chance to win this war."
-    char_ulric "那么，我已经跟你说过他们在马泽奥发现的那尊灵像了。\n达梅克想利用你，还有那把剑，来汲取它的力量。\n他认为这能让我们更有机会打赢这场战争。"
+    char_ulric "那么，我已经跟你说过他们在马泽奥发现的那尊精灵灵像了。\n达梅克想利用你，还有那把剑，来汲取它的力量。\n他认为这能让我们更有机会打赢这场战争。"
 
 # game/script.rpy:178438
 translate chinese TheChoice_map023_1_0_2cd87413:
@@ -80340,7 +80340,7 @@ translate chinese TheChoice_map023_1_0_2cd87413:
 translate chinese TheChoice_map023_1_0_0663f853:
 
     # char_ulric "If you aren't already aware, a new spirit idol was found in Mazeo.\nDamek thinks we can use you, and that blade, to tap into its power.\nHe thinks it will give us more of a chance to win this war."
-    char_ulric "如果你还不知道，马泽奥发现了一尊新的灵像。\n达梅克认为我们可以利用你，还有那把剑，来汲取它的力量。\n他认为这能让我们更有机会打赢这场战争。"
+    char_ulric "如果你还不知道，马泽奥发现了一尊新的精灵灵像。\n达梅克认为我们可以利用你，还有那把剑，来汲取它的力量。\n他认为这能让我们更有机会打赢这场战争。"
 
 # game/script.rpy:178465
 translate chinese TheChoice_map023_1_0_7ab1f1fc:
@@ -80352,7 +80352,7 @@ translate chinese TheChoice_map023_1_0_7ab1f1fc:
 translate chinese TheChoice_map023_1_0_2fee8195:
 
     # char_fortaime "Wait, a {i}new{/i} spirit idol!? I didn't know that could happen.\nI thought we had all of them mapped out for a long time."
-    char_fortaime "等等，一尊{i}新的{/i}灵像！？我不知道还能这样。\n我以为所有的灵像早就都被记录在案了。"
+    char_fortaime "等等，一尊{i}新的{/i}精灵灵像！？我不知道还能这样。\n我以为所有的灵像早就都被记录在案了。"
 
 # game/script.rpy:178492
 translate chinese TheChoice_map023_1_0_71b98771:
@@ -80364,7 +80364,7 @@ translate chinese TheChoice_map023_1_0_71b98771:
 translate chinese TheChoice_map023_1_0_ba23e7ac:
 
     # char_ulric "I'll assume your studying abilities are limited in Valinorth.\nBut the occupation was just a cover for The Triumvirate's true goal.\nThey were looking for this spirit idol — so they could destroy it."
-    char_ulric "我猜你们在瓦利诺斯的学习条件有限。\n但那次占领只是三人执政团真正目的的掩护。\n他们在找这尊灵像——好摧毁它。"
+    char_ulric "我猜你们在瓦利诺斯的学习条件有限。\n但那次占领只是三人执政团真正目的的掩护。\n他们在找这尊精灵灵像——好摧毁它。"
 
 # game/script.rpy:178519
 translate chinese TheChoice_map023_1_0_b181659e:
@@ -80424,7 +80424,7 @@ translate chinese TheChoice_map023_1_0_eeadd783:
 translate chinese TheChoice_map023_1_0_806f117a:
 
     # char_valessa "So Damek wants to use this new spirit idol for power?\nIsn't that risky? Does he even know what will happen?"
-    char_valessa "所以达梅克想用这尊新的灵像来获取力量？\n那不是很冒险吗？他到底知不知道会发生什么？"
+    char_valessa "所以达梅克想用这尊新的精灵灵像来获取力量？\n那不是很冒险吗？他到底知不知道会发生什么？"
 
 # game/script.rpy:178654
 translate chinese TheChoice_map023_1_0_021d414e:
@@ -80442,7 +80442,7 @@ translate chinese TheChoice_map023_1_0_e8128180:
 translate chinese TheChoice_map023_1_0_dc2a7d4c:
 
     # "He stares directly at me. He must be talking about my power.{w}\nIt was gifted to me directly from Valinorth's now-dim spirit idol."
-    "他直直地盯着我。他一定是在说我的力量。{w}\n那是瓦利诺斯如今已黯淡的灵像直接赐予我的。"
+    "他直直地盯着我。他一定是在说我的力量。{w}\n那是瓦利诺斯如今已黯淡的精灵灵像直接赐予我的。"
 
 # game/script.rpy:178707
 translate chinese TheChoice_map023_1_0_c35856af:
@@ -82846,7 +82846,7 @@ translate chinese click_map016_56_EV056_090e4ab8:
 translate chinese click_map016_56_EV056_31844e75:
 
     # char_pro "Actually, I asked Airen about those.\nThey were used during the raid on The Triumvirate.\nYou know, the one where they stole the Blade of Exodus?"
-    char_pro "其实，我问过艾琳那些盾牌的事。\n它们是用在突袭三人执政团时留下的。\n你知道的，就是他们偷走流亡之刃那次？"
+    char_pro "其实，我问过艾琳那些盾牌的事。\n它们是用在突袭三人执政团时留下的。\n你知道的，就是他们偷走放逐之刃那次？"
 
 # game/script.rpy:182414
 translate chinese click_map016_56_EV056_21c8c635:
@@ -84176,7 +84176,7 @@ translate chinese click_map048_1_EV001_695b4efd:
 translate chinese click_map048_1_EV001_1ea91bff:
 
     # "The Triumvirate. I can tell right away.{w}\nOr at least, one of them, since I only see one cloak before me.{w}\nI start to panic, and reach for the Blade of Exodus."
-    "三人执政团。我一眼就认出来了。{w}\n或者至少是其中一位，因为我面前只有一件斗篷。{w}\n我惊慌起来，伸手去摸流亡之刃。"
+    "三人执政团。我一眼就认出来了。{w}\n或者至少是其中一位，因为我面前只有一件斗篷。{w}\n我惊慌起来，伸手去摸放逐之刃。"
 
 # game/script.rpy:185183
 translate chinese click_map048_1_EV001_e6445633:
@@ -87726,7 +87726,7 @@ translate chinese map093_d0725466:
 translate chinese map093_c0645369:
 
     # char_sovy "Yes, of course.\nThe Exodus Wielder {i}is{/i} located in Valinorth.\nI am ready to launch our attack at a moment's notice."
-    char_sovy "是的，当然。\n流亡之刃的持剑人{i}确实{/i}在瓦利诺斯。\n我随时准备发动进攻。"
+    char_sovy "是的，当然。\n放逐之刃的持剑人{i}确实{/i}在瓦利诺斯。\n我随时准备发动进攻。"
 
 # game/script.rpy:194526
 translate chinese map093_12902137:
@@ -88542,7 +88542,7 @@ translate chinese map100_bcc2cfc7:
 translate chinese map100_8e8c0247:
 
     # char_valessa "The Blade of Exodus?\nThat's a bit of a weird name, isn't it?\nDo you think that's the person who made it...?"
-    char_valessa "流亡之刃？\n这名字有点怪，不是吗？\n你觉得这是打造它的人的名字吗……？"
+    char_valessa "放逐之刃？\n这名字有点怪，不是吗？\n你觉得这是打造它的人的名字吗……？"
 
 # game/script.rpy:196433
 translate chinese map100_032e88a5:
@@ -88644,7 +88644,7 @@ translate chinese map100_e6ff3a92:
 translate chinese map100_f0b84fdd:
 
     # "As we venture to Mazeo, however, some people might stare.{w}\nBut we're in a group, so I doubt they'd try anything.{w}\nI pity the person who picked a fight with the Blade of Exodus."
-    "不过，当我们前往马泽奥时，或许会有人盯着看。{w}\n但我们结伴而行，我想他们不敢轻举妄动。{w}\n敢跟流亡之刃动手的人，我倒是要同情他了。"
+    "不过，当我们前往马泽奥时，或许会有人盯着看。{w}\n但我们结伴而行，我想他们不敢轻举妄动。{w}\n敢跟放逐之刃动手的人，我倒是要同情他了。"
 
 # game/script.rpy:196662
 translate chinese map100_9caffae2:
@@ -88740,7 +88740,7 @@ translate chinese map100_a6de41bc:
 translate chinese map100_1bfbbad9:
 
     # "I gasp for air as I grip the spot where he stabbed me.{w}\nValessa and Fortaime let out huge sighs of relief.{w}\nIn my other hand, I hold the Blade of Exodus tightly."
-    "我喘着粗气，捂住被刺中的地方。{w}\n瓦莱莎和福泰姆长长地松了一口气。{w}\n我的另一只手里，紧紧攥着流亡之刃。"
+    "我喘着粗气，捂住被刺中的地方。{w}\n瓦莱莎和福泰姆长长地松了一口气。{w}\n我的另一只手里，紧紧攥着放逐之刃。"
 
 # game/script.rpy:196889
 translate chinese map100_c4ef669b:
@@ -89090,7 +89090,7 @@ translate chinese click_map102_10_EV010_2ef14ca3:
 translate chinese click_map102_11_EV011_9a2f7286:
 
     # "This is it. This is where I grabbed The Blade of Exodus.{w}\nWhere I saw those visions, and the future to come.{w}\nAs a Seer of Valinorth, only I could wield it.{w}\nI was to be the instrument of Alestia's liberation."
-    "就是这里。我就是在这里握住了流亡之刃。{w}\n在这里，我看到了那些幻象，以及即将到来的未来。{w}\n身为瓦利诺斯的先知，只有我能执掌它。{w}\n我注定要成为解放阿莱斯提亚的利器。"
+    "就是这里。我就是在这里握住了放逐之刃。{w}\n在这里，我看到了那些幻象，以及即将到来的未来。{w}\n身为瓦利诺斯的先知，只有我能执掌它。{w}\n我注定要成为解放阿莱斯提亚的利器。"
 
 # game/script.rpy:198112
 translate chinese click_map102_107_EV107_73cd1b31:
@@ -92514,7 +92514,7 @@ translate chinese strings:
 
     # script.rpy:18595
     old "Access Howl Heart-to-Heart 4?"
-    new "开启豪尔交心 4？"
+    new "进入豪尔的心灵交流 4？"
 
     # script.rpy:18922
     old "{image=icons/651.png} \"I don't need every answer. I'm fine with just moving on.\""
@@ -92538,7 +92538,7 @@ translate chinese strings:
 
     # script.rpy:19319
     old "Reset all HTH/Loyalty Stats and Romance flags?\nWARNING: This cannot be undone."
-    new "重置所有交心/忠诚度数据和恋爱标记？\n警告：此操作无法撤销。"
+    new "重置所有心灵交流/忠诚度数据和恋爱标记？\n警告：此操作无法撤销。"
 
     # script.rpy:19377
     old "Set Debug Flag Status to? (Returns to this map after each scene)\nWARNING: Remove this debug flag before returning to the game."
@@ -92626,27 +92626,27 @@ translate chinese strings:
 
     # script.rpy:21780
     old "Access Valessa Heart-to-Heart 3?"
-    new "开启瓦莱莎交心 3？"
+    new "进入瓦莱莎的心灵交流 3？"
 
     # script.rpy:21808
     old "Access Fortaime Heart-to-Heart 4?"
-    new "开启福泰姆交心 4？"
+    new "进入福泰姆的心灵交流 4？"
 
     # script.rpy:21836
     old "Access Ulric Heart-to-Heart 3?"
-    new "开启乌尔里克交心 3？"
+    new "进入乌尔里克的心灵交流 3？"
 
     # script.rpy:21864
     old "Access Pro Heart-to-Heart 3?"
-    new "开启普洛交心 3？"
+    new "进入普洛的心灵交流 3？"
 
     # script.rpy:21892
     old "Access Damek Heart-to-Heart 3?"
-    new "开启达梅克交心 3？"
+    new "进入达梅克的心灵交流 3？"
 
     # script.rpy:21920
     old "Access Howl Heart-to-Heart 2?"
-    new "开启豪尔交心 2？"
+    new "进入豪尔的心灵交流 2？"
 
     # script.rpy:23260
     old "Travel to which area of Mazeo?"
@@ -92966,11 +92966,11 @@ translate chinese strings:
 
     # script.rpy:33762
     old "{image=icons/651.png} \"Did they make The Blade of Exodus?\""
-    new "{image=icons/651.png} “流亡之刃是他们打造的吗？”"
+    new "{image=icons/651.png} “放逐之刃是他们打造的吗？”"
 
     # script.rpy:33762
     old "{image=icons/651.png} \"Will The Blade of Exodus be enough to kill them?\""
-    new "{image=icons/651.png} “流亡之刃足以杀死他们吗？”"
+    new "{image=icons/651.png} “放逐之刃足以杀死他们吗？”"
 
     # script.rpy:33921
     old "{image=icons/651.png} \"Tell me what you think about Valessa.\""
@@ -93010,11 +93010,11 @@ translate chinese strings:
 
     # script.rpy:34208
     old "Access Fortaime Heart-to-Heart 2?"
-    new "开启福泰姆交心 2？"
+    new "进入福泰姆的心灵交流 2？"
 
     # script.rpy:34588
     old "Access Sovy Heart-to-Heart 2?"
-    new "开启索维交心 2？"
+    new "进入索维的心灵交流 2？"
 
     # script.rpy:34736
     old "{image=icons/660.png} \"Of course not. They can take more than that.\""
@@ -93078,11 +93078,11 @@ translate chinese strings:
 
     # script.rpy:37188
     old "Access Pro Heart-to-Heart 1?"
-    new "开启普洛交心 1？"
+    new "进入普洛的心灵交流 1？"
 
     # script.rpy:37216
     old "Access Ulric Heart-to-Heart 1?"
-    new "开启乌尔里克交心 1？"
+    new "进入乌尔里克的心灵交流 1？"
 
     # script.rpy:37648
     old "{image=icons/653.png} \"You can't just go through people's mail, Pro!\""
@@ -93182,7 +93182,7 @@ translate chinese strings:
 
     # script.rpy:46431
     old "Access Damek Heart-to-Heart 1?"
-    new "开启达梅克交心 1？"
+    new "进入达梅克的心灵交流 1？"
 
     # script.rpy:46675
     old "{image=icons/660.png} \"Of course I can, Damek.\""
@@ -93258,7 +93258,7 @@ translate chinese strings:
 
     # script.rpy:48271
     old "Access Sovy Heart-to-Heart 3?"
-    new "开启索维交心 3？"
+    new "进入索维的心灵交流 3？"
 
     # script.rpy:59307
     old "{image=icons/660.png} \"Of course. Lead the way, Damek.\""
@@ -93278,7 +93278,7 @@ translate chinese strings:
 
     # script.rpy:60050
     old "Access Sovy Heart-to-Heart 4?"
-    new "开启索维交心 4？"
+    new "进入索维的心灵交流 4？"
 
     # script.rpy:60118
     old "{image=icons/651.png} \"I got a lot of practice in. I think I'm doing better.\""
@@ -93314,27 +93314,27 @@ translate chinese strings:
 
     # script.rpy:60915
     old "Access Fortaime Heart-to-Heart 3?"
-    new "开启福泰姆交心 3？"
+    new "进入福泰姆的心灵交流 3？"
 
     # script.rpy:60943
     old "Access Valessa Heart-to-Heart 2?"
-    new "开启瓦莱莎交心 2？"
+    new "进入瓦莱莎的心灵交流 2？"
 
     # script.rpy:60971
     old "Access Ulric Heart-to-Heart 2?"
-    new "开启乌尔里克交心 2？"
+    new "进入乌尔里克的心灵交流 2？"
 
     # script.rpy:60999
     old "Access Pro Heart-to-Heart 2?"
-    new "开启普洛交心 2？"
+    new "进入普洛的心灵交流 2？"
 
     # script.rpy:61027
     old "Access Damek Heart-to-Heart 2?"
-    new "开启达梅克交心 2？"
+    new "进入达梅克的心灵交流 2？"
 
     # script.rpy:61056
     old "Access Howl Heart-to-Heart 1?"
-    new "开启豪尔交心 1？"
+    new "进入豪尔的心灵交流 1？"
 
     # script.rpy:61681
     old "{image=icons/580.png} \"Yeah, and we're going to set them free.\""
@@ -93930,7 +93930,7 @@ translate chinese strings:
 
     # script.rpy:121005
     old "{image=icons/651.png} [[Remove the spirits to empower the blade.]"
-    new "{image=icons/651.png} [[取出灵以强化剑刃。]"
+    new "{image=icons/651.png} [[取出灵以强化剑。]"
 
     # script.rpy:121005
     old "{image=icons/651.png} [[Leave Howl as he is. He's too valuable.]"
@@ -94930,7 +94930,7 @@ translate chinese strings:
 
     # script.rpy:181225
     old "{image=icons/651.png} \"Were you part of the Exodus raid?\""
-    new "{image=icons/651.png} “你参与过流亡突袭吗？”"
+    new "{image=icons/651.png} “你参与过放逐突袭吗？”"
 
     # script.rpy:181340
     old "{image=icons/651.png} \"Can I trust him to protect us?\""
@@ -95330,7 +95330,7 @@ translate chinese strings:
 
     # script.rpy:193598
     old "Access Sovy Heart-to-Heart 1?"
-    new "开启索维交心 1？"
+    new "进入索维的谈心 1？"
 
     # script.rpy:193699
     old "There's buckets lined up right beside the faucets.{w}\nIn my haste, I didn't even drink, or eat breakfast.{w}\nShould I wait until I'm free to drink, or...?"
@@ -95454,7 +95454,7 @@ translate chinese strings:
 
     # script.rpy:196922
     old "{image=icons/651.png} \"The blade. It gave me visions.\""
-    new "{image=icons/651.png} “那把剑刃。它让我看到了幻象。”"
+    new "{image=icons/651.png} “那把剑。它让我看到了幻象。”"
 
     # script.rpy:197020
     old "{image=icons/651.png} \"I'll be fine. Don't worry.\""
@@ -95462,11 +95462,11 @@ translate chinese strings:
 
     # script.rpy:197196
     old "{image=icons/651.png} [[Prepare the blade for left handed access.]"
-    new "{image=icons/651.png} [[把剑刃调整为左手取用。]"
+    new "{image=icons/651.png} [[把剑调整为左手取用。]"
 
     # script.rpy:197196
     old "{image=icons/651.png} [[Prepare the blade for right handed access.]"
-    new "{image=icons/651.png} [[把剑刃调整为右手取用。]"
+    new "{image=icons/651.png} [[把剑调整为右手取用。]"
 
     # script.rpy:197411
     old "{image=icons/660.png} \"Yeah, it was a piece of cake.\""
@@ -95502,7 +95502,7 @@ translate chinese strings:
 
     # script.rpy:202829
     old "{image=icons/651.png} \"Don't other nations handle fine without spirits?\""
-    new "{image=icons/651.png} “其他国家没有灵的庇佑不也过得好好的吗？”"
+    new "{image=icons/651.png} “其他国家没有精灵不也过得好好的吗？”"
 
     # script.rpy:202829
     old "{image=icons/651.png} \"No need to act cool with me. You can be open.\""
@@ -95562,7 +95562,7 @@ translate chinese strings:
 
     # script.rpy:203398
     old "{image=icons/651.png} \"What do you think about this blade?\""
-    new "{image=icons/651.png} “你觉得这把剑刃怎么样？”"
+    new "{image=icons/651.png} “你觉得这把剑怎么样？”"
 
     # script.rpy:203426
     old "{image=icons/651.png} \"I think they wanted their sword back.\""
@@ -95582,7 +95582,7 @@ translate chinese strings:
 
     # script.rpy:203449
     old "{image=icons/651.png} \"Maybe the blade is just that important.\""
-    new "{image=icons/651.png} “也许这把剑刃就是那么重要。”"
+    new "{image=icons/651.png} “也许这把剑就是那么重要。”"
 
     # script.rpy:203565
     old "{image=icons/651.png} \"Yeah, we'll unite and take them down.\""
@@ -95606,7 +95606,7 @@ translate chinese strings:
 
     # script.rpy:203735
     old "{image=icons/651.png} \"It's more than a blade. It just looks like one.\""
-    new "{image=icons/651.png} “它不只是剑刃。它只是看起来像而已。”"
+    new "{image=icons/651.png} “它不只是剑。它只是看起来像而已。”"
 
     # script.rpy:203735
     old "{image=icons/651.png} \"Their lackey took down our entire village with it.\""

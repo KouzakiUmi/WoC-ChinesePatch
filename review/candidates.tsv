@@ -1,0 +1,92 @@
+# severity	rule	kind	chunk	seq	speaker	source	target	note
+high	key-leak	dialogue	dialogue_0020.tsv	7896	char_damek	Damek: z01605\nShould we continue the rest on the ship?\nThere's sitll a few people you need to meet.\nAfter that, we're in for a long, boring trip.	Damek: z01605\n剩下的要不要到船上再说？\n还有几个人你得见一见。\n之后，我们就要踏上漫长又无聊的旅程了。	译文里混入了内部键号或英文角色名
+term	term-blade	dialogue	dialogue_0001.tsv	100		To break the deadlock, Ulric kicks his opponent in the gut.{w}\nThey stumble back, and ready their blade with a flourish.{w}\nIt isn't much longer until they charge toward him again.	为了打破僵局，乌尔里克一脚踹在对手的腹部。{w}\n那人踉跄着后退，炫技般重新举起兵器。{w}\n没过多久，他们又朝他冲了过来。	术语 blade 应为「剑」
+term	term-blade	dialogue	dialogue_0007.tsv	2702	char_sovy	The most important thing on my mind, is \"why\"...?\nWhy did you welcome me with open arms after what I did?\nI feel like anybody with common sense would've put me to the blade.	我心中最重要的问题，就是“为什么”……？\n在我做了那些事之后，你为什么还张开双臂欢迎我？\n我觉得任何有点常识的人都会把我处死。	术语 blade 应为「剑」
+term	term-blades	dialogue	dialogue_0026.tsv	10202	char_mylus	We might be a bit behind, but we'll meet in Mazeo.\nThere's lots to plan, and little time to plan it.\nWe'll need new homes, and blades for any volunteers.	我们或许会落后一些，但会在马泽奥会合。\n要筹划的事很多，时间却很少。\n我们需要新家园，还要为志愿者备好兵器。	术语 blades 应为「剑」
+term	term-exodus	dialogue	dialogue_0026.tsv	10020	char_fortaime	Or maybe it's a title for whoever wields it.\nYou know, something like Seer or Seeress.\nWhat about it...? Should we call you Exodus?	或者是持有者的称号。\n你知道的，就像先知那样的名号。\n怎么样……？要不我们叫你“流亡”？	术语 Exodus 应为「放逐」
+term	term-exodus	dialogue	dialogue_0026.tsv	10023	char_valessa	Yeah, especially if The Triumvirate wants it back.\nWalking around as Exodus would put a huge target on us.\nThat's not something we can afford if we want to blend in.	是啊，尤其三人执政团还想把它夺回去。\n顶着“流亡”的名号到处走，会让我们成为活靶子。\n想融入人群，我们可负担不起这个。	术语 Exodus 应为「放逐」
+term	term-sword	dialogue	dialogue_0023.tsv	9027	char_ulric	Obviously I'm a little older. I wasn't a victim of The Occupation.\nWhen it happened, I was just arriving in Mazeo to sell my sword arm.\nI moved here from Alarinthia as soon as I had the chance.	显然我年纪大一些。我不是占领的受害者。\n那件事发生时，我刚抵达马泽奥，准备当佣兵卖命。\n一有机会我就从阿拉林西亚搬到了这里。	术语 sword 应为「剑」
+low	ascii-residue	dialogue	dialogue_0020.tsv	7896	char_damek	Damek: z01605\nShould we continue the rest on the ship?\nThere's sitll a few people you need to meet.\nAfter that, we're in for a long, boring trip.	Damek: z01605\n剩下的要不要到船上再说？\n还有几个人你得见一见。\n之后，我们就要踏上漫长又无聊的旅程了。	残留英文单词: Damek
+low	ascii-residue	strings	strings_0003.tsv	926		Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]	使用 {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only] 制作。\n\n[renpy.license!t]	残留英文单词: Ren
+low	ascii-residue	strings	strings_0003.tsv	966		Escape	Escape	残留英文单词: Escape
+low	ascii-residue	strings	strings_0003.tsv	968		Ctrl	Ctrl	残留英文单词: Ctrl
+low	ascii-residue	strings	strings_0003.tsv	970		Tab	Tab	残留英文单词: Tab
+low	ascii-residue	strings	strings_0003.tsv	972		Page Up	Page Up	残留英文单词: Page
+low	ascii-residue	strings	strings_0003.tsv	974		Page Down	Page Down	残留英文单词: Down,Page
+low	ascii-residue	strings	strings_0003.tsv	994		Winds of Change	Winds of Change	残留英文单词: Change,Winds
+low	ascii-residue	strings	strings_0003.tsv	995		Story and game by Klace\nArt by Feyvaras and Chase Emilio\nMusic by Fox Amoore and Joel Steudler\nRen'Py programming by cyanic	故事与游戏：Klace\n美术：Feyvaras 和 Chase Emilio\n音乐：Fox Amoore 和 Joel Steudler\nRen'Py 编程：cyanic	残留英文单词: Amoore,Chase,Emilio,Feyvaras
+low	ascii-residue	strings	strings_0003.tsv	1051		(statement)	(statement)	残留英文单词: statement
+low	ascii-residue	strings	strings_0003.tsv	1052		(tag)	(tag)	残留英文单词: tag
+low	ascii-residue	strings	strings_0003.tsv	1053		(attributes)	(attributes)	残留英文单词: attributes
+low	ascii-residue	strings	strings_0003.tsv	1054		(transform)	(transform)	残留英文单词: transform
+low	ascii-residue	strings	strings_0003.tsv	1055		(transition)	(transition)	残留英文单词: transition
+low	ascii-residue	strings	strings_0003.tsv	1056		(channel)	(channel)	残留英文单词: channel
+low	ascii-residue	strings	strings_0003.tsv	1057		(filename)	(filename)	残留英文单词: filename
+low	ascii-residue	strings	strings_0003.tsv	1095		This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}.	本程序包含多种许可协议下的自由软件，包括 MIT 许可证和 GNU 宽通用公共许可证。完整的软件列表（含完整源代码链接）可在{a=https://www.renpy.org/l/license}此处{/a}找到。	残留英文单词: GNU,MIT
+low	ascii-residue	strings	strings_0003.tsv	1132		Clipboard voicing enabled. Press 'shift+C' to disable.	剪贴板朗读已启用。按 'shift+C' 禁用。	残留英文单词: shift
+low	ascii-residue	strings	strings_0003.tsv	1133		Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable.	自朗读会读出“[renpy.display.tts.last]”。按 'alt+shift+V' 禁用。	残留英文单词: alt,shift
+low	ascii-residue	strings	strings_0003.tsv	1137		Reload Game (Shift+R)	重新加载游戏 (Shift+R)	残留英文单词: Shift
+low	ascii-residue	strings	strings_0003.tsv	1138		Console (Shift+O)	控制台 (Shift+O)	残留英文单词: Shift
+low	ascii-residue	strings	strings_0003.tsv	1151		Right-click or escape to quit.	右键点击或按 Esc 退出。	残留英文单词: Esc
+low	ascii-residue	strings	strings_0003.tsv	1165		displayable:	displayable：	残留英文单词: displayable
+low	ascii-residue	strings	strings_0003.tsv	1168		<repr() failed>	<repr() failed>	残留英文单词: failed,repr
+low	ascii-residue	strings	strings_0003.tsv	1174		The Ren'Py Updater is not supported on mobile devices.	Ren'Py 更新程序不支持移动设备。	残留英文单词: Ren
+low	ascii-residue	strings	strings_0004.tsv	1203		Force Angle/DirectX Renderer	强制使用 Angle/DirectX 渲染器	残留英文单词: Angle,DirectX
+low	ascii-residue	strings	strings_0004.tsv	1204		Force OpenGL Renderer	强制使用 OpenGL 渲染器	残留英文单词: OpenGL
+low	ascii-residue	strings	strings_0004.tsv	1206		NPOT	NPOT	残留英文单词: NPOT
+low	ascii-residue	strings	strings_0004.tsv	1220		Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem.	其显卡驱动可能已过时或无法正常运行。这可能导致图形显示缓慢或不正确。更新 DirectX 或许能解决此问题。	残留英文单词: DirectX
+low	ascii-residue	strings	strings_0004.tsv	1222		Update DirectX	更新 DirectX	残留英文单词: DirectX
+low	ascii-residue	strings	strings_0004.tsv	1225		Updating DirectX.	正在更新 DirectX。	残留英文单词: DirectX
+low	ascii-residue	strings	strings_0004.tsv	1226		DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX.	DirectX 网页安装程序已启动。它可能会在任务栏中最小化启动。请按提示安装 DirectX。	残留英文单词: DirectX
+low	ascii-residue	strings	strings_0004.tsv	1227		{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box.	{b}注意：{/b}微软的 DirectX 网页安装程序默认会安装必应工具栏。如果您不想要此工具栏，请取消勾选相应的复选框。	残留英文单词: DirectX
+low	ascii-residue	strings	strings_0004.tsv	1237		Opens the traceback.txt file in a text editor.	在文本编辑器中打开 traceback.txt 文件。	残留英文单词: traceback,txt
+low	ascii-residue	strings	strings_0004.tsv	1239		Copies the traceback.txt file to the clipboard.	将 traceback.txt 文件复制到剪贴板。	残留英文单词: traceback,txt
+low	ascii-residue	strings	strings_0004.tsv	1252		Opens the errors.txt file in a text editor.	在文本编辑器中打开 errors.txt 文件。	残留英文单词: errors,txt
+low	ascii-residue	strings	strings_0004.tsv	1253		Copies the errors.txt file to the clipboard.	将 errors.txt 文件复制到剪贴板。	残留英文单词: errors,txt
+low	halfwidth-punct	dialogue	dialogue_0020.tsv	7896	char_damek	Damek: z01605\nShould we continue the rest on the ship?\nThere's sitll a few people you need to meet.\nAfter that, we're in for a long, boring trip.	Damek: z01605\n剩下的要不要到船上再说？\n还有几个人你得见一见。\n之后，我们就要踏上漫长又无聊的旅程了。	中文里出现半角 , ; : ! ?
+low	halfwidth-punct	strings	strings_0003.tsv	930		{#file_time}%A, %B %d %Y, %H:%M	{#file_time}%Y年%m月%d日 %H:%M	中文里出现半角 , ; : ! ?
+low	halfwidth-punct	strings	strings_0003.tsv	1034		%b %d, %H:%M	%m月%d日 %H:%M	中文里出现半角 , ; : ! ?
+low	length-ratio	dialogue	dialogue_0026.tsv	10147	char_valessa	{w=1.0}.{w=1.0}.{w=1.0}.{w}	{w=1.0}.{w=1.0}.{w=1.0}.{w}	长度比 1.00 偏离常规
+low	length-ratio	dialogue	dialogue_0026.tsv	10148	char_fortaime	{w=1.0}.{w=1.0}.{w=1.0}.{w}	{w=1.0}.{w=1.0}.{w=1.0}.{w}	长度比 1.00 偏离常规
+low	length-ratio	dialogue	dialogue_0026.tsv	10195	char_valessa	{w=1.0}.{w=1.0}.{w=1.0}.{w}	{w=1.0}.{w=1.0}.{w=1.0}.{w}	长度比 1.00 偏离常规
+low	length-ratio	dialogue	dialogue_0026.tsv	10196	char_fortaime	{w=1.0}.{w=1.0}.{w=1.0}.{w}	{w=1.0}.{w=1.0}.{w=1.0}.{w}	长度比 1.00 偏离常规
+low	length-ratio	strings	strings_0001.tsv	124		{image=icons/651.png} Yes	{image=icons/651.png} 是	长度比 0.92 偏离常规
+low	length-ratio	strings	strings_0001.tsv	125		{image=icons/651.png} No	{image=icons/651.png} 否	长度比 0.96 偏离常规
+low	length-ratio	strings	strings_0001.tsv	155		{image=icons/651.png} [[Yes]	{image=icons/651.png} [[是]	长度比 0.93 偏离常规
+low	length-ratio	strings	strings_0001.tsv	156		{image=icons/651.png} [[No]	{image=icons/651.png} [[否]	长度比 0.96 偏离常规
+low	length-ratio	strings	strings_0001.tsv	164		{image=icons/651.png} City	{image=icons/651.png} 城区	长度比 0.92 偏离常规
+low	length-ratio	strings	strings_0002.tsv	561		{image=icons/651.png} [[Back]	{image=icons/651.png} [[返回]	长度比 0.93 偏离常规
+low	length-ratio	strings	strings_0003.tsv	926		Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]	使用 {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only] 制作。\n\n[renpy.license!t]	长度比 0.96 偏离常规
+low	length-ratio	strings	strings_0003.tsv	1196		Image [index] of [count] locked.	第 [index] 张图像（共 [count] 张）已锁定。	长度比 0.94 偏离常规
+low	repeated-char	dialogue	dialogue_0003.tsv	897		He's almost cryptically telling me what I already know.{w}\nI know that the blade deals with the spirits of its victims.{w}\nThe Triumvirate used it to create their own massive army.	他几乎是在隐晦地告诉我我早已知道的事。{w}\n我知道那把剑会摆布受害者的灵。{w}\n三人执政团曾用它制造出他们自己的庞大军队。	可能重复用字: 我我
+low	repeated-char	dialogue	dialogue_0007.tsv	2485	char_pro	Yeah, but it's not just Alarinthia, Valessa.\nYou could say that about this entire war in general.\nSometimes it's better to look at people as \"means to an end\".	是啊，但不止是阿拉林西亚，瓦莱莎。\n整场战争都可以这么说。\n有时候，把别人看作“达到目的的手段”会更好。	可能重复用字: 的的
+low	repeated-char	dialogue	dialogue_0009.tsv	3309		I laugh softly, and tell him he's not dead.{w}\nBut he seems to have me confused with Salus.	我轻轻笑了笑，告诉他他没死。{w}\n但他似乎把我错认成了萨鲁斯。	可能重复用字: 他他
+low	repeated-char	dialogue	dialogue_0012.tsv	4665		After a few hours of waiting, I almost can't handle it anymore.{w}\nIt's impossible for me to rest when my friends could be in danger.{w}\nMaking my way to the exit, I cross my fingers, hoping that things are okay.	等了几个小时后，我几乎再也受不了了。{w}\n朋友们可能身陷险境，我根本无法休息。{w}\n我朝出口走去，暗暗祈祷一切平安。	可能重复用字: 了了
+low	repeated-char	dialogue	dialogue_0013.tsv	4828	char_valessa	Maybe not. We're here for a reason, remember?\nLet's find the owner, and see what they can tell us.	还是别了。我们来这儿是有目的的，还记得吗？\n先找到这里的主人，看看他能告诉我们什么。	可能重复用字: 的的
+low	repeated-char	dialogue	dialogue_0016.tsv	6268		I tell him that he can. He just needs to be brave enough.{w}\nThere may not be any music here, but I hold out my hands.{w}\nI ask him if he's willing to try. Just once, before the end of it all.	我告诉他他可以。他只需要鼓起勇气。{w}\n这里也许没有音乐，但我伸出了双手。{w}\n我问他是否愿意试一试。就在一切结束之前，试一次。	可能重复用字: 他他
+low	repeated-char	dialogue	dialogue_0016.tsv	6359	char_sovy	Better than The Triumvirate. Better than The Monarchy.\nYou're the only person that's ever treated me like I mattered.\nI'm not a slave to you. I'm not just some \"means to an end\".	比三人执政团更好。比王权更好。\n你是唯一一个把我当回事的人。\n我不是你的奴隶。我不只是个“达成目的的手段”。	可能重复用字: 的的
+low	repeated-char	dialogue	dialogue_0017.tsv	6472	char_pro	Yeah, but it's not just Alarinthia, Valessa.\nYou could say that about this entire war in general.\nSometimes it's better to look at people as \"means to an end\".	是啊，但不只是阿拉林西亚，瓦莱莎。\n整场战争，你都可以这么说。\n有时候，把人当成“达成目的的手段”反而更好。	可能重复用字: 的的
+low	repeated-char	dialogue	dialogue_0019.tsv	7584	char_howl	Maybe. Means to an end, we suppose.\nThe enemy likely thinks the same way.	也许吧。我们猜，是为了达到目的的手段。\n敌人多半也是这么想的。	可能重复用字: 的的
+low	repeated-char	dialogue	dialogue_0020.tsv	7686	char_sovy	But there's your information. I'm sure it will help you out.\nA possible weakness, and the true nature of Halin.\nWith that blade, you could even give him freedom.	但这就是我给你们的的情报。我相信它会帮上你们的忙。\n一个可能的弱点，以及哈林的真实本质。\n有了那把剑，你们甚至可以赐予他自由。	可能重复用字: 的的
+low	repeated-char	dialogue	dialogue_0023.tsv	8867	char_shane	Neither of us will know true freedom.\nWe're nothing but a means to an end.\nThey'll kill you the moment you disobey.	我们俩都尝不到真正的自由。\n我们不过是达成目的的工具。\n你一违抗命令，他们就会杀了你。	可能重复用字: 的的
+low	repeated-char	dialogue	dialogue_0023.tsv	9190	char_ulric	I'll assume your studying abilities are limited in Valinorth.\nBut the occupation was just a cover for The Triumvirate's true goal.\nThey were looking for this spirit idol — so they could destroy it.	我猜你们在瓦利诺斯的学习条件有限。\n但那次占领只是三人执政团真正目的的掩护。\n他们在找这尊精灵灵像——好摧毁它。	可能重复用字: 的的
+low	repeated-char	dialogue	dialogue_0024.tsv	9571		They wave their hand forward, and I can no longer move.{w}\nLetting out a chuckle, they start walking toward me.	他们向前一挥手，我就再也动不了了。{w}\n他们轻笑一声，朝我走来。	可能重复用字: 了了
+low	repeated-char	dialogue	dialogue_0025.tsv	9816	char_valessa	Yeah, yeah, I guess you're right.\nBut we're in positions that are {i}very{/i} sacred.\nIf we don't take this seriously, we'll end up failing.	是是是，你说得对。\n可我们身处的位置{i}极其{/i}神圣。\n要是我们不认真对待，最终会搞砸。	可能重复用字: 是是
+info	engine-string	strings	strings_0003.tsv	933		{#auto_page}A	{#auto_page}A	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	934		{#quick_page}Q	{#quick_page}Q	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	966		Escape	Escape	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	968		Ctrl	Ctrl	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	970		Tab	Tab	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	972		Page Up	Page Up	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	974		Page Down	Page Down	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	994		Winds of Change	Winds of Change	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	1051		(statement)	(statement)	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	1052		(tag)	(tag)	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	1053		(attributes)	(attributes)	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	1054		(transform)	(transform)	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	1055		(transition)	(transition)	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	1056		(channel)	(channel)	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	1057		(filename)	(filename)	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	1146		[name] [attributes]	[name] [attributes]	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0003.tsv	1168		<repr() failed>	<repr() failed>	引擎内置字符串, 通常保留原文
+info	engine-string	strings	strings_0004.tsv	1206		NPOT	NPOT	引擎内置字符串, 通常保留原文

@@ -22,3 +22,7 @@ deps/renpy.lock.json
 __pycache__/
 *.pyc
 Thumbs.db
+
+# 校对工作流产物 (规则表与报告入库, 生成物不入库)
+review/sheet_*.tsv
+review/backup_chunks_*/

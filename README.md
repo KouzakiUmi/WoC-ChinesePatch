@@ -89,8 +89,30 @@ originals/game/   原版文件副本，仅本地保留，不入仓库
 3. 重跑构建脚本刷新 `payload/`、`manifest.json`；
 4. `python tools/patch_tool.py check` 体检，通过后打包发布，并同步安卓工程。
 
+## 翻译校对工作流
+
+翻译源在 `tl_work/chunks/`（只改每行最后一列），校对与统一都由 `tools/review_tool.py` 驱动：
+
+```
+python tools/review_tool.py stats                 # 翻译进度 + 预筛统计
+python tools/review_tool.py scan                  # 规则预筛 -> review/findings.md, review/candidates.tsv
+python tools/review_tool.py export                # 导出校对清单 -> review/sheet_*.tsv
+python tools/review_tool.py terms                 # 术语统一 dry-run (默认不改文件)
+python tools/review_tool.py terms --apply --build --game-root "<游戏目录>"
+python tools/review_tool.py apply --write         # 把清单里填好的 revised 列写回 chunks
+```
+
+- `scan` 的规则：内部键号/英文角色名泄漏、`{}` 标签与 `[]` 插值不一致、疑似未翻译、术语不符、半角标点、残留英文单词、重复用字、长度异常；引擎内置串（按键名、`(statement)` 之类）单列为 info。
+- 术语规则表 `review/terms.tsv`：`en / cn / variants（其他译法）/ protect（保护片段）/ mode(word|phrase) / exclude_en / note`。
+- 一次性润色表 `review/fixups.tsv`：`old / new / note`，用于术语统一后仍不通顺的固定搭配。
+- 任何写回都会先备份 chunks 到 `review/backup_chunks_<时间戳>/`。
+- 改完执行 `tl_tool.py build`（`review_tool.py --build` 会自动调用），再用 `WindsofChange.exe "<游戏目录>" compile` 重编译，最后用 `tools/patch_tool.py verify --game-dir "<游戏目录>"` 核对 payload。
+
+`tl_tool.py` 支持 `--tl-dir`（翻译源目录）和 `--game-root`（要写入 `game/tl/chinese` 的游戏根目录），因此 `tl_work` 放在独立仓库里也能正常 build。
+
 ## 变更记录
 
+- **1.1.2** 术语统一：专名 `The Blade of Exodus` 由「流亡之刃」改为「放逐之刃」（58 处）；`blade` / `sword` 的「刀／刃」统一为「剑」（249 行）。保留 `刀` 的正确用法（knife、捅刀、刀刃上、两面三刀）与「双刃剑」固定搭配。payload 重新由 `tl_work` 源构建，同时吸收了此前落后于翻译源的 72 处文本（如「交心事件」→「心灵对话」）。新增 `tools/review_tool.py` 校对工作流与 `review/` 规则表。
 - **1.1.1** 移除 `game/gui/textbox.png` 与 `game/gui/phone/textbox.png`：这是一次无效替换，两个不同尺寸的原图被写成了同一张图。`tl_work/` 改为仅本地保留、不入仓库。
 - **1.1.0** 改为备份式安装/卸载（不再分发游戏原文件）；识别引擎版本并按需跳过 `.rpyc`；新增 `check` 体检与 `deps/renpy.json` 依赖清单；`.gitattributes` 关闭换行转换。
 

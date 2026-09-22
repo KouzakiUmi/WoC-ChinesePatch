@@ -1,0 +1,569 @@
+# -*- coding: utf-8 -*-
+"""Winds of Change 中文补丁安装器 (纯标准库, Python 3.8+)
+
+用法:
+  python patch_tool.py install [--game-dir PATH] [--force]
+  python patch_tool.py uninstall [--game-dir PATH] [--force]
+  python patch_tool.py verify [--game-dir PATH]
+  python patch_tool.py backup [--game-dir PATH] [--backup-dir PATH]
+  python patch_tool.py find
+
+安装:  先把游戏内将被覆盖的原文件备份到 <游戏目录>/woc_zh_patch_backup/,
+       再复制 payload/ 中的文件; 安装状态写入 game/woc_zh_patch.json
+卸载:  modified 文件优先用备份还原 (无备份时回退到随包的 originals/),
+       new 文件删除, 并清理对应 .rpyc 与 game/cache
+备份:  不安装, 只单独执行一次原文件备份
+"""
+import argparse, hashlib, io, json, os, re, shutil, sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+STATE_NAME = "woc_zh_patch.json"
+BACKUP_DIRNAME = "woc_zh_patch_backup"
+CACHE_DIRS = ("game/cache", "game/saves/../cache")
+
+
+def _read_ver(path):
+    try:
+        return io.open(path, encoding="utf-8", errors="replace").read()
+    except Exception:
+        return ""
+
+
+def _eng(version, source, script_version=None):
+    major = int(version.split(".")[0]) if version[:1].isdigit() else 0
+    return {"version": version, "major": major,
+            "python": 3 if major >= 8 else 2,
+            "source": source, "script_version": script_version}
+
+
+def detect_engine(game):
+    """读取游戏引擎版本, 返回 dict(version, major, python, script_version) 或 None。
+
+    兼容三种布局:
+      Ren'Py 8.x  : renpy/vc_version.py 里有 version = '8.6.0.25112108'
+      Ren'Py 7.x  : renpy/__init__.py 里有 version_tuple = (7, 1, 1, vc_version)
+                    配合 renpy/vc_version.py 的 vc_version = 929 拼出 7.1.1.929
+      兜底        : 游戏根目录 log.txt 里的 'Ren'Py x.y.z' 行
+    """
+    q = chr(39) + chr(34)
+
+    def unquote(s):
+        return s.strip().lstrip("u").strip(q).strip()
+
+    def dotted(s):
+        return bool(s) and s[0].isdigit() and "." in s
+
+    vc = _read_ver(os.path.join(game, "renpy", "vc_version.py"))
+    ini = _read_ver(os.path.join(game, "renpy", "__init__.py"))
+
+    # 1) 直接写死的 version = '8.6.0.25112108'
+    for line in vc.splitlines():
+        s = line.strip()
+        if s.startswith("version") and "=" in s:
+            v = unquote(s.split("=", 1)[1])
+            if dotted(v):
+                return _eng(v, "renpy/vc_version.py")
+
+    # 2) version_tuple = (7, 1, 1, vc_version) + vc_version = 929
+    vcnum = None
+    for line in vc.splitlines():
+        s = line.strip()
+        if s.startswith("vc_version") and "=" in s:
+            t = s.split("=", 1)[1].strip()
+            if t.isdigit():
+                vcnum = t
+    sv = None
+    for line in ini.splitlines():
+        s = line.strip()
+        if s.startswith("script_version") and "=" in s:
+            t = s.split("=", 1)[1].strip()
+            if t.isdigit():
+                sv = int(t)
+        if s.startswith("version_tuple") and "(" in s and ")" in s:
+            body = s[s.index("(") + 1:s.index(")")]
+            parts = [t.strip() for t in body.split(",")]
+            nums = [t for t in parts if t.isdigit()]
+            if nums:
+                v = ".".join(nums)
+                if any(t == "vc_version" for t in parts) and vcnum:
+                    v = v + "." + vcnum
+                return _eng(v, "renpy/__init__.py", sv)
+
+    # 3) log.txt
+    p = os.path.join(game, "log.txt")
+    if os.path.isfile(p):
+        for line in _read_ver(p).splitlines():
+            if "Py " in line:
+                for tok in line.split():
+                    if dotted(tok.strip()):
+                        return _eng(tok.strip(), "log.txt", sv)
+    if sv:
+        return _eng("unknown", "renpy/__init__.py", sv)
+    return None
+
+
+def engine_label(game):
+    e = detect_engine(game)
+    if not e:
+        return "未知 (找不到 renpy 版本信息)", None
+    return "Ren'Py %s (Python %d)" % (e["version"], e["python"]), e
+
+
+def rpyc_orphans(man):
+    """列出没有配套 .rpy 的 .rpyc。
+    Ren'Py 在 rpyc 加载失败时会回退去编译同名 .rpy, 配对齐全才保证换引擎后仍能重编译。"""
+    paths = set(e["path"] for e in man["files"])
+    return sorted(c for c in paths if c.endswith(".rpyc") and c[:-1] not in paths)
+
+
+PY2_MARKS = (".iteritems(", ".itervalues(", ".iterkeys(", ".has_key(",
+             "unicode(", "basestring", "xrange(", ".decode(", "cPickle")
+
+
+def scan_py2(path):
+    """在 .rpy 的 python 块与 $ 行里找 Python 2 专有写法 (迁移 Ren'Py 8 时需处理)。"""
+    try:
+        lines = io.open(path, encoding="utf-8", errors="replace").read().splitlines()
+    except Exception:
+        return []
+    out = []
+    in_py = False
+    for i, line in enumerate(lines, 1):
+        st = line.strip()
+        if st.startswith("init python") or st.startswith("python"):
+            in_py = True
+            continue
+        if in_py:
+            if line and not line[0].isspace():
+                in_py = False
+            elif any(m in st for m in PY2_MARKS) or (st.startswith("print ") and not st.startswith("print(")):
+                out.append((i, st[:100]))
+                continue
+        if st.startswith("$ "):
+            body = st[2:]
+            if any(m in body for m in PY2_MARKS):
+                out.append((i, body[:100]))
+    return out
+
+
+def backup_dir_for(game, override=None):
+    """备份目录: 默认放在游戏根目录下, 跟随游戏安装走, 补丁包被删也能还原。"""
+    if override:
+        return os.path.abspath(override)
+    return os.path.join(game, BACKUP_DIRNAME)
+
+
+def read_state(sp):
+    try:
+        with io.open(sp, encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def backup_one(bdir, rel, src_file):
+    """把游戏里的原文件复制进备份目录, 保留相对路径。已备份过则跳过。"""
+    bp = os.path.join(bdir, rel)
+    if os.path.isfile(bp):
+        return bp, False
+    os.makedirs(os.path.dirname(bp), exist_ok=True)
+    shutil.copy2(src_file, bp)
+    return bp, True
+
+def sha256(p):
+    h = hashlib.sha256()
+    with open(p, "rb") as f:
+        for b in iter(lambda: f.read(1 << 20), b""):
+            h.update(b)
+    return h.hexdigest()
+
+def load_manifest():
+    with open(os.path.join(ROOT, "manifest.json"), encoding="utf-8") as f:
+        return json.load(f)
+
+def check_game_dir(path):
+    if not os.path.isdir(path):
+        return "目录不存在"
+    if not os.path.isfile(os.path.join(path, "WindsofChange.exe")):
+        return "找不到 WindsofChange.exe (不是游戏根目录)"
+    if not os.path.isfile(os.path.join(path, "game", "script.rpy")):
+        return "找不到 game/script.rpy"
+    return None
+
+def find_game():
+    cands = []
+    for lib in (r"C:\Program Files (x86)\Steam\steamapps", r"C:\SteamLibrary\steamapps",
+                r"D:\SteamLibrary\steamapps", r"D:\Steam\steamapps", r"E:\SteamLibrary\steamapps"):
+        vdf = os.path.join(lib, "libraryfolders.vdf")
+        roots = [lib]
+        if os.path.isfile(vdf):
+            import re
+            txt = open(vdf, encoding="utf-8", errors="ignore").read()
+            roots += re.findall(r'"path"\s+"([^"]+)"', txt)
+        for r in roots:
+            g = os.path.join(r, "steamapps" if not r.lower().endswith("steamapps") else "", "common", "winds-of-change")
+            g = os.path.normpath(g)
+            if g not in cands:
+                cands.append(g)
+    # 也检查注册表 Steam Path
+    try:
+        import winreg
+        k = winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, r"SOFTWARE\WOW6432Node\Valve\Steam")
+        sp = winreg.QueryValueEx(k, "InstallPath")[0]
+        g = os.path.join(sp, "steamapps", "common", "winds-of-change")
+        if g not in cands:
+            cands.append(g)
+    except Exception:
+        pass
+    ok = [c for c in cands if not check_game_dir(c)]
+    return ok
+
+def state_path(game):
+    return os.path.join(game, "game", STATE_NAME)
+
+def cmd_find(args):
+    ok = find_game()
+    if not ok:
+        print("未自动找到游戏目录。请用 --game-dir 指定 (游戏根目录, 含 WindsofChange.exe)。")
+        return 1
+    for g in ok:
+        print("找到:", g)
+    return 0
+
+def resolve_game(args, need_state=False):
+    if args.game_dir:
+        game = os.path.abspath(args.game_dir)
+    else:
+        ok = find_game()
+        if not ok:
+            sys.exit("未找到游戏目录, 请用 --game-dir 指定。")
+        game = ok[0]
+        if len(ok) > 1:
+            print("提示: 找到多个安装, 使用第一个:", game)
+    err = check_game_dir(game)
+    if err:
+        sys.exit("游戏目录无效 (%s): %s" % (game, err))
+    print("游戏目录:", game)
+    return game
+
+def do_install(args):
+    game = resolve_game(args)
+    man = load_manifest()
+    sp = state_path(game)
+    if os.path.isfile(sp) and not args.force:
+        sys.exit("检测到补丁已安装 (game/%s)。如需覆盖安装请加 --force。" % STATE_NAME)
+
+    # 基线校验
+    bc = man.get("base_check")
+    if bc:
+        p = os.path.join(game, bc["path"].replace("/", os.sep))
+        if os.path.isfile(p):
+            h = sha256(p)
+            if h != bc["sha256"]:
+                msg = ("警告: %s 与本补丁构建时的基线不一致 (游戏版本可能不同或已被其他补丁修改)。\n"
+                       "继续安装可能覆盖他人修改。加 --force 强制安装。" % bc["path"])
+                if not args.force:
+                    sys.exit(msg)
+                print(msg)
+
+    label, eng = engine_label(game)
+    print("游戏引擎:", label)
+    cw = man.get("compiled_with") or {}
+    skip_rpyc = bool(eng and cw and eng.get("major") != cw.get("major"))
+    if skip_rpyc:
+        print("引擎与 .rpyc 编译版本 (%s) 不同: 本次不投放 .rpyc, 启动时由引擎自行编译 .rpy (首次稍慢)。"
+              % cw.get("engine"))
+    orphan = rpyc_orphans(man)
+    if orphan:
+        print("警告: %d 个 .rpyc 没有配套 .rpy, 换引擎版本后无法重编译:" % len(orphan))
+        for o in orphan:
+            print("   ", o)
+
+    bdir = backup_dir_for(game, getattr(args, "backup_dir", None))
+    n_new = n_mod = n_bak = n_skip = 0
+    backed, skipped_rpyc = [], []
+    for e in man["files"]:
+        rel = e["path"].replace("/", os.sep)
+        src = os.path.join(ROOT, "payload", rel)
+        dst = os.path.join(game, rel)
+        if not os.path.isfile(src):
+            sys.exit("payload 缺失: " + e["path"])
+        if skip_rpyc and rel.endswith(".rpyc"):
+            n_skip += 1
+            skipped_rpyc.append(e["path"])
+            continue
+        # 覆盖前备份游戏内现有文件 (仅 modified 条目, 且不重复备份已打过补丁的内容)
+        if e["type"] == "modified" and os.path.isfile(dst):
+            cur = sha256(dst)
+            if cur != e["sha256"]:
+                bp, created = backup_one(bdir, rel, dst)
+                backed.append(e["path"])
+                if created: n_bak += 1
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
+        shutil.copy2(src, dst)
+        if e["type"] == "new": n_new += 1
+        else: n_mod += 1
+    state = {"manifest_version": man["version"], "installed": man["built"],
+             "files": len(man["files"]), "backup_dir": bdir,
+             "backup_files": sorted(set(backed)),
+             "skipped_rpyc": skipped_rpyc,
+             "engine": eng or {"version": "unknown"}}
+    with io.open(sp, "w", encoding="utf-8") as f:
+        json.dump(state, f, ensure_ascii=False, indent=1)
+    print("已备份 %d 个原文件到: %s" % (n_bak, bdir))
+    print("安装完成: 修改 %d 个文件, 新增 %d 个文件%s。"
+          % (n_mod, n_new, (", 跳过 %d 个 .rpyc" % n_skip) if n_skip else ""))
+    print("直接启动游戏即为中文。若显示异常, 删除 game/cache 后重试。")
+    return 0
+
+def do_uninstall(args):
+    game = resolve_game(args)
+    man = load_manifest()
+    sp = state_path(game)
+    if not os.path.isfile(sp) and not args.force:
+        sys.exit("未找到安装状态 (game/%s), 该目录可能未安装本补丁。加 --force 仍要卸载请重试。" % STATE_NAME)
+    st = read_state(sp)
+    bdir = backup_dir_for(game, getattr(args, "backup_dir", None) or st.get("backup_dir"))
+    have_backup = os.path.isdir(bdir)
+    print("备份目录:", bdir if have_backup else "(未找到, 将回退到随包 originals/)")
+    restored = removed = skipped = from_backup = 0
+    touched_dirs = set()
+    for e in man["files"]:
+        rel = e["path"].replace("/", os.sep)
+        dst = os.path.join(game, rel)
+        rpyc = dst + "c"
+        if e["type"] == "modified":
+            src = os.path.join(bdir, rel)
+            used_backup = os.path.isfile(src)
+            if not used_backup:
+                src = os.path.join(ROOT, "originals", rel)
+            if not os.path.isfile(src):
+                print("跳过(缺备份且缺原版):", e["path"]); skipped += 1; continue
+            cur = sha256(dst) if os.path.isfile(dst) else None
+            ok_hashes = [e["sha256"], e["original"]["sha256"], sha256(src)]
+            if cur and cur not in ok_hashes:
+                print("跳过(文件在安装后被改动过):", e["path"]); skipped += 1; continue
+            os.makedirs(os.path.dirname(dst), exist_ok=True)
+            shutil.copy2(src, dst)
+            if os.path.isfile(rpyc): os.remove(rpyc)
+            restored += 1
+            if used_backup: from_backup += 1
+        else:
+            if os.path.isfile(dst): os.remove(dst); removed += 1
+            if os.path.isfile(rpyc): os.remove(rpyc); removed += 1
+            touched_dirs.add(os.path.dirname(dst))
+    # 删除新增文件后留下的空目录 (只删空的, 从深到浅)
+    for d in sorted(touched_dirs, key=lambda x: -len(x)):
+        cur = d
+        while os.path.isdir(cur) and not os.listdir(cur) and cur != game:
+            try:
+                os.rmdir(cur)
+            except OSError:
+                break
+            cur = os.path.dirname(cur)
+
+    # 清理缓存目录内容
+    cache = os.path.join(game, "game", "cache")
+    if os.path.isdir(cache):
+        shutil.rmtree(cache, ignore_errors=True)
+        print("已清理 game/cache (下次启动自动重建)。")
+    if os.path.isfile(sp): os.remove(sp)
+    if os.path.isdir(bdir) and not getattr(args, "keep_backup", False):
+        shutil.rmtree(bdir, ignore_errors=True)
+        print("已删除备份目录。")
+    elif os.path.isdir(bdir):
+        print("已保留备份目录:", bdir)
+    print("卸载完成: 还原 %d (其中来自备份 %d), 删除 %d, 跳过 %d。"
+          % (restored, from_backup, removed, skipped))
+    return 0
+
+
+def do_backup(args):
+    """只备份, 不安装: 把 manifest 中所有 modified 条目对应的游戏内文件存进备份目录。"""
+    game = resolve_game(args)
+    man = load_manifest()
+    bdir = backup_dir_for(game, getattr(args, "backup_dir", None))
+    n_new = n_skip = n_miss = 0
+    for e in man["files"]:
+        if e["type"] != "modified":
+            continue
+        rel = e["path"].replace("/", os.sep)
+        dst = os.path.join(game, rel)
+        if not os.path.isfile(dst):
+            print("游戏内缺失, 无法备份:", e["path"]); n_miss += 1; continue
+        _, created = backup_one(bdir, rel, dst)
+        if created: n_new += 1
+        else: n_skip += 1
+    print("备份目录:", bdir)
+    print("备份完成: 新增 %d, 已存在跳过 %d, 缺失 %d。" % (n_new, n_skip, n_miss))
+    return 1 if n_miss else 0
+
+def do_verify(args):
+    game = resolve_game(args)
+    man = load_manifest()
+    st = read_state(state_path(game))
+    skip = set(st.get("skipped_rpyc") or [])
+    bad = ok = 0
+    for e in man["files"]:
+        if e["path"] in skip:
+            continue
+        rel = e["path"].replace("/", os.sep)
+        p = os.path.join(game, rel)
+        if not os.path.isfile(p):
+            print("缺失:", e["path"]); bad += 1; continue
+        if sha256(p) != e["sha256"]:
+            print("不一致:", e["path"]); bad += 1; continue
+        ok += 1
+    total = len(man["files"]) - len(skip)
+    if skip:
+        print("已跳过 %d 个 .rpyc (安装时引擎主版本不同, 由游戏自行编译)。" % len(skip))
+    print("校验完成: %d / %d 个文件正确。" % (ok, total))
+    return 1 if bad else 0
+
+def find_android_project():
+    """定位 Ren'Py 8 安卓工程 (deps/renpy.json 里记录的路径优先)。"""
+    cands = []
+    try:
+        with io.open(os.path.join(ROOT, "deps", "renpy.json"), encoding="utf-8") as f:
+            spec = json.load(f)
+        p = spec.get("current", {}).get("android_build", {}).get("project_path")
+        if p:
+            cands.append(p.replace("/", os.sep))
+    except Exception:
+        pass
+    for root in (r"C:\renpy8", r"C:\renpy-android", r"C:\renpy"):
+        if not os.path.isdir(root):
+            continue
+        for sdk in sorted(os.listdir(root)):
+            g = os.path.join(root, sdk, "winds-of-change")
+            if os.path.isdir(g) and g not in cands:
+                cands.append(g)
+    for c in cands:
+        if os.path.isfile(os.path.join(c, "game", "script.rpy")):
+            return c
+    return None
+
+
+def android_sync_report(man, andir):
+    """把 payload 与安卓工程逐文件比对。
+    .rpyc 是引擎按自身 Python 版本编译的产物, 两边不同属正常, 只提示不计为问题。"""
+    same = diff = miss = 0
+    diffs, missing, art_diff = [], [], []
+    for e in man["files"]:
+        if not e["path"].startswith("game/"):
+            continue
+        rel = e["path"][len("game/"):].replace("/", os.sep)
+        srcp = os.path.join(ROOT, "payload", "game", rel)
+        dstp = os.path.join(andir, "game", rel)
+        if not os.path.isfile(dstp):
+            miss += 1; missing.append(e["path"]); continue
+        if sha256(srcp) == sha256(dstp):
+            same += 1
+        elif e["path"].endswith(".rpyc"):
+            art_diff.append(e["path"])
+        else:
+            diff += 1; diffs.append(e["path"])
+    print("安卓工程同步: 源文件一致 %d, 分叉 %d, 缺失 %d" % (same, diff, miss))
+    if art_diff:
+        print("    .rpyc 编译产物差异 %d 个 (引擎版本不同所致, 正常)" % len(art_diff))
+    for d in diffs[:10]:
+        print("    分叉:", d)
+    for m in missing[:10]:
+        print("    缺失:", m)
+    return diff + miss
+
+
+def do_check(args):
+    """体检: 引擎版本 / payload 完整性 / rpyc-rpy 配对 / Python2 专有写法。"""
+    man = load_manifest()
+    problems = 0
+
+    if not getattr(args, "no_game", False):
+        try:
+            game = resolve_game(args)
+            label, eng = engine_label(game)
+            print("游戏引擎:", label)
+            if eng and eng.get("script_version"):
+                print("  script_version:", eng["script_version"])
+            if eng and eng.get("major", 0) >= 8:
+                print("  -> Ren'Py 8: 需要 .rpy 齐全以便重编译 (见下方配对检查)。")
+        except SystemExit:
+            print("游戏引擎: 未定位到游戏目录 (跳过)")
+
+    orphan = rpyc_orphans(man)
+    if orphan:
+        problems += len(orphan)
+        print("rpyc 缺少配套 rpy: %d 个" % len(orphan))
+        for o in orphan:
+            print("   ", o)
+    else:
+        print("rpyc/rpy 配对: OK")
+
+    miss = [e["path"] for e in man["files"]
+            if not os.path.isfile(os.path.join(ROOT, "payload", e["path"].replace("/", os.sep)))]
+    if miss:
+        problems += len(miss)
+        print("payload 缺失: %d 个" % len(miss))
+        for m in miss[:20]:
+            print("   ", m)
+    else:
+        print("payload 完整性: OK (%d 个文件)" % len(man["files"]))
+
+    py2_hits = []
+    for e in man["files"]:
+        if not e["path"].endswith(".rpy"):
+            continue
+        p = os.path.join(ROOT, "payload", e["path"].replace("/", os.sep))
+        for ln, txt in scan_py2(p):
+            py2_hits.append((e["path"], ln, txt))
+    if py2_hits:
+        print("Python2 专有写法 (迁移 Ren'Py 8 需修改): %d 处" % len(py2_hits))
+        for f, ln, t in py2_hits[:15]:
+            print("    %s:%d  %s" % (f, ln, t))
+    else:
+        print("Python2 专有写法: 未发现")
+
+    if not getattr(args, "no_android", False):
+        andir = getattr(args, "android_dir", None) or find_android_project()
+        if andir and os.path.isdir(andir):
+            print("安卓工程:", andir)
+            label, eng = engine_label(os.path.dirname(andir))
+            print("  引擎:", label)
+            problems += android_sync_report(man, andir)
+        else:
+            print("安卓工程: 未找到 (跳过同步核对)")
+
+    print("体检结果:", ("发现 %d 个问题" % problems) if problems else "全部通过")
+    return 1 if problems else 0
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    sub = ap.add_subparsers(dest="cmd", required=True)
+    for name, fn in (("install", do_install), ("uninstall", do_uninstall), ("verify", do_verify)):
+        s = sub.add_parser(name)
+        s.add_argument("--game-dir")
+        s.add_argument("--force", action="store_true")
+        s.add_argument("--backup-dir", help="备份目录 (默认 <游戏目录>/%s)" % BACKUP_DIRNAME)
+        if name == "uninstall":
+            s.add_argument("--keep-backup", action="store_true", help="卸载后保留备份目录")
+        s.set_defaults(fn=fn)
+    b = sub.add_parser("backup")
+    b.add_argument("--game-dir")
+    b.add_argument("--force", action="store_true")
+    b.add_argument("--backup-dir")
+    b.set_defaults(fn=do_backup)
+    c = sub.add_parser("check")
+    c.add_argument("--game-dir")
+    c.add_argument("--force", action="store_true")
+    c.add_argument("--no-game", action="store_true", help="只检查补丁包本身, 不定位游戏")
+    c.add_argument("--android-dir", help="安卓工程目录 (含 game/), 默认自动定位")
+    c.add_argument("--no-android", action="store_true", help="跳过安卓工程同步核对")
+    c.set_defaults(fn=do_check)
+    f = sub.add_parser("find"); f.set_defaults(fn=cmd_find)
+    args = ap.parse_args()
+    sys.exit(args.fn(args) or 0)
+
+if __name__ == "__main__":
+    main()

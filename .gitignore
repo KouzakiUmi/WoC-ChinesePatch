@@ -1,0 +1,27 @@
+# 游戏原文件：不分发（卸载改用安装时在游戏目录生成的备份）
+originals/
+
+# tl_work 里的原版快照与中间备份（含游戏原始图片/脚本）
+tl_work/backup_*/
+tl_work/chunks_bak_before_fix/
+tl_work/template/
+tl_work/__pycache__/
+
+# 安装器备份
+backup/
+woc_zh_patch_backup/
+
+# 引擎依赖二进制：由 tools/fetch_renpy_sdk.py 按 deps/renpy.json 获取
+deps/downloads/
+deps/renpy-*-sdk/
+deps/renpy-*-rapt/
+deps/renpy.lock.json
+
+# 临时文件
+*.part
+*.bak
+*.bak1
+*.tmp
+__pycache__/
+*.pyc
+Thumbs.db

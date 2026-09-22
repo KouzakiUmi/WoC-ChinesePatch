@@ -1,0 +1,584 @@
+=== [on the same page] (matched: 'on the same page') [Speaker: char_ulric] (Label: map005_175012bf) ===
+EN: Good to know we're on the same page.\nIt'd be foolish to try taking them on alone.
+ZH: 很高兴我们想法一致。\n单枪匹马去对付他们，那是愚蠢之举。
+
+=== [keep an eye on] (matched: 'keep an eye on') [Speaker: char_ulric] (Label: map005_73cf90b7) ===
+EN: You must be mistaken. This wasn't an option.\nI can't keep an eye on both of you in the heat of battle.\nValessa has her daggers, and you need something as well.
+ZH: 你一定是误会了。这可不是商量。\n战况激烈时，我没法同时照看你们两个。\n瓦莱莎有她的匕首，你也得有件武器。
+
+=== [stood a chance] (matched: 'stood a chance') [Speaker: None] (Label: map037_488b746d) ===
+EN: More suits of armor litter the ground, there's so many of them.{w}\nIt makes me feel a bit hopeful, like we stood a chance.{w}\nThe village wasn't defenseless, and this was proof.
+ZH: 地上散落着更多盔甲，数量多得惊人。{w}\n这让我稍稍燃起希望，仿佛我们还有胜算。{w}\n村子并非毫无防备，这就是明证。
+
+=== [on the spot] (matched: 'on the spot') [Speaker: None] (Label: map037_96442f7f) ===
+EN: He stares at me with a serious look on his face.{w}\nTalk about putting me on the spot.{w}\nBut if this was my role, I had to fill the shoes.
+ZH: 他一脸严肃地盯着我。{w}\n真是把我架在火上烤。{w}\n可如果这就是我的角色，我就必须担起来。
+
+=== [on the same page] (matched: 'on the same page') [Speaker: char_ulric] (Label: map037_6a115fbc) ===
+EN: Good to know we're on the same page.\nMylus can't be the only one with information.
+ZH: 很高兴我们想法一致。\n掌握情报的人不可能只有迈勒斯一个。
+
+=== [on the same page] (matched: 'on the same page') [Speaker: char_valessa] (Label: map037_2d80f2de) ===
+EN: Good, we're on the same page.\nWe can use that information to help others.\nIt would be selfish to focus only on Valinorth.
+ZH: 很好，我们想到一块儿去了。\n我们可以用这些情报去帮助其他人。\n只盯着瓦利诺斯，那就太自私了。
+
+=== [face value] (matched: 'face value') [Speaker: char_valessa] (Label: Valessa2_map085_1_0_2048b12d) ===
+EN: I'd want to get to the bottom of it, then.\nThere's more going on than we can take at face value.\nHe'd have his reasons, and I'd want to hear all of them.
+ZH: 那我就想把事情查个水落石出。\n这里面另有隐情，不能只看表面。\n他一定有自己的理由，而我想全部听他说清楚。
+
+=== [face value] (matched: 'face value') [Speaker: char_valessa] (Label: Valessa2_map084_6_0_2048b12d) ===
+EN: I'd want to get to the bottom of it, then.\nThere's more going on than we can take at face value.\nHe'd have his reasons, and I'd want to hear all of them.
+ZH: 那我就想把事情查个水落石出。\n这里面另有隐情，不能只看表面。\n他一定有自己的理由，而我想全部听他说清楚。
+
+=== [under the table] (matched: 'under the table') [Speaker: None] (Label: click_map084_53_EV053_23f9dfc1) ===
+EN: I crawl under the table, it's full of useless trinkets.{w}\nWhatever we were looking for, I doubt it's down here.
+ZH: 我爬到桌子底下，满是没用的零碎玩意儿。{w}\n不管我们在找什么，我怀疑它不在下面。
+
+=== [under the table] (matched: 'under the table') [Speaker: None] (Label: click_map084_53_EV053_291d5a81) ===
+EN: I get out from under the table, after Ulric's verbal lashing.{w}\nHe might've disagreed, but we had to search everywhere we could.
+ZH: 在挨了乌尔里克一顿训之后，我从桌子底下钻了出来。{w}\n他也许不赞同，但我们得把所有能搜的地方都搜一遍。
+
+=== [steal thunder] (matched: 'steal your thunder') [Speaker: char_fortaime] (Label: map043_81e4b12e) ===
+EN: Hey, I'm just trying to be nice!\nI didn't mean to steal your thunder.\nAfter all, this day is all about {i}you{/i}!
+ZH: 喂，我只是想表示好意嘛！\n我不是有意抢你风头的。\n毕竟，今天的主角就是{i}你{/i}！
+
+=== [in the dark] (matched: 'in the dark') [Speaker: None] (Label: click_map078_12_EV012_514a67cd) ===
+EN: I really wish I could just hop back into bed.{w}\nBut I guess I have responsibilities and stuff.{w}\nI shouldn't keep Mylus in the dark for much longer.
+ZH: 我真希望能直接跳回床上。{w}\n可我想我还有责任在身之类的。{w}\n我不该再瞒着迈勒斯太久了。
+
+=== [you name it] (matched: 'You name it') [Speaker: char_fortaime] (Label: Fortaime2_map078_166_1_bd5ff25b) ===
+EN: It's pretty great, actually.\nEverything is given to me by Valinorth.\nMoney, food, a house. You name it.
+ZH: 其实挺不错的。\n一切都是瓦利诺斯给我的。\n钱、食物、房子，应有尽有。
+
+=== [have one's back] (matched: 'has his back') [Speaker: None] (Label: map008_d5aa7e76) ===
+EN: She points to a man standing near my house.{w}\nHe has his back against it, and taps his foot on the ground.{w}\nI guess he knew where I lived. Mylus must've told him.
+ZH: 她指着一个站在我家附近的男人。{w}\n他背靠着墙，脚尖点着地。{w}\n看来他知道我住哪儿。一定是迈勒斯告诉他的。
+
+=== [on the same page] (matched: 'on the same page') [Speaker: char_fortaime] (Label: map008_630b49cb) ===
+EN: So you know what's coming, right?\nI just need to make sure we're on the same page.
+ZH: 所以你知道要发生什么，对吧？\n我只是得确认我们想法一致。
+
+=== [have one's back] (matched: 'has your back') [Speaker: char_valessa] (Label: map047_07becb3b) ===
+EN: Thanks. I appreciate it — I truly do.\nIt's always good when someone has your back.\nVenting helps, as inconvenient as it's known to be.
+ZH: 谢谢，我很感激——是真心的。\n有人挺你，总是好事。\n发泄一下是有用的，尽管大家都知道那不太得体。
+
+=== [on the same page] (matched: 'on the same page') [Speaker: char_valessa] (Label: map047_1442e7b6) ===
+EN: Good. I'm glad we're on the same page.\nYou know what they say about dire times, right?\nLet's make sure this stays between the two of us.
+ZH: 好。很高兴我们想法一致。\n你知道人们怎么说艰难时局的，对吧？\n这事就只留在你我之间。
+
+=== [on the spot] (matched: 'on the spot') [Speaker: None] (Label: map062_77c941db) ===
+EN: She looks a bit startled at the sudden demand, but slowly steps forward.{w}\nI can sense her apprehension at being put on the spot. I know that feeling.
+ZH: 这突如其来的要求让她有些吃惊，但她还是慢慢走上前。{w}\n我能感到她被当众点名的忐忑。那种感觉我懂。
+
+=== [on the spot] (matched: 'on the spot') [Speaker: None] (Label: map062_f1857bb2) ===
+EN: He looks a bit startled at the sudden demand, but slowly steps forward.{w}\nI can sense his apprehension at being put on the spot. I know that feeling.
+ZH: 这突如其来的要求让他有些吃惊，但他还是慢慢走上前。{w}\n我能感到他被当众点名的忐忑。那种感觉我懂。
+
+=== [lose temper] (matched: 'lose her temper') [Speaker: None] (Label: map062_5ba1aa95) ===
+EN: I can tell that Valessa is getting annoyed. I've never seen her like this.{w}\nAs if to offer assistance, Ulric steps forward, clearing his throat.{w}\nPerfect timing too, as Valessa was about to lose her temper.
+ZH: 看得出瓦莱莎开始恼火了。我从没见过她这样。{w}\n仿佛是要出手相助，乌尔里克清了清嗓子，走上前来。{w}\n时机也恰到好处，瓦莱莎正要发脾气。
+
+=== [lose temper] (matched: 'lose his temper') [Speaker: None] (Label: map062_d24d75e4) ===
+EN: I can tell that Fortaime is getting annoyed. I've never seen him like this.{w}\nAs if to offer assitance, Ulric steps forward, clearing his throat.{w}\nPerfect timing too, as Fortaime was about to lose his temper.
+ZH: 看得出福泰姆开始恼火了。我从没见过他这样。{w}\n仿佛是要出手相助，乌尔里克清了清嗓子，走上前来。{w}\n时机也恰到好处，福泰姆正要发脾气。
+
+=== [case in point] (matched: 'Case in point') [Speaker: char_ulric] (Label: map053_d8bfe36a) ===
+EN: Case in point, Pro.
+ZH: 这就是活生生的例子，普洛。
+
+=== [second thoughts] (matched: 'second thought') [Speaker: char_ulric] (Label: map053_95e7269d) ===
+EN: People from Valinorth would never harm Mazeo, true.\nBut that's what makes it the perfect excuse for wrongdoers.\nSay you're from Valinorth, and get through without a second thought.
+ZH: 瓦利诺斯的人确实绝不会伤害马泽奥。\n但正因如此，它才成了坏人最完美的借口。\n说一句你来自瓦利诺斯，就能毫无阻碍地通过。
+
+=== [see eye to eye] (matched: 'see eye to eye') [Speaker: char_ulric] (Label: Ulric4_map054_9_0_1c04bba0) ===
+EN: There are two pirate lords, Alex and Nada.\nThey see eye to eye on most things, but disagree on others.\nStill, rather than fight each other, they've come to rule together.
+ZH: 有两位海盗头目，亚历克斯和娜达。\n他们在多数事情上看法一致，但也有分歧。\n不过他们没有彼此争斗，而是选择了共同统治。
+
+=== [under thumb] (matched: 'under her thumb') [Speaker: char_ulric] (Label: Ulric5_map054_9_0_8c10f2f8) ===
+EN: I've never had to think about it, so I don't really have an answer.\nBut I'd probably have to go with Alex. Nada is a bit too ruthless for me.\nIf she was in power, people would be under her thumb — rather than free.
+ZH: 我从没想过这个问题，所以真没什么答案。\n不过大概我会选亚历克斯。娜达对我来说太狠了些。\n要是她掌权，人们就都得受她摆布——而不是自由。
+
+=== [get a grip] (matched: 'get a grip') [Speaker: char_fortaime] (Label: map067_63bfb5c4) ===
+EN: You know, when I climb trees, it's hard to get a grip.\nBut with these, I can just stab them into the tree and hold on.\nI didn't know these existed. It would make things {i}so{/i} much easier!
+ZH: 你知道，我爬树的时候很难抓稳。\n但有了这些，我只要把它们扎进树里就能攀住。\n我都不知道还有这种东西。这会让事情{i}轻松{/i}太多了！
+
+=== [come clean] (matched: 'come clean') [Speaker: char_pro] (Label: map068_1df08ba7) ===
+EN: Good, I'm glad.\nYou caught me, so I had to come clean.\nOtherwise, I would've kept this stuff secret.
+ZH: 很好，我很高兴。\n你逮到我了，所以我只好坦白。\n不然的话，我会把这事一直瞒着。
+
+=== [in the dark] (matched: 'in the dark') [Speaker: char_ulric] (Label: map070_c549cda2) ===
+EN: It's time for you to tell us what's going on.\nI hate being left in the dark like this. You know that.
+ZH: 该你告诉我们到底怎么回事了。\n我讨厌像这样被蒙在鼓里。你知道的。
+
+=== [hands down] (matched: 'Hands down') [Speaker: char_jit_map071_1_0_50] (Label: click_map074_146_EV146_5a20b9ae) ===
+EN: Alex. Hands down.
+ZH: 亚历克斯。毫无疑问。
+
+=== [you name it] (matched: 'you name it') [Speaker: char_jit_map008_1_0_111] (Label: click_map124_9_EV009_d11a38d8) ===
+EN: Imagine if food was scarce.\nThere'd be a lot more people breaking the law.\nStealing it, hurting others for it, you name it.
+ZH: 想象一下如果食物短缺。\n会有多得多的人违法。\n偷食物、为了食物伤害别人，什么都有。
+
+=== [throw in the towel] (matched: 'throw in the towel') [Speaker: char_valessa] (Label: click_map124_13_EV013_6a7d4f31) ===
+EN: Even with a head start, you're no match for me.\nTime to throw in the towel. Stick to climbing trees.
+ZH: 就算让你先跑，你也不是我的对手。\n认输吧。你还是去爬树吧。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: char_pro] (Label: click_map124_20_EV020_b0010c84) ===
+EN: Good. We can't have any moles.\nThe Rebellion, as it is — currently hangs on threads.\nIt's only thanks to that anomalous blade that we stand a chance.
+ZH: 很好。我们不能有内奸。\n反抗军如今——正悬于一线。\n全靠那把异常的剑，我们才有机会。
+
+=== [hands down] (matched: 'Hands down') [Speaker: char_jit_map124_32_1_17] (Label: click_map124_32_EV032_00fbc820) ===
+EN: Alex. Hands down.
+ZH: 亚历克斯。毫无疑问。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: char_pro] (Label: click_map127_27_EV027_17b718bc) ===
+EN: They have to watch {i}every{/i} direction; and constantly be ready.\nIt serves to show us how strong they {i}truly{/i} are. It's crazy.\nDraycu is undefeated, but Ulric might just stand a chance.
+ZH: 他们得提防{i}每一个{/i}方向，还得时刻保持戒备。\n这也正好向人们展示他们{i}究竟{/i}有多强。太疯狂了。\n德雷库从未败过，但乌尔里克或许还真有一拼之力。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: char_damek] (Label: click_map127_29_EV029_696eecb5) ===
+EN: In that case, maybe I do side with Vivien.\nWith Ulric's strength, he may stand a chance.\nI hope [firstname] is on the same page as us.
+ZH: 既然如此，也许我确实站在薇薇安这边。\n以乌尔里克的力量，或许有一拼之力。\n希望[firstname]和我们想法一致。
+
+=== [on the same page] (matched: 'on the same page') [Speaker: char_damek] (Label: click_map127_29_EV029_696eecb5) ===
+EN: In that case, maybe I do side with Vivien.\nWith Ulric's strength, he may stand a chance.\nI hope [firstname] is on the same page as us.
+ZH: 既然如此，也许我确实站在薇薇安这边。\n以乌尔里克的力量，或许有一拼之力。\n希望[firstname]和我们想法一致。
+
+=== [get over it] (matched: 'get over it') [Speaker: char_pro] (Label: click_map127_37_EV037_7e509fc2) ===
+EN: Of course. All according to plan.\nI know Ulric is mad, but he'll get over it.\nWe can win this without either of us dying.
+ZH: 当然。一切都在计划之中。\n我知道乌尔里克很生气，但他会消气的。\n我们可以不必让任何一方送命就赢下这场。
+
+=== [have one's back] (matched: 'have your back') [Speaker: char_fortaime] (Label: click_map127_41_EV041_f65e794a) ===
+EN: Yeah, same! That's my main goal in all of this.\nWe're all a team, so we need to help each other out.\nI'll have your back as long as you have mine, Valessa.
+ZH: 是啊，我也是！这就是我做这一切的主要目标。\n我们都是一个团队的，就该互相帮助。\n只要你支持我，我就会支持你，瓦莱莎。
+
+=== [on the same page] (matched: 'on the same page') [Speaker: char_fortaime] (Label: map133_6ebe36b7) ===
+EN: Good. I'm glad we're all on the same page.\nIt's something we can talk about more as a group.\nValessa feels the same way, she just wouldn't speak up.
+ZH: 很好。我很高兴我们想法一致。\n这事我们可以作为团队再深入讨论。\n瓦莱莎也是同样的感受，只是她不肯开口。
+
+=== [on the fence] (matched: 'on the fence') [Speaker: char_fortaime] (Label: map133_372b5f43) ===
+EN: Understandable. You're on the fence.\nIt's something we can talk about more as a group.\nValessa believes they're trapped in there. I know it.
+ZH: 可以理解。你还在犹豫。\n这事我们可以作为团队再深入讨论。\n瓦莱莎相信他们被困在里面。我知道的。
+
+=== [come clean] (matched: 'come clean') [Speaker: char_pro] (Label: map130_14266d83) ===
+EN: I mean, I had to come clean about being a swindler, right?\nI'd rather do it right out of the gate than surprise you later on.\nWe can get to know each other more, now, and see if we click.
+ZH: 我是说，我总得坦白自己是骗子，对吧？\n与其日后再让你吃惊，不如一开始就说清楚。\n现在我们可以多了解彼此，看看合不合得来。
+
+=== [stood a chance] (matched: 'stood a chance') [Speaker: None] (Label: map136_f2b3cbfa) ===
+EN: A few moments later, an army of pirates floods in from the tunnels.{w}\nSovy, Halin and Shane quickly become defensive, trying to fend them off.{w}\nThere was enough now that they stood a chance. Their targets were clear.
+ZH: 片刻之后，一支海盗大军从隧道涌了进来。{w}\n索维、哈林和肖恩立刻转入守势，试图抵挡。{w}\n如今人数够了，他们有了胜算。目标也很明确。
+
+=== [stood a chance] (matched: 'stood a chance') [Speaker: char_fortaime] (Label: map138_906ed789) ===
+EN: Yeah. We wouldn't have stood a chance in combat.\nI don't know why they wanted to help, but they did.
+ZH: 是啊。真打起来我们根本毫无胜算。\n我不知道他们为什么想帮忙，但他们确实帮了。
+
+=== [in the dark] (matched: 'in the dark') [Speaker: char_damek] (Label: map142_c8198ed8) ===
+EN: Driven by the howls of countless spirits, he seeks vengeance.\nBut he has also brought with him the answers to our every question.\nNo longer, shall we live in the dark. We know the {i}true{/i} nature of things.
+ZH: 被无数灵体的呼号所驱动，他寻求复仇。\n但他也带来了我们所有疑问的答案。\n我们再也不会生活在黑暗之中。我们知道了事物的{i}真正{/i}本质。
+
+=== [up in the air] (matched: 'up in the air') [Speaker: None] (Label: map142_65ba4398) ===
+EN: I look at the rebels, and hold the blade up in the air.{w}\nThe beams of light from the surface serve to illuminate its beauty.{w}\nThis elicits rigorous applause from the rebels, as they cheer me on.
+ZH: 我看向反抗军们，把刀刃高举在空中。{w}\n从地面透下的光束照亮了它的华美。{w}\n这引来了反抗军们热烈的掌声，他们为我欢呼。
+
+=== [hands down] (matched: 'hands down') [Speaker: None] (Label: map145_4f32b386) ===
+EN: I can tell that they're about to get locked in a heated argument.{w}\nTo avoid this, I slam my hands down on the war table, startling them.{w}\nA loud echo reverberates through the room as I assert my authority.
+ZH: 我看得出他们即将陷入激烈的争吵。{w}\n为了避免这一幕，我双手猛拍作战桌，把他们吓了一跳。{w}\n一声巨响在房间里回荡，我借此确立了自己的权威。
+
+=== [blessing in disguise] (matched: 'blessing in disguise') [Speaker: char_damek] (Label: map146_8829bc22) ===
+EN: But now? Everything is different.\nI guess I'll take a step back for the time being.\nMaybe this is a blessing in disguise, you know?
+ZH: 但现在呢？一切都不同了。\n我想我暂时会退后一步。\n也许这是因祸得福，你懂吗？
+
+=== [under the weather] (matched: 'under the weather') [Speaker: char_pro] (Label: map239_1a96703a) ===
+EN: As far as I know, it's just my Dad.\nI think my Mom was under the weather or something.\nBut at this point, I'll take whatever I can get. I'm so excited...!
+ZH: 据我所知，只有我父亲会来。\n我想我母亲身体不太舒服之类的。\n但事到如今，能见到谁我都愿意。我太激动了……！
+
+=== [under weather] (matched: 'under the weather') [Speaker: char_pro] (Label: map239_1a96703a) ===
+EN: As far as I know, it's just my Dad.\nI think my Mom was under the weather or something.\nBut at this point, I'll take whatever I can get. I'm so excited...!
+ZH: 据我所知，只有我父亲会来。\n我想我母亲身体不太舒服之类的。\n但事到如今，能见到谁我都愿意。我太激动了……！
+
+=== [dead of night] (matched: 'dead of night') [Speaker: None] (Label: map239_070dc1c0) ===
+EN: I awaken a while later, unsure of the time.{w}\nBut it's dark — it must be the dead of night.{w}\nPro snores softly, with his head resting on my shoulder.
+ZH: 不知过了多久，我醒了过来，分不清时辰。{w}\n但天已经黑了——一定是深夜。{w}\n普洛轻轻打着鼾，头靠在我的肩上。
+
+=== [dead of night] (matched: 'dead of night') [Speaker: None] (Label: map239_0754e567) ===
+EN: I awaken a while later, unsure of the time.{w}\nBut it's dark — it must be the dead of night.{w}\nPro rests beside me, snoring softly. Asleep.
+ZH: 不知过了多久，我醒了过来，分不清时辰。{w}\n但天已经黑了——一定是深夜。{w}\n普洛躺在我身旁，轻轻打着鼾。睡着了。
+
+=== [cold feet] (matched: 'cold feet') [Speaker: None] (Label: map239_f34d55a5) ===
+EN: It was cruel to schedule a meeting and then not follow through.{w}\nHis Dad must've gotten cold feet. Or maybe his Mother needed attention.{w}\n\"Under the weather\" could have any number of meanings. Not many of them good.
+ZH: 约好了见面却又不来，这太残忍了。{w}\n他父亲一定是临阵退缩了。又或者他母亲需要人照顾。{w}\n“身体不舒服”可以有很多种解释。多数都不太好。
+
+=== [under the weather] (matched: 'Under the weather') [Speaker: None] (Label: map239_f34d55a5) ===
+EN: It was cruel to schedule a meeting and then not follow through.{w}\nHis Dad must've gotten cold feet. Or maybe his Mother needed attention.{w}\n\"Under the weather\" could have any number of meanings. Not many of them good.
+ZH: 约好了见面却又不来，这太残忍了。{w}\n他父亲一定是临阵退缩了。又或者他母亲需要人照顾。{w}\n“身体不舒服”可以有很多种解释。多数都不太好。
+
+=== [under weather] (matched: 'Under the weather') [Speaker: None] (Label: map239_f34d55a5) ===
+EN: It was cruel to schedule a meeting and then not follow through.{w}\nHis Dad must've gotten cold feet. Or maybe his Mother needed attention.{w}\n\"Under the weather\" could have any number of meanings. Not many of them good.
+ZH: 约好了见面却又不来，这太残忍了。{w}\n他父亲一定是临阵退缩了。又或者他母亲需要人照顾。{w}\n“身体不舒服”可以有很多种解释。多数都不太好。
+
+=== [up in the air] (matched: 'up in the air') [Speaker: char_howl] (Label: map242_6616f904) ===
+EN: But when we look at it this way, everything makes sense.\nEverything has an explanation, and nothing is left up in the air.\nThe only question is — do you believe us? Do you think we are correct?
+ZH: 但这样看来，一切都说得通了。\n一切都有了解释，再没有悬而未决的事。\n唯一的问题是——你相信我们吗？你觉得我们说的对吗？
+
+=== [leave no stone unturned] (matched: 'leave no stone unturned') [Speaker: None] (Label: map242_a973a301) ===
+EN: He turns to leave, but tilts his head back to address me one more time.{w}\nI guess he wanted to leave no stone unturned before our attack on Balteus.
+ZH: 他转身要走，却又回过头来，再一次对我开口。{w}\n我猜，他想在进攻巴尔泰乌斯之前把事情彻查清楚，不留死角。
+
+=== [calm before storm] (matched: 'calm before the storm') [Speaker: None] (Label: map252_3c5bcfe1) ===
+EN: We exchange hugs and pleasantries for a few moments.{w}\nAre they really happy? Or are they just putting on an act?{w}\nIt's hard to tell — since this is the calm before the storm.
+ZH: 我们拥抱寒暄了一阵。{w}\n他们是真的开心吗？还是只是在演戏？{w}\n很难分辨——毕竟这是暴风雨前的平静。
+
+=== [calm before storm] (matched: 'calm before the storm') [Speaker: None] (Label: map252_3c5bcfe1_1) ===
+EN: We exchange hugs and pleasantries for a few moments.{w}\nAre they really happy? Or are they just putting on an act?{w}\nIt's hard to tell — since this is the calm before the storm.
+ZH: 我们拥抱寒暄了一阵。{w}\n他们是真的开心吗？还是只是在演戏？{w}\n很难分辨——毕竟这是暴风雨前的平静。
+
+=== [calm before storm] (matched: 'calm before the storm') [Speaker: None] (Label: map252_1e2696aa) ===
+EN: Either way, it's best to make the most of any happy moments.{w}\nThis was the calm before the storm. One final storm.
+ZH: 无论如何，都该尽情享受任何快乐的时刻。{w}\n这是暴风雨前的平静。最后一场暴风雨。
+
+=== [hang in there] (matched: 'hang in there') [Speaker: char_pro] (Label: map253_bc90d853) ===
+EN: I'm just doing my best to hang in there...\nThis whole \"life at sea\" thing really isn't my style.\nI can't wait to get back and settle down for good.
+ZH: 我只是在尽力撑着……\n这种“海上生活”实在不合我的性子。\n我迫不及待想回去，彻底安顿下来。
+
+=== [on the same page] (matched: 'on the same page') [Speaker: char_damek] (Label: map254_101133ee) ===
+EN: We should arrive in Balteus just as the sun is rising.\nWhen we do — we'll all be meeting at a central location for one final meeting.\nIt's important that everybody is on the same page before we take any big steps.
+ZH: 我们大概会在太阳升起时抵达巴尔泰乌斯。\n到那时——我们会在一个中心地点集合，开最后一次会。\n在采取任何重大行动之前，所有人达成共识很重要。
+
+=== [piece of cake] (matched: 'piece of cake') [Speaker: char_pro] (Label: map270_6299febf) ===
+EN: Sounds like a piece of cake, to be honest.\nConsider that castle empty upon your arrival!\nCausing distractions is totally a specialty of mine.
+ZH: 说实话，听起来小菜一碟。\n你就当到的时候城堡已经空了吧！\n制造混乱可是我的拿手好戏。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: None] (Label: map280_70ef74cd) ===
+EN: That's true. Nobody else has ever gotten this far.{w}\nI can tell that we stand a chance at winning, and it feels amazing.{w}\nBut I have to ask, how do we know that this Algus can be trusted?
+ZH: 没错。从没有别人走到这一步。{w}\n我能感觉到我们有机会赢，那感觉太棒了。{w}\n但我不得不问，我们怎么知道这个阿尔古斯可以信任？
+
+=== [up in the air] (matched: 'up in the air') [Speaker: None] (Label: map295_e5fd8be9) ===
+EN: Even after his instruction, nobody makes a move.{w}\nThe ash in the air thickens — remnants of The Monarchy showering over them.{w}\nDamek takes a few steps forward, and holds his sword up in the air.
+ZH: 即便他下了指示，仍无人行动。{w}\n空气中的灰烬更浓了——王朝的残烬如雨般洒落在他们身上。{w}\n达梅克向前走了几步，把剑高举在空中。
+
+=== [up in the air] (matched: 'up in the air') [Speaker: None] (Label: map295_e918d343) ===
+EN: The soldiers cheer, holding their swords up in the air as well.{w}\nBut soon after, they fall back down — resting in a fighting position.{w}\nDamek says nothing, simply holding his sword toward the enemy.
+ZH: 士兵们欢呼着，也把剑高举在空中。{w}\n但很快，剑又落下——摆出战斗的架势。{w}\n达梅克没有作声，只是把剑指向敌人。
+
+=== [have one's back] (matched: 'have your back') [Speaker: char_sovy] (Label: map296_00edcb42) ===
+EN: We're pressed for time, so I won't draw this out any longer.\nJust know that I'll have your back in there, as I'm sure you'll have mine.\nIf we make it through this unscathed, I'll know it was a team effort.
+ZH: 我们时间紧迫，所以我就不多说了。\n你只要知道，到里面我会护着你的后背，我相信你也会护着我。\n如果我们能毫发无伤地挺过这一关，我就知道这是大家齐心协力的结果。
+
+=== [piece of cake] (matched: 'piece of cake') [Speaker: char_pro] (Label: map300_80aab09f) ===
+EN: Yeah — plenty of times.\nIt'll be a piece of cake. Trust me.
+ZH: 是啊——打过很多次。\n小事一桩。相信我。
+
+=== [call the shots] (matched: 'call the shots') [Speaker: char_halin] (Label: map304_b6dde4a2) ===
+EN: And who says {i}you{/i} get to call the shots?\nRemember, I exist to manifest The Triumvirate's will.\nAnd right now — what they want — is to see you all dead.
+ZH: 谁说{i}你们{/i}能发号施令？\n记住，我存在的意义就是彰显三人执政团的意志。\n而此刻——他们所愿的——就是看你们全都死掉。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: char_the_triumvirate] (Label: Tri1_map308_1_0_cc263c90) ===
+EN: Doing so would liberate the universe from this eternal war.\nBut we did not hold the power required to destroy the idol. Not yet.\nIf we could make the blade stronger, though, then we might stand a chance.
+ZH: 这样做便能让宇宙从这场永恒的战争中解脱。\n但我们并不拥有摧毁那尊灵像所需的力量。至少当时还没有。\n可如果我们能让那把剑变得更强，或许就有一线希望。
+
+=== [change of heart] (matched: 'change of heart') [Speaker: None] (Label: map324_ebbad2b6) ===
+EN: Sovy's past crimes were pardoned after his exceptional performance in Balteus.\nHis defection from The Triumvirate, and his advice regarding them were seen as invaluable.\nWere it not for his actions, and his change of heart — the war would've been lost.
+ZH: 索维在巴尔泰乌斯的卓越表现，使他的旧罪得到赦免。\n他脱离三人执政团，以及关于他们的建言，被视为无价之宝。\n若非他的行动与幡然醒悟——这场战争早已失败。
+
+=== [change of heart] (matched: 'change of heart') [Speaker: None] (Label: map324_c77f027d) ===
+EN: Sovy's past crimes were pardoned posthumously, and he was labeled as a hero.\nHis defection from The Triumvirate, and his advice regarding them were seen as invaluable.\nWere it not for his actions, and his change of heart, the war would've been lost.
+ZH: 索维的旧罪在他身后得到赦免，他被冠以英雄之名。\n他脱离三人执政团，以及关于他们的建言，被视为无价之宝。\n若非他的行动与幡然醒悟，这场战争早已失败。
+
+=== [change of heart] (matched: 'change of heart') [Speaker: None] (Label: map326_52989f27) ===
+EN: But not current history. He wrote about The Old Monarchy, and their ways.\nIt was almost as if the spirits inside of him felt regret at their actions.\nNobody knew why Howl had this change of heart — but it was for the better.
+ZH: 但不是当代的历史。他书写旧王室，以及他们的行事之道。\n仿佛他体内的灵对自己的所作所为感到了悔恨。\n没人知道豪尔为何会有这样的转变——但这是好事。
+
+=== [clean slate] (matched: 'clean slate') [Speaker: None] (Label: map335_50b02c3b) ===
+EN: After his passing, a grand tournament was held, and anybody was capable of entering.\nBecause nobody challenged Draycu, the nation would have to start with a clean slate.\nA new ruler emerged, and Alarinthia stayed largely the same for the rest of history.
+ZH: 他去世后，一场盛大的锦标赛举行了，任何人都可以参加。\n因为无人挑战德雷库，这个国家只能从零开始。\n一位新的统治者产生了，此后的历史中，阿拉林西亚大体保持原样。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: char_valessa] (Label: map340_c2113a9f) ===
+EN: I'll admit, I was starting to worry as well.\nSorry if you were scared when we parted ways earlier.\nBut thanks to those daggers, they didn't stand a chance.
+ZH: 我承认，我也开始担心了。\n之前我们分开的时候，要是让你害怕了，我很抱歉。\n但多亏了那些匕首，他们根本不堪一击。
+
+=== [have one's back] (matched: 'have your back') [Speaker: char_fortaime] (Label: map340_74555940) ===
+EN: But it won't be all bad, right...?\nI mean, we'll have your back the entire time.
+ZH: 但也不会全是坏事，对吧……？\n我是说，我们会一直支持你的。
+
+=== [have one's back] (matched: 'have your back') [Speaker: char_valessa] (Label: map283_45e8435a) ===
+EN: I'm pretty confident after hearing Damek's plan.\nI get to follow you to the castle too, so that makes me happy.\nYou can trust me to have your back if anything bad happens.
+ZH: 听完达梅克的计划，我相当有信心。\n我还能跟着你一起进城堡，这让我很开心。\n要是出了什么坏事，你尽管放心，有我在你身后。
+
+=== [cold shoulder] (matched: 'cold shoulder') [Speaker: char_pro] (Label: map286_602f9fbc) ===
+EN: It's a lonely life, being a writer. It really is.\nYou pour so much emotion into it, that you almost run out.\nEveryone thinks you're giving them the cold shoulder, but you're not.
+ZH: 当个作家，是种孤独的日子。真的是这样。\n你投入了太多情感，以至于几乎耗尽了自己。\n所有人都以为你在给他们冷脸，可你并没有。
+
+=== [hands down] (matched: 'hands down') [Speaker: None] (Label: map286_894d7e82) ===
+EN: That would be easy. He's already done a lot to help us.{w}\nHe was responsible for our Alarinthian alliance, hands down.{w}\nHe's done his best to atone, and in my opinion, he succeeded.
+ZH: 那很容易。他已经帮了我们很多。{w}\n毫无疑问，阿拉林西亚的联盟正是他促成的。{w}\n他已尽力赎罪，在我看来，他成功了。
+
+=== [on the same page] (matched: 'on the same page') [Speaker: char_ulric] (Label: map285_04f14af6) ===
+EN: Alright. As long as we're both on the same page.\nI expect the same from you. Don't hold back in any way.\nIf I'm in danger, don't stop to help me. You have your goal.
+ZH: 好吧。只要我们的想法一致就行。\n我也期望你同样如此。任何方面都不要有所保留。\n如果我陷入危险，别停下来救我。你有你的目标。
+
+=== [have one's back] (matched: 'have your back') [Speaker: char_ulric] (Label: map285_bccb2852) ===
+EN: But when it comes to you, I know that my strength and honor {i}aren't{/i} misguided.\nYou can trust me to have your back, in the final battle, and beyond. I promise.\nFor once, I've found a cause I'd be happy to both live, {i}and{/i} die for.
+ZH: 但对你，我知道我的力量与荣誉{i}没有{/i}用错地方。\n你可以相信我会在最后的战斗以及那之后，始终守在你身后。我保证。\n这一次，我终于找到了一个我既愿意为之生、{i}也{/i}愿意为之死的目标。
+
+=== [fair and square] (matched: 'fair and square') [Speaker: char_howl] (Label: map288_b3786f45) ===
+EN: But, we must say — it was a battle that we lost fair and square.\nWe were so focused on our own future, that we lost sight of everyone else's.\nIt doesn't surprise us, that our \"perfect\" future came at the expense of others.
+ZH: 但我们必须承认——那是一场我们输得心服口服的战斗。\n我们太过专注于自己的未来，以至于忽视了其他人的未来。\n我们那“完美”的未来是建立在别人的代价之上，这并不令我们意外。
+
+=== [from scratch] (matched: 'from scratch') [Speaker: char_sovy] (Label: map289_a0eda9f2) ===
+EN: It might be best to just forget The Monarchy ever existed.\nStart over, from scratch, under the banner of The Rebellion.\nWhy reclaim a world for someone who would be your enemy?
+ZH: 也许，最好的做法就是忘了王权曾经存在。\n从零开始，以反抗军的旗帜重建一切。\n何必为了一群会成为你敌人的人，去夺回一个世界？
+
+=== [hit the jackpot] (matched: 'hit the jackpot') [Speaker: char_jit_map179_1_0_78] (Label: map179_4182b7b8) ===
+EN: He heard your group talking about a Rebellion, and a big army.\nThat's when I knew we hit the jackpot. Our new target was clear.\nBut to know you came here just for me? That's pretty flattering.
+ZH: 他听到你们这群人在谈论反抗军，还有一支庞大的军队。\n那时我就知道，我们中大奖了。新目标已经明确。\n不过，知道你们是专程为我而来？这还真让人受宠若惊。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: char_pro] (Label: click_map180_62_EV062_17b718bc) ===
+EN: They have to watch {i}every{/i} direction; and constantly be ready.\nIt serves to show us how strong they {i}truly{/i} are. It's crazy.\nDraycu is undefeated, but Ulric might just stand a chance.
+ZH: 他们得提防{i}每一个{/i}方向，还得时刻保持戒备。\n这也正好向人们展示他们{i}究竟{/i}有多强。太疯狂了。\n德雷库从未败过，但乌尔里克或许还真有一拼之力。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: char_damek] (Label: click_map180_63_EV063_696eecb5) ===
+EN: In that case, maybe I do side with Vivien.\nWith Ulric's strength, he may stand a chance.\nI hope [firstname] is on the same page as us.
+ZH: 那样的话，也许我确实该站在薇薇安这边。\n有乌尔里克的实力，他或许还有机会。\n我希望[firstname]和我们想法一致。
+
+=== [on the same page] (matched: 'on the same page') [Speaker: char_damek] (Label: click_map180_63_EV063_696eecb5) ===
+EN: In that case, maybe I do side with Vivien.\nWith Ulric's strength, he may stand a chance.\nI hope [firstname] is on the same page as us.
+ZH: 那样的话，也许我确实该站在薇薇安这边。\n有乌尔里克的实力，他或许还有机会。\n我希望[firstname]和我们想法一致。
+
+=== [silver lining] (matched: 'silver lining') [Speaker: char_the_triumvirate] (Label: map204_ac5dc872) ===
+EN: But you failed to retrieve it, {i}and{/i} let The Seer get away.\nAny silver lining you can come up with is simply not enough.\nDamek's death will only fuel them with rage to use against us.
+ZH: 可你没能夺回它，{i}还{/i}放走了先知。\n你能找出的任何一丝转机都远远不够。\n达梅克的死只会激起他们的怒火，用来对付我们。
+
+=== [silver lining] (matched: 'silver lining') [Speaker: char_the_triumvirate] (Label: map204_1d30536d) ===
+EN: But you failed to retrieve it, {i}and{/i} let The Seeress get away.\nAny silver lining you can come up with is simply not enough.\nDamek's death will only fuel them with rage to use against us.
+ZH: 可你没能夺回它，{i}还{/i}放走了先知。\n你能找出的任何一丝转机都远远不够。\n达梅克的死只会激起他们的怒火，用来对付我们。
+
+=== [second thoughts] (matched: 'second thought') [Speaker: char_ulric] (Label: map205_96a76c62) ===
+EN: I saw them take an impressionable young man, and ruin him.\nTurn him into a tool meant to kill without a second thought.\nThey took my friend, and after that, he was no more.
+ZH: 我眼看着他们把一个易受影响的年轻人带走，然后毁了他。\n把他变成一件用来毫不犹豫杀人的工具。\n他们夺走了我的朋友，从那以后，他就不复存在了。
+
+=== [have one's back] (matched: 'has his back') [Speaker: char_fortaime] (Label: Fortaime1_map190_11_0_bcb395b3) ===
+EN: I feel so bad for him. He always spoke about changing Alarinthia.\nBut when he's given the chance, his comrades side against him?\nHe must feel so lonely right now. Only Vivien's army has his back.
+ZH: 我真为他难过。他总是说要改变阿拉林西亚。\n可当机会来临时，他的同伴却站到了他的对立面？\n他现在一定很孤独。只有薇薇安的军队支持他。
+
+=== [get over it] (matched: 'get over it') [Speaker: char_pro] (Label: click_map192_63_EV063_7e509fc2) ===
+EN: Of course. All according to plan.\nI know Ulric is mad, but he'll get over it.\nWe can win this without either of us dying.
+ZH: 当然。一切都在计划之中。\n我知道乌尔里克很生气，但他会消气的。\n我们可以赢下这一场，谁都不用死。
+
+=== [you name it] (matched: 'you name it') [Speaker: char_valessa] (Label: map208_0acea8b3) ===
+EN: I know that pirates get involved in shady things, but they embraced it.\nKilling, stealing, smuggling, you name it. They were {i}legends{/i} in Mazeo.\nThey had a whole network operating for them while they were back home.
+ZH: 我知道海盗会涉足见不得光的勾当，可他们乐在其中。\n杀人、偷盗、走私，什么都干。他们在马泽奥是{i}传奇{/i}。\n他们在家乡时，有一整张关系网为他们运作。
+
+=== [cold shoulder] (matched: 'cold shoulder') [Speaker: char_jit_map213_1_0_12] (Label: map213_bc1d3244) ===
+EN: Look. The way I see it, we're friends here.\nIf you need a ferryman back, I'd love to help you out.\nTreat me with the cold shoulder, and you could get stranded.
+ZH: 听着。在我看来，我们算是朋友。\n如果你回来时还需要摆渡人，我很乐意帮忙。\n要是你对我冷冰冰的，你可能会被困在那边。
+
+=== [save face] (matched: 'save face') [Speaker: char_jit_map213_1_0_12] (Label: map213_f970b24d) ===
+EN: Lied to by your bosses? Join the club.\nThey'll do anything to save face and get their way.\nThat's part of why I work on my own, now. I get you.
+ZH: 被上司骗了？欢迎加入。\n为了保全面子和达成目的，他们什么都干得出来。\n这也是我现在单干的原因之一。我懂你。
+
+=== [got one's back] (matched: 'got your back') [Speaker: char_jit_map213_1_0_12] (Label: map213_56878756) ===
+EN: There's no need to go that far.\nDon't misunderstand me. I've got your back.\nYou're not the only man who's run away, you know.
+ZH: 没必要说到那种地步。\n别误解我。我是站你这边的。\n你知道，你不是唯一一个逃过的人。
+
+=== [have one's back] (matched: 'have your back') [Speaker: char_fortaime] (Label: click_map199_5_EV005_f65e794a) ===
+EN: Yeah, same! That's my main goal in all of this.\nWe're all a team, so we need to help each other out.\nI'll have your back as long as you have mine, Valessa.
+ZH: 是啊，我也是！这就是我做这一切的主要目标。\n我们是一个团队，所以要互相扶持。\n只要你挺我，我就挺你，瓦莱莎。
+
+=== [clean slate] (matched: 'clean slate') [Speaker: char_howl] (Label: click_map199_16_EV016_07d34e77) ===
+EN: After the battle ends, the flame dwindles, and turns to ash.\nA clean slate for the victor — that is what this symbolizes.
+ZH: 战斗结束后，火焰会熄灭，化为灰烬。\n为胜者留一片白纸——这就是它所象征的。
+
+=== [come to light] (matched: 'come to light') [Speaker: char_howl] (Label: map212_417a804e) ===
+EN: Because you may follow after them without even knowing it.\nFor now, that is all we have to say. There are no other concerns.\nNext time we talk, perhaps more will have come to light. At least, we hope.
+ZH: 因为你可能在不知不觉中追随他们的脚步。\n目前，我们要说的就这些。没有其他顾虑了。\n下次我们交谈时，也许会有更多真相浮现。至少，我们希望如此。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: char_pro] (Label: map200_8bdc05e0) ===
+EN: We wouldn't stand a chance if we attacked Balteus on our own.\nAn alliance is necessary, and this is the best way we can get it.\nOne life — taken here today — is worth it, to change all of Alestia.
+ZH: 如果仅凭我们自己进攻巴尔泰乌斯，根本毫无胜算。\n同盟是必需的，而这是我们能获得它的最好方式。\n一条今天在此逝去的生命——值得，为了改变整个阿莱斯蒂亚。
+
+=== [see eye to eye] (matched: 'see eye to eye') [Speaker: char_pro] (Label: map214_9719a272) ===
+EN: I knew we'd be able to push through this.\nThe fact that you sided with Draycu convinced me.\nEven in all the confusion, we still see eye to eye.
+ZH: 我就知道我们能挺过这一关。\n你站在德雷库那边这件事让我确信了。\n即便在一切混乱之中，我们依然心意相通。
+
+=== [got one's back] (matched: 'got your back') [Speaker: char_jit_map203_1_0_195] (Label: map203_500e2ae9) ===
+EN: So, it's finally going to happen.\nI've been dreaming about this day for a long time.\nDo your best out there, Monarch. I've got your back.
+ZH: 那么，终于要开始了。\n我梦想这一天已经很久了。\n在外面尽力而为吧，君主。我会罩着你的。
+
+=== [lean on] (matched: 'lean on') [Speaker: char_jit_map203_1_0_195] (Label: map203_c3b7547e) ===
+EN: Of course, I {i}have{/i} heard rumors about that blade you're carrying.\nSo if you don't mind — I might choose to lean on you for support, too.\nIf we all take care of each other, then we'll be unstoppable for sure.
+ZH: 当然，我{i}确实{/i}听说过你带着的那把剑的传闻。\n所以如果你不介意——我或许也会选择倚仗你的支援。\n如果我们都互相照应，那我们肯定无人能挡。
+
+=== [up in the air] (matched: 'up in the air') [Speaker: None] (Label: map217_4119c447) ===
+EN: Gripping the blade tightly, I try and figure out how to “activate” it.{w}\nAs if sensing my instinct, the gear on the base starts to spin fervently.{w}\nI raise it up in the air, and demand that the blade assist us in battle.
+ZH: 我紧紧握住剑刃，试图弄明白该如何“激活”它。{w}\n仿佛感应到我的意念，剑柄底部的齿轮开始疯狂转动。{w}\n我将它高举空中，命令剑刃在战斗中助我们一臂之力。
+
+=== [have one's back] (matched: 'have my back') [Speaker: char_fortaime] (Label: map220_a6baad4a) ===
+EN: Come on, [firstname].\nYou have my back in this, right?\nWhat happened was {i}way{/i} out of line.
+ZH: 说句话啊，[firstname]。\n在这件事上你站在我这边，对吧？\n发生的事{i}实在{/i}太过分了。
+
+=== [on the same page] (matched: 'on the same page') [Speaker: char_fortaime] (Label: map220_a4d8ca0b) ===
+EN: Good. Then that means we're on the same page.\nIt's just so hard because of how close we are.
+ZH: 好。那说明我们想法一致。\n只是因为我们关系如此亲近，所以才这么难。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: None] (Label: map223_3834232a) ===
+EN: With everything we just gained? We actually stand a chance at winning this war...
+ZH: 有了我们刚刚得到的一切？我们真的有机会赢得这场战争了……
+
+=== [red herring] (matched: 'red herring') [Speaker: None] (Label: map224_f2825e5b) ===
+EN: If I ever got the chance to talk to The Triumvirate, I'd ask them.{w}\nBut something tells me, if we're face to face, it won't be civil.{w}\nAnd for all I know, it's just a trick. The idol could be a red herring.
+ZH: 要是我有机会跟三人执政团谈谈，我会问问他们。{w}\n但直觉告诉我，真到了面对面的时候，可不会是什么文明的对话。{w}\n而且说不定这根本就是个圈套。那座灵像也许只是障眼法。
+
+=== [hands down] (matched: 'Hands down') [Speaker: char_pro] (Label: map225_6ca0f110) ===
+EN: Look — I made up for what I did...!\nAll those lives we lost? We got them back, and more!\nOur Alarinthian allies will help us win this war. Hands down.
+ZH: 听着——我已经弥补了我做过的事……！\n我们失去的那些生命？我们不仅夺回来了，还得到了更多！\n我们的阿拉林西亚盟友会帮我们赢得这场战争。毫无疑问。
+
+=== [have one's back] (matched: 'have your back') [Speaker: char_halin] (Label: map168_b57785d6) ===
+EN: Through no fault of our own, remember?\nI have your back in this. I won't tell them the truth.\nHowever, I need to ask for {i}one{/i} thing in exchange.
+ZH: 那不是我们的错，记得吗？\n这件事我支持你。我不会告诉他们真相。\n不过，作为交换，我要求{i}一{/i}件事。
+
+=== [on the spot] (matched: 'on the spot') [Speaker: char_fortaime] (Label: Fortaime1_map162_5_0_c1f7ce4e) ===
+EN: Whoa, putting me on the spot, huh?\nI guess I'd probably side with Vivien.\nUlric hates this place, and I can see why.
+ZH: 哇，你这是当众考我啊？\n我想我大概会站在薇薇安这边。\n乌尔里克讨厌这个地方，我明白为什么。
+
+=== [hands down] (matched: 'hands down') [Speaker: char_valessa] (Label: Valessa1_map164_138_0_6ee5058d) ===
+EN: Vivien, hands down. I don't like the way Alarinthia is run.\nRelying on strength alone creates such a toxic atmosphere.\nAnyone with a brilliant mind would simply be pushed aside.
+ZH: 毫无疑问是薇薇安。我不喜欢阿拉林西亚的统治方式。\n只靠力量维系，会营造出如此恶劣的氛围。\n任何才华横溢的人都会被直接排挤到一边。
+
+=== [got one's back] (matched: 'got your back') [Speaker: char_jit_map076_1_0_93] (Label: map076_9ff13a6b) ===
+EN: Special, huh...?\nWell, that's all you had to say.\nYou know I've got your back in {i}everything{/i}.
+ZH: 特别，是吧……？\n嗯，你早这么说不就行了。\n你知道{i}任何事{/i}我都挺你。
+
+=== [on the spot] (matched: 'on the spot') [Speaker: char_pro] (Label: Valessa1_map110_1_0_3129f6fe) ===
+EN: Whoa, you sure like putting me on the spot.\nI think you're cool? I mean, from what I've seen.\nAt first, I didn't really have a clue. But it's better now.
+ZH: 哇，你可真喜欢当着人面问我。\n我觉得你挺酷的？我是说，就我目前所见。\n一开始我其实没什么概念。但现在好多了。
+
+=== [call the shots] (matched: 'call the shots') [Speaker: char_jit_map114_1_0_11] (Label: map114_61a83f17) ===
+EN: Destiny...?\nI'm not sure I buy into that stuff.\nI'd rather call the shots myself, you know.
+ZH: 宿命……？\n我不太信这套。\n我更愿意自己做主，你知道的。
+
+=== [breath of fresh air] (matched: 'a breath of fresh air') [Speaker: None] (Label: map173_62f08ca3) ===
+EN: He puts the climbing gear back in the bag, clearly excited.{w}\nIt's a breath of fresh air to hear him talk about this stuff so passionately.{w}\nEverybody else is so concerned about the war. It's nice to just push that aside.
+ZH: 他把攀爬装备放回包里，显然很兴奋。{w}\n听他这么充满热情地聊这些，真是耳目一新。{w}\n其他人都那么担心战争。能把这些搁到一边真好。
+
+=== [in the bag] (matched: 'in the bag') [Speaker: None] (Label: map173_62f08ca3) ===
+EN: He puts the climbing gear back in the bag, clearly excited.{w}\nIt's a breath of fresh air to hear him talk about this stuff so passionately.{w}\nEverybody else is so concerned about the war. It's nice to just push that aside.
+ZH: 他把攀爬装备放回包里，显然很兴奋。{w}\n听他这么充满热情地聊这些，真是耳目一新。{w}\n其他人都那么担心战争。能把这些搁到一边真好。
+
+=== [you name it] (matched: 'you name it') [Speaker: char_jit_map008_1_0_111] (Label: click_map012_9_EV009_d11a38d8) ===
+EN: Imagine if food was scarce.\nThere'd be a lot more people breaking the law.\nStealing it, hurting others for it, you name it.
+ZH: 想象一下如果食物短缺。\n犯法的人会多得多。\n偷食物、为了食物伤害别人，什么都有。
+
+=== [in the dark] (matched: 'in the dark') [Speaker: char_halin] (Label: map027_7195cb06) ===
+EN: I guess you're right.\nBut I don't like being left in the dark.
+ZH: 你说得大概没错。\n但我不喜欢被蒙在鼓里。
+
+=== [throw in the towel] (matched: 'throw in the towel') [Speaker: char_valessa] (Label: click_map014_7_EV007_6a7d4f31) ===
+EN: Even with a head start, you're no match for me.\nTime to throw in the towel. Stick to climbing trees.
+ZH: 就算抢跑，你也不是我的对手。\n认输吧。还是专心爬树去吧。
+
+=== [on the same page] (matched: 'on the same page') [Speaker: None] (Label: map022_48233380) ===
+EN: I feel like, even though we barely talked, we're on the same page.{w}\nHe seems to know why we're here, where we're going, and what we need to do.{w}\nThat makes things a bit easier. Endless planning would be tedious.
+ZH: 我觉得，尽管我们几乎没说过话，却很有默契。{w}\n他似乎知道我们为什么来、要去哪里、需要做什么。{w}\n这让事情简单了些。无休止的盘算会很乏味。
+
+=== [in the dark] (matched: 'in the dark') [Speaker: None] (Label: click_map015_37_EV037_2321e564) ===
+EN: I'm assuming in the dark, this helps people find Peregrino.{w}\nHowever, right now, it seems to serve no real purpose.{w}\nTo come here during the day, you'd have to know exactly where it was.
+ZH: 我猜在黑暗中，这东西能帮人找到佩雷格里诺。{w}\n不过眼下，它似乎没什么实际用处。{w}\n白天来这里，你得确切知道它在哪儿才行。
+
+=== [on the spot] (matched: 'on the spot') [Speaker: None] (Label: map023_8f6d25f4) ===
+EN: Talk about putting me on the spot. I hope this isn't a frequent event.{w}\nI don't feel like this is my choice, but due to current circumstances — it is.{w}\nMylus resigned as The Elder, leaving me in charge until I elect a replacement.
+ZH: 真是把我架到火上烤。希望这不是常有的事。{w}\n我不觉得这是该由我做的选择，但眼下的情况——确实如此。{w}\n迈勒斯辞去了长老之位，在我选出继任者之前，由我掌管。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: char_pro] (Label: click_map016_8_EV008_b0010c84) ===
+EN: Good. We can't have any moles.\nThe Rebellion, as it is — currently hangs on threads.\nIt's only thanks to that anomalous blade that we stand a chance.
+ZH: 很好。我们不能有内鬼。\n反抗军如今——已是岌岌可危。\n全靠那把异常的剑我们才有一线希望。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: char_pro] (Label: click_map016_9_EV009_b0010c84) ===
+EN: Good. We can't have any moles.\nThe Rebellion, as it is — currently hangs on threads.\nIt's only thanks to that anomalous blade that we stand a chance.
+ZH: 很好。我们不能有内鬼。\n反抗军如今——已是岌岌可危。\n全靠那把异常的剑我们才有一线希望。
+
+=== [up in the air] (matched: 'up in the air') [Speaker: char_pro] (Label: Pro6_map016_16_0_7aa57129) ===
+EN: Maybe I'll find someone special, and bring them along.\nThis is all up in the air, of course. A lot could change.\nI probably shouldn't plan it out. I'll play it by ear.
+ZH: 也许我会遇到一个特别的人，带上一起走。\n当然，这些都还没定。很多事都可能变。\n我大概不该计划得太细。走一步看一步吧。
+
+=== [play it by ear] (matched: 'play it by ear') [Speaker: char_pro] (Label: Pro6_map016_16_0_7aa57129) ===
+EN: Maybe I'll find someone special, and bring them along.\nThis is all up in the air, of course. A lot could change.\nI probably shouldn't plan it out. I'll play it by ear.
+ZH: 也许我会遇到一个特别的人，带上一起走。\n当然，这些都还没定。很多事都可能变。\n我大概不该计划得太细。走一步看一步吧。
+
+=== [on the spot] (matched: 'on the spot') [Speaker: None] (Label: map024_8d39ea48) ===
+EN: I rub the fatigue out of my eyes and stare at them for a few moments.{w}\nIt seemed that lately, people had a tendency of putting me on the spot.{w}\nTheir intentions were pure, however. To stop me from being overwhelmed.
+ZH: 我揉了揉疲惫的眼睛，盯着他们看了一会儿。{w}\n最近似乎人人都倾向于把我推到风口浪尖。{w}\n不过他们的用意是好的。是为了不让我被压垮。
+
+=== [on the same page] (matched: 'on the same page') [Speaker: char_valessa] (Label: Choices_map024_1_0_c91832e2) ===
+EN: Yes! I knew we were on the same page!\nI can't thank you enough for this. Really.\nI was so scared that we'd lose Valinorth.
+ZH: 太好了！我就知道我们想法一致！\n真不知该怎么谢你。真的。\n我之前好怕我们会失去瓦利诺斯。
+
+=== [get over it] (matched: 'get over it') [Speaker: char_valessa] (Label: Choices_map024_1_0_7ab3a850) ===
+EN: I'm sure I'll get over it, but I'm getting mixed signals.\nEither way, I'm proud to lead Valinorth just as you left it.\nI won't undo your decision. I respect it — I'll make it work.
+ZH: 我相信我会释怀的，但我收到的是矛盾的信号。\n不管怎样，能按你留下的原样领导瓦利诺斯，我很自豪。\n我不会推翻你的决定。我尊重它——我会把它落到实处。
+
+=== [get over it] (matched: 'get over it') [Speaker: char_valessa] (Label: Choices_map024_1_0_ae522da2) ===
+EN: I'm sure I'll get over it, but I'm getting mixed signals.\nEither way, I'm proud to lead Valinorth just as you left it.\nI won't undo your decision. I respect it — I'll make it work.
+ZH: 我相信我会释怀的，但我收到的是矛盾的信号。\n不管怎样，能按你留下的原样领导瓦利诺斯，我很自豪。\n我不会推翻你的决定。我尊重它——我会把它落到实处。
+
+=== [get over it] (matched: 'get over it') [Speaker: char_fortaime] (Label: Choices_map024_1_0_37d48a79) ===
+EN: Well, it seems like we have our work cut out for us.\nI'm a little upset that you didn't pick me, but I'll get over it.\nAt the end of the day, I'm not just \"tagging along\" anymore.
+ZH: 嗯，看来我们有的是活要干。\n你没选我，我有点难过，但我会释怀的。\n说到底，我不再只是“跟着凑数”了。
+
+=== [cold feet] (matched: 'cold feet') [Speaker: char_valessa] (Label: Valessa3_map088_177_1_ce6db71a) ===
+EN: Isn't it a little late to be getting cold feet?\nWe've already been performing these duties forever.\nThis ceremony won't change much. It's just tradition.
+ZH: 现在打退堂鼓，是不是有点晚了？\n这些职责我们早就一直在履行了。\n这场仪式改变不了什么。不过是传统罢了。
+
+=== [dead of night] (matched: 'dead of night') [Speaker: char_ulric] (Label: map092_0b9c3246) ===
+EN: I expect it'll take me under a day.\nI'll arrive in the dead of night, or maybe early morning.\nSeeking out [firstname] will be the first thing I do.
+ZH: 我估计用不了一天。\n我会在深夜，或者清早到达。\n第一件事就是去找[firstname]。
+
+=== [dead of night] (matched: 'dead of night') [Speaker: char_ulric] (Label: map092_0b9c3246_1) ===
+EN: I expect it'll take me under a day.\nI'll arrive in the dead of night, or maybe early morning.\nSeeking out [firstname] will be the first thing I do.
+ZH: 我估计用不了一天。\n我会在深夜，或者清早到达。\n第一件事就是去找[firstname]。
+
+=== [heads up] (matched: 'heads up') [Speaker: char_damek] (Label: map092_fd85f638) ===
+EN: Fantastic, then things will go perfectly.\nMake sure to give the rest of the town a heads up.\nYou can all evacuate together. You'll blend right in.
+ZH: 太好了，那一切都会顺利。\n记得提前通知镇上的其他人。\n你们可以一起撤离。你会混在其中不显眼。
+
+=== [stand a chance] (matched: 'stand a chance') [Speaker: char_damek] (Label: map092_6eece42b) ===
+EN: But remember, you need to stop by Mylus' and grab the blade.\nOtherwise, The Triumvirate will seize it when they attack.\nIf I'm honest, I don't think we stand a chance without it.
+ZH: 但记住，你得顺路去迈勒斯那儿取剑。\n否则三人执政团进攻时会把剑夺走。\n说实话，没有那把剑，我觉得我们毫无胜算。
+
+=== [in the dark] (matched: 'in the dark') [Speaker: char_the_triumvirate] (Label: map093_1439e54d) ===
+EN: We would never do such a thing.\nInformation is granted to you as we see fit.\nIf you are left in the dark, it is not permanent.
+ZH: 我们绝不会做那种事。\n情报何时给你们，由我们决定。\n就算你们暂时不知情，也不会是永久的。
+
+=== [in the dark] (matched: 'in the dark') [Speaker: char_sovy] (Label: map093_ba668e7a) ===
+EN: Yes, yes. My apologies.\nNobody likes being left in the dark.\nI will ensure my words sound less doubtful.
+ZH: 是，是。我道歉。\n没人喜欢被蒙在鼓里。\n我会注意，别让我的话听起来那么充满怀疑。
+
+=== [have one's back] (matched: 'have your back') [Speaker: char_valessa] (Label: Valessa2_map095_147_0_d9b031c7) ===
+EN: Sometimes there isn't, you know?\nYou can never change history from your comfort zone.\nIf it's true about you and the blade, I'll have your back.
+ZH: 你知道，有时候确实没有。\n待在舒适区里，永远改变不了历史。\n如果你和那把剑的传说是真的，我会支持你。
+
+=== [heads up] (matched: 'heads up') [Speaker: char_shane] (Label: map105_1e4a7d28) ===
+EN: Right, of course. Thanks for the heads up.\nI'll remember that next time he tries interrogating me.\nIf I didn't know any better, I'd say you didn't like him.
+ZH: 对，当然。多谢提醒。\n下次他审我时我会记住这点。\n要不是我了解你，我会说你不太喜欢他。
+
+=== [under the table] (matched: 'under the table') [Speaker: None] (Label: strings) ===
+EN: {image=icons/651.png} \"I could offer you some under the table work.\"
+ZH: {image=icons/651.png} “我可以给你介绍点私下里的活儿。”
+
+=== [play it by ear] (matched: 'play it by ear') [Speaker: None] (Label: strings) ===
+EN: {image=icons/580.png} \"I don't know. Let's play it by ear.\"
+ZH: {image=icons/580.png} “我不知道。我们随机应变吧。”
+
+=== [play it by ear] (matched: 'play it by ear') [Speaker: None] (Label: strings) ===
+EN: {image=icons/580.png} \"I'll have to play it by ear, Fortaime.\"
+ZH: {image=icons/580.png} “我得随机应变了，福泰姆。”
+
+=== [play it by ear] (matched: 'play it by ear') [Speaker: None] (Label: strings) ===
+EN: {image=icons/580.png} \"Let's play it by ear. We might not survive this.\"
+ZH: {image=icons/580.png} “走一步看一步吧。我们可能撑不过这一关。”
+
+=== [piece of cake] (matched: 'piece of cake') [Speaker: None] (Label: strings) ===
+EN: {image=icons/656.png} \"Yeah, of course. It'll be a piece of cake.\"
+ZH: {image=icons/656.png} “是啊，当然。小菜一碟。”
+
+=== [piece of cake] (matched: 'piece of cake') [Speaker: None] (Label: strings) ===
+EN: {image=icons/660.png} \"Yeah, it was a piece of cake.\"
+ZH: {image=icons/660.png} “是啊，小菜一碟。”
+

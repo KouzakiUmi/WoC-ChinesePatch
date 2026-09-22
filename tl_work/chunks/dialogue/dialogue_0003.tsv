@@ -1,0 +1,402 @@
+﻿# dialogue chunk 0003  entries 801-1200 of 10370
+# seq	block	idx	speaker	source	target
+801	map046_7da59578	0		He sniffles softly, like he overcame his imminent tears.	他轻轻抽了抽鼻子，像是忍住了即将夺眶的泪水。
+802	map046_d0926a45	0	char_fortaime	At the end of the dream, when they turned back...?\nI ran toward them, and tried to hug them one more time.\nBut I didn't feel anything when I did, and the dream ended.	梦的最后，当他们回过头来……？\n我朝他们跑去，想再抱他们一次。\n可抱住的那一刻，我什么都感觉不到，梦境就此终结。
+803	map046_ede3eb13	0	char_fortaime	But right now...? I'm definitely feeling something.\nAnd I know this won't end. I know you're not going anywhere.	可此刻……？我确实感觉到了什么。\n而且我知道，这不会结束。我知道你不会离开。
+804	map046_91fe98a7	0		He hugs me tighter, and I do so as well.	他将我抱得更紧，我也收紧双臂。
+805	map046_e3930066	0	char_fortaime	{i}This{/i} is what I need to fight for, [firstname].\nThe things that are right in front of me.\nThe things that matter, and the things I cherish.	{i}这{/i}才是我该为之战斗的东西，[firstname]。\n是那些就在我眼前的事物。\n是那些重要的、我珍视的一切。
+806	map046_10339e3a	0		I nod, and let our embrace continue.{w}\nIt seems to last forever, but I don't mind.{w}\nI'd let it last as long as it needs to — for Fortaime.	我点点头，任由这个拥抱继续下去。{w}\n它仿佛持续到永远，可我并不在意。{w}\n为了福泰姆，它需要多久，我就愿意让它持续多久。
+807	map046_ade89367	0		I decide to stand my ground, and let him overcome this.{w}\nI wouldn't always be there to console him. He needed strength.{w}\nWithout it, he might not survive this war. This was the right choice.	我决定坚持立场，让他自己挺过去。{w}\n我不可能永远在他身边安慰他。他需要坚强。{w}\n否则，他或许无法在这场战争中活下来。这才是正确的选择。
+808	map046_53f4406e	0	char_fortaime	At the end of the dream, when they turned back...?\nI ran toward them, and tried to hug them one more time.\nI told them I love them. But nothing happened. I felt nothing.	梦的最后，当他们回过头来……？\n我朝他们跑去，想再抱他们一次。\n我告诉他们我爱他们。可什么都没有发生。我什么都感觉不到。
+809	map046_84ba13da	0	char_fortaime	That emptiness, that nothingness...\nIs that what I really want to fight for?\nNo — there's real, {i}breathing{/i} people to fight for.	那份空虚，那片虚无……\n那真是我想为之战斗的东西吗？\n不——还有活生生的、{i}会呼吸{/i}的人值得我去战斗。
+810	map046_697a5b06	0		He looks at me, and then at Valessa, at the other end of the room.{w}\nHe smiles, seeming to have stifled those imminent tears from earlier.	他看了看我，又看向房间另一头的瓦莱莎。{w}\n他笑了，似乎已压下了先前的泪水。
+811	map046_80d95582	0	char_fortaime	So that's what I'll do.\nI won't pursue justice for a memory.\nLet alone a memory that's almost gone.	所以，我就这么做。\n我不会为一段记忆去追寻正义。\n更何况，那是一段几乎消散的记忆。
+812	map046_baa4c53b	0	char_fortaime	I'll do it for you, and those around me.\nSo nobody else has to lose a home, or parents.\nWhen this is all over? {i}Everyone{/i} will be happy.	我会为你，也为身边的人而战。\n这样，就不会再有人失去家园，或是失去父母。\n等这一切结束后？{i}每个人{/i}都会幸福的。
+813	map046_8ad65715	0	char_fortaime	Fighting for vengeance would only serve {i}me{/i}.\nI'm better than that, and I'm only realizing it now.\nI wonder if this dream was a gift from the spirits...?	为复仇而战，只会满足{i}我自己{/i}。\n我比那要更好，而我此刻才意识到这一点。\n这场梦，会不会是灵体赐予的礼物……？
+814	map046_27a4bfaa	0		His smile grows wider, and I can tell he's calmed down.{w}\nI'm glad I could help him — that I chose to talk to him.{w}\nIf I didn't, he'd suffer in silence, affecting his judgment.	他的笑容更加舒展，看得出他已平静下来。{w}\n我很高兴能帮到他——高兴自己选择了与他交谈。{w}\n若不然，他会独自默默承受，进而影响他的判断。
+815	map046_3c517fb0	0	char_fortaime	Well then, let's get going...!\nWe have a long journey ahead of us.\nBetter get it started now, I'm pumped up!	那好，我们出发吧……！\n前面还有漫长的旅程等着我们。\n最好现在就动身，我可是干劲十足！
+816	map047_2c4f74bb	0		Valessa is walking from one end of the room to another. She looks annoyed.{w}\nIt could be any number of things, but I decide to talk to her and figure things out.{w}\nAs soon as I approach her, she stops in her tracks, and lets out an exasperated sigh.	瓦莱莎在房间里来回踱步，看上去有些烦躁。{w}\n原因可能有很多，但我决定找她谈谈，弄清状况。{w}\n我刚走近，她就停下脚步，恼怒地叹了口气。
+817	map047_20c8de61	0	char_valessa	You know, I thought things would be different.\nIf you made me the Elder, I'd have a big game plan.\nAnd I thought I did — but I realized how little I know.	你知道吗，我本以为情况会不一样。\n如果你让我当长老，我会有个宏伟的规划。\n我原以为自己有——可我意识到自己懂得实在太少。
+818	map047_7bf19123	0	char_valessa	Obviously, keeping our independence is important, right?\nBut I've realized that's actually kind of insignificant.\nOur problems are here in the present, not out in the future.	显然，保住我们的独立很重要，对吧？\n但我意识到，那其实有点微不足道。\n我们的问题就在当下，而不是遥远的未来。
+819	map047_0f6d40a6	0	char_valessa	Maintaining our identity is a plan for the {i}future{/i}.\nIf Valinorth succumbs to the cold, there'll be nothing left to maintain.\nI still believe we need our independence, but that can't happen for a while.	维系我们的身份，是为{i}未来{/i}做的打算。\n可若是瓦利诺斯败给了严寒，就再没有任何东西需要维系了。\n我依然相信我们需要独立，但那短时间内无法实现。
+820	map047_f6f5909b	0	char_valessa	So, against my better judgment, alliances might be necessary.\nI doubt we can find a way to save Valinorth all on our own.\nWe'll require knowledge from all corners of Alestia.	所以，尽管违背我的本意，结盟或许是必要的。\n我怀疑单凭我们自己，找不到拯救瓦利诺斯的办法。\n我们需要来自阿拉斯提亚四面八方的知识。
+821	map047_7a48f317	0	char_valessa	So that might make things a bit tricky.\nRebuilding a nation that wants nothing to do with you?\nWho'd help me if I plan to give nothing in return...?	那也许会让事情变得有点棘手。\n重建一个根本不想搭理你的国家？\n如果我打算不给予任何回报，谁还愿意帮我……？
+822	map047_f6d1daf2	0	char_valessa	I can't believe Fortaime is in charge now — no offense.\nMy vision for the future of Valinorth was just so clear.\nBut now everything is changing. It's not {i}home{/i} anymore.	真不敢相信现在是福泰姆主事——无意冒犯。\n我对瓦利诺斯未来的构想曾是那么清晰。\n可如今一切都在改变。这里不再是{i}家{/i}了。
+823	map047_e8ab26a5	0	char_valessa	That is, if we can even find a way to save it.\nYou know, reconnecting with the spirits, or whatever.\nI'm starting to think that's quite the tall order.	前提是，我们真能找到拯救它的办法。\n你知道，比如重新与灵体建立联系什么的。\n我开始觉得，这可真是个艰巨的任务。
+824	map047_0641129c	0	char_valessa	I'm not saying it'd be any simpler if you chose me.\nIt's just — never mind. I actually don't know what I'm saying.\nWhatever comes to my mind, seems to be coming out of my mouth.	我不是说，如果你选了我就会简单些。\n只是——算了。我其实不知道自己在说什么。\n脑子里想到什么，嘴上就冒出来什么。
+825	map047_91ddd398	0	char_valessa	Ugh — sorry for rambling on. It's just a lot to take in.\nBut being able to talk about it definitely helps. Thanks, [firstname].\nAt the end of the day, being able to confide in you is great.	呃——抱歉我絮絮叨叨的。只是要消化的事情太多了。\n但能说出来聊聊，确实好受多了。谢谢你，[firstname]。\n说到底，能对你倾诉真是太好了。
+826	map047_91ddd398_1	0	char_valessa	Ugh — sorry for rambling on. It's just a lot to take in.\nBut being able to talk about it definitely helps. Thanks, [firstname].\nAt the end of the day, being able to confide in you is great.	呃——抱歉我絮絮叨叨的。只是要消化的事情太多了。\n但能说出来聊聊，确实好受多了。谢谢你，[firstname]。\n说到底，能对你倾诉真是太好了。
+827	map047_00bdac67	0		She blushes and rubs the back of her head with a hand.{w}\nShuffling awkwardly in place, I can tell she's flattered.	她脸一红，用手挠了挠后脑勺。{w}\n她局促地挪了挪脚，看得出她心里挺受用。
+828	map047_1ff9fd75	0	char_valessa	That's... good to hear, [firstname].\nNobody should go through this stuff alone.\nIt's a lot better — feeling like I'm part of a team.	那……听起来不错，[firstname]。\n不该有人独自经历这些。\n感觉好多了——像是属于一个团队。
+829	map047_1ff9fd75_1	0	char_valessa	That's... good to hear, [firstname].\nNobody should go through this stuff alone.\nIt's a lot better — feeling like I'm part of a team.	那……听起来不错，[firstname]。\n不该有人独自经历这些。\n感觉好多了——像是属于一个团队。
+830	map047_8dff0080	0		She seems to disregard my advance, so I decide to back off.{w}\nPerhaps the timing was imperfect. I could always try again later.	她似乎没有理会我的示好，于是我决定退一步。{w}\n也许时机不太合适。反正以后总还能再试。
+831	map047_d16f305a	0	char_valessa	Let's not get {i}too{/i} far off track, alright?	咱们别把话题扯得{i}太{/i}远了，好吗？
+832	map047_a72ee852	0	char_valessa	Hmph. Yeah, I guess you're right.\nOf course, it never hurts to have some friends around.\nI expect we'll be spending a lot more time together, now.	哼。是啊，你说得大概没错。\n当然，身边有几个朋友总没坏处。\n我想从现在起，我们会一起度过更多时间。
+833	map047_ac84fbea	0		I'm only joking, but she seems to take it personally.{w}\nPerhaps now isn't the best time to be cracking jokes like that.{w}\nI can tell she's even more annoyed. She grumbles under her breath.	我只是开个玩笑，她似乎却当了真。{w}\n也许现在不是开这种玩笑的好时候。{w}\n看得出她更加恼火了，低声嘟囔着什么。
+834	map047_8eb44308	0	char_valessa	Anyway...	总之……
+835	map047_07becb3b	0	char_valessa	Thanks. I appreciate it — I truly do.\nIt's always good when someone has your back.\nVenting helps, as inconvenient as it's known to be.	谢谢，我很感激——是真心的。\n有人挺你，总是好事。\n发泄一下是有用的，尽管大家都知道那不太得体。
+836	map047_8a7920ad	0	char_valessa	I'm glad you don't mind, because we're dealing with pretty big issues.\nIf I can trust you with this kind of stuff, I can trust you with anything.\nWhich is great, because something tells me there's a lot more to come.	你不介意就好，因为我们面对的是相当重大的问题。\n如果这种事我都能信任你，那任何事我都能信任你。\n这很好，因为我有种预感，后面还有更多。
+837	map047_4223fbbb	0		It's hard to get a read on her next expression, but she shuffles about some more.{w}\nTaking a few steps away from me, she rests her back against the wall.{w}\nI step closer toward her, inching ourselves away from Fortaime.	很难读懂她接下来的神情，但她又挪动了几下。{w}\n她后退几步，把背靠在墙上。{w}\n我朝她走近，让两人一点点远离福泰姆。
+838	map047_dbf441f6	0	char_valessa	What am I going to do...?	我该怎么办……？
+839	map047_397a248c	0	char_valessa	I want Valinorth's independence, but I can't get it alone.\nAs we travel the world, I'll need help wherever I can get it.\nConnecting our nation with the spirits isn't something I can do alone.	我想要瓦利诺斯独立，可单凭我一人办不到。\n我们周游世界的途中，我需要能到手的任何帮助。\n让我们的国家与灵体重新连结，不是我一个人能办到的。
+840	map047_ec8a2a22	0	char_valessa	I have no idea how I'll get it done, though.\nLike I said, I'll need help from the outside world.\nWhat an odd idea. Alliances to achieve independence?	可我完全不知道怎么才能办到。\n就像我说的，我需要外界的帮助。\n真是个古怪的念头。为了独立去结盟？
+841	map047_7b955269	0	char_valessa	No — people would just think I'm using them.\nIn order to do this efficiently, I'd have to keep it a secret.\nGlean information wherever I can, without telling anybody why.	不——人们只会觉得我在利用他们。\n想高效地做到这一点，我就得保密。\n尽可能地搜集情报，却不告诉任何人原因。
+842	map047_dab70bf8	0	char_valessa	A book here, a conversation there — until I find a solution.\nAt the end of the day, nobody would know what I was up to.\nBut when our journey is over, I'd have the means to save Valinorth.	这里翻一本书，那里聊一次天——直到我找到解决之道。\n说到底，没人会知道我在盘算什么。\n可等旅程结束时，我就有了拯救瓦利诺斯的办法。
+843	map047_078429a9	0	char_valessa	That sounds so... unethical.\nBut is it really? If it saves our nation?\nWhat do you think about all of this, [firstname]?	那听起来太……不道德了。\n但真是这样吗？如果这能救我们的国家？\n你对这一切怎么看，[firstname]？
+844	map047_078429a9_1	0	char_valessa	That sounds so... unethical.\nBut is it really? If it saves our nation?\nWhat do you think about all of this, [firstname]?	那听起来太……不道德了。\n但真是这样吗？如果这能救我们的国家？\n你对这一切怎么看，[firstname]？
+845	map047_7f4d35b6	0	char_valessa	Yeah, I guess you're right.\nIf I got caught, things would go wrong.\nDon't want to harm our chances of saving the world.	是啊，你说得大概没错。\n要是我被抓到，事情就糟了。\n我可不想损害我们拯救世界的机会。
+846	map047_306ddd00	0	char_valessa	Can you imagine if somebody did that to us...?\nHelping us out — only to use us for information?\nI feel bad for suggesting it, but dire times, you know?	你能想象有人这么对我们吗……？\n帮我们一把——只是为了从我们身上套情报？\n提出这种想法我很过意不去，但时局艰难，你懂的？
+847	map047_1442e7b6	0	char_valessa	Good. I'm glad we're on the same page.\nYou know what they say about dire times, right?\nLet's make sure this stays between the two of us.	好。很高兴我们想法一致。\n你知道人们怎么说艰难时局的，对吧？\n这事就只留在你我之间。
+848	map047_2a0a6fa6	0	char_valessa	I can't imagine if somebody found out what we were doing.\nIt's better to go about this alone. Everyone else would use us.\nSave Valinorth — and get something in return, you know?	要是有人发现我们在做什么，我简直不敢想。\n这事最好独自进行。别人都会利用我们。\n拯救瓦利诺斯——顺便捞点好处，你懂吧？
+849	map047_7fbf4062	0	char_valessa	But that's not what my vision of our future looks like.\nWe need to be strong on our own — completely independent.\nTaking help, and then pushing away the helpers? That could spark war.	可那不是我构想的未来。\n我们需要靠自己强大起来——彻底独立。\n接受帮助，然后把帮手一脚踢开？那可能会引发战争。
+850	map047_35fbbd89	0	char_valessa	Under my lead, though? Valinorth will {i}never{/i} see another war.\nYeah — I like the sound of that. A strong, peaceful nation.	可要是在我的带领下？瓦利诺斯{i}绝不会{/i}再经历一场战争。\n是啊——我喜欢这个说法。一个强大而和平的国家。
+851	map047_e95da8d9	0	char_valessa	From this point forward, your visions are {i}very{/i} important.\nI doubt that the one you had about Valinorth will be the last.\nEspecially now that this blade is involved in everything.	从今往后，你的预言{i}非常{/i}重要。\n我猜你关于瓦利诺斯的那次预言不会是最后一次。\n尤其现在这把刃牵涉进了所有事情里。
+852	map047_ba0917c3	0	char_valessa	We need to make an important decision, here.\nDo we involve the rest of Alestia with this stuff...?\nOr do we keep the visions to ourselves, like always?	我们得在这里做一个重要的决定。\n要让阿拉斯提亚的其他人也牵扯进这些事吗……？\n还是像往常一样，把预言留在我们自己手里？
+853	map047_0c28af54	0	char_valessa	If we start to serve them with our visions, they'll be dependent.\nAfter this war is over, they could expect us to keep helping out.\nOr even worse, people with ill intent could {i}force{/i} us to help.	若我们开始用预言为他们效力，他们就会产生依赖。\n战争结束后，他们可能指望我们一直帮下去。\n更糟的是，心存歹意的人可能会{i}强迫{/i}我们出手。
+854	map047_4473095d	0	char_valessa	Should we keep our roles as secret as possible...?\nOr should we openly tell everybody who we are?\nThis is the first time a Seer has left Valinorth.	我们该尽可能隐藏自己的身份吗……？\n还是该公开告诉所有人我们是谁？\n这是先知首次离开瓦利诺斯。
+855	map047_04d0f4ba	0	char_valessa	Should we keep our roles as secret as possible...?\nOr should we openly tell everybody who we are?\nThis is the first time a Seeress has left Valinorth.	我们该尽可能隐藏自己的身份吗……？\n还是该公开告诉所有人我们是谁？\n这是先知首次离开瓦利诺斯。
+856	map047_3802cefd	0	char_valessa	We're making history. \nBut what kind of history do we make?	我们正在创造历史。\n可我们创造的是怎样的历史？
+857	map047_664c880a	0	char_valessa	Do you really think so?\nThe world is full of horrible people, you know.\nWe can't trust that everybody will be on our side.	你真这么想？\n你知道，这世上到处都有可怕的人。\n我们不能指望所有人都站在我们这边。
+858	map047_8403d11b	0	char_valessa	Even if they act like it, they could just be using us.\nI'd say I trust our judgment, but I'm not so sure.	即便他们装作如此，也可能只是在利用我们。\n我本想说我相信我们的判断，可我不太确定。
+859	map047_add702c4	0	char_valessa	I can play along, so it doesn't seem like I'm hiding anything.\nBut the moment someone rubs me the wrong way? I'll tell you.\nBetter to stay on our toes. Otherwise, they'd trample all over us.	我可以配合着演，让事情看起来不像我在隐瞒什么。\n但要是有人惹我反感？我会告诉你。\n最好还是保持警惕。否则，他们会把我们踩在脚下。
+860	map047_b2d8380a	0	char_valessa	Yeah. Let's keep it contained to The Rebellion.\nOther than that — only if it concerns our cause.\nBetter than putting targets on our heads, right?	是啊。消息就限制在反抗军内部吧。\n除此之外——除非与我们的目标相关。\n总比在自己头上贴靶子好，对吧？
+861	map047_d41dc0bd	0	char_valessa	If everybody saw the potential to cheat the future...?\nI can't even imagine what lengths they'd go to use you, [firstname].\nWe can't offer your gift to everybody. It doesn't work that way.	要是所有人都看到能欺骗未来的潜力……？\n我无法想象他们会为了利用你做到什么地步，[firstname]。\n我们不能把你的天赋提供给所有人。事情不是那样运作的。
+862	map047_d41dc0bd_1	0	char_valessa	If everybody saw the potential to cheat the future...?\nI can't even imagine what lengths they'd go to use you, [firstname].\nWe can't offer your gift to everybody. It doesn't work that way.	要是所有人都看到能欺骗未来的潜力……？\n我无法想象他们会为了利用你做到什么地步，[firstname]。\n我们不能把你的天赋提供给所有人。事情不是那样运作的。
+863	map047_aa1c4292	0	char_valessa	If we helped as many as we could — we'd leave some out.\nTrying to help everybody...? No, we'd just be picking and choosing.\nThat's the best way to harbor spite, or in some cases, a desire for revenge.	若我们尽力帮尽可能多的人——终会漏掉一些人。\n想帮所有人……？不，那不过是挑拣选择罢了。\n那是滋生怨恨、有时甚至是复仇之心的最佳途径。
+864	map047_70d403c0	0	char_valessa	Thanks for giving me your advice, [firstname].\nIt's good to have some direction. I was feeling lost.\nI'm glad to know we can keep working together like this.	谢谢你给我建议，[firstname]。\n有点方向是好事。我先前感到很迷茫。\n很高兴知道我们能一直这样合作下去。
+865	map047_70d403c0_1	0	char_valessa	Thanks for giving me your advice, [firstname].\nIt's good to have some direction. I was feeling lost.\nI'm glad to know we can keep working together like this.	谢谢你给我建议，[firstname]。\n有点方向是好事。我先前感到很迷茫。\n很高兴知道我们能一直这样合作下去。
+866	map047_118cab52	0	char_valessa	I know. Trust me, I know.\nBut is this really the time to talk about that stuff?\nIt's not that I'm not interested. It's just... timing.	我知道。相信我，我明白。\n可现在是谈那些事的时候吗？\n不是我不感兴趣。只是……时机不对。
+867	map047_33b3192a	0	char_valessa	Maybe I'll feel a bit different once we get to Mazeo.\nSettling down in the Rebel HQ might make things easier.\nRight now, there's just so much happening, and we're mobile.	也许等我们到了马泽奥，我会有些不一样的感觉。\n在反抗军总部安顿下来，或许能让事情容易些。\n眼下发生的事太多了，而我们又一直在赶路。
+868	map047_3bae9b7c	0	char_valessa	It'll take some time before I can think about that stuff.\nIf only the day went by normally. Who knows what would've happened.	我需要一些时间才能考虑那些事。\n要是那天能像平常一样过去就好了。谁知道会发生什么呢。
+869	map047_098d8168	0		She smiles at me, and it seems like she's accepting of my advances.{w}\nHowever, the way things were — I understood her exception.{w}\nIt would be better to talk about that stuff later on.	她冲我笑了笑，似乎接受了我的示好。{w}\n不过，就当时的情形——我理解她的例外。{w}\n那些事，还是以后再说比较好。
+870	map047_5462ed0f	0	char_valessa	And I'm glad we can rise to the challenge. That's good.\nSomething tells me there'll be many more challenges to come.\nBut as long as we band together — and talk it out — we can do this.	很高兴我们能迎接挑战。这很好。\n我有种预感，往后还会有更多挑战。\n但只要我们团结一心——把话说开——就能做到。
+871	map047_5410b35e	0		With a wide smile, I can sense a newfound determination within her.{w}\nSomething is there — something that wasn't there the moment we began talking.	她绽开笑容，我能感到她心中新生出一股决心。{w}\n有些东西出现了——在我们开始交谈时还不存在的东西。
+872	map047_66226860	0	char_valessa	Oh. Well, yeah — of course.\nI'd never interrupt your training, you know.\nIf you don't learn to wield that blade, we're doomed.	哦。嗯，是啊——当然。\n你知道，我绝不会打断你的训练。\n要是你学不会挥舞那把刃，我们就完了。
+873	map047_77e06f4c	0	char_valessa	I think you can trust my manners are better than that.\nIf you're busy, I can guarantee that I'll leave you alone.\nJust seemed like we had some spare time right now, is all.	我想你可以相信我的礼数没这么差。\n你要是忙，我保证不会打扰你。\n只是眼下好像正好有点空闲，仅此而已。
+874	map047_5859d11d	0	char_valessa	Let's get things moving, alright?\nLike I said, I have a better sense of direction now.\nOr at the very least, my mind is more clear. That's all I needed.	我们继续办正事吧，好吗？\n就像我说的，我现在方向感清楚多了。\n至少，脑子更清醒了。我需要的也就是这个。
+875	map047_74a2b0a2	0		Letting out a loud sigh, she starts to walk away.{w}\nI'm glad I decided to reach out to her like this.{w}\nA clouded mind could affect her performance.	她长叹一声，转身走开了。{w}\n我很庆幸自己决定这样主动接近她。{w}\n思绪混乱会影响她的表现。
+876	map047_a13ecba4	0		If we wanted to win this — everyone would need to be resolute.{w}\nI shouldn't miss {i}any{/i} opportunity to bond with my friends and comrades.{w}\nTheir survival and future would directly relate to their morale.	要想赢下这场战争——每个人都需要意志坚定。{w}\n我不该错过{i}任何{/i}与朋友和战友加深情谊的机会。{w}\n他们的生死与未来，直接取决于他们的士气。
+877	map171_e8e466ac	0		Howl stares off into the ocean, deep in contemplation.{w}\nI imagine that he'd have a lot to think about — and a lot to process.{w}\nLast time we talked, he seemed conflicted about whether or not he fit in.	豪尔凝望着大海，陷入沉思。{w}\n我想他有很多要思考的——也有很多要消化的。{w}\n上次我们交谈时，他似乎对自己能否融入其中感到矛盾。
+878	map171_43815564	0	char_howl	[firstname].	[firstname]。
+879	map171_0e220f97	0		He turns to face me, and gives me a small wave, welcoming me.{w}\nI stand beside him, and we stare off into the ocean together.{w}\nThe sun causes it to glisten, sparkling with a gentle beauty.	他转过身面向我，轻轻挥了挥手，算是欢迎。{w}\n我站到他身旁，我们一起眺望大海。{w}\n阳光让海面波光粼粼，闪烁着柔和的美。
+880	map171_b304b0a3	0	char_howl	We're still conflicted. These thoughts won't go away.\nVisions of needless violence, and senseless destruction.\nYou may tell us that they aren't real — but we're unsure.	我们依旧矛盾。这些念头挥之不去。\n那些无谓的暴力、无意义的毁灭的景象。\n你或许会告诉我们，它们不是真的——可我们不确定。
+881	map171_9fcea484	0	char_howl	The emotions that well up within us are far too real.\nIs it possible for fake events to elicit real emotions?\nOr are we perhaps hearing echoes of the past...?	我们心中涌起的情绪太过真实。\n虚假的事件，真的能激发出真实的情绪吗？\n又或者，我们听到的是过往的回响……？
+882	map171_cfbff339	0		Echoes of the past...? What does he mean?	过往的回响……？他是什么意思？
+883	map171_40cdae93	0	char_howl	Let us phrase it differently. You know visions, yes?\nThe Monarchy used them to guide us to the best possible future.\nHow can you {i}know{/i} that best possible future without trial and error?	让我们换个说法。你知道预言，对吧？\n王权曾用它们引领我们走向最好的未来。\n可你若不经反复试错，又怎会{i}知道{/i}那最好的未来到底是什么？
+884	map171_c87f8bc9	0	char_howl	There would still be many futures left unseen, and many pasts avoided.\nKnowing one {i}true{/i} course of action, requires disregarding millions of wrong ones.\nWhat if we are simply seeing these many avenues? Almost like our visions have evolved.	仍会有许多未来未被得见，许多过往得以避开。\n要知晓一条{i}真正{/i}的行动之路，就得无视数百万条歧途。\n万一我们看到的，只是这诸多路径本身？就好像我们的预言进化了。
+885	map171_29143663	0	char_howl	If not evolved, then perhaps — gotten muddled.\nRather than see the one important future, we see everything.\nWe do not know if this is a good thing or a bad thing, [firstname].	若不是进化了，那或许——是变得混乱了。\n我们看不到那个唯一重要的未来，而是看到了一切。\n我们不知道这是好事还是坏事，[firstname]。
+886	map171_3a402535	0		It kind of makes sense, when you think about it.{w}\nSeeing the best possible future was like one side of a coin.{w}\nThe other side still exists, and it's left covered up — unseen.	仔细想想，这倒也说得通。{w}\n看见最好的未来，就像硬币的一面。{w}\n另一面依然存在，只是被盖住了——不为人所见。
+887	map171_336e47a5	0		Many wrong futures, many wrong choices made.{w}\nThe mind likely blocked these out for a reason.{w}\nMaybe he's sensitive after escaping his prison.	许多错误的未来，许多做错的选择。{w}\n心智将它们屏蔽掉，大概是有原因的。{w}\n也许他逃出牢笼后，变得格外敏感。
+888	map171_b9549eda	0	char_howl	If this is true, then we exist unbound from time.\nA string in a labyrinth, with no one holding the other side.\nNo one to tug — no one to guide us in the right direction.	若真是如此，那我们便游离于时间之外。\n像是迷宫里的一根线，另一端无人牵引。\n无人拉动——无人指引我们走向正确的方向。
+889	map171_ee45299f	0	char_howl	No one, of course — except for you.\nOur visions may be useless at the moment, but are yours?\nWe would recommend that you try inducing a vision, [firstname].	当然无人——除了你。\n我们的预言此刻或许毫无用处，可你的呢？\n我们建议你试着主动引发一次预言，[firstname]。
+890	map171_0c71f3ae	0	char_howl	Not right now, of course. But in your own time.\nHowever, when you do so — we would request a favor.\nIf you see the future, embrace it. But also, look into the past.	当然不是现在。等你方便的时候。\n不过，当你这么做时——我们想请你帮个忙。\n你若看见未来，就拥抱它。但也请回望过去。
+891	map171_d4dc4a6b	0	char_howl	The future you see blossoms from choice and consequence.\nLook back at those choices made, and conjure up the choices {i}unmade{/i}.\nThe loss, the heartbreak, the death. Maybe then you will know what pains us.	你所见的未来，由选择与后果绽放而成。\n回望那些已做出的选择，再想象那些{i}未曾做出{/i}的选择。\n那些失去、心碎、死亡。也许到那时，你就会明白是什么在折磨我们。
+892	map171_96e8df66	0		He's plagued with bad visions. He no longer sees the one true future.{w}\nHe sees {i}everything{/i}, and that is a curse that I would wish upon nobody.{w}\nI can't even imagine how many times he's seen us all die — and for what...?	他被不祥的预言所折磨。他再也看不到那唯一的真实未来。{w}\n他看到{i}一切{/i}，那是我绝不愿加诸任何人的诅咒。{w}\n我甚至无法想象，他见过我们所有人死多少次——又是为了什么……？
+893	map171_bafb844c	0	char_howl	There is only one thing that remains constant throughout these visions.\nYourself, The Blade of Exodus — and the death that it feeds off of.\nThere's something self serving about all three of these things.	在这些预言中，只有一样东西始终不变。\n你自己、流亡之刃——以及它所赖以为生的死亡。\n这三样东西身上，都有某种自私之处。
+894	map171_b7cc4089	0	char_howl	You always have that blade; and the people around you always die.\nWhen they do, it's almost like that makes the blade more powerful.\nIt's like there's an essence released from our bodies when we pass on.	你总是握着那把刃，而身边的人总是死去。\n当他们死去时，几乎就像是让那刃变得更强大。\n仿佛我们逝去时，身体里会释放出某种精魄。
+895	map171_d6b22018	0	char_howl	But is that the essence of life, or the essence of death?\nPerhaps that is a choice the wielder of the blade must make.\nWhat do you think, [firstname]? Is that energy life, or is it death...?	可那是生命的精魄，还是死亡的精魄？\n也许，那是持刃者必须做出的选择。\n你怎么看，[firstname]？那股能量是生命，还是死亡……？
+896	map171_0f09e495	0	char_howl	An interesting thought, to say the least.\nIf it is up to the wielder, at least we know where you stand.\nThat blade is such a mysterious thing, and it grows ever stronger.	至少可以说，这想法很有意思。\n若这取决于持刃者，那至少我们知道你的立场。\n那把刃真是神秘之物，而且正变得愈发强大。
+897	map171_e761f4d8	0		He's almost cryptically telling me what I already know.{w}\nI know that the blade deals with the spirits of its victims.{w}\nThe Triumvirate used it to create their own massive army.	他几乎是在隐晦地告诉我我早已知道的事。{w}\n我知道那把刃会摆布受害者的灵。{w}\n三人执政团曾用它制造出他们自己的庞大军队。
+898	map171_b0261dd7	0		Even if it kept a portion of every soul, it would get stronger with every kill.{w}\nThat, combined with the power of The Monarchy inside...? Immense power.{w}\nA bit ironic if a portion of everybody The Triumvirate killed was used to end them.	即便它只留下每个灵魂的一部分，也会随着每一次杀戮而变强。{w}\n再加上其中王权的力量……？那将是无穷之力。{w}\n要是三人执政团所杀之人的一部分力量，最终被用来终结他们自己，倒有点讽刺。
+899	map171_7e1da29c	0	char_howl	We wonder if you possess this ability as well.\nTo see the past, even while you stand in the present.\nIs this a curse meant only for us, or a gift to be further honed?	我们想知道，你是否也拥有这种能力。\n即便身处当下，也能看见过去。\n这是只为我们而设的诅咒，还是值得进一步磨砺的天赋？
+900	map171_3a926b39	0	char_howl	It eludes our understanding, and we wish to know for sure.\nWhen we come back to the mainland, please return to Valinorth.\nClose your eyes, concentrate on the past, and talk to your comrades.	这超出了我们的理解，我们想确切地弄清楚。\n等我们回到大陆，请你回一趟瓦利诺斯。\n闭上眼，专注于过去，和你的战友们说说话。
+901	map171_bd929099	0	char_howl	Do they speak as they do now, or as they did back then?\nWe think that this answer will be very enlightening for us.\nAnd if it is, then maybe you can understand our plight.	他们说话的样子，是如同现在，还是如同当年？\n我们觉得，这个答案会让我们大受启发。\n若是如此，也许你就能理解我们的困境。
+902	map171_40074fc9	0	char_howl	How do we know where we are, if our surroundings fluctuate?\nWhat if we already had this conversation, and this is but an echo?\nPerhaps we reside at the end of time, simply witnessing our demise.	若周遭反复无常，我们又怎知自己身在何处？\n万一我们早已有过这番对话，而此刻不过是回声呢？\n也许我们身处时间的尽头，只是在旁观自己的消亡。
+903	map171_07cb14f4	0		Okay, now he's lost me.	好吧，这下我听不懂了。
+904	map171_58c09f22	0	char_howl	Sorry, we must appear insane.\nIt's just hard — not being grounded in the present.\nThe one downside of visions. Being lost in time.	抱歉，我们看起来一定像个疯子。\n只是太难了——无法立足于当下。\n这是预言的唯一弊端，迷失在时间里。
+905	map171_afdeb35d	0	char_howl	Dreaming of that brighter future, and ignoring the present.\nLooking back on the past, and focusing on our mistakes.\nWe experience this tenfold. Even mistakes we did not make.	憧憬着那更光明的未来，却忽略了当下。\n回望着过去，却只盯着自己的过错。\n我们十倍地承受着这一切。甚至是并非我们犯下的过错。
+906	map171_a9c8da90	0	char_howl	When we see your death, we feel pain.\nA pain worse than death — the loss of hope.\nThat blade falls to the ground, coated in your blood.	当我们看见你的死亡，我们会感到痛苦。\n一种比死亡更甚的痛苦——希望的丧失。\n那把刃坠落在地，沾满你的鲜血。
+907	map171_68eb2403	0	char_howl	Comrades scream in agony as they befall the same fate.\nThen why do {i}we{/i} stand there, only capable of watching...?\nWe wish to help you avoid this fate. That is our duty.	战友们遭遇同样的命运时，在痛苦中尖叫。\n那么{i}我们{/i}为何只能站在那里，眼睁睁看着……？\n我们想帮你避开这命运。那是我们的职责。
+908	map171_7e3d147e	0	char_howl	We apologize for the lack of sense, [firstname].\nYour time is more valuable than that, limited as it is.\nPerhaps next time we will make more sense of everything.	抱歉说得没头没尾，[firstname]。\n你的时间有限，比这宝贵得多。\n也许下次我们能把一切理得更清楚些。
+909	map171_5ab5228e	0	char_howl	But try not to forget our advice, and our request.\nWe know there is a purpose for all of this. There must be.\nTogether, we will find it, rather than stand here and complain.	但请别忘了我们的建议和请求。\n我们相信这一切都有其目的。一定有的。\n我们会一起找到它，而不是站在这里抱怨。
+910	map171_627e1f50	0		I nod, before leaving him behind. He was suffering, I could tell.{w}\nI had enough trouble dealing with visions of the future. Howl must feel tortured.{w}\nIf there was anything I could do to help him out, I'd have to do it when I had the chance.	我点点头，随即将他留在身后。看得出他正饱受折磨。{w}\n我光是应付未来的预言就已经够呛。豪尔一定痛苦不堪。{w}\n若有什么我能帮上他的，就得抓住机会去做。
+911	map171_1166adbe	0		It's possible that his body just doesn't know how to handle all of that energy.{w}\nI was trained at a young age to handle it, so I had a grasp on what I should be doing.{w}\nIs it possible that, unless trained, someone's mind could be lost in the sea of time...?	也许只是他的身体不知该如何承受那些能量。{w}\n我自幼受过训练，所以清楚自己该做什么。{w}\n会不会是，若未经训练，人的心智就可能迷失在时间的海洋里……？
+912	map171_b2e32f1c	0		Perhaps, I suppose. But that is a topic for another day.{w}\nI return to the deck of the ship, keeping a watchful eye on my comrades.{w}\nOn my watch, they would never meet the grisly fate that Howl had witnessed.	也许吧，我想。但那是改天再谈的话题。{w}\n我回到船的甲板上，留神看顾着我的战友们。{w}\n有我在守着，他们绝不会遭遇豪尔所目睹的那种惨烈命运。
+913	map171_41caaf18	0		For a moment, I decide to stare into the sea, watching the waves and ripples.{w}\nI could've looked ahead, to the future. Toward Alarinthia — our final destination.{w}\nBut for a moment, I consider looking away from the path we've set in stone.	有那么一刻，我决定凝望大海，看着波浪与涟漪。{w}\n我本可以向前看，看向未来。看向阿拉林西亚——我们的最终目的地。{w}\n但有一瞬间，我考虑把目光从我们已定死的道路上移开。
+914	map171_cf49624d	0		The sea continues to move, living a life of its own, despite our interference.	大海依旧翻涌不息，自成其生，全然不顾我们的干涉。
+915	click_map154_10_EV010_e7b93957	0		Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart.	目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。
+916	click_map154_11_EV011_e7b93957	0		Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart.	目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。
+917	click_map154_12_EV012_e7b93957	0		Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart.	目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。
+918	click_map154_13_EV013_e7b93957	0		Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart.	目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。
+919	click_map154_14_EV014_e7b93957	0		Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart.	目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。
+920	click_map154_15_EV015_e7b93957	0		Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart.	目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。
+921	click_map154_23_EV023_4ee7740e	0	char_mylus	You are not my Father.	你不是我的父亲。
+922	click_map154_23_EV023_81bb5a5d	0	char_howl	Do you say this to inform us, or to console {i}yourself{/i}?	你说这话，是为了告知我们，还是为了安慰{i}你自己{/i}？
+923	click_map154_23_EV023_344d6606	0	char_mylus	Huh...?	嗯……？
+924	click_map154_23_EV023_f0888075	0	char_howl	This question was self explanatory.	这个问题不言自明。
+925	click_map154_23_EV023_fb1d46aa	0	char_mylus	It's just — I should be mad at you. Furious.\nYou defile the memory and likeness of my Father.	只是——我本该生你的气。暴怒才对。\n你玷污了我父亲的记忆与模样。
+926	click_map154_23_EV023_e76bc392	0	char_howl	Do we...?\nIt seems that \"Salus\" was an honorable man.\nAre we not carrying out his final wishes?	是吗……？\n看来“萨卢斯”是位可敬的人。\n我们难道不是在完成他最后的遗愿吗？
+927	click_map154_23_EV023_566115b7	0	char_mylus	What?	什么？
+928	click_map154_23_EV023_ffc00b28	0	char_howl	The freedom of Alestia. The destruction of The Triumvirate.\nWhen you look at it that way, it seems as if we defile nothing.	阿拉斯提亚的自由。三人执政团的覆灭。\n若从这个角度看，我们似乎什么都没有玷污。
+929	click_map154_23_EV023_1b728418	0	char_mylus	I... I don't know.	我……我不知道。
+930	click_map154_23_EV023_7a436d22	0	char_howl	What are you wishing to know?	你想知道什么？
+931	click_map154_23_EV023_30e2f090	0	char_mylus	I want to know how I should feel right now!\nThis is just so bizarre — I have no idea what to do.\nBack in Valinorth, things were so simple, and easy.	我想知道我现在到底该怎么想！\n这太离奇了——我完全不知道该怎么办。\n在瓦利诺斯的时候，一切都那么简单、轻松。
+932	click_map154_23_EV023_ee99b51e	0	char_howl	Why must you do anything?\nYou could mull over this development for years, you know.\nAt the end of the day, you should do something more useful.	你何必非得做点什么？\n你知道，这事你大可以琢磨上好几年。\n说到底，你该去做些更有用的事。
+933	click_map154_23_EV023_6758af8e	0	char_mylus	Like what?	比如什么？
+934	click_map154_23_EV023_2649fa4c	0	char_howl	This is not for us to decide.\nBut have no worries, we will take care of this body.\nAnd using it, we will do everything we can to honor your Father.	这不是能由我们决定的。\n但别担心，我们会照看好这具身体。\n借助它，我们会竭尽所能，以彰显你父亲的荣光。
+935	click_map154_23_EV023_5a0af2c0	0	char_mylus	Thank you...\nI'll let you know if I think of anything.\nThis might take a while for me to understand.	谢谢你……\n我要是想到什么，会告诉你的。\n这大概需要些时间我才能弄明白。
+936	click_map154_23_EV023_dec22d64	0	char_howl	Very well, but please remember this.\nLack of understanding is not a fault. In fact, it can be a strength.\nYou flourished even though you did not know the truth of the spirits.	很好，但请记住这一点。\n不懂并非过错。事实上，它也可以是一种力量。\n即便不知灵体的真相，你也茁壮成长至今。
+937	click_map154_23_EV023_9dfbc127	0	char_mylus	You're right...\nI think I need some time alone.\nI'll be down in the crew quarters, Howl.	你说得对……\n我想我需要一个人静一静。\n我会在下面的船员舱，豪尔。
+938	map155_64e512a4	0		I make my way down into the crew area of the ship.{w}\nMy bed isn't too hard to find, and at least I have privacy.{w}\nI find myself remembering what Gryz told me about the blade.	我下到船上的船员区。{w}\n我的床不难找，至少这里还有私密可言。{w}\n我不由想起格瑞兹告诉过我的关于那把刃的事。
+939	map155_1ff0362c	0		It bends to the will of the wielder. That much was true.{w}\nI've been able to use it to accomplish so much already.{w}\nBut what are the true limits of its power? Did I want to know?	它顺应持刃者的意志。这一点确实不假。{w}\n我已经能用它完成这么多事了。{w}\n可它力量的真正极限在哪里？我想知道吗？
+940	map155_ff661b3f	0		I rest the blade on my bed and sit beside it, cross-legged.{w}\nClosing my eyes, I start to focus, and clear my mind.{w}\nThis is probably a good time to test my limits.	我把刃放在床上，盘腿坐在旁边。{w}\n闭上眼，我开始凝神，清空思绪。{w}\n这大概是个测试自己极限的好时机。
+941	map155_88ca8a8c	0		Blade of Exodus — show me our victory.	流亡之刃——向我展现我们的胜利。
+942	map155_ac1a412c	0		I reach forward, and gently touch the blade.{w}\nMy eyes are shut tight, and my resolve is clear.{w}\nYet, try and wish as I might — nothing happens at all.	我伸出手，轻轻触碰那把刃。{w}\n我双目紧闭，心意坚定。{w}\n可无论我怎样尝试、怎样期盼——什么也没有发生。
+943	map155_473f70ed	0		Did the blade have nothing to show me?{w}\nOr maybe, was I scared of seeing the future?{w}\nIt could be worse. Was there no victory in sight...?	是那把刃无物可给我看吗？{w}\n又或者，是我害怕看见未来？{w}\n情况可能更糟。难道看不到任何胜利……？
+944	map155_9b881887	0		I pull back, and open my eyes. It didn't work.{w}\nI scoff, and rest the blade at my bedside, concerned.{w}\nI drift off to sleep, with an anxiety that wasn't there before.	我收回手，睁开眼。没有成功。{w}\n我嗤了一声，忧心地把刃放在床边。{w}\n我沉沉睡去，带着一份此前不曾有过的焦虑。
+945	map155_c265fc58	0		When I wake up, I see the sun pierce through the windows.{w}\nWith everything I was told — that means we're in Alarinthia.{w}\nI grab the blade, and immediately get out of bed.	醒来时，我看见阳光穿过窗棂。{w}\n按我听说的种种——这意味着我们到了阿拉林西亚。{w}\n我抓起那把刃，立刻下了床。
+946	map155_be5ede46	0		Running around the ship, I see nobody in sight.{w}\nDid they leave without me...? That's odd.{w}\nOr maybe they let me sleep in.	我在船上四处跑了一圈，一个人影也没看见。{w}\n他们难道丢下我走了……？真奇怪。{w}\n又或许，他们让我多睡了会儿。
+947	map155_b6f103da	0		After everything that happened, I guess I'm thankful.{w}\nI search for a map of Alarinthia, and inspect it closely.{w}\nIf they left, then I should be able to meet them at the docks.	经历这一切之后，我想我是心怀感激的。{w}\n我找了张阿拉林西亚的地图，仔细查看。{w}\n若他们先走了，我该能在码头与他们会合。
+948	click_map158_5_EV005_e7b93957	0		Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart.	目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。
+949	click_map158_6_EV006_e7b93957	0		Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart.	目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。
+950	click_map158_7_EV007_e7b93957	0		Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart.	目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。
+951	click_map158_8_EV008_e7b93957	0		Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart.	目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。
+952	click_map158_9_EV009_e7b93957	0		Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart.	目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。
+953	click_map158_10_EV010_e7b93957	0		Cannot access content at this time.\nIf there is an X, you must complete preceding Heart-to-Hearts.\nIf there is a checkmark, you must move on to the next Heart-to-Heart.	目前无法访问此内容。\n若显示叉号，你必须先完成前置的心灵对话。\n若显示对勾，你必须前往下一个心灵对话。
+954	click_map158_24_EV024_4ee7740e	0	char_mylus	You are not my Father.	你不是我的父亲。
+955	click_map158_24_EV024_81bb5a5d	0	char_howl	Do you say this to inform us, or to console {i}yourself{/i}?	你说这话，是为了告知我们，还是为了安慰{i}你自己{/i}？
+956	click_map158_24_EV024_344d6606	0	char_mylus	Huh...?	嗯……？
+957	click_map158_24_EV024_f0888075	0	char_howl	This question was self explanatory.	这个问题不言自明。
+958	click_map158_24_EV024_fb1d46aa	0	char_mylus	It's just — I should be mad at you. Furious.\nYou defile the memory and likeness of my Father.	只是——我本该生你的气。暴怒才对。\n你玷污了我父亲的记忆与模样。
+959	click_map158_24_EV024_e76bc392	0	char_howl	Do we...?\nIt seems that \"Salus\" was an honorable man.\nAre we not carrying out his final wishes?	是吗……？\n看来“萨卢斯”是位可敬的人。\n我们难道不是在完成他最后的遗愿吗？
+960	click_map158_24_EV024_566115b7	0	char_mylus	What?	什么？
+961	click_map158_24_EV024_ffc00b28	0	char_howl	The freedom of Alestia. The destruction of The Triumvirate.\nWhen you look at it that way, it seems as if we defile nothing.	阿拉斯提亚的自由。三人执政团的覆灭。\n若从这个角度看，我们似乎什么都没有玷污。
+962	click_map158_24_EV024_1b728418	0	char_mylus	I... I don't know.	我……我不知道。
+963	click_map158_24_EV024_7a436d22	0	char_howl	What are you wishing to know?	你想知道什么？
+964	click_map158_24_EV024_30e2f090	0	char_mylus	I want to know how I should feel right now!\nThis is just so bizarre — I have no idea what to do.\nBack in Valinorth, things were so simple, and easy.	我想知道我现在到底该怎么想！\n这太离奇了——我完全不知道该怎么办。\n在瓦利诺斯的时候，一切都那么简单、轻松。
+965	click_map158_24_EV024_ee99b51e	0	char_howl	Why must you do anything?\nYou could mull over this development for years, you know.\nAt the end of the day, you should do something more useful.	你何必非得做点什么？\n你知道，这事你大可以琢磨上好几年。\n说到底，你该去做些更有用的事。
+966	click_map158_24_EV024_6758af8e	0	char_mylus	Like what?	比如什么？
+967	click_map158_24_EV024_2649fa4c	0	char_howl	This is not for us to decide.\nBut have no worries, we will take care of this body.\nAnd using it, we will do everything we can to honor your Father.	这不是能由我们决定的。\n但别担心，我们会照看好这具身体。\n借助它，我们会竭尽所能，以彰显你父亲的荣光。
+968	click_map158_24_EV024_5a0af2c0	0	char_mylus	Thank you...\nI'll let you know if I think of anything.\nThis might take a while for me to understand.	谢谢你……\n我要是想到什么，会告诉你的。\n这大概需要些时间我才能弄明白。
+969	click_map158_24_EV024_dec22d64	0	char_howl	Very well, but please remember this.\nLack of understanding is not a fault. In fact, it can be a strength.\nYou flourished even though you did not know the truth of the spirits.	很好，但请记住这一点。\n不懂并非过错。事实上，它也可以是一种力量。\n即便不知灵体的真相，你也茁壮成长至今。
+970	click_map158_24_EV024_9dfbc127	0	char_mylus	You're right...\nI think I need some time alone.\nI'll be down in the crew quarters, Howl.	你说得对……\n我想我需要一个人静一静。\n我会在下面的船员舱，豪尔。
+971	click_map228_4_EV004_9e20921f	0		Travelling to Balteus is the point of no return.{w}\nMake sure you have completed all the content you desire.{w}\nThere will be no coming back, as Act Five is the finale.	前往巴尔泰乌斯便是有去无回。{w}\n请确保你已完成所有想体验的内容。{w}\n一旦前往便无法回头，因为第五幕即是终章。
+972	click_map228_5_EV005_28a25991	0		You chose to play along with Damek, and convert Peregrino into a barracks.	你选择配合达梅克，将佩雷格里诺改建为兵营。
+973	click_map228_5_EV005_9a053f54	0		You chose to keep Peregrino intact, remaining as a tavern.	你选择保留佩雷格里诺原貌，让它继续作为酒馆。
+974	click_map228_6_EV006_de6d0125	0		You elected Fortaime as the Elder of Valinorth.	你推举福泰姆为瓦利诺斯的长老。
+975	click_map228_6_EV006_8bce3143	0		You elected Valessa as the Elder of Valinorth.	你推举瓦莱莎为瓦利诺斯的长老。
+976	click_map228_7_EV007_e0f136c0	0		You chose to form a treaty with Nada.	你选择与娜达缔结条约。
+977	click_map228_7_EV007_7344ba4e	0		You chose to form a treaty with Alex.	你选择与亚历克斯缔结条约。
+978	click_map228_8_EV008_582cceea	0		You let Gryz have his redemption.	你让格瑞兹得到了他的救赎。
+979	click_map228_8_EV008_f59245f1	0		You tapped into the power of the Spirit Idol yourself.	你亲自引动了灵像的力量。
+980	click_map228_9_EV009_c5a515b4	0		You used the spiritual energy to create Monarch Vessels.	你用这股灵能量制造了君主容器。
+981	click_map228_9_EV009_ef5cd4d5	0		You used the spiritual energy to create Artificial Seers.	你用这股灵能量制造了人造先知。
+982	click_map228_10_EV010_d9d8e612	0		You appointed Howl as the Monarch Advisor.	你任命豪尔为君主顾问。
+983	click_map228_10_EV010_de299b7b	0		You appointed Damek as the Monarch Advisor.	你任命达梅克为君主顾问。
+984	click_map228_11_EV011_04ffd5db	0		You allied yourself with Vivien in the Coliseum.	你在竞技场与薇薇安结盟。
+985	click_map228_11_EV011_9e16c7b9	0		You allied yourself with Draycu in the coliseum.	你在竞技场与德雷库结盟。
+986	click_map228_13_EV013_f7b8424f	0		You let Sovy assist The Rebellion.	你让索维协助反抗军。
+987	click_map228_13_EV013_d0ff6783	0		You denied Sovy's offer of assistance.	你拒绝了索维的协助提议。
+988	click_map050_24_EV024_e0f136c0	0		You chose to form a treaty with Nada.	你选择与娜达缔结条约。
+989	click_map050_24_EV024_7344ba4e	0		You chose to form a treaty with Alex.	你选择与亚历克斯缔结条约。
+990	map062_021750c6	0		A few hours later, we finally arrive at the gates of Mazeo.{w}\nThere's nobody in sight, save for one lonely gate guard.{w}\nHe stands there, kicking his foot back and forth. Slow day?	几个小时后，我们终于抵达马泽奥的城门前。{w}\n除了一个孤零零的城门守卫，四下空无一人。{w}\n他站在那儿，一只脚来回踢着地面。今天没什么事？
+991	map062_12b5ad5e	0	char_pro	Great, it's Carmen!	太好了，是卡门！
+992	map062_1b5d77da	0	char_valessa	Who?	谁？
+993	map062_bdf52516	0	char_pro	Basically, the {i}one{/i} gate guard I'm comfortable with.\nLeave this one to me, we'll be in Mazeo before you know it.	基本上，是我唯一处得来的{i}那个{/i}城门守卫。\n这个交给我，一转眼我们就能进马泽奥了。
+994	map062_75b47f92	0		He smirks, and starts striding toward Carmen.{w}\nBut before he can get too far, Ulric grabs him by the shoulder.{w}\nHolding him in place, Pro protests by squirming and trying to break free.	他咧嘴一笑，大步朝卡门走去。{w}\n可他还没走出多远，乌尔里克一把抓住了他的肩膀。{w}\n普洛被摁在原地，扭动着身子挣扎，以示抗议。
+995	map062_284f9ec4	0	char_pro	Hey, let go!\nWe don't have much time to waste.	嘿，放手！\n我们没多少时间可以浪费。
+996	map062_d86a25eb	0	char_ulric	There's another way.	还有别的办法。
+997	map062_7c4a2e25	0		Ulric glances over at Valessa, Fortaime and I.{w}\nI'm not sure what he meant by \"another way\".{w}\nWas there something {i}we{/i} could do here...?	乌尔里克朝瓦莱莎、福泰姆和我瞥了一眼。{w}\n我不确定他那句“还有别的办法”是什么意思。{w}\n难道这里有{i}我们{/i}能做的事……？
+998	map062_87516d2c	0	char_pro	Oh, come on!\nI had a whole routine worked out, Ulric.\nMine will work for sure. With them, it's a risk.	哦，别这样！\n乌尔里克，我可是准备了一整套说辞。\n我的一定管用。靠他们，有风险。
+999	map062_47ee1113	0	char_ulric	I just want to see how they handle this.\nDiplomacy will be really important moving forward.\nShouldn't we let them get some practice...?	我只是想看看他们怎么应对。\n往后，外交手腕会非常重要。\n难道不该让他们练练手吗……？
+1000	map062_e8b9aa1f	0		I have enough of their cryptic conversation, and step forward.{w}\nAsking them what they meant, I politely request an explanation.{w}\nIf there was something they needed to say, there was no point in hiding it.	我受够了他们这番云里雾里的对话，走上前去。{w}\n我问他们是什么意思，客客气气地请他们解释清楚。{w}\n若他们有什么话要说，藏着掖着也没有意义。
+1001	map062_41e11577	0	char_pro	The new Elder of Valinorth...	瓦利诺斯的新任长老……
+1002	map062_92ce701f	0	char_ulric	Yeah.	是啊。
+1003	map062_2fb9de5d	0		He smiles and keeps his gaze set on all three of us.{w}\nI'm starting to get an idea of what they're talking about.	他微笑着，目光始终落在我们三人身上。{w}\n我渐渐明白他们在说什么了。
+1004	map062_012ade4d	0	char_ulric	Valessa, come here.	瓦莱莎，过来。
+1005	map062_77c941db	0		She looks a bit startled at the sudden demand, but slowly steps forward.{w}\nI can sense her apprehension at being put on the spot. I know that feeling.	这突如其来的要求让她有些吃惊，但她还是慢慢走上前。{w}\n我能感到她被当众点名的忐忑。那种感觉我懂。
+1006	map062_60be331e	0	char_valessa	What can I do for you, Ulric?	有什么我能帮你的吗，乌尔里克？
+1007	map062_af52351e	0	char_ulric	This is your first time coming to Mazeo, right?\nThe relationship between both of our nations is important.\nHow we handle this situation could have a big impact.	这是你第一次来马泽奥，对吧？\n我们两国之间的关系很重要。\n我们如何处理这件事，可能会产生很大的影响。
+1008	map062_4c36266d	0	char_valessa	In what way...?	以什么方式……？
+1009	map062_0cae1a58	0	char_ulric	Pro wants to lie his way in. That's what he does best.\nNot that it's a bad thing, of course — it usually works wonders.\nBut at the end of the day, you {i}are{/i} the Elder of Valinorth.	普洛想靠撒谎混进去。那是他最拿手的。\n当然，这倒不是说那是坏事——通常都能立竿见影。\n但说到底，你{i}毕竟是{/i}瓦利诺斯的长老。
+1010	map062_c5205ac3	0	char_ulric	If you'd prefer, {i}you{/i} can try talking to Carmen.\nSee if you can reason with him, and get our entry granted.\nYour role as The Elder can't stay hidden forever.	若你愿意，也可以由{i}你{/i}试着和卡门谈谈。\n看看能否说服他，让我们获准进城。\n你作为长老的身份不可能永远藏着。
+1011	map062_32599e2d	0	char_ulric	What would the people think if someone like you was accomplice to deceit?\nWord has its way of travelling around. It {i}could{/i} find its way back to you.\nAside from The Rebellion, you have to make an impact on Mazeo's people.	若是你这样的人成了欺诈的帮凶，人们会怎么想？\n流言自会四散传播。它{i}可能{/i}会绕回到你身上。\n除了反抗军，你还得在马泽奥的民众心中留下影响。
+1012	map062_e2f8c7f5	0	char_ulric	The question is, what kind of impact should that be...?	问题是，那该是怎样的影响……？
+1013	map062_d1d70e3e	0	char_valessa	I guess this is a lot more complicated than I originally thought.	我想这比我原先以为的要复杂得多。
+1014	map062_356980bc	0	char_ulric	Everything will be complicated now, Valessa.\nDon't do {i}anything{/i} lightly from this point forward.	从现在起，一切都会变得复杂，瓦莱莎。\n从今往后，别轻率地做{i}任何事{/i}。
+1015	map062_b4b9f30c	0		Ulric made a very good point, and we had better give it some thought.{w}\nEverything we did from now on would affect the relationship between our nations.{w}\nWe were no longer just focused on The Rebellion, but Mazeo-Valinorth relations.	乌尔里克说得很有道理，我们最好认真想想。{w}\n从今往后我们所做的一切，都会影响两国之间的关系。{w}\n我们关注的不再只是反抗军，而是马泽奥与瓦利诺斯的关系。
+1016	map062_3a18dc7e	0		It seems that Mylus' resignation left a lot more responsibility on our laps.{w}\nI shrug, and turn toward Valessa and Fortaime. We start to discuss the matter.	看来迈勒斯的辞职，给我们肩上压了更多的责任。{w}\n我耸耸肩，转向瓦莱莎和福泰姆。我们开始商议此事。
+1017	map062_08569a67	0	char_ulric	Fortaime, come here.	福泰姆，过来。
+1018	map062_f1857bb2	0		He looks a bit startled at the sudden demand, but slowly steps forward.{w}\nI can sense his apprehension at being put on the spot. I know that feeling.	这突如其来的要求让他有些吃惊，但他还是慢慢走上前。{w}\n我能感到他被当众点名的忐忑。那种感觉我懂。
+1019	map062_d85cfcc8	0	char_fortaime	Wh-what's up...?	什、什么事……？
+1020	map062_af52351e_1	0	char_ulric	This is your first time coming to Mazeo, right?\nThe relationship between both of our nations is important.\nHow we handle this situation could have a big impact.	这是你第一次来马泽奥，对吧？\n我们两国之间的关系很重要。\n我们如何处理这件事，可能会产生很大的影响。
+1021	map062_360abafa	0	char_fortaime	Really? What do you mean?	真的？你什么意思？
+1022	map062_0cae1a58_1	0	char_ulric	Pro wants to lie his way in. That's what he does best.\nNot that it's a bad thing, of course — it usually works wonders.\nBut at the end of the day, you {i}are{/i} the Elder of Valinorth.	普洛想靠撒谎混进去。那是他最拿手的。\n当然，这倒不是说那是坏事——通常都能立竿见影。\n但说到底，你{i}毕竟是{/i}瓦利诺斯的长老。
+1023	map062_1b97500f	0	char_ulric	If you'd prefer, {i}you{/i} can try talking to Carmen.\nSee if you can reason with him, and get our entry granted.\nYour role as The Elder can't stay hidden forever.	若你愿意，也可以由{i}你{/i}试着和卡门谈谈。\n看看能否说服他，让我们获准进城。\n你作为长老的身份不可能永远藏着。
+1024	map062_364376ed	0	char_ulric	What would the people think if someone like you was accomplice to deceit?\nWord has its way of travelling around. It {i}could{/i} find its way back to you.\nAside from The Rebellion, you have to make an impact on Mazeo's people.	若是你这样的人成了欺诈的帮凶，人们会怎么想？\n流言自会四散传播。它{i}可能{/i}会绕回到你身上。\n除了反抗军，你还得在马泽奥的民众心中留下影响。
+1025	map062_d2334539	0	char_ulric	The question is, what kind of impact should that be...?	问题是，那该是怎样的影响……？
+1026	map062_2b376fd2	0	char_fortaime	Whoa, this is way more complicated than I thought.	哇，这比我想的要复杂多了。
+1027	map062_fb43b5be	0	char_ulric	Everything will be complicated now, Fortaime.\nDon't do {i}anything{/i} lightly from this point forward.	从现在起，一切都会变得复杂，福泰姆。\n从今往后，别轻率地做{i}任何事{/i}。
+1028	map062_b4b9f30c_1	0		Ulric made a very good point, and we had better give it some thought.{w}\nEverything we did from now on would affect the relationship between our nations.{w}\nWe were no longer just focused on The Rebellion, but Mazeo-Valinorth relations.	乌尔里克说得很有道理，我们最好认真想想。{w}\n从今往后我们所做的一切，都会影响两国之间的关系。{w}\n我们关注的不再只是反抗军，而是马泽奥与瓦利诺斯的关系。
+1029	map062_3a18dc7e_1	0		It seems that Mylus' resignation left a lot more responsibility on our laps.{w}\nI shrug, and turn toward Valessa and Fortaime. We start to discuss the matter.	看来迈勒斯的辞职，给我们肩上压了更多的责任。{w}\n我耸耸肩，转向瓦莱莎和福泰姆。我们开始商议此事。
+1030	map062_0a6c633a	0	char_valessa	What should we do...?	我们该怎么办……？
+1031	map062_6707371b	0	char_fortaime	Hmm...	唔……
+1032	map062_9bf3ef2d	0		I stop and think, before coming to the best possible conclusion.{w}\nWe should let Pro handle this situation, and lay low.{w}\nIt wasn't worth exposing our identities to Carmen.	我停下来思索，最终得出一个尽可能好的结论。{w}\n我们该让普洛来处理这局面，自己低调行事。{w}\n为卡门暴露我们的身份，不值得。
+1033	map062_c49aafa9	0		If word travelled fast, we shouldn't put a label on ourselves.{w}\nThe Seer and The Elder of Valinorth would be rather large targets.{w}\nThis entire endeavor was about remaining out of sight.	若消息传得快，我们就不该给自己贴上标签。{w}\n先知与瓦利诺斯的长老，会成为相当显眼的靶子。{w}\n这整件事的关键，就是隐匿行踪。
+1034	map062_2509344c	0		We'd have to take the chance that our identities wouldn't leak.{w}\nThat way, Pro could get us anonymous entry into Mazeo.{w}\nHe seemed to know Carmen as well, so he has an edge.	我们只能赌一把，相信身份不会泄露。{w}\n这样，普洛就能让我们匿名进入马泽奥。{w}\n他似乎还认识卡门，所以占了优势。
+1035	map062_1fcb3a4b	0	char_pro	Good — just what I wanted to hear.\nI knew that your group had some common sense.\nWatch and learn, you're about to see the master at work.	很好——正合我意。\n我就知道你们这伙人还是有点常识的。\n看好了学着点，你们马上要见到大师出手了。
+1036	map062_c8d51b8d	0		He cracks his knuckles and approaches Carmen, while we watch.{w}\nWhatever he had in mind, we'd just have to sit back and let it unfold.	他掰了掰指关节，朝卡门走去，我们在旁看着。{w}\n不管他心里打的什么主意，我们都只能退到一边，任其发展。
+1037	map062_6d04a558	0	char_pro	Hey, Carmen!	嘿，卡门！
+1038	map062_800333c3	0	char_jit_map062_1_0_459	Who are you...?	你是谁……？
+1039	map062_febfee4d	0	char_pro	Oh, you know. I've seen you around.\nYou seem to like the tavern, even sometimes \"on-shift\".\nI think I counted four illegal entries last week alone?	哦，你知道的，我见过你。\n你似乎挺喜欢那家酒馆，有时还是“值班”的时候。\n我记得光上周，我就数到四次非法入城了吧？
+1040	map062_9d7fa4f6	0	char_jit_map062_1_0_459	Hmm...	唔……
+1041	map062_fd1377d7	0		This is his idea of charming!?{w}\nI almost step forward to intervene, but Ulric stops me.{w}\nHe seems to think this situation is under control.	这就是他所谓的魅力！？{w}\n我几乎要上前插手，却被乌尔里克拦住。{w}\n他似乎认为局面仍在掌控之中。
+1042	map062_a8ac9dcd	0	char_pro	That wouldn't look good on your record, would it?\nYou need this job to provide for your family.\nThose are some pretty big missteps, Carmen.	那写在你的档案里可不好看，对吧？\n你需要这份工作来养家。\n这些可都是相当严重的失职，卡门。
+1043	map062_6d28ba2d	0	char_jit_map062_1_0_459	This isn't going to work.	这招不管用。
+1044	map062_12f18af2	0	char_pro	Who said I'm trying anything...?\nI'm just trying to give you a friendly warning.	谁说我耍什么花招了……？\n我只是想给你个善意的提醒。
+1045	map062_177722e0	0	char_jit_map062_1_0_459	Sounds more like a threat, to me.\nGet this over with, I have a long shift ahead of me.	在我看来，那更像是威胁。\n有话快说，我还得值一整天的班。
+1046	map062_4ba78e30	0	char_pro	It won't be much longer if I tell Gryz about this.	要是我把这事告诉格瑞兹，你这班就值不久了。
+1047	map062_d779d970	0	char_jit_map062_1_0_459	Heh. You can't tell Gryz if I don't let you in.	呵。你不让我进去，就没法告诉格瑞兹。
+1048	map062_282f5148	0	char_pro	Wow. You've done this before, huh?	哇。你以前干过这事，是吧？
+1049	map062_b4ca678f	0	char_jit_map062_1_0_459	You're the fifth one today.	你是今天第五个了。
+1050	map062_a468e3b1	0		Pro lets out a deep sigh, and paces in a circle a few times.	普洛长叹一声，原地转着圈踱了几步。
+1051	map062_faeaf8f4	0	char_pro	I didn't want it to come to this, but here we go.\nWe all need passage into Mazeo — with no questions asked.\nIt needs to stay off the record. You know, like your other failures.	我本不想闹到这地步，但那就来吧。\n我们都需要进马泽奥——不许盘问。\n这事不能记录在案。你懂的，就像你其他的失职一样。
+1052	map062_8825bce4	0	char_pro	As I said before, I know about your family. I know {i}everything{/i}.\nI also have insider knowledge of something coming to Mazeo.\nThe pirates are about to make a power play against The Mayor.	就像我之前说的，我知道你家里的情况。我{i}什么{/i}都知道。\n我还掌握着一些内幕，关于即将降临马泽奥的事。\n海盗们要对市长动手，夺取权力。
+1053	map062_df3247eb	0	char_jit_map062_1_0_459	Sure they are.\nWhy would I let you in now...?\nI bet that info was your trump card.	是啊，肯定。\n我干吗现在放你进去……？\n我猜那条消息就是你的王牌吧。
+1054	map062_6edf8d4b	0	char_pro	No. Your {i}family{/i} is my trump card.\nLet me in, and I'll tell you their key targets.\nThat way you can get your family out of the way.	不。你的{i}家人{/i}才是我的王牌。\n放我进去，我就告诉你他们的主要目标。\n这样你就能把家人转移到安全的地方。
+1055	map062_6c762d0c	0	char_jit_map062_1_0_459	Why should I believe you...?	我凭什么相信你……？
+1056	map062_07ec17f3	0	char_pro	You don't have to. I don't care if your family dies.\nIt seems to me like you're the one that would want this info.\nAnd whether you believe me or not? That's {i}your{/i} gamble.	你不必信。你家人死不死，我不在乎。\n在我看来，想要这条消息的是你自己。\n至于你信不信我？那是{i}你{/i}的赌注。
+1057	map062_6fb9ece6	0	char_pro	But I {i}did{/i} know about your little tavern adventures.\nAnd exactly how many slipped through your grasp last week.\nDo you really wanna chance that {i}this{/i} information is false?	可我{i}确实{/i}知道你在酒馆的那些小动作。\n也知道上周究竟有多少人从你眼皮底下溜进去。\n你真想赌{i}这{/i}条消息是假的吗？
+1058	map062_014315ab	0	char_pro	Besides, what's a few more numbers on your list of failures?\nIt's not like we're gonna go squealing on you. We need discretion.\nSo just let us through, and nobody will know what happened here.	再说，你的失职清单上再多几条又何妨？\n我们又不会去告发你。我们需要的是低调。\n所以放我们进去，没人会知道这里发生过什么。
+1059	map062_dcb392f3	0	char_pro	The only difference is that you'll get to embrace your family again.\nThat's not something I can guarantee if you don't work with me, here.	唯一的区别在于，你还能再次拥抱你的家人。\n可如果你在这里不跟我合作，这我可保证不了。
+1060	map062_95b0f49b	0		Pro crosses his arms, and awaits a response.{w}\nAll of us are shocked, but Ulric smirks, seemingly amused.{w}\nWas this normal for Pro? Or was he putting on an act?	普洛抱臂而立，等着回应。{w}\n我们全都震惊了，乌尔里克却咧嘴一笑，似乎觉得很有趣。{w}\n这是普洛的常态吗？还是他在演戏？
+1061	map062_3bffd92f	0		After a while, Carmen simply lets out a sigh.	过了一会儿，卡门只是叹了口气。
+1062	map062_141a7359	0	char_jit_map062_1_0_459	Wow, you're a pro.	哇，你可真专业。
+1063	map062_069c99d5	0	char_pro	That's what they call me.	大家都这么叫我。
+1064	map062_54d29378	0		He smirks, and places a hand on Carmen's shoulder.{w}\nTogether, they walk away from the gate, out of earshot.{w}\nPro leans forward, and starts whispering quietly.	他咧嘴一笑，把一只手搭在卡门肩上。{w}\n两人一起走到城门外的僻静处，远离旁人。{w}\n普洛凑上前，开始低声耳语。
+1065	map062_693bd447	0		A few moments later, he returns to our side.{w}\nCarmen walks back to the gate, but no longer blocks it.{w}\nA smile appears on his face, as he won his family's safety.	片刻之后，他回到我们身边。{w}\n卡门走回城门旁，却不再挡路。{w}\n他脸上浮现出笑容，因为他为家人赢得了平安。
+1066	map062_4d687f93	0	char_pro	Well then, how'd I do...?	那么，我干得怎么样……？
+1067	map062_35b276b2	0	char_fortaime	That was insane...!\nThe pirates are going to attack!?	太疯狂了……！\n海盗要发动袭击！？
+1068	map062_916ec4fc	0	char_pro	Nah, I just made it up.\nSeemed to work fine though, right?\nIt only requires a couple facts to win someone's trust.	不，那是我瞎编的。\n不过看起来挺管用，对吧？\n要赢得一个人的信任，只需几条事实就够了。
+1069	map062_ad83aea1	0	char_valessa	That was awful...!\nPro, how could you do something like that?	太恶劣了……！\n普洛，你怎么能做出这种事？
+1070	map062_38ca22c6	0	char_pro	It was pretty easy, actually.\nLook at what hung in the balance.\nThankfully? We're in the clear.	其实挺容易的。\n看看当时悬着的是什么。\n还好？我们顺利过关了。
+1071	map062_583382d2	0		It was impossible to tell what may come from this.{w}\nWhether we agreed with Pro or not, he got the job done.	没人说得清这会带来什么后果。{w}\n不管我们同不同意普洛的做法，他确实把事情办成了。
+1072	map062_b894d89f	0		I stop and think, but come to a conclusion that I believe is the best.{w}\nWe shouldn't hide our identities, and we should stick to diplomacy.{w}\nIt's better than setting something up that's bound to backfire on us.	我停下来思索，得出一个我认为最好的结论。{w}\n我们不该隐瞒身份，应当以外交手段行事。{w}\n总比设下一个注定会反噬我们的局要好。
+1073	map062_fc0080f7	0		I turn to Valessa, and give her a nod.{w}\nI guess this would be her first political move as Elder.{w}\nWe just had to hope that Carmen was willing to play ball.	我转向瓦莱莎，朝她点了点头。{w}\n我想这会是她就任长老后的头一次政治举措。{w}\n我们只能指望卡门愿意配合。
+1074	map062_bd13e026	0		She takes slow confident steps toward him, until he notices her.{w}\nWhen he does, she steps, and crosses her arms, ready to talk.	她迈着缓慢而自信的步伐走向他，直到他注意到她。{w}\n他一看过来，她便停下脚步，抱臂而立，准备开口。
+1075	map062_09170aa6	0	char_jit_map062_1_0_825	Do you have an entry permit?	你有入城许可吗？
+1076	map062_df5cc184	0	char_valessa	I was actually hoping that wouldn't be an issue.\nWe're here from Valinorth, on urgent business.	其实我本希望那不会是个问题。\n我们来自瓦利诺斯，有紧急事务。
+1077	map062_cb85b786	0	char_jit_map062_1_0_825	Everyone's business is urgent, Ma'am.\nI can't put you above any other tourist.\nI need to see some paperwork.	人人都有紧急事务，女士。\n我没法把您排在别的旅客前面。\n我得看到一些文书才行。
+1078	map062_a7863659	0	char_valessa	I don't have any.\nBut please — I'm Valinorth's Elder.\nWe have urgent business in Mazeo.	我没有任何文书。\n但拜托了——我是瓦利诺斯的长老。\n我们在马泽奥有紧急事务。
+1079	map062_09086e96	0	char_jit_map062_1_0_825	The Elder? Yeah, and I'm Mayor Gryz.\nTrust me, that's not the first time I've heard that one.\nIf you don't have papers, I need to ask you to leave.	长老？是啊，那我就是格瑞兹市长了。\n相信我，这话我可不是第一次听。\n您要是没有文书，我只能请您离开。
+1080	map062_92ebaec3	0	char_valessa	Listen, this is {i}really{/i} important.\nWe can't afford to waste any more time.\nI'll get the Mayor to come verify this once we're inside.	听我说，这{i}真的{/i}很重要。\n我们不能再浪费时间了。\n等我们进去，我会让市长来核实这一切。
+1081	map062_a88b6742	0	char_jit_map062_1_0_825	It doesn't work that way, Ma'am.\nYou'd just leave me hanging. Everyone else does.\nEither present some papers, or stop wasting my time.	规矩不是这样的，女士。\n您只会把我晾在这儿。别人都是这样。\n要么出示文书，要么别再浪费我的时间。
+1082	map062_5ba1aa95	0		I can tell that Valessa is getting annoyed. I've never seen her like this.{w}\nAs if to offer assistance, Ulric steps forward, clearing his throat.{w}\nPerfect timing too, as Valessa was about to lose her temper.	看得出瓦莱莎开始恼火了。我从没见过她这样。{w}\n仿佛是要出手相助，乌尔里克清了清嗓子，走上前来。{w}\n时机也恰到好处，瓦莱莎正要发脾气。
+1083	map062_e0ca9ff6	0	char_ulric	I apologize on behalf of The Elder, this is her first time travelling.\nWe're not up to any funny business, I assure you. It's an urgent meeting.\nThe national security of Mazeo and Valinorth are both compromised.	我替长老向您致歉，这是她头一回出远门。\n我向您保证，我们没打算耍什么花招。这是一场紧急会面。\n马泽奥与瓦利诺斯的国家安全都受到了威胁。
+1084	map062_48a28190	0	char_jit_map062_1_0_825	Is that so...?	是吗……？
+1085	map062_234f6a23	0	char_ulric	Do you have a family, Carmen?	你有家人吗，卡门？
+1086	map062_3b1c1f9a	0	char_jit_map062_1_0_825	Yeah, I do.	有，我有。
+1087	map062_a2915085	0	char_ulric	I promise that we're not lying.\nThe Triumvirate is on the move to occupy Valinorth.\nBut in order to do so, they'll have to pass through Mazeo.	我保证我们没有说谎。\n三人执政团正调兵准备占领瓦利诺斯。\n但要这么做，他们必须经过马泽奥。
+1088	map062_3b5faefe	0	char_ulric	Your family could be in danger. The attack is imminent.\nAll we ask is that you let us through, so we can go about our business.\nOur matters in Mazeo concern the safety of almost every Alestian.	你的家人可能有危险。进攻迫在眉睫。\n我们只求您放我们过去，好让我们办自己的事。\n我们在马泽奥的事务，关乎几乎每一位阿拉斯提亚人的安危。
+1089	map062_77698e9f	0	char_ulric	If you don't let us through, a lot of innocent people will die.\nAnd trust me, we {i}will{/i} make it known that you held us back.\nDo you really want to go down in history like that, Carmen?	若您不放我们过去，许多无辜的人会因此丧命。\n相信我，我们{i}一定{/i}会让世人知道是您拦下了我们。\n你真想以这样的方式留名青史吗，卡门？
+1090	map062_c6afe6e4	0	char_ulric	Or would you rather go down in history as a hero?\nThe man that allowed us to carry out our mission.	还是说，你更愿意以英雄之名载入史册？\n那个让我们得以完成使命的人。
+1091	map062_7dfc2d8c	0	char_jit_map062_1_0_825	How do I know I can trust you?	我怎么知道我能否信任你？
+1092	map062_1046106b	0	char_ulric	You don't. I'm asking you to take a leap of faith.\nIs it really worth gambling with the lives of your family?	你没法知道。我是在请你赌上信念，纵身一跃。\n真值得拿你家人的性命去冒这个险吗？
+1093	map062_12a35190	0		Carmen gulps audibly, and shuffles in place.	卡门明显地咽了口唾沫，局促地挪了挪脚。
+1094	map062_0000d3c2	0	char_jit_map062_1_0_825	I think I remember you...	我好像记得你……
+1095	map062_d1ca98be	0	char_ulric	Yeah, I just left for Valinorth yesterday morning.\nI'm not an outsider. Mazeo is my home.\nPlease — let me and my friends protect it.	是啊，我昨天早上才动身去的瓦利诺斯。\n我不是外人。马泽奥是我的家。\n拜托了——让我和我的朋友们来保护它。
+1096	map062_0362d762	0	char_jit_map062_1_0_825	And you promise not to tell anybody?	你保证不告诉任何人？
+1097	map062_e8dd50aa	0	char_ulric	I promise.\nBut you should also abandon your post.\nThey'll need to pass right through these gates.	我保证。\n但你也该离开岗位。\n他们会需要从这道城门直接穿过。
+1098	map062_2e057fdf	0	char_ulric	Your life is worth more than this job.\nPlease, get to safety with your family.\nDo you really think I'm making this up?	你的命比这份工作更值钱。\n求你了，带家人到安全的地方去。\n你真觉得我是在编故事吗？
+1099	map062_7cafbe8f	0	char_jit_map062_1_0_825	I don't know...	我不知道……
+1100	map062_d0fc3490	0	char_ulric	If I just wanted entry, I wouldn't care about you.\nBut this is more than that. I want to help you, too.\nI'll tell Gryz right away, so you don't get in trouble.	要是我只想进城，我才不会管你。\n但这不只是那样。我也想帮你。\n我会立刻告诉格瑞兹，这样你就不会惹上麻烦。
+1101	map062_29d048a2	0	char_jit_map062_1_0_825	Alright. I trust you.	好吧。我相信你。
+1102	map062_efb8964d	0		Carmen steps to the side, and stops blocking the gate.	卡门退到一旁，不再挡住城门。
+1103	map062_c8364eec	0	char_jit_map062_1_0_825	Just don't make me regret this.	别让我后悔就行。
+1104	map062_20ae09da	0	char_ulric	You never will.	你绝不会后悔。
+1105	map062_ed241796	0		Ulric steps back, smiling as he turns to us.{w}\nIt seems Valessa couldn't accomplish this task on her own.{w}\nBut his help was much appreciated, as we couldn't have done this otherwise.	乌尔里克退后一步，微笑着转向我们。{w}\n看来瓦莱莎凭一己之力无法完成这项任务。{w}\n但他的帮忙十分可贵，否则我们根本办不到。
+1106	map062_1908d78e	0	char_valessa	Thank you, Ulric...\nI was drawing a blank the whole time.\nMaybe I'm not ready for this kind of stuff.	谢谢你，乌尔里克……\n我全程脑子一片空白。\n也许我还没准备好应付这种事。
+1107	map062_16bc5458	0	char_ulric	That's preposterous, Valessa.\nI didn't expect you to succeed. It was your first time.\nYou handled yourself well, and you're gaining experience.	胡说，瓦莱莎。\n我本就没指望你能成功。这是你第一次。\n你应对得不错，也在积累经验。
+1108	map062_fa750e36	0		He walks away, and Pro approaches the group.	他走开了，普洛朝我们这群人走来。
+1109	map062_da6f84e7	0	char_pro	That was pretty amazing.\nI still think my idea was better, though.\nI had a whole script in my head and everything!	那可真厉害。\n不过我还是觉得我的主意更好。\n我脑子里可是连整段台词都准备好了！
+1110	map062_46059211	0		Valessa shrugs, and turns to face the gate.{w}\nAt least her first act as Elder would be an open and honest one.{w}\nWe couldn't say the same thing if we were to align ourselves with Pro.	瓦莱莎耸耸肩，转身面向城门。{w}\n至少她作为长老的头一桩举动，会是公开而诚实的。{w}\n要是我们跟普洛站一边，可就不能这么说了。
+1111	map062_a22bd932	0		I turn to Fortaime, and give him a nod.{w}\nI guess this would be his first political move as Elder.{w}\nWe just had to hope that Carmen was willing to play ball.	我转向福泰姆，朝他点了点头。{w}\n我想这会是他就任长老后的头一次政治举措。{w}\n我们只能指望卡门愿意配合。
+1112	map062_22e630e9	0		He takes slow, nervous steps toward him, until Carmen takes notice.{w}\nWhen he does, Fortaime stops in his tracks, his ears perking straight up.	他紧张地一步步慢慢走向他，直到卡门注意到他。{w}\n卡门一看过来，福泰姆就停下脚步，两只耳朵一下竖了起来。
+1113	map062_c3b52799	0	char_jit_map062_1_0_1216	Entry permit, please.	请出示入城许可。
+1114	map062_211dc679	0	char_fortaime	Wait — what?	等等——什么？
+1115	map062_67af76be	0	char_jit_map062_1_0_1216	You want to get into Mazeo, right?	你想进马泽奥，对吧？
+1116	map062_0e9720a5	0	char_fortaime	Yes, sir!	是的，先生！
+1117	map062_ddc22418	0	char_jit_map062_1_0_1216	Then I need to see an entry permit.\nI can't just let anybody inside.	那我得看到入城许可。\n我不能随便放人进去。
+1118	map062_cebcec50	0	char_fortaime	Oh, yeah?\nNot even The Elder of Valinorth?	哦，是吗？\n连瓦利诺斯的长老也不行？
+1119	map062_80c2230f	0	char_jit_map062_1_0_1216	Why — is that you?	怎么——你是？
+1120	map062_3b0e11ec	0	char_fortaime	Yeah!	是啊！
+1121	map062_6b7bc452	0	char_jit_map062_1_0_1216	Nice try.\nThat's a pretty common excuse today.\nIn fact, I've turned down three \"Elders\" already.	想得美。\n这借口今天可太常见了。\n事实上，我已经打发走三个“长老”了。
+1122	map062_bee2b199	0	char_fortaime	But I'm not lying!	可我没撒谎！
+1123	map062_c7e7fb11	0	char_jit_map062_1_0_1216	And I'm sure they weren't, either.\nBut I can't let you through without a permit.\nThe Occupation made us crack down on visitors.	我敢肯定他们也没撒谎。\n但没有许可，我不能放你进去。\n占领军逼得我们对访客严加盘查。
+1124	map062_64e551cf	0	char_fortaime	But please! Our business is urgent.\nIf you just let us in, I'll get someone to confirm!	但求你了！我们有紧急事务。\n只要你放我们进去，我会找人来确认！
+1125	map062_6bf97830	0	char_jit_map062_1_0_1216	Nice try.\nYou'd just leave me hanging. Everyone else does.\nEither present some papers, or stop wasting my time.	想得美。\n你只会把我晾在这儿。别人都是这样。\n要么出示文书，要么别再浪费我的时间。
+1126	map062_4c664a54	0	char_fortaime	Seriously, come on!	说真的，别这样嘛！
+1127	map062_d24d75e4	0		I can tell that Fortaime is getting annoyed. I've never seen him like this.{w}\nAs if to offer assitance, Ulric steps forward, clearing his throat.{w}\nPerfect timing too, as Fortaime was about to lose his temper.	看得出福泰姆开始恼火了。我从没见过他这样。{w}\n仿佛是要出手相助，乌尔里克清了清嗓子，走上前来。{w}\n时机也恰到好处，福泰姆正要发脾气。
+1128	map062_c4961249	0	char_ulric	I apologize on behalf of The Elder, this is his first time travelling.\nWe're not up to any funny business, I assure you. It's an urgent meeting.\nThe national security of Mazeo and Valinorth are both compromised.	我替长老向您致歉，这是他头一回出远门。\n我向您保证，我们没打算耍什么花招。这是一场紧急会面。\n马泽奥与瓦利诺斯的国家安全都受到了威胁。
+1129	map062_bc2f7f0f	0	char_jit_map062_1_0_1216	Is that so...?	是吗……？
+1130	map062_234f6a23_1	0	char_ulric	Do you have a family, Carmen?	你有家人吗，卡门？
+1131	map062_ce869a6b	0	char_jit_map062_1_0_1216	Yeah, I do.	有，我有。
+1132	map062_a2915085_1	0	char_ulric	I promise that we're not lying.\nThe Triumvirate is on the move to occupy Valinorth.\nBut in order to do so, they'll have to pass through Mazeo.	我保证我们没有说谎。\n三人执政团正调兵准备占领瓦利诺斯。\n但要这么做，他们必须经过马泽奥。
+1133	map062_dcbc63a8	0	char_ulric	Your family could be in danger. The attack is imminent.\nAll we ask is that you let us through, so we can go about our business.\nOur matters in Mazeo concern the safety of almost every Alestian.	你的家人可能有危险。进攻迫在眉睫。\n我们只求您放我们过去，好让我们办自己的事。\n我们在马泽奥的事务，关乎几乎每一位阿拉斯提亚人的安危。
+1134	map062_f76826a5	0	char_ulric	If you don't let us through, a lot of innocent people will die.\nAnd trust me, we {i}will{/i} make it known that you held us back.\nDo you really want to go down in history like that, Carmen?	若您不放我们过去，许多无辜的人会因此丧命。\n相信我，我们{i}一定{/i}会让世人知道是您拦下了我们。\n你真想以这样的方式留名青史吗，卡门？
+1135	map062_c6afe6e4_1	0	char_ulric	Or would you rather go down in history as a hero?\nThe man that allowed us to carry out our mission.	还是说，你更愿意以英雄之名载入史册？\n那个让我们得以完成使命的人。
+1136	map062_084d04d4	0	char_jit_map062_1_0_1216	How do I know I can trust you?	我怎么知道我能否信任你？
+1137	map062_1046106b_1	0	char_ulric	You don't. I'm asking you to take a leap of faith.\nIs it really worth gambling with the lives of your family?	你没法知道。我是在请你赌上信念，纵身一跃。\n真值得拿你家人的性命去冒这个险吗？
+1138	map062_12a35190_1	0		Carmen gulps audibly, and shuffles in place.	卡门明显地咽了口唾沫，局促地挪了挪脚。
+1139	map062_5e82a51d	0	char_jit_map062_1_0_1216	I think I remember you...	我好像记得你……
+1140	map062_d1ca98be_1	0	char_ulric	Yeah, I just left for Valinorth yesterday morning.\nI'm not an outsider. Mazeo is my home.\nPlease — let me and my friends protect it.	是啊，我昨天早上才动身去的瓦利诺斯。\n我不是外人。马泽奥是我的家。\n拜托了——让我和我的朋友们来保护它。
+1141	map062_4105f511	0	char_jit_map062_1_0_1216	And you promise not to tell anybody?	你保证不告诉任何人？
+1142	map062_e8dd50aa_1	0	char_ulric	I promise.\nBut you should also abandon your post.\nThey'll need to pass right through these gates.	我保证。\n但你也该离开岗位。\n他们会需要从这道城门直接穿过。
+1143	map062_de5ec1f7	0	char_ulric	Your life is worth more than this job.\nPlease, get to safety with your family.\nDo you really think I'm making this up?	你的命比这份工作更值钱。\n求你了，带家人到安全的地方去。\n你真觉得我是在编故事吗？
+1144	map062_b63fda9b	0	char_jit_map062_1_0_1216	I don't know...	我不知道……
+1145	map062_d0fc3490_1	0	char_ulric	If I just wanted entry, I wouldn't care about you.\nBut this is more than that. I want to help you, too.\nI'll tell Gryz right away, so you don't get in trouble.	要是我只想进城，我才不会管你。\n但这不只是那样。我也想帮你。\n我会立刻告诉格瑞兹，这样你就不会惹上麻烦。
+1146	map062_2715c1e3	0	char_jit_map062_1_0_1216	Alright. I trust you.	好吧。我相信你。
+1147	map062_efb8964d_1	0		Carmen steps to the side, and stops blocking the gate.	卡门退到一旁，不再挡住城门。
+1148	map062_e7fffd02	0	char_jit_map062_1_0_1216	Just don't make me regret this.	别让我后悔就行。
+1149	map062_20ae09da_1	0	char_ulric	You never will.	你绝不会后悔。
+1150	map062_3b8f8d48	0		Ulric steps back, smiling as he turns to us.{w}\nIt seems Fortaime couldn't accomplish this task on his own.{w}\nBut his help was much appreciated, as we couldn't have done this otherwise.	乌尔里克退后一步，微笑着转向我们。{w}\n看来福泰姆凭一己之力无法完成这项任务。{w}\n但他的帮忙十分可贵，否则我们根本办不到。
+1151	map062_c12bdd67	0	char_fortaime	Wow, Ulric — thanks!\nI was totally drawing blanks.\nMaybe I'm not cut out for that stuff...	哇，乌尔里克——谢谢！\n我完全脑子一片空白。\n也许我根本不适合干这种事……
+1152	map062_97052456	0	char_ulric	That's preposterous, Fortaime.\nI didn't expect you to succeed. It was your first time.\nYou handled yourself well, and you're gaining experience.	胡说，福泰姆。\n我本就没指望你能成功。这是你第一次。\n你应对得不错，也在积累经验。
+1153	map062_fa750e36_1	0		He walks away, and Pro approaches the group.	他走开了，普洛朝我们这群人走来。
+1154	map062_da6f84e7_1	0	char_pro	That was pretty amazing.\nI still think my idea was better, though.\nI had a whole script in my head and everything!	那可真厉害。\n不过我还是觉得我的主意更好。\n我脑子里可是连整段台词都准备好了！
+1155	map062_b5295e26	0		Fortaime shrugs, and turns to face the gate.{w}\nAt least his first act as Elder would be an open and honest one.{w}\nWe couldn't say the same thing if we were to align ourselves with Pro.	福泰姆耸耸肩，转身面向城门。{w}\n至少他作为长老的头一桩举动，会是公开而诚实的。{w}\n要是我们跟普洛站一边，可就不能这么说了。
+1156	map062_693d6478	0	char_pro	So, shall we...?	那么，我们走……？
+1157	map062_98f56c0f	0		He motions to the gate, which is now free for us to enter.{w}\nAfter everything we've been through, we were finally here.{w}\nIt was time to get this started, and meet Damek.	他朝城门示意，如今我们可以自由进出了。{w}\n经历了这一切，我们终于到了这里。{w}\n该开始行动了，去见达梅克。
+1158	click_map060_4_EV004_9b441690	0	char_fortaime	Wow, I'm loving this stone path...!\nWe don't get that luxurious back home.	哇，我太喜欢这条石板路了……！\n我们家乡可没有这种奢侈玩意儿。
+1159	click_map060_4_EV004_51f5a36d	0	char_ulric	You think that's luxurious...?\nAlmost the entire town is paved like that.\nWait until you see the town square. It's so smooth.	你觉得那算奢侈……？\n几乎整座镇子都铺成这样。\n等你看到镇上的广场再说。那地面光滑极了。
+1160	click_map060_4_EV004_b1bd56b6	0	char_fortaime	You mean I could even walk without shoes on!?	你是说，我甚至能不穿鞋在上面走！？
+1161	click_map060_4_EV004_a8b7d003	0	char_ulric	Of course. I do it all the time.	当然。我一直这么干。
+1162	click_map060_4_EV004_dc523509	0	char_fortaime	Wow, that's so fancy.\nHopefully I get some time to relax and explore.\nI'd hate to head straight to the Rebel HQ, you know.	哇，太气派了。\n希望我能有点时间放松一下、四处逛逛。\n你知道，我可不想直接就去反抗军总部。
+1163	click_map060_4_EV004_6feb1466	0	char_ulric	I'm sure you'll have some time.\nBut not if we keep standing around.\nI think it's high time we get inside.	我相信你会有些时间的。\n但要是我们一直站在这儿闲聊，那就没得说了。\n我看我们该进去了。
+1164	click_map060_4_EV004_5c5e961f	0	char_fortaime	Okay, cool!	好，太棒了！
+1165	click_map060_27_EV027_e8e48aa5	0	char_valessa	Hey, Pro?	嘿，普洛？
+1166	click_map060_27_EV027_1071146b	0	char_pro	What's up?	怎么了？
+1167	click_map060_27_EV027_d09efd0b	0	char_valessa	That can't be your real name...	那不可能真是你的名字……
+1168	click_map060_27_EV027_895feba9	0	char_pro	Why not...?	为什么不可能……？
+1169	click_map060_27_EV027_aba10433	0	char_valessa	I mean — it's a little odd.	我是说——这名字有点怪。
+1170	click_map060_27_EV027_ef5ac7c5	0	char_pro	And Valessa isn't?	那瓦莱莎就不怪了？
+1171	click_map060_27_EV027_32d94288	0	char_valessa	Oh, you have a point...	哦，你说得有道理……
+1172	click_map060_27_EV027_15a60924	0	char_pro	But since you asked — it isn't my real name.\nThe truth is, I don't actually know my real name.	不过既然你问了——这不是我的真名。\n说实话，我其实不知道自己的真名是什么。
+1173	click_map060_27_EV027_4ce3dcfa	0	char_valessa	How do you manage that?	这怎么可能？
+1174	click_map060_27_EV027_c6420779	0	char_pro	I'd rather not talk about it, if it's all the same to you.\nPro is just something the orphans called me when I was younger.\nI showed a knack for picking up skills with ease.	如果都一样的话，我还是不想谈这个。\n普洛只是我小时候孤儿院的人这么叫我的。\n我学什么都上手很快。
+1175	click_map060_27_EV027_6637ad6d	0	char_valessa	So you're a pro...	所以你是个“高手”……
+1176	click_map060_27_EV027_44203654	0	char_pro	Something like that, heh.\nAny idea why your parents chose Valessa?	差不多吧，嘿。\n你知道你父母为什么给你取名瓦莱莎吗？
+1177	click_map060_27_EV027_e4477da9	0	char_valessa	No idea, actually.\nI never thought to question it.\nBut yours kinda stuck out like a sore thumb.	其实完全不知道。\n我从没想过要质疑。\n可你的名字确实格外扎眼。
+1178	click_map060_27_EV027_0ec05422	0	char_pro	I'll take that as a compliment.\nHey, there's something else on my mind, actually.	我就当这是夸奖了。\n嘿，其实我还在想别的事。
+1179	click_map060_27_EV027_a24fd3c3	0	char_valessa	Oh yeah? What's that?	哦，是吗？什么事？
+1180	click_map060_27_EV027_82c003e7	0	char_pro	What's up with the name Fortaime...?\nLike — how is that one even possible?	福泰姆这名字是怎么回事……？\n就好像——这名字怎么可能存在？
+1181	click_map060_27_EV027_2bd2e795	0	char_valessa	I've always wondered that!	我一直也纳闷呢！
+1182	click_map060_27_EV027_e000f659	0	char_pro	It's bugging me, and I've only known him for a day.\nIt must bother you so much. You've known him forever.	我认识他才一天，就已经被这名字困扰了。\n你应该更介意才对。你认识他那么久了。
+1183	click_map060_27_EV027_7b0d5a1b	0	char_valessa	Yeah! But you're good at getting info, right...?	是啊！但你不是很擅长套消息吗……？
+1184	click_map060_27_EV027_ca264325	0	char_pro	That's what I've been told.	别人都这么说。
+1185	click_map060_27_EV027_cdad847c	0	char_valessa	Maybe we can work together to find this out...!\nI wanna know just what \"Fortaime\" really means.	也许我们可以一起把这事查清楚……！\n我想知道“福泰姆”到底是什么意思。
+1186	click_map060_27_EV027_507daf65	0	char_pro	Okay, let's do it!\nPro and Valessa — on the case!	好，就这么办！\n普洛和瓦莱莎——联手破案！
+1187	click_map060_34_EV034_9a07983e	0	char_valessa	So this is the only way to enter Mazeo?	所以这是进入马泽奥的唯一途径？
+1188	click_map060_34_EV034_fca85c12	0	char_pro	From the Valinorth side, at least.\nThe wall stretches to both sides of the mountains.\nThere's no way to get past it, unless you climbed over.	至少从瓦利诺斯这一侧是这样。\n城墙一路延伸到山脉两侧。\n除非翻越过去，否则没法绕过它。
+1189	click_map060_34_EV034_e5c97097	0	char_valessa	Why didn't we just do that, then...?	那我们为什么不干脆翻过去……？
+1190	click_map060_34_EV034_aa90ecd3	0	char_pro	Seriously? Never thought I'd hear you say that.\nI thought you were pretty much \"by the books\", Valessa.	你说真的？没想到会从你嘴里听到这话。\n我还以为你是个十足的“照章办事”的人呢，瓦莱莎。
+1191	click_map060_34_EV034_8e3b4934	0	char_valessa	What's that supposed to mean!?	你这话什么意思！？
+1192	click_map060_34_EV034_2527a2e1	0	char_pro	I just didn't think you'd want to break the law.\nBesides, it wouldn't work. There's guards on the other side.\nAny \"hop-overs\" are quickly arrested — and punished, too.	我只是没想到你会愿意违法。\n再说，那也成不了。另一边也有守卫。\n任何“翻墙客”都会很快被捕——还会受到惩处。
+1193	click_map060_34_EV034_ec0bb04d	0	char_valessa	Hop-overs...?	翻墙客……？
+1194	click_map060_34_EV034_1cba45e5	0	char_pro	Yeah, that's what they call them.\nYou build a gate like this, you're gonna get some hop-overs.\nTrust me — they have a counter for every possible scheme.	是啊，他们就是这么叫的。\n建起这样一道城门，就难免会有翻墙的人。\n相信我——每一种可能的伎俩，他们都有应对之策。
+1195	click_map060_34_EV034_a901e403	0	char_valessa	I guess they've thought of it all...\nOh well, nothing we can do about that.\nLet's just head inside, and continue this.	看来他们把能想的都想到了……\n唉，那也没办法。\n我们先进城，接着再聊。
+1196	click_map060_64_EV064_66d4f1b4	0	char_fortaime	Wow, there's so many people in there...!\nAnd it sounds super noisy. Is it always like that?	哇，里面好多人……！\n而且听起来超吵。一直是这样吗？
+1197	click_map060_64_EV064_2cc8c883	0	char_ulric	Pretty much.\nBut why are we standing here talking about it?\nYou realize we can walk right in and see it, right?	差不多吧。\n不过我们干吗站在这儿聊这个？\n你知道我们直接走进去就能看到，对吧？
+1198	click_map060_64_EV064_aa8a7b91	0	char_fortaime	Oh, right...\nGuess I was just waiting on The Seer.	哦，对哦……\n大概我一直在等先知吧。
+1199	click_map060_64_EV064_b9b60de2	0	char_fortaime	Oh, right...\nGuess I was just waiting on The Seeress.	哦，对哦……\n大概我一直在等先知吧。
+1200	map061_eff6a926	0		Damek's advisor approached him with a sense of urgency.{w}\nHaving received a summons from Lillith, it was finally time.{w}\nThe future of Mazeo, and The Rebellion, would be decided.	达梅克的顾问带着几分急切走近他。{w}\n接到了莉莉丝的召见，这一刻终于来临。{w}\n马泽奥与反抗军的未来，即将就此定夺。

@@ -1,0 +1,3 @@
+# manifest.json 里的 sha256 是按磁盘字节算的。
+# 禁止 git 做任何换行转换, 否则克隆出来的 .rpy/.tsv 会与清单不一致, verify 必然失败。
+* -text

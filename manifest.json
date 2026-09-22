@@ -1,8 +1,8 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.3.0",
- "built": "2026-09-23 00:31:51",
+ "version": "1.3.1",
+ "built": "2026-09-23 00:34:25",
  "base_check": {
   "path": "game/script.rpy",
   "sha256": "c11fbeb67c84d9b649f09e8a39aacd43adf28428b2493e1e988c4871d9de7368",
@@ -612,7 +612,7 @@
   {
    "path": "game/00title_particles.rpyc",
    "type": "new",
-   "sha256": "4dc49efb94c0fbb4f373cb70f36ae379f2d9a57097e12833ac2d193150602ae5",
+   "sha256": "cea893f5cf20c1405ca5f32453f29fe3442a400b7798e0c1560ed3f0493ecd4d",
    "size": 3200
   },
   {
@@ -624,19 +624,19 @@
   {
    "path": "game/tl/chinese/common.rpyc",
    "type": "new",
-   "sha256": "357e07e4bdfb401f739e08df27fd00235476e84da8c0f0e9931d67351bbaa33d",
+   "sha256": "327961fdfee0c4085cf68f95378c4f6d27d458db3186ca4dcd1870ae502b09ba",
    "size": 26884
   },
   {
    "path": "game/tl/chinese/fonts.rpy",
    "type": "new",
-   "sha256": "0f0e07159e6529e456dfb8191d4564464c68138e0a7556fc2aa2ae7b4d0d5a11",
+   "sha256": "701c652366a1521485cefbc9e5b25356a7155685e00ced05f35410d4c3a78858",
    "size": 308
   },
   {
    "path": "game/tl/chinese/fonts.rpyc",
    "type": "new",
-   "sha256": "1965ccdcf79a7bf5f0e16b49e84614d9980e035cb5b34890ddce9bfc717a1a03",
+   "sha256": "943ebc74486cd7caaa4179e60eba011cf0be8f860772f9eb74f661581435f6e5",
    "size": 998
   },
   {
@@ -648,7 +648,7 @@
   {
    "path": "game/tl/chinese/names.rpyc",
    "type": "new",
-   "sha256": "67346ee3331d8255772d698168e7c42cddbbc3dcebb30ad4598cbd9f5b8e3ad2",
+   "sha256": "a2292613abd482790db76ce3e3554c7c0cc6affbe46e13c399fb0a00717f878f",
    "size": 2706
   },
   {
@@ -660,7 +660,7 @@
   {
    "path": "game/tl/chinese/options.rpyc",
    "type": "new",
-   "sha256": "9e150e4698ef361e3230c50a151e024fed8228de8c735de7e82bb8c736f996b2",
+   "sha256": "78327f1be1af97b9a5266f25ed13d0008a059b77e45a3ba9f641a397bc09118e",
    "size": 1266
   },
   {
@@ -672,7 +672,7 @@
   {
    "path": "game/tl/chinese/screens.rpyc",
    "type": "new",
-   "sha256": "9f74a3682c3de9990c50b861628789790a5114b9099e66cafd9e0b6e2e96211a",
+   "sha256": "b166bb3a738865d040fa458db1a220d7cdf06ff7d9d43c95bb7cfc4781c3fb00",
    "size": 8732
   },
   {
@@ -684,7 +684,7 @@
   {
    "path": "game/tl/chinese/script.rpyc",
    "type": "new",
-   "sha256": "d8e469b55e7339c72ce4d0a60865d4ec1b127f607b16be0c8217ff1d013171e5",
+   "sha256": "e9937f04cd899558bc41104deb772ab1581663700b4381ac85b240f0272fcf6b",
    "size": 2456713
   },
   {
@@ -696,25 +696,24 @@
   {
    "path": "game/zzz_chinese_language.rpyc",
    "type": "new",
-   "sha256": "edea1ec0ac018618d03798557d1396b57685f1f9cde5d7600bfbf204cbaade36",
+   "sha256": "3a81bdf6c7ae3a61403f325219b90d2b5613eb732b13a5dc2e47cfb43bb80d5b",
    "size": 942
   },
   {
-   "path": "game/fonts/SarasaUiSC-Regular.ttf",
-   "type": "new",
-   "sha256": "2d6e1dccfba46320b4c0c4bc6e5f4087e85c39a7f98a21079c1a5a3b6112fb68"
-  },
-  {
-   "path": "game/fonts/OFL-SarasaGothic.txt",
-   "type": "new",
-   "sha256": "32c932e0dbae4f6e6386964bbc2d04178707665a05ca65cf636241af13d50a53"
+   "path": "game/gothic.ttf",
+   "type": "modified",
+   "sha256": "2d6e1dccfba46320b4c0c4bc6e5f4087e85c39a7f98a21079c1a5a3b6112fb68",
+   "original": {
+    "sha256": "3a9cbb5d75b2a2b0d22dc94571608e4e9dc7b88e825374985880c5722c1c9e5f",
+    "size": 137568
+   }
   }
  ],
  "engines": {
   "pc": "7.1.1.929",
   "android": "8.6.0.25112108"
  },
- "notes": "1.3.0: 中文字体改为随包 Sarasa UI SC (更纱黑体, SIL OFL 1.1) 优先, 系统字体兜底; 不再依赖微软等线副本, 也不再回退到无中文字形的 gothic.ttf。随包附 OFL 许可文本。",
+ "notes": "1.3.1: 中文用字体改为直接替换游戏原版 game/gothic.ttf (Sarasa UI SC, 含中文字形, SIL OFL 1.1), 不再新增 fonts/ 目录文件, 也不覆写 gui 字体变量; gothic.ttf 作为 modified 条目可还原。",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

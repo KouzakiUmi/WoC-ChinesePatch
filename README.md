@@ -155,4 +155,7 @@ python tools\patch_tool.py verify --game-dir "<游戏目录>"
 - **不含游戏本体**：本仓库仅包含翻译文件、改版资源与工具逻辑，**不含任何游戏本体的原始文件**；使用前请自行购买并安装正版游戏。
 - **非营利**：仅限非营利目的使用与分享，严禁用于商业用途。
 
+
+**字体**：中文界面使用 [Sarasa Gothic（更纱黑体）](https://github.com/be5invis/Sarasa-Gothic) UI SC，以 **SIL OFL 1.1** 许可随补丁分发（许可全文见 [OFL-SarasaGothic.txt](OFL-SarasaGothic.txt)）。补丁的做法是直接替换游戏原版的 `game/gothic.ttf`，不新增字体目录。
+
 **许可证**：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)（全文见 [LICENSE](LICENSE)）

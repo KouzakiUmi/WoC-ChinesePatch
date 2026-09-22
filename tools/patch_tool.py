@@ -446,36 +446,44 @@ def find_android_project():
 
 
 def android_sync_report(man, andir):
-    """把 payload 与安卓工程逐文件比对。
+    """把 payload 与安卓工程逐文件比对, 源文件与 .rpyc 分开统计。
     .rpyc 是引擎按自身 Python 版本编译的产物, 两边不同属正常, 只提示不计为问题。"""
-    same = diff = miss = 0
-    diffs, missing, art_diff = [], [], []
+    src_same = src_diff = miss = 0
+    art_total = art_diff = 0
+    diffs, missing = [], []
     for e in man["files"]:
         if not e["path"].startswith("game/"):
             continue
         rel = e["path"][len("game/"):].replace("/", os.sep)
         srcp = os.path.join(ROOT, "payload", "game", rel)
         dstp = os.path.join(andir, "game", rel)
+        is_art = e["path"].endswith(".rpyc")
         if not os.path.isfile(dstp):
             miss += 1; missing.append(e["path"]); continue
-        if sha256(srcp) == sha256(dstp):
-            same += 1
-        elif e["path"].endswith(".rpyc"):
-            art_diff.append(e["path"])
+        equal = sha256(srcp) == sha256(dstp)
+        if is_art:
+            art_total += 1
+            if not equal:
+                art_diff += 1
+        elif equal:
+            src_same += 1
         else:
-            diff += 1; diffs.append(e["path"])
-    print("安卓工程同步: 源文件一致 %d, 分叉 %d, 缺失 %d" % (same, diff, miss))
-    if art_diff:
-        print("    .rpyc 编译产物差异 %d 个 (引擎版本不同所致, 正常)" % len(art_diff))
+            src_diff += 1; diffs.append(e["path"])
+    print("安卓工程同步: 源文件一致 %d/%d, 分叉 %d, 缺失 %d"
+          % (src_same, src_same + src_diff, src_diff, miss))
+    if art_total:
+        print("    .rpyc 编译产物: %d 个, 其中 %d 个与补丁不同 (引擎各自编译, 正常)"
+              % (art_total, art_diff))
     for d in diffs[:10]:
         print("    分叉:", d)
     for m in missing[:10]:
         print("    缺失:", m)
-    return diff + miss
+    return src_diff + miss
 
 
 def do_check(args):
-    """体检: 引擎版本 / payload 完整性 / rpyc-rpy 配对 / Python2 专有写法。"""
+    """体检: 引擎版本 / payload 完整性 / rpyc-rpy 配对 / Python2 专有写法。
+    加 --android 时额外核对安卓工程 (维护者用, PC 分发包不涉及)。"""
     man = load_manifest()
     problems = 0
 
@@ -524,7 +532,8 @@ def do_check(args):
     else:
         print("Python2 专有写法: 未发现")
 
-    if not getattr(args, "no_android", False):
+    # 本补丁面向 PC。安卓工程核对属维护者用途, 需显式开启。
+    if getattr(args, "android", False) or getattr(args, "android_dir", None):
         andir = getattr(args, "android_dir", None) or find_android_project()
         if andir and os.path.isdir(andir):
             print("安卓工程:", andir)
@@ -532,7 +541,7 @@ def do_check(args):
             print("  引擎:", label)
             problems += android_sync_report(man, andir)
         else:
-            print("安卓工程: 未找到 (跳过同步核对)")
+            print("安卓工程: 未找到 (加 --android-dir 指定)")
 
     print("体检结果:", ("发现 %d 个问题" % problems) if problems else "全部通过")
     return 1 if problems else 0
@@ -558,8 +567,8 @@ def main():
     c.add_argument("--game-dir")
     c.add_argument("--force", action="store_true")
     c.add_argument("--no-game", action="store_true", help="只检查补丁包本身, 不定位游戏")
-    c.add_argument("--android-dir", help="安卓工程目录 (含 game/), 默认自动定位")
-    c.add_argument("--no-android", action="store_true", help="跳过安卓工程同步核对")
+    c.add_argument("--android", action="store_true", help="维护者用: 额外核对安卓工程的同步状态")
+    c.add_argument("--android-dir", help="维护者用: 指定安卓工程目录 (含 game/) 并核对")
     c.set_defaults(fn=do_check)
     f = sub.add_parser("find"); f.set_defaults(fn=cmd_find)
     args = ap.parse_args()

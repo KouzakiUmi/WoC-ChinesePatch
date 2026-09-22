@@ -1,11 +1,8 @@
 # 游戏原文件：不分发（卸载改用安装时在游戏目录生成的备份）
 originals/
 
-# tl_work 里的原版快照与中间备份（含游戏原始图片/脚本）
-tl_work/backup_*/
-tl_work/chunks_bak_before_fix/
-tl_work/template/
-tl_work/__pycache__/
+# 翻译审查工作区：补丁运行不需要，仅本地保留
+tl_work/
 
 # 安装器备份
 backup/

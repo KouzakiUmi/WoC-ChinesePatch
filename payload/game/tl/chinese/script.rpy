@@ -1994,7 +1994,7 @@ translate chinese map040_f09773a5:
 translate chinese map040_de197e6d:
 
     # "Ulric sighs and starts looking around as well.{w}\nWhatever it is that Valessa wants to find, hopefully it's here."
-    "乌尔里克叹了口气，也开始四下查看。{w}\n不管瓦莱莎想找的是什么，但愿它就在这儿。"
+    "乌尔里克叹了口气，也开始四下查看。{w}\n不管瓦莱莎想找的是什么，但愿它就在这里。"
 
 # game/script.rpy:5899
 translate chinese map040_e6de8840:
@@ -4144,7 +4144,7 @@ translate chinese click_map084_9_EV009_751767b3:
 translate chinese click_map084_10_EV010_5c371461:
 
     # "The flames haven't reached us yet.{w}\nMylus' house is much higher than the rest of Valinorth.{w}\nWe should hurry though, because it wouldn't be safe forever."
-    "火焰还没烧到我们这儿。{w}\n迈勒斯的房子比瓦利诺斯其他地方高得多。{w}\n不过我们还是得快点，这里不可能一直安全。"
+    "火焰还没烧到我们这里。{w}\n迈勒斯的房子比瓦利诺斯其他地方高得多。{w}\n不过我们还是得快点，这里不可能一直安全。"
 
 # game/script.rpy:11588
 translate chinese click_map084_10_EV010_28ec5533:
@@ -6432,7 +6432,7 @@ translate chinese click_map013_7_EV007_00a0b6fc:
 translate chinese click_map013_7_EV007_ab3499b1:
 
     # "I notice a book on the ground, slightly covered in snow.{w}\nI'm not sure why it's there, but I decide to take a look.{w}\nAny information about Eastcrown would be helpful to us."
-    "我注意到地上有本书，微微覆着雪。{w}\n我不确定它为什么在那儿，但决定看看。{w}\n任何关于东冠的信息对我们都有用。"
+    "我注意到地上有本书，微微覆着雪。{w}\n我不确定它为什么在那里，但决定看看。{w}\n任何关于东冠的信息对我们都有用。"
 
 # game/script.rpy:18498
 translate chinese click_map013_7_EV007_da9d45ba:
@@ -8774,7 +8774,7 @@ translate chinese click_map050_24_EV024_7344ba4e:
 translate chinese map062_021750c6:
 
     # "A few hours later, we finally arrive at the gates of Mazeo.{w}\nThere's nobody in sight, save for one lonely gate guard.{w}\nHe stands there, kicking his foot back and forth. Slow day?"
-    "几个小时后，我们终于抵达马泽奥的城门前。{w}\n除了一个孤零零的城门守卫，四下空无一人。{w}\n他站在那儿，一只脚来回踢着地面。今天没什么事？"
+    "几个小时后，我们终于抵达马泽奥的城门前。{w}\n除了一个孤零零的城门守卫，四下空无一人。{w}\n他站在那里，一只脚来回踢着地面。今天没什么事？"
 
 # game/script.rpy:23967
 translate chinese map062_fe5043d3:
@@ -9242,7 +9242,7 @@ translate chinese map062_72f8680c:
 translate chinese map062_800333c3:
 
     # char_jit_map062_1_0_459 "Who are you...?"
-    char_jit_map062_1_0_459 "你是谁……？"
+    char_jit_map062_1_0_459 "您是谁……？"
 
 # game/script.rpy:24955
 translate chinese map062_bf001906:
@@ -9344,7 +9344,7 @@ translate chinese map062_40a20ecb:
 translate chinese map062_d779d970:
 
     # char_jit_map062_1_0_459 "Heh. You can't tell Gryz if I don't let you in."
-    char_jit_map062_1_0_459 "呵。你不让我进去，就没法告诉格瑞兹。"
+    char_jit_map062_1_0_459 "呵。您不让我进去，就没法告诉格瑞兹。"
 
 # game/script.rpy:25187
 translate chinese map062_b28935b2:
@@ -9368,7 +9368,7 @@ translate chinese map062_99faf814:
 translate chinese map062_b4ca678f:
 
     # char_jit_map062_1_0_459 "You're the fifth one today."
-    char_jit_map062_1_0_459 "你是今天第五个了。"
+    char_jit_map062_1_0_459 "您是今天第五个了。"
 
 # game/script.rpy:25232
 translate chinese map062_a468e3b1:
@@ -9406,7 +9406,7 @@ translate chinese map062_17a2724b:
 translate chinese map062_df3247eb:
 
     # char_jit_map062_1_0_459 "Sure they are.\nWhy would I let you in now...?\nI bet that info was your trump card."
-    char_jit_map062_1_0_459 "是啊，肯定。\n我干吗现在放你进去……？\n我猜那条消息就是你的王牌吧。"
+    char_jit_map062_1_0_459 "是啊，肯定。\n我干吗现在放您进去……？\n我猜那条消息就是您的王牌吧。"
 
 # game/script.rpy:25315
 translate chinese map062_1ccb2a51:
@@ -9430,7 +9430,7 @@ translate chinese map062_3b8275b2:
 translate chinese map062_6c762d0c:
 
     # char_jit_map062_1_0_459 "Why should I believe you...?"
-    char_jit_map062_1_0_459 "我凭什么相信你……？"
+    char_jit_map062_1_0_459 "我凭什么相信您……？"
 
 # game/script.rpy:25369
 translate chinese map062_69ec012f:
@@ -9498,7 +9498,7 @@ translate chinese map062_38dfe17d:
 translate chinese map062_141a7359:
 
     # char_jit_map062_1_0_459 "Wow, you're a pro."
-    char_jit_map062_1_0_459 "哇，你可真专业。"
+    char_jit_map062_1_0_459 "哇，您可真专业。"
 
 # game/script.rpy:25475
 translate chinese map062_e9c69580:
@@ -9618,7 +9618,7 @@ translate chinese map062_6ecb7211:
 translate chinese map062_09170aa6:
 
     # char_jit_map062_1_0_825 "Do you have an entry permit?"
-    char_jit_map062_1_0_825 "你有入城许可吗？"
+    char_jit_map062_1_0_825 "您有入城许可吗？"
 
 # game/script.rpy:25755
 translate chinese map062_2973caaf:
@@ -9796,7 +9796,7 @@ translate chinese map062_957f1adf:
 translate chinese map062_7dfc2d8c:
 
     # char_jit_map062_1_0_825 "How do I know I can trust you?"
-    char_jit_map062_1_0_825 "我怎么知道我能否信任你？"
+    char_jit_map062_1_0_825 "我怎么知道我能否信任您？"
 
 # game/script.rpy:26118
 translate chinese map062_b2308f7b:
@@ -9826,7 +9826,7 @@ translate chinese map062_b9ba5dfd:
 translate chinese map062_0000d3c2:
 
     # char_jit_map062_1_0_825 "I think I remember you..."
-    char_jit_map062_1_0_825 "我好像记得你……"
+    char_jit_map062_1_0_825 "我好像记得您……"
 
 # game/script.rpy:26188
 translate chinese map062_946a7ef2:
@@ -9850,7 +9850,7 @@ translate chinese map062_b9fb4f11:
 translate chinese map062_0362d762:
 
     # char_jit_map062_1_0_825 "And you promise not to tell anybody?"
-    char_jit_map062_1_0_825 "你保证不告诉任何人？"
+    char_jit_map062_1_0_825 "您保证不告诉任何人？"
 
 # game/script.rpy:26242
 translate chinese map062_a22d1f81:
@@ -9906,7 +9906,7 @@ translate chinese map062_6d5dfa61:
 translate chinese map062_29d048a2:
 
     # char_jit_map062_1_0_825 "Alright. I trust you."
-    char_jit_map062_1_0_825 "好吧。我相信你。"
+    char_jit_map062_1_0_825 "好吧。我相信您。"
 
 # game/script.rpy:26345
 translate chinese map062_efb8964d:
@@ -10038,7 +10038,7 @@ translate chinese map062_0cfde8fb:
 translate chinese map062_67af76be:
 
     # char_jit_map062_1_0_1216 "You want to get into Mazeo, right?"
-    char_jit_map062_1_0_1216 "你想进马泽奥，对吧？"
+    char_jit_map062_1_0_1216 "您想进马泽奥，对吧？"
 
 # game/script.rpy:26665
 translate chinese map062_8f3dd142:
@@ -10086,7 +10086,7 @@ translate chinese map062_13e856c1:
 translate chinese map062_80c2230f:
 
     # char_jit_map062_1_0_1216 "Why — is that you?"
-    char_jit_map062_1_0_1216 "怎么——你是？"
+    char_jit_map062_1_0_1216 "怎么——您是？"
 
 # game/script.rpy:26773
 translate chinese map062_1775140a:
@@ -10134,7 +10134,7 @@ translate chinese map062_764fb7ae:
 translate chinese map062_c7e7fb11:
 
     # char_jit_map062_1_0_1216 "And I'm sure they weren't, either.\nBut I can't let you through without a permit.\nThe Occupation made us crack down on visitors."
-    char_jit_map062_1_0_1216 "我敢肯定他们也没撒谎。\n但没有许可，我不能放你进去。\n占领军逼得我们对访客严加盘查。"
+    char_jit_map062_1_0_1216 "我敢肯定他们也没撒谎。\n但没有许可，我不能放您进去。\n占领军逼得我们对访客严加盘查。"
 
 # game/script.rpy:26881
 translate chinese map062_f802e9b9:
@@ -10158,7 +10158,7 @@ translate chinese map062_8cc9843a:
 translate chinese map062_6bf97830:
 
     # char_jit_map062_1_0_1216 "Nice try.\nYou'd just leave me hanging. Everyone else does.\nEither present some papers, or stop wasting my time."
-    char_jit_map062_1_0_1216 "想得美。\n你只会把我晾在这儿。别人都是这样。\n要么出示文书，要么别再浪费我的时间。"
+    char_jit_map062_1_0_1216 "想得美。\n您只会把我晾在这儿。别人都是这样。\n要么出示文书，要么别再浪费我的时间。"
 
 # game/script.rpy:26935
 translate chinese map062_ed98888f:
@@ -10276,7 +10276,7 @@ translate chinese map062_f0212c2d:
 translate chinese map062_084d04d4:
 
     # char_jit_map062_1_0_1216 "How do I know I can trust you?"
-    char_jit_map062_1_0_1216 "我怎么知道我能否信任你？"
+    char_jit_map062_1_0_1216 "我怎么知道我能否信任您？"
 
 # game/script.rpy:27163
 translate chinese map062_48d18c71:
@@ -10306,7 +10306,7 @@ translate chinese map062_d0a7d930:
 translate chinese map062_5e82a51d:
 
     # char_jit_map062_1_0_1216 "I think I remember you..."
-    char_jit_map062_1_0_1216 "我好像记得你……"
+    char_jit_map062_1_0_1216 "我好像记得您……"
 
 # game/script.rpy:27233
 translate chinese map062_6cd3b61e:
@@ -10330,7 +10330,7 @@ translate chinese map062_575d2a22:
 translate chinese map062_4105f511:
 
     # char_jit_map062_1_0_1216 "And you promise not to tell anybody?"
-    char_jit_map062_1_0_1216 "你保证不告诉任何人？"
+    char_jit_map062_1_0_1216 "您保证不告诉任何人？"
 
 # game/script.rpy:27287
 translate chinese map062_5bbea653:
@@ -10386,7 +10386,7 @@ translate chinese map062_daf6071a:
 translate chinese map062_2715c1e3:
 
     # char_jit_map062_1_0_1216 "Alright. I trust you."
-    char_jit_map062_1_0_1216 "好吧。我相信你。"
+    char_jit_map062_1_0_1216 "好吧。我相信您。"
 
 # game/script.rpy:27390
 translate chinese map062_efb8964d_1:
@@ -12862,7 +12862,7 @@ translate chinese map065_e4740824:
 translate chinese map065_f3a8de1d:
 
     # char_valessa "Yeah — The Elder of Valinorth.\nPleased to meet you, Damek, sir.\nYour friends have really talked you up."
-    char_valessa "是的——瓦利诺斯的长老。\n幸会，达梅克先生。\n你的朋友们可把你夸上天了。"
+    char_valessa "是的——瓦利诺斯的长老。\n幸会，达梅克大人。\n你的朋友们可把你夸上天了。"
 
 # game/script.rpy:32400
 translate chinese map065_68e7e144:
@@ -15168,7 +15168,7 @@ translate chinese map066_93d30107:
 translate chinese map066_6346c75a:
 
     # "Valessa and Fortaime take a seat and start talking amongst themselves.{w}\nI guess it wouldn't be the end of the world if we wasted a {i}little{/i} bit of time here.{w}\nUlric is chugging a large cup of ale, and Pro is carefully reading over some letters."
-    "瓦莱莎和福泰姆找了个位置坐下，彼此攀谈起来。{w}\n我想，在这儿浪费{i}一点点{/i}时间也没什么大不了的。{w}\n乌尔里克正大口灌着一大杯麦酒，普洛则在仔细翻阅几封信。"
+    "瓦莱莎和福泰姆找了个位置坐下，彼此攀谈起来。{w}\n我想，在这里浪费{i}一点点{/i}时间也没什么大不了的。{w}\n乌尔里克正大口灌着一大杯麦酒，普洛则在仔细翻阅几封信。"
 
 # game/script.rpy:37203
 translate chinese click_map063_4_EV004_e7b93957:
@@ -18198,7 +18198,7 @@ translate chinese map072_28d1fe39:
 translate chinese click_map075_3_EV003_38098da6:
 
     # "Gryz's desk reminds me of Mylus' place.{w}\nIt's messy, but he still has it under control.{w}\nEverything is where it needs to be, and it works."
-    "格瑞兹的桌子让我想起迈勒斯那儿。{w}\n乱是乱，但他仍然掌控得住。{w}\n每样东西都在该在的位置，运转良好。"
+    "格瑞兹的桌子让我想起迈勒斯那里。{w}\n乱是乱，但他仍然掌控得住。{w}\n每样东西都在该在的位置，运转良好。"
 
 # game/script.rpy:44638
 translate chinese click_map075_4_EV004_85ac6032:
@@ -18222,7 +18222,7 @@ translate chinese click_map075_5_EV005_594612db:
 translate chinese click_map075_5_EV005_50fe19f7:
 
     # "I wonder how he could work next to such a loud place.{w}\nIt shows no signs of slowing down, and it's very busy.{w}\nWe'd be heading there next, and I couldn't wait."
-    "我纳闷他怎么能在这般喧闹的地方工作。{w}\n那里毫无放慢的迹象，忙得不可开交。{w}\n我们接下来就要去那儿，我迫不及待。"
+    "我纳闷他怎么能在这般喧闹的地方工作。{w}\n那里毫无放慢的迹象，忙得不可开交。{w}\n我们接下来就要去那里，我迫不及待。"
 
 # game/script.rpy:44716
 translate chinese click_map075_7_EV007_0e455b5a:
@@ -25690,7 +25690,7 @@ translate chinese click_map123_27_EV027_164c6ece:
 translate chinese click_map123_31_EV031_d655adf9:
 
     # "There's a necklace on the table here.{w}\nIt feels like it's calling out to me."
-    "这儿的桌上有一条项链。{w}\n它仿佛在向我呼唤。"
+    "这里的桌上有一条项链。{w}\n它仿佛在向我呼唤。"
 
 # game/script.rpy:58766
 translate chinese map232_7809c42d:
@@ -28674,7 +28674,7 @@ translate chinese map149_60787829:
 translate chinese map149_85395a1f:
 
     # "He turns to face me. So he knew I was here all along."
-    "他转身面向我。原来他一直都知道我在这儿。"
+    "他转身面向我。原来他一直都知道我在这里。"
 
 # game/script.rpy:64758
 translate chinese map149_cfbc1a82:
@@ -34164,7 +34164,7 @@ translate chinese map145_979e1a03:
 translate chinese map145_3fd75112:
 
     # "However, Damek still needed to serve The Rebellion.{w}\nSupressing his emotions, he focused on his duty.{w}\nWhile we were busy at the idol, he formulated a plan."
-    "不过，达梅克仍需要为反抗军效力。{w}\n他压下情绪，专注于自己的职责。{w}\n当我们在灵像那儿忙碌时，他已经拟定了一个计划。"
+    "不过，达梅克仍需要为反抗军效力。{w}\n他压下情绪，专注于自己的职责。{w}\n当我们在灵像那里忙碌时，他已经拟定了一个计划。"
 
 # game/script.rpy:76164
 translate chinese map145_8e98e1a5:
@@ -41928,7 +41928,7 @@ translate chinese map266_bf285a84:
 translate chinese map266_20f5a764:
 
     # "I move to the corner and press my back against the wall once more.{w}\nHopefully they're all able to find Valessa and Fortaime. I can't lose them now.{w}\nI'll rest in here for a while, and gather my bearings. This is not a time for freaking out."
-    "我走到角落，再次把背靠在墙上。{w}\n但愿他们都能找到瓦莱莎和福泰姆。我现在不能失去他们。{w}\n我要在这儿歇一会儿，理清思绪。现在不是惊慌失措的时候。"
+    "我走到角落，再次把背靠在墙上。{w}\n但愿他们都能找到瓦莱莎和福泰姆。我现在不能失去他们。{w}\n我要在这里歇一会儿，理清思绪。现在不是惊慌失措的时候。"
 
 # game/script.rpy:93854
 translate chinese map266_1ddd10cf:
@@ -43008,7 +43008,7 @@ translate chinese map276_2cb26d98:
 translate chinese map276_ee0f2ac1:
 
     # "After exchanging a nod, both groups part ways.{w}\nThe Monarch Vessels prepare to distract The Honor Guard.{w}\nDamek points to a nearby road, signalling where we should run."
-    "互相点头之后，两队人马分道扬镳。{w}\n君主容器准备去引开荣誉卫队。{w}\n达梅克指向附近一条路，示意我们该往那儿跑。"
+    "互相点头之后，两队人马分道扬镳。{w}\n君主容器准备去引开荣誉卫队。{w}\n达梅克指向附近一条路，示意我们该往那里跑。"
 
 # game/script.rpy:96218
 translate chinese map276_1f55db21:
@@ -43084,7 +43084,7 @@ translate chinese map276_accfb085:
 translate chinese map276_b40bf604:
 
     # "After exchanging a nod, both groups part ways.{w}\nThe Created Seers prepare to distract The Honor Guard.{w}\nDamek points to a nearby road, signalling where we should run."
-    "互相点头之后，两队人马分道扬镳。{w}\n人造先知准备去引开荣誉卫队。{w}\n达梅克指向附近一条路，示意我们该往那儿跑。"
+    "互相点头之后，两队人马分道扬镳。{w}\n人造先知准备去引开荣誉卫队。{w}\n达梅克指向附近一条路，示意我们该往那里跑。"
 
 # game/script.rpy:96401
 translate chinese map276_54403f71:
@@ -43130,7 +43130,7 @@ translate chinese map276_1a925121:
 translate chinese map276_444339f7:
 
     # "In our haste, we still make sure to be as silent as possible.{w}\nThe Grand Library isn't too far away. In fact, I can see it now.{w}\nIt stands tall, and seems to be the one building that's not falling apart."
-    "尽管行色匆忙，我们仍尽量不发出声响。{w}\n大图书馆离这儿不远了。事实上，我现在已经能看见它了。{w}\n它高高矗立，似乎是唯一一座没有坍塌的建筑。"
+    "尽管行色匆忙，我们仍尽量不发出声响。{w}\n大图书馆离这里不远了。事实上，我现在已经能看见它了。{w}\n它高高矗立，似乎是唯一一座没有坍塌的建筑。"
 
 # game/script.rpy:96493
 translate chinese map277_572f640f:
@@ -49334,7 +49334,7 @@ translate chinese map307_0770da87:
 translate chinese map307_f1465336:
 
     # "Sovy immediately drops the blade to his side, and kneels down.{w}\nIt hits the ground with a loud metallic clang, then rests there, motionless."
-    "索维立刻将剑垂到身侧，跪了下来。{w}\n剑落在地上，发出一声铿锵的金属巨响，随后静止不动地躺在那儿。"
+    "索维立刻将剑垂到身侧，跪了下来。{w}\n剑落在地上，发出一声铿锵的金属巨响，随后静止不动地躺在那里。"
 
 # game/script.rpy:110721
 translate chinese map307_0f960d9b:
@@ -49822,7 +49822,7 @@ translate chinese map306_9e7a1910:
 translate chinese map306_97d0820f:
 
     # "Ulric immediately drops the blade to his side, and kneels down.{w}\nIt hits the ground with a loud metallic clang, then rests there, motionless."
-    "乌尔里克立刻将剑垂到身侧，跪了下来。{w}\n剑落在地上，发出一声铿锵的金属巨响，随后静止不动地躺在那儿。"
+    "乌尔里克立刻将剑垂到身侧，跪了下来。{w}\n剑落在地上，发出一声铿锵的金属巨响，随后静止不动地躺在那里。"
 
 # game/script.rpy:111775
 translate chinese map306_222f1683:
@@ -54182,7 +54182,7 @@ translate chinese map285_688608d4:
 translate chinese map285_29d40894:
 
     # "Then why did he come here asking for it...?{w}\nI tell him that he deserves forgiveness because he meant no ill will.{w}\nHe did what he did out of necessity. To help further our cause, and win."
-    "那他又为什么来这儿求它……？{w}\n我告诉他，他值得原谅，因为他并无恶意。{w}\n他所做的一切都是出于必要。是为了推进我们的事业，赢得胜利。"
+    "那他又为什么来这里求它……？{w}\n我告诉他，他值得原谅，因为他并无恶意。{w}\n他所做的一切都是出于必要。是为了推进我们的事业，赢得胜利。"
 
 # game/script.rpy:119114
 translate chinese map285_abbbb962:
@@ -68296,7 +68296,7 @@ translate chinese map151_5fa5f3b8:
 translate chinese map151_4be77f10:
 
     # char_damek "Damek: z01605\nShould we continue the rest on the ship?\nThere's sitll a few people you need to meet.\nAfter that, we're in for a long, boring trip."
-    char_damek "Damek: z01605\n剩下的要不要到船上再说？\n还有几个人你得见一见。\n之后，我们就要踏上漫长又无聊的旅程了。"
+    char_damek "剩下的要不要到船上再说？\n还有几个人你得见一见。\n之后，我们就要踏上漫长又无聊的旅程了。"
 
 # game/script.rpy:151529
 translate chinese map151_fcd219b2_1:
@@ -74322,7 +74322,7 @@ translate chinese map170_c5988f3f:
 translate chinese map170_a0380aa4:
 
     # "He smirks, as if the promise of action is exciting to him.{w}\nHe did hate Alarinthia, but he also loved combat. It was his nature.{w}\nHopefully he'd get to tackle a challenge worthy of his skill while we were there."
-    "他坏笑一下，仿佛有仗可打就让他兴奋。{w}\n他确实讨厌阿拉林西亚，但他也热爱战斗。那是他的天性。{w}\n希望我们在那儿的时候，他能遇到配得上他身手的挑战。"
+    "他坏笑一下，仿佛有仗可打就让他兴奋。{w}\n他确实讨厌阿拉林西亚，但他也热爱战斗。那是他的天性。{w}\n希望我们在那里的时候，他能遇到配得上他身手的挑战。"
 
 # game/script.rpy:166084
 translate chinese map170_268858f6:
@@ -79500,7 +79500,7 @@ translate chinese map023_35193a3d:
 translate chinese map023_b54f0015:
 
     # "It would seem that he's talking to Pro. The man we came here to meet.{w}\nFor some reason, I find him extremely familiar. I can't pinpoint why."
-    "看来他是在跟普洛说话。就是我们来这儿要见的人。{w}\n不知为何，我觉得他异常眼熟。却说不清为什么。"
+    "看来他是在跟普洛说话。就是我们来这里要见的人。{w}\n不知为何，我觉得他异常眼熟。却说不清为什么。"
 
 # game/script.rpy:176688
 translate chinese map023_9a8c5b54:
@@ -82504,7 +82504,7 @@ translate chinese Pro10_map016_16_0_19ebecb2:
 translate chinese click_map016_21_EV021_99156d23:
 
     # "A huge greatsword rests against the table.{w}\nIt's completely unattended, like someone left it here.{w}\nDid they do that on purpose, or did they lose it?"
-    "一把巨大的巨剑靠在桌边。{w}\n完全无人看管，像是有人把它落在这儿了。{w}\n是故意放这儿的，还是弄丢了？"
+    "一把巨大的巨剑靠在桌边。{w}\n完全无人看管，像是有人把它落在这里了。{w}\n是故意放这里的，还是弄丢了？"
 
 # game/script.rpy:182148
 translate chinese click_map016_21_EV021_591fa974:
@@ -85900,7 +85900,7 @@ translate chinese map028_26d7b665:
 translate chinese map082_e12bd98d:
 
     # "When I exit my house, I feel a wave of heat overtake me.{w}\nThe sun pierces through the canopy of Valinorth with fierce intensity.{w}\nSome of the residents use makeshift fans, looking utterly exhausted.{w}\nFortaime, however, stands there unaffected, with a huge smile on his face."
-    "我走出家门，一股热浪扑面而来。{w}\n烈日猛烈地穿透瓦利诺斯的树冠。{w}\n一些居民摇着简易扇子，看起来疲惫不堪。{w}\n可福泰姆却若无其事地站在那儿，脸上挂着大大的笑容。"
+    "我走出家门，一股热浪扑面而来。{w}\n烈日猛烈地穿透瓦利诺斯的树冠。{w}\n一些居民摇着简易扇子，看起来疲惫不堪。{w}\n可福泰姆却若无其事地站在那里，脸上挂着大大的笑容。"
 
 # game/script.rpy:189554
 translate chinese map082_972d9914:
@@ -86238,7 +86238,7 @@ translate chinese click_map088_70_EV070_320acfb1:
 translate chinese click_map088_88_EV088_a9c4444b:
 
     # "I often see Fortaime up here, just passing the time.{w}\nClimbing the trees of Valinorth is his number one hobby.{w}\nHe always talks about how he'll climb The Grand Tree one day."
-    "我常在这儿看到福泰姆，只是打发时间。{w}\n爬瓦利诺斯的树是他最大的爱好。{w}\n他总说，总有一天要去爬巨树。"
+    "我常在这里看到福泰姆，只是打发时间。{w}\n爬瓦利诺斯的树是他最大的爱好。{w}\n他总说，总有一天要去爬巨树。"
 
 # game/script.rpy:190769
 translate chinese click_map088_120_EV120_88635c45:
@@ -87726,7 +87726,7 @@ translate chinese map093_d0725466:
 translate chinese map093_c0645369:
 
     # char_sovy "Yes, of course.\nThe Exodus Wielder {i}is{/i} located in Valinorth.\nI am ready to launch our attack at a moment's notice."
-    char_sovy "是的，当然。\n放逐之刃的持剑人{i}确实{/i}在瓦利诺斯。\n我随时准备发动进攻。"
+    char_sovy "是的，当然。\n放逐之刃的持有者{i}确实{/i}在瓦利诺斯。\n我随时准备发动进攻。"
 
 # game/script.rpy:194526
 translate chinese map093_12902137:
@@ -87896,7 +87896,7 @@ translate chinese map230_49555b4a:
 translate chinese map230_bc253daf:
 
     # "He walks toward it, so I make sure to follow him.{w}\nThis is the first time he's ever mentioned anything about his past.{w}\nIt's hard to imagine that he was anything other than The Grand Inquisitor."
-    "他朝那儿走去，我也跟了上去。{w}\n这是他第一次提起自己的过去。{w}\n很难想象他除了大审判官之外还有别的样子。"
+    "他朝那里走去，我也跟了上去。{w}\n这是他第一次提起自己的过去。{w}\n很难想象他除了大审判官之外还有别的样子。"
 
 # game/script.rpy:194935
 translate chinese map230_887c6a3a:
@@ -88554,7 +88554,7 @@ translate chinese map100_032e88a5:
 translate chinese map100_4dc1dfad:
 
     # char_fortaime "Or maybe it's a title for whoever wields it.\nYou know, something like Seer or Seeress.\nWhat about it...? Should we call you Exodus?" nointeract
-    char_fortaime "或者是持有者的称号。\n你知道的，就像先知那样的名号。\n怎么样……？要不我们叫你“流亡”？" nointeract
+    char_fortaime "或者是持有者的称号。\n你知道的，就像先知那样的名号。\n怎么样……？要不我们叫你“放逐者”？" nointeract
 
 # game/script.rpy:196464
 translate chinese map100_a1b6292b:
@@ -88578,7 +88578,7 @@ translate chinese map100_b2dde017:
     # voice "se/z00370.ogg"
     # char_valessa "Yeah, especially if The Triumvirate wants it back.\nWalking around as Exodus would put a huge target on us.\nThat's not something we can afford if we want to blend in."
     voice "se/z00370.ogg"
-    char_valessa "是啊，尤其三人执政团还想把它夺回去。\n顶着“流亡”的名号到处走，会让我们成为活靶子。\n想融入人群，我们可负担不起这个。"
+    char_valessa "是啊，尤其三人执政团还想把它夺回去。\n顶着“放逐者”的名号到处走，会让我们成为活靶子。\n想融入人群，我们可负担不起这个。"
 
 # game/script.rpy:196550
 translate chinese map100_8f988806:

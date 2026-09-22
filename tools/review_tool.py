@@ -153,7 +153,9 @@ def load_fixups(path=FIXUPS):
             continue
         p = ln.split("\t")
         if len(p) >= 2 and p[0]:
-            out.append((p[0], p[1], p[2] if len(p) > 2 else ""))
+            scope = p[2].strip() if len(p) > 2 and p[2].strip() else "all"
+            note = p[3] if len(p) > 3 else ""
+            out.append((p[0], p[1], scope, note))
     return out
 
 
@@ -253,7 +255,10 @@ def term_diff(rows, rules, fixups=None):
             if cur != new:
                 notes.append("%s -> %s" % (rule["en"], rule["cn"]))
                 new = cur
-        for old, new_s, note in fixups:
+        layer = classify(r)
+        for old, new_s, scope, note in fixups:
+            if scope != "all" and scope != layer:
+                continue
             if old and old in new:
                 new = new.replace(old, new_s)
                 notes.append("润色: " + (note or ("%s -> %s" % (old, new_s))))

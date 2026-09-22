@@ -60,3 +60,10 @@
 - **PC 端**：`tl/chinese/fonts.rpy` 采用**系统字体优先** —— 打开 `config.allow_sysfonts`，按候选列表匹配系统中文字体（Windows: `msyh.ttc` / `Deng.ttf` / `simhei.ttf` / `simsun.ttc`），仅当系统字体不可用时才回退到 `fonts/dengxian-regular.ttf`。
 - **安卓端**：**有意保持**硬编码 `fonts/dengxian-regular.ttf`（随工程分发该字体），不启用系统字体回退 —— 安卓机型字体差异大，随包字体才能保证渲染一致。
 - 因此同步补丁内容到安卓工程时，**不要覆盖 `game/tl/chinese/fonts.rpy`**，该文件在两端保持不同内容。
+
+## 八、字体顺序最终确定 (2026-09-23)
+
+- **顺序**：① 本地附带的中文字体 `fonts/dengxian-regular.ttf`（若存在）→ ② 系统字体（Windows 微软雅黑/等线/黑体/宋体；Android Noto CJK）。
+- 不再回退到 `gothic.ttf`——它不含中文字形，只会显示方块。
+- 该额外字体**不由补丁分发**（它是 Windows「等线」的副本，微软字体不可再分发）；干净安装自动走系统字体，两种路径都能正常渲染中文。
+- **安卓端**仍固定使用随包 `fonts/dengxian-regular.ttf`，同步时不要覆盖 `tl/chinese/fonts.rpy`。

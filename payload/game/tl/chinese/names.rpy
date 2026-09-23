@@ -55,10 +55,7 @@ init 999 python:
             pass
         return s
 
-    try:
-        _string_types = (str, unicode)
-    except NameError:
-        _string_types = (str,)
+    _string_types = basestring
 
     try:
         for _sd in renpy.python.store_dicts.values():

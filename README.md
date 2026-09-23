@@ -16,10 +16,10 @@
 | 项目 | 说明 |
 | --- | --- |
 | 适用游戏 | Steam《Winds of Change》(appid 594130)，开发商/发行商 **Klace** |
-| 游戏引擎 | Ren'Py 7.1.1.929（PC 端），补丁同时兼容 Ren'Py 8.x |
+| 游戏引擎 | 仅支持 Ren'Py 7.1.1.929（PC / Steam） |
 | 基线校验 | `game/script.rpy` 的 sha256 `c11fbeb67c84...`，不匹配会拒绝安装 |
-| 补丁规模 | 72 个文件 = 56 个修改 + 16 个新增（含 53 张改版图片） |
-| 当前版本 | v1.3.2：补齐普洛日记图片汉化 |
+| 补丁规模 | 68 个文件 = 56 个修改 + 12 个新增（含 53 张改版图片） |
+| 当前版本 | v1.3.3：精简 PC 专用 GUI、字体与粒子效果代码 |
 | 运行要求 | 仅需 Python 3.8+（纯标准库，无第三方依赖） |
 
 ---
@@ -32,7 +32,9 @@
 | --- | --- |
 | `安装补丁.cmd` | 备份被覆盖的原文件，然后写入中文补丁 |
 | `卸载补丁.cmd` | 从备份完整还原，删除新增文件，清理缓存 |
-| `检查补丁.cmd` | 体检：引擎版本、文件完整性、`.rpyc`/`.rpy` 配对、Python 2 残留 |
+| `检查补丁.cmd` | 体检：目标引擎版本、文件完整性、`.rpyc`/`.rpy` 配对 |
+
+从 v1.3.2 升级时，请先用旧版补丁卸载，再安装 v1.3.3，以清理本次移除的新增文件。
 
 命令行等价形式（不指定 `--game-dir` 时会自动扫描 Steam 库与注册表定位游戏）：
 
@@ -65,9 +67,8 @@ python tools\patch_tool.py find
 
 | 内容 | 说明 |
 | --- | --- |
-| `game/tl/chinese/` | 全文对白与旁白译文（6 组 `.rpy` + `.rpyc`，对白 10,370 块、界面串 1,253 条） |
+| `game/tl/chinese/` | 全文对白与旁白译文（5 组 `.rpy` + `.rpyc`，对白 10,370 块、界面串 1,253 条） |
 | `game/zzz_chinese_language.rpy` | 语言开关 + 界面提示的运行时翻译钩子（见"技术细节"） |
-| `game/00title_particles.rpy` | 标题粒子效果 |
 | `game/gui.rpy`、`game/screens.rpy` | 中文字体与界面适配（含存档界面中文标签） |
 | `game/images/` | 53 张改版图片：书页笔记、区域地图、教程、爬塔、主菜单等 |
 
@@ -76,10 +77,10 @@ python tools\patch_tool.py find
 ## 📁 目录结构
 
 ```
-payload/game/      补丁内容（72 个文件：56 修改 + 16 新增）
-tools/             patch_tool.py 安装器 / review_tool.py 校对工作流 / tl_tool.py 构建 / fetch_renpy_sdk.py 依赖获取
+payload/game/      补丁内容（68 个文件：56 修改 + 12 新增）
+tools/             patch_tool.py 安装器 / review_tool.py 校对工作流 / tl_tool.py 构建
 manifest.json      文件清单：路径、类型、双方 sha256、基线校验值、引擎编译版本
-docs/              校对工作流（proofreading-workflow.md）、角色语气档案（characters.md / character-stats.md）
+docs/              PC 运行环境说明（pc-runtime.md）、校对工作流与角色语气档案
 review/            术语表 terms.tsv、润色表 fixups.tsv、预筛报告与校对进度
 安装补丁.cmd / 卸载补丁.cmd / 检查补丁.cmd
 tl_work/           翻译源（分块 TSV）与构建脚本，仅维护者本地保留
@@ -100,9 +101,9 @@ originals/         游戏原文件副本，仅维护者本地保留（无备份�
 
 补丁在自己新增的 `zzz_chinese_language.rpy` 中把这两个函数包了一层，让提示语先经 `renpy.translation.translate_string()` 查字符串表，配套 39 条映射写在同一文件的 `translate chinese strings:` 块里。这样处理**不需要改动任何游戏原始脚本**，卸载时删除该文件即完全还原。
 
-### 引擎版本兼容
+### 引擎版本
 
-`patch_tool.py` 会读取 `renpy/vc_version.py`、`renpy/__init__.py` 或 `log.txt` 判断目标引擎版本。补丁内的 `.rpyc` 由 PC 端 Ren'Py 7.1.1（Python 2）编译，版本记录在 `manifest.json` 的 `compiled_with`；若目标引擎主版本不同，安装器**跳过 `.rpyc`**、只投放 `.rpy`，由引擎首次启动时自行编译（payload 中每个 `.rpyc` 都有配套 `.rpy`）。因此把补丁装到 Ren'Py 8 工程上也不会因字节码不兼容出错。
+补丁只支持 PC / Steam 版 Ren'Py 7.1.1.929。安装器会核对引擎版本和 `game/script.rpy` 基线，不匹配时拒绝安装。随包 `.rpyc` 均由该引擎编译，并与 `.rpy` 配套。
 
 ### 校验机制
 
@@ -110,7 +111,7 @@ originals/         游戏原文件副本，仅维护者本地保留（无备份�
 | --- | --- |
 | `manifest.json` | 为每个文件记录 sha256 与类型（modified / new），`verify` 据此核对安装结果 |
 | `base_check` | 记录 `game/script.rpy` 的哈希，用于判断游戏基线是否匹配（该文件补丁从不修改） |
-| `check` | 额外核对 `.rpyc` 与 `.rpy` 配对关系、补丁内 `.rpy` 是否存在 Python 2 专有写法 |
+| `check` | 核对目标引擎版本、payload 完整性及 `.rpyc` / `.rpy` 配对关系 |
 
 ---
 

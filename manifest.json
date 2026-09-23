@@ -1,8 +1,8 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.3.2",
- "built": "2026-09-23 02:53:04",
+ "version": "1.3.3",
+ "built": "2026-09-23 20:10:18",
  "base_check": {
   "path": "game/script.rpy",
   "sha256": "c11fbeb67c84d9b649f09e8a39aacd43adf28428b2493e1e988c4871d9de7368",
@@ -12,12 +12,11 @@
   {
    "path": "game/gui.rpy",
    "type": "modified",
-   "sha256": "c54bcef858bfc55054bcf8376dd79f84c5d93a3e9217d157e15b1ca58905d3cf",
-   "size": 15690,
+   "sha256": "43bfb5bf2359fb6eac8938c8d69b16854bdcaa1f9332b187b23395b9ae7db0cc",
+   "size": 15629,
    "original": {
     "sha256": "b915998ca4de1f63820c3a54b50d5dc3779dfc566125cf6a42f16d12aff15b09",
-    "size": 15630,
-    "source": "android-copy"
+    "size": 15630
    }
   },
   {
@@ -27,8 +26,7 @@
    "size": 1552915,
    "original": {
     "sha256": "10ec8f4b172f90c52ce9bec93549e3bfd1b051692346633552f1b12860d00c9d",
-    "size": 1338624,
-    "source": "backup(==android)"
+    "size": 1338624
    }
   },
   {
@@ -38,8 +36,7 @@
    "size": 1628389,
    "original": {
     "sha256": "bb38046b6eb7cb4fdf981588de0ffc2f2d9c643d16c1c5898f80615853a2d401",
-    "size": 1392375,
-    "source": "backup(==android)"
+    "size": 1392375
    }
   },
   {
@@ -49,8 +46,7 @@
    "size": 1542151,
    "original": {
     "sha256": "0413ed90d0d23c0a0dc2e79810c2a4e8f63d4ea4cf4fe23ff9af3875b93ccfe4",
-    "size": 1282477,
-    "source": "backup(==android)"
+    "size": 1282477
    }
   },
   {
@@ -60,8 +56,7 @@
    "size": 1620289,
    "original": {
     "sha256": "a16b96b142421041dd06958be5308309fcba899354dc7d5f9d8849f7697c32f7",
-    "size": 1335412,
-    "source": "backup(==android)"
+    "size": 1335412
    }
   },
   {
@@ -71,8 +66,7 @@
    "size": 1493838,
    "original": {
     "sha256": "1dd6a03080ecea146dad7d0fb48c8261a96b5276a31c708120c5b4fab4ef360d",
-    "size": 1273297,
-    "source": "backup(==android)"
+    "size": 1273297
    }
   },
   {
@@ -82,8 +76,7 @@
    "size": 1539259,
    "original": {
     "sha256": "3158a69db81b36d8b5582ccc0ef0c575bc574fb9b9290ba77957c090850a5720",
-    "size": 1276052,
-    "source": "backup(==android)"
+    "size": 1276052
    }
   },
   {
@@ -93,8 +86,7 @@
    "size": 1502875,
    "original": {
     "sha256": "268cf393f38889f0c6d015584857262704824bbd063301c20b3080aaba1d7871",
-    "size": 1207624,
-    "source": "backup(==android)"
+    "size": 1207624
    }
   },
   {
@@ -104,8 +96,7 @@
    "size": 1683522,
    "original": {
     "sha256": "7a79e246f84bf61765a435132a86fc69af009fb845f0fdca64467b4617e7eb1a",
-    "size": 1424195,
-    "source": "backup(==android)"
+    "size": 1424195
    }
   },
   {
@@ -115,8 +106,7 @@
    "size": 1490078,
    "original": {
     "sha256": "a3e2d524eb3a3918b9734dec93b81d473e2e927a3fd469181abaa36584111777",
-    "size": 1250548,
-    "source": "backup(==android)"
+    "size": 1250548
    }
   },
   {
@@ -126,8 +116,7 @@
    "size": 1651083,
    "original": {
     "sha256": "e84ecdbfd595735ec66a05763c3d93af55ca5068b3d33d27474a4b27bd50f5e7",
-    "size": 1439981,
-    "source": "backup(==android)"
+    "size": 1439981
    }
   },
   {
@@ -137,8 +126,7 @@
    "size": 1550613,
    "original": {
     "sha256": "43cb50201ad9237a5496d10ac38247b0f8369efa873f23d9d2b260dec1d198be",
-    "size": 1321575,
-    "source": "backup(==android)"
+    "size": 1321575
    }
   },
   {
@@ -148,8 +136,7 @@
    "size": 1424278,
    "original": {
     "sha256": "f0eeffeaef76f23e8cee23eac3ecf8314f28e837045aaced4bdaa5398dd5af45",
-    "size": 1227273,
-    "source": "backup(==android)"
+    "size": 1227273
    }
   },
   {
@@ -159,8 +146,7 @@
    "size": 1651917,
    "original": {
     "sha256": "12a5d615de1e9e7788317ef128a1d9069e196c9b14054e31825482bd0891fec1",
-    "size": 1294898,
-    "source": "backup(==android)"
+    "size": 1294898
    }
   },
   {
@@ -170,8 +156,7 @@
    "size": 1581263,
    "original": {
     "sha256": "a413427fd370d274625dbcbf68d4ec94e5f419c42b8295820b8b6ab035862a74",
-    "size": 1278843,
-    "source": "backup(==android)"
+    "size": 1278843
    }
   },
   {
@@ -181,8 +166,7 @@
    "size": 1547829,
    "original": {
     "sha256": "a40c6cb409653e189081e5131444641d256ce50e879f268527dfdae7f4a25438",
-    "size": 1335614,
-    "source": "backup(==android)"
+    "size": 1335614
    }
   },
   {
@@ -192,8 +176,7 @@
    "size": 1521722,
    "original": {
     "sha256": "5076d09635ebd0505a9c5b6ff39b33bc02e7df261b2a4f90e9e4a5af257b803c",
-    "size": 1300089,
-    "source": "backup(==android)"
+    "size": 1300089
    }
   },
   {
@@ -203,8 +186,7 @@
    "size": 1576307,
    "original": {
     "sha256": "face2b284289ff8750fa31199e0cf3a6a09936890a2da2274932e808449a881c",
-    "size": 1343499,
-    "source": "backup(==android)"
+    "size": 1343499
    }
   },
   {
@@ -214,8 +196,7 @@
    "size": 1443785,
    "original": {
     "sha256": "413dd6d383accdcbe9e16b3e8d5a4bd27bcb629dc46d97c12d1b32f72831d67d",
-    "size": 1308841,
-    "source": "backup(==android)"
+    "size": 1308841
    }
   },
   {
@@ -225,8 +206,7 @@
    "size": 1424501,
    "original": {
     "sha256": "9abb6863e548965aa33a4031046a2b6d8d13760a1cf8133823e8035a3f6b71a1",
-    "size": 1310609,
-    "source": "backup(==android)"
+    "size": 1310609
    }
   },
   {
@@ -236,8 +216,7 @@
    "size": 1611237,
    "original": {
     "sha256": "1eeb1469ae3d42516333bc1058ef0b1dab33c15571d7ba4f3c16fbb340dba754",
-    "size": 1332881,
-    "source": "backup(==android)"
+    "size": 1332881
    }
   },
   {
@@ -247,8 +226,7 @@
    "size": 1617061,
    "original": {
     "sha256": "f9527cc8e09c68e662b6b2f6c80759499b60abc2400a0e8c2c14e98f3966d269",
-    "size": 1304824,
-    "source": "backup(==android)"
+    "size": 1304824
    }
   },
   {
@@ -258,8 +236,7 @@
    "size": 1488414,
    "original": {
     "sha256": "dd002bf17d4c3a14c69d7a598e9466f330fb5199812a51e5f412259e62d63048",
-    "size": 1226716,
-    "source": "backup(==android)"
+    "size": 1226716
    }
   },
   {
@@ -269,8 +246,7 @@
    "size": 1547097,
    "original": {
     "sha256": "13e368f961feeffbea01c63b04207bc3a2be582ae7281d370a830e1d7b9e1e9d",
-    "size": 1272115,
-    "source": "backup(==android)"
+    "size": 1272115
    }
   },
   {
@@ -280,8 +256,7 @@
    "size": 1565716,
    "original": {
     "sha256": "2a623f2c2ced36b732539391e740cf557b63a0bdf44aa21bfe60021b47ea3788",
-    "size": 1303103,
-    "source": "backup(==android)"
+    "size": 1303103
    }
   },
   {
@@ -291,8 +266,7 @@
    "size": 1188000,
    "original": {
     "sha256": "36e1c175c3d20e7642e86ced4699c34c7b69dc49a7a6ef43e835bcfa053e2ea2",
-    "size": 1248553,
-    "source": "backup(==android)"
+    "size": 1248553
    }
   },
   {
@@ -302,8 +276,7 @@
    "size": 1563398,
    "original": {
     "sha256": "2b1733f1bc1373cdaa0604048299c15118911a4eca311e1dccd3b280ffd9abbb",
-    "size": 1327845,
-    "source": "backup(==android)"
+    "size": 1327845
    }
   },
   {
@@ -313,8 +286,7 @@
    "size": 1630385,
    "original": {
     "sha256": "f584bcd8ce779195914eb990dcb2042a9a10872547cb49b592b6e57fb037506f",
-    "size": 1258969,
-    "source": "backup(==android)"
+    "size": 1258969
    }
   },
   {
@@ -324,8 +296,7 @@
    "size": 1572877,
    "original": {
     "sha256": "fe3664d16454773dd020c10a470f4583d71d0c19b623532923281a46dba04053",
-    "size": 1285295,
-    "source": "backup(==android)"
+    "size": 1285295
    }
   },
   {
@@ -335,8 +306,7 @@
    "size": 1466650,
    "original": {
     "sha256": "9fb819721aea34ccced53e2b315afdcd70f6eeeffb0200682ea8876a2218ed5e",
-    "size": 1212840,
-    "source": "backup(==android)"
+    "size": 1212840
    }
   },
   {
@@ -379,8 +349,7 @@
    "size": 633530,
    "original": {
     "sha256": "0d9c901a431e58700c5eea5d3179a94b6ee45e9ef246a96ad68b2420b3e30f4d",
-    "size": 102235,
-    "source": "backup(==android)"
+    "size": 102235
    }
   },
   {
@@ -390,8 +359,7 @@
    "size": 581091,
    "original": {
     "sha256": "3216f31dd221f9d6df71fca8f658cc16c1b385b25db1b19f6e2124c70f0b9b2f",
-    "size": 89359,
-    "source": "backup(==android)"
+    "size": 89359
    }
   },
   {
@@ -401,8 +369,7 @@
    "size": 514783,
    "original": {
     "sha256": "1a867441ee8aaa9ab38bcbb2a2a67018b142e4cac04750b1a8a75550b2344f04",
-    "size": 92606,
-    "source": "backup(==android)"
+    "size": 92606
    }
   },
   {
@@ -412,8 +379,7 @@
    "size": 594061,
    "original": {
     "sha256": "8e01d79921394b5ecfce0531231cd12d3e78c39c0582caf7c90d7bd8911a5c33",
-    "size": 216278,
-    "source": "backup(==android)"
+    "size": 216278
    }
   },
   {
@@ -423,8 +389,7 @@
    "size": 826779,
    "original": {
     "sha256": "a4fa01020d21516f823fc2e7c30f90d2f63aa49c96e7147bd5b5f0815cfec40c",
-    "size": 311669,
-    "source": "backup(==android)"
+    "size": 311669
    }
   },
   {
@@ -434,8 +399,7 @@
    "size": 754485,
    "original": {
     "sha256": "366be46622fa458d188485035190e4d1ecd79fe59d7a8a97ac6efcd26a31089c",
-    "size": 245369,
-    "source": "backup(==android)"
+    "size": 245369
    }
   },
   {
@@ -606,25 +570,12 @@
   {
    "path": "game/screens.rpy",
    "type": "modified",
-   "sha256": "7a1c2a48e2b841fd50227efae290c85bc85f55944078f74eb5004fc9eae1688e",
-   "size": 44452,
+   "sha256": "8bf841ebed4026a624149012fa20e27605e006fd32bd4a53dac71c8bdc8c8c64",
+   "size": 44100,
    "original": {
     "sha256": "4ecfbc076c9cb383f9710e6d3ee77ece7f85d12b62a33c628b325feae147d28c",
-    "size": 44483,
-    "source": "android-copy"
+    "size": 44483
    }
-  },
-  {
-   "path": "game/00title_particles.rpy",
-   "type": "new",
-   "sha256": "68adb92042641bcee12b2ea55c6961a799022d8555e0fc59a9bc1cfcb56f467f",
-   "size": 5230
-  },
-  {
-   "path": "game/00title_particles.rpyc",
-   "type": "new",
-   "sha256": "cea893f5cf20c1405ca5f32453f29fe3442a400b7798e0c1560ed3f0493ecd4d",
-   "size": 3204
   },
   {
    "path": "game/tl/chinese/common.rpy",
@@ -639,22 +590,10 @@
    "size": 26886
   },
   {
-   "path": "game/tl/chinese/fonts.rpy",
-   "type": "new",
-   "sha256": "701c652366a1521485cefbc9e5b25356a7155685e00ced05f35410d4c3a78858",
-   "size": 536
-  },
-  {
-   "path": "game/tl/chinese/fonts.rpyc",
-   "type": "new",
-   "sha256": "943ebc74486cd7caaa4179e60eba011cf0be8f860772f9eb74f661581435f6e5",
-   "size": 868
-  },
-  {
    "path": "game/tl/chinese/names.rpy",
    "type": "new",
-   "sha256": "86225022ecb11eb25f9c1c5d3e8b198679dc89a1b01050de9991d478faf66760",
-   "size": 2173
+   "sha256": "3332c51a6d71ecb0d44b6be07e957c4832aa38aca972c76ca681d5932c4be58e",
+   "size": 2103
   },
   {
    "path": "game/tl/chinese/names.rpyc",
@@ -722,10 +661,9 @@
   }
  ],
  "engines": {
-  "pc": "7.1.1.929",
-  "android": "8.6.0.25112108"
+  "pc": "7.1.1.929"
  },
- "notes": "1.3.1: 中文用字体改为直接替换游戏原版 game/gothic.ttf (Sarasa UI SC, 含中文字形, SIL OFL 1.1), 不再新增 fonts/ 目录文件, 也不覆写 gui 字体变量; gothic.ttf 作为 modified 条目可还原。 1.3.2: transparent translation added for game/images/zzzzjournal1.png.",
+ "notes": "1.3.1: 中文用字体改为直接替换游戏原版 game/gothic.ttf (Sarasa UI SC, 含中文字形, SIL OFL 1.1), 不再新增 fonts/ 目录文件, 也不覆写 gui 字体变量; gothic.ttf 作为 modified 条目可还原。 1.3.2: transparent translation added for game/images/zzzzjournal1.png. 1.3.3: removed non-PC GUI and system-font fallback settings from the PC payload. 1.3.3: PC payload drops mobile-only GUI settings, system-font fallback, and the custom title-particle layer.",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

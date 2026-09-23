@@ -8,7 +8,7 @@ tl_work/
 backup/
 woc_zh_patch_backup/
 
-# 引擎依赖二进制：由 tools/fetch_renpy_sdk.py 按 deps/renpy.json 获取
+# 本地 Ren'Py SDK 副本
 deps/downloads/
 deps/renpy-*-sdk/
 deps/renpy-*-rapt/

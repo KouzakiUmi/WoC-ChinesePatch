@@ -133,7 +133,7 @@ originals/         游戏原文件副本，仅维护者本地保留（无备份�
 
 ## ⚙️ 构建与发布（维护者）
 
-Windows 单文件 GUI 安装器由 GitHub Actions 在 Windows runner 上构建，不在维护者电脑本地打包。修改安装器、清单或 `payload/` 后推送会触发构建；也可在 Actions 手动运行 **Build standalone installer**。下载工作流产出的 `WoC-ChinesePatch-windows-x64` artifact。首次启动会解包到临时目录，退出后自动清理。
+Windows 单文件 GUI 安装器由 GitHub Actions 在 Windows runner 上构建，不在维护者电脑本地打包。修改安装器、清单或 `payload/` 后推送会触发构建；也可在 Actions 手动运行 **Build standalone installer** 下载测试 artifact。推送 `v*` 版本 tag 时，CI 会自动构建 exe 并创建 GitHub Release。首次启动会解包到临时目录，退出后自动清理。
 
 译文源在 `tl_work/chunks/*.tsv`（只编辑每行最后一列），工具链如下：
 

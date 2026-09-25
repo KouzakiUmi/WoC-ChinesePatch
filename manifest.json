@@ -1,7 +1,7 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.3.5",
+ "version": "1.3.6",
  "built": "2026-09-26",
  "base_check": {
   "path": "game/script.rpy",
@@ -570,8 +570,8 @@
   {
    "path": "game/images/zzzzjournal1.png",
    "type": "modified",
-   "sha256": "de0d3289a710c38eb485065cfb6c1aa5ba8cc21545206b903442a6edc609296e",
-   "size": 87824,
+   "sha256": "8fd22d344acb7826e25b5bdd7e5b705c1686795e95ed08b0cf5f140c00ac8bd1",
+   "size": 82753,
    "original": {
     "sha256": "7986339b848a3e21eb02c6e8cd0d2705959b8670329128f8d051fb83b53f3143",
     "size": 106645,
@@ -664,7 +664,7 @@
  "engines": {
   "pc": "7.1.1.929"
  },
- "notes": "1.3.1: 中文用字体改为直接替换游戏原版 game/gothic.ttf (Sarasa UI SC, 含中文字形, SIL OFL 1.1), 不再新增 fonts/ 目录文件, 也不覆写 gui 字体变量; gothic.ttf 作为 modified 条目可还原。 1.3.2: transparent translation added for game/images/zzzzjournal1.png. 1.3.3: PC payload drops mobile-only GUI settings, system-font fallback, and the custom title-particle layer. 1.3.4: added a Python-free single-file Windows GUI installer with progress feedback and diagnostic logging. 1.3.5: unified the Sixers terminology as 六时人, updated the opening captions and journal lettering with larger spaced italic WenKai typography, added a translated epilogue card, and translated save-screen labels; PC / Ren'Py 7.1.1 only.",
+ "notes": "1.3.1: 中文用字体改为直接替换游戏原版 game/gothic.ttf (Sarasa UI SC, 含中文字形, SIL OFL 1.1), 不再新增 fonts/ 目录文件, 也不覆写 gui 字体变量; gothic.ttf 作为 modified 条目可还原。 1.3.2: transparent translation added for game/images/zzzzjournal1.png. 1.3.3: PC payload drops mobile-only GUI settings, system-font fallback, and the custom title-particle layer. 1.3.4: added a Python-free single-file Windows GUI installer with progress feedback and diagnostic logging. 1.3.5: unified the Sixers terminology as 六时人, updated the opening captions and journal lettering with larger spaced italic WenKai typography, added a translated epilogue card, and translated save-screen labels; PC / Ren'Py 7.1.1 only. 1.3.6: corrected the three Pro journal image lines against the original English artwork.",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

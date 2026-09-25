@@ -1,6 +1,8 @@
 # 术语统一规则表
 # en <TAB> cn <TAB> variants(其他译法) <TAB> protect(保护片段) <TAB> mode(word|phrase) <TAB> exclude_en(源文含此词则跳过本规则) <TAB> note
 Exodus	放逐	流亡之刃		phrase		专名 The Blade of Exodus 按游戏设定译为「放逐之刃」
+Sixers	六时人	六人帮|六人众		word		阿拉林西亚旧刑罚的称呼；按对白中“六时人”统一
+sixer	六时人	六人帮|六人众		word		阿拉林西亚旧刑罚中罪犯的称呼；按对白中“六时人”统一
 blade	剑	刀剑|刀刃|剑刃|刀|刃	流亡之刃|放逐之刃|双刃剑	word	Exodus	blade 统一为「剑」; 专名与「双刃剑」保留
 blades	剑	刀剑|刀刃|剑刃|刀|刃	流亡之刃|放逐之刃|双刃剑	word	Exodus	blade 复数, 规则同上
 sword	剑	刀剑|刀		word		sword 统一为「剑」

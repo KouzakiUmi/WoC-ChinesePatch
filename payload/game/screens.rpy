@@ -110,7 +110,8 @@ screen say(who, what):
         text what id "what"
 
 
-    ## If there's a side image, display it above the text.
+    ## If there's a side image, display it above the text. Do not display on the
+    ## phone variant - there's no room.
     if not renpy.variant("small"):
         add SideImage() xalign 0.02 yalign 0.95
 
@@ -328,8 +329,10 @@ screen navigation():
 
         if renpy.variant("pc"):
 
+            ## Help isn't necessary or relevant to mobile devices.
             textbutton _("Help") action ShowMenu("help")
 
+            ## The quit button is banned on iOS and unnecessary on Android.
             textbutton _("Quit") action Quit(confirm=not main_menu)
 
 
@@ -369,6 +372,11 @@ screen main_menu():
         add (persistent.last_main_menu_bg + ".png")
     else:
         add gui.main_menu_background
+
+    add TitleParticlesDisplayable([
+        ParticleDef("main_menu/Particles2.png", 20, 21, 2, 2, 0.01, False),
+        ParticleDef("main_menu/Particles3.png", 20, 22, 0.5, 0.5, 0.006, True)
+    ])
 
     frame:
         imagebutton xpos 570 ypos 400 idle "main_menu_start" hover "main_menu_start hover" action Start()

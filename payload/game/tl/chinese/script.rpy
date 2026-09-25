@@ -25684,7 +25684,7 @@ translate chinese click_map123_16_EV016_7377c137:
 translate chinese click_map123_27_EV027_164c6ece:
 
     # "C1 - On Sixers\nC2 - Draycu's Reign\nC3 - The Evolution of Tournaments\nC4 - The Grand Library"
-    "C1 - 论六人众\nC2 - 德雷库的统治\nC3 - 竞技赛制的演变\nC4 - 大图书馆"
+    "C1 - 论六时人\nC2 - 德雷库的统治\nC3 - 竞技赛制的演变\nC4 - 大图书馆"
 
 # game/script.rpy:58595
 translate chinese click_map123_31_EV031_d655adf9:
@@ -36422,7 +36422,7 @@ translate chinese map238_e0d3f717:
     # voice "se/y02016.ogg"
     # char_ulric "I was caught, and exiled into the desert. That's how I became a \"sixer\".\nI survived the trials — was branded with this tattoo — and showed my worth.\nTheir test was over. They took me over to Balteus and made me their servant."
     voice "se/y02016.ogg"
-    char_ulric "我被抓住，流放到沙漠。我就是这样成了“六人众”的一员。\n我熬过了试炼——被烙上这个刺青——证明了自己的价值。\n他们的考验结束了。他们把我带到巴尔泰乌斯，让我做他们的仆从。"
+    char_ulric "我被抓住，流放到沙漠。我就是这样成了“六时人”。\n我熬过了试炼——被烙上这个刺青——证明了自己的价值。\n他们的考验结束了。他们把我带到巴尔泰乌斯，让我做他们的仆从。"
 
 # game/script.rpy:81134
 translate chinese map238_073526ac:
@@ -38164,13 +38164,13 @@ translate chinese map177_7c2bdfac:
 translate chinese click_map178_6_EV006_44be7415:
 
     # "It's a book about Sixers — criminals in Alarinthia's past."
-    "这是一本关于“六人帮”的书——阿拉林西亚历史上的罪犯。"
+    "这是一本介绍“六时人”的书——他们曾是阿拉林西亚的罪犯。"
 
 # game/script.rpy:85354
 translate chinese click_map178_6_EV006_6cffd2b2:
 
     # "I look through the market stalls. There's a few books on display.{w}\nThere's one about \"Sixers\", so I figure I should give it a read.{w}\nThat term has been thrown around recently, and I wanted to learn more."
-    "我翻了翻市场摊位。上面摆着几本书。{w}\n其中一本是关于“六人帮”的，我想我该读一读。{w}\n这个词最近常被提起，我想多了解一些。"
+    "我翻了翻市场摊位。上面摆着几本书。{w}\n其中一本是关于“六时人”的，我想我该读一读。{w}\n这个词最近常被提起，我想多了解一些。"
 
 # game/script.rpy:85416
 translate chinese click_map178_7_EV007_09b76bfd:

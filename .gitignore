@@ -19,6 +19,9 @@ deps/renpy.lock.json
 *.bak
 *.bak1
 *.tmp
+build/
+dist/
+*.spec
 __pycache__/
 *.pyc
 Thumbs.db

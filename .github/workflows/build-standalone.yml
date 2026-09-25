@@ -1,0 +1,52 @@
+name: Build standalone installer
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/build-standalone.yml'
+      - 'manifest.json'
+      - 'payload/**'
+      - 'tools/patch_launcher.py'
+      - 'tools/patch_tool.py'
+  pull_request:
+    paths:
+      - '.github/workflows/build-standalone.yml'
+      - 'manifest.json'
+      - 'payload/**'
+      - 'tools/patch_launcher.py'
+      - 'tools/patch_tool.py'
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install PyInstaller
+        run: python -m pip install --disable-pip-version-check PyInstaller==6.19.0
+
+      - name: Build one-file GUI executable
+        run: >-
+          python -m PyInstaller --noconfirm --clean --onefile --windowed
+          --name WoC-ChinesePatch
+          --add-data "manifest.json;."
+          --add-data "payload;payload"
+          --distpath dist --workpath build tools/patch_launcher.py
+
+      - name: Upload executable artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: WoC-ChinesePatch-windows-x64
+          path: dist/WoC-ChinesePatch.exe
+          if-no-files-found: error
+          retention-days: 30

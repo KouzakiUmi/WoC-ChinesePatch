@@ -17,7 +17,9 @@
 import argparse, hashlib, io, json, os, re, shutil, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.dirname(HERE)
+# PyInstaller --onefile extracts bundled data beside sys._MEIPASS. In a source
+# checkout this remains the repository root above tools/.
+ROOT = getattr(sys, "_MEIPASS", os.path.dirname(HERE))
 STATE_NAME = "woc_zh_patch.json"
 BACKUP_DIRNAME = "woc_zh_patch_backup"
 CACHE_DIRS = ("game/cache", "game/saves/../cache")
@@ -232,7 +234,8 @@ def do_install(args):
     bdir = backup_dir_for(game, getattr(args, "backup_dir", None))
     n_new = n_mod = n_bak = 0
     backed = []
-    for e in man["files"]:
+    total = len(man["files"])
+    for index, e in enumerate(man["files"], 1):
         rel = e["path"].replace("/", os.sep)
         src = os.path.join(ROOT, "payload", rel)
         dst = os.path.join(game, rel)
@@ -247,6 +250,7 @@ def do_install(args):
                 if created: n_bak += 1
         os.makedirs(os.path.dirname(dst), exist_ok=True)
         shutil.copy2(src, dst)
+        print("写入文件 [%d/%d]: %s" % (index, total, e["path"]))
         if e["type"] == "new": n_new += 1
         else: n_mod += 1
     state = {"manifest_version": man["version"], "installed": man["built"],
@@ -272,7 +276,8 @@ def do_uninstall(args):
     print("备份目录:", bdir if have_backup else "(未找到, 将回退到随包 originals/)")
     restored = removed = skipped = from_backup = 0
     touched_dirs = set()
-    for e in man["files"]:
+    total = len(man["files"])
+    for index, e in enumerate(man["files"], 1):
         rel = e["path"].replace("/", os.sep)
         dst = os.path.join(game, rel)
         rpyc = dst + "c"
@@ -296,6 +301,7 @@ def do_uninstall(args):
             if os.path.isfile(dst): os.remove(dst); removed += 1
             if os.path.isfile(rpyc): os.remove(rpyc); removed += 1
             touched_dirs.add(os.path.dirname(dst))
+        print("卸载检查 [%d/%d]: %s" % (index, total, e["path"]))
     # 删除新增文件后留下的空目录 (只删空的, 从深到浅)
     for d in sorted(touched_dirs, key=lambda x: -len(x)):
         cur = d

@@ -313,8 +313,9 @@
    3. 编译：暂移 `payload/game/screens.rpy`（payload 非完整工程，`gui.language` 依赖会报错）→ `WindsofChange.exe payload compile` **退出码 0** → 5 个 `.rpyc` 更新 → 复原 `screens.rpy`
    4. `update_manifest_hash.py --apply` → 定点更新（首轮 8 条、尾部轮 7 条），`original.*` 与 version 未动（`original` 字段 HEAD/现 均为 56），CRLF + 3 空格缩进保持
    5. `patch_tool.py check` → **Payload hashes: OK (68)**（本轮新增的哈希校验）
-2. 游戏目录 `verify` = **28/68**（文本与图片均已更新，**待你决定是否重装**）
+2. 游戏目录 `verify` —— ✅ **已重装并复验 68/68**（流程：卸载 → `steam://validate/594130` 还原 32 个仍旧版补丁内容的原版文件 → 安装 v1.3.9 → 68/68；状态 `manifest_version=1.3.9`、备份 56 个原版）
 3. ⚠️ 备注：`.rpyc` 的 sha **每次编译都会变**（即使 `.rpy` 未变，如 `names.rpyc`），属 Ren'Py 编译产物非确定性；因此**每次编译后都必须同步 manifest**，否则 `check` 会报失配。
+4. ⚠️ 卸载注意：`uninstall` 会删除备份目录；若某些 modified 文件当时**没有备份**（如多轮补丁叠加过），本地就取不回原版 —— 这时用 `steam://validate/<appid>` 让 Steam 还原，再装新补丁（本轮即如此处理，装新包前的备份才是真正的原版）。
 
 ### 8.4 代码修复（本轮）
 

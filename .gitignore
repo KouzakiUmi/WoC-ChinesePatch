@@ -29,3 +29,17 @@ Thumbs.db
 # 校对工作流产物 (规则表与报告入库, 生成物不入库)
 review/sheet_*.tsv
 review/backup_chunks_*/
+review/backup_*/
+review/current-*.jpg
+review/current-*.json
+review/pre-remake-*.png
+
+# 编译/运行产生的本地件 (不随补丁分发)
+payload/game/cache/
+payload/game/saves/
+payload/log.txt
+payload/traceback.txt
+payload/game/screens.rpyc
+
+# 过程用的大件底图 (可从 git 历史中的 v1.3.7 版本取回)
+_old_images/

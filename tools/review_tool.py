@@ -93,6 +93,8 @@ ENGINE_HINT_RE = re.compile(
     r"|Winds of Change)$|[<>]|\[name\] \[attributes\]")
 NAME_LEAK_RE = re.compile(r"\b[A-Z][a-z]{2,}\s*:")
 REPEAT_RE = re.compile(r"(我我|的的|了了|是是|你你|他他|们们)")
+# 重复字的正常汉语语境: 结构助词/结果补足/口吃式应答, 不算重复用字
+REPEAT_EXCLUDE = ("目的的", "不了了", "受了了", "差了了", "是是是")
 
 
 def mask(s):
@@ -160,12 +162,16 @@ def load_fixups(path=FIXUPS):
 
 
 def rule_applies(src, rule):
-    """规则是否作用于该行: 先匹配 en, 再排除 exclude_en 命中的行。"""
+    """规则是否作用于该行: 先匹配 en, 再排除 exclude_en 命中的行。
+    exclude_en 支持 `|` 分隔的多个排除词(命中任一即跳过)。"""
     if not rule["cn"] or not src_matches(src, rule):
         return False
     ex = rule.get("exclude_en")
-    if ex and re.search(r"\b" + re.escape(ex) + r"\b", src, re.I):
-        return False
+    if ex:
+        for tok in str(ex).split("|"):
+            tok = tok.strip()
+            if tok and re.search(r"\b" + re.escape(tok) + r"\b", src, re.I):
+                return False
     return True
 
 
@@ -211,16 +217,27 @@ def scan_rows(rows, rules):
                 note += ", 现用「%s」" % "/".join(hit)
             add("term", "term-%s" % rule["en"].lower().replace(" ", "-"), r, note)
 
-        if HALF_RE.search(p):
+        # 半角句读: 排除时间/日期格式 %H:%M 之类
+        _hp = re.sub(r"%[A-Za-z]:%[A-Za-z]", "", p)
+        if HALF_RE.search(_hp) and not re.search(r"\d:\d", p):
             add("low", "halfwidth-punct", r, "中文里出现半角 , ; : ! ?")
+        # 英文残留: 只对对白/旁白判定。界面串里的按键名、渲染器名、文件名、
+        # 制作人员名等按规格本就保留英文 (DirectX/Shift+R/traceback.txt/Ren'Py…)。
         m = WORD_RE.findall(p)
-        if m:
+        if m and not r["chunk"].startswith("strings") \
+                and not (src.strip() == tgt.strip() or ENGINE_HINT_RE.search(tgt.strip())):
             add("low", "ascii-residue", r, "残留英文单词: " + ",".join(sorted(set(m))[:4]))
-        if REPEAT_RE.search(p):
-            add("low", "repeated-char", r, "可能重复用字: " + REPEAT_RE.search(p).group(1))
-        if src.strip() and len(src) > 20:
-            ratio = len(tgt) / float(len(src))
-            if ratio > 0.9 or ratio < 0.15:
+        rep = REPEAT_RE.search(p)
+        if rep:
+            ctx = p[max(0, rep.start() - 2): rep.end() + 2]
+            if not any(x in ctx for x in REPEAT_EXCLUDE):
+                add("low", "repeated-char", r, "可能重复用字: " + rep.group(1))
+        # 长度比: 去掉标签/插值后按"可见文本"比较。
+        # 中文信息密度高于英文, 正常译文约为 EN 的 0.2~0.6; 过短(<0.15)疑漏译, 过长(>1.05)疑增译。
+        vs, vt = plain(src), plain(tgt)
+        if len(vs) >= 12:
+            ratio = len(vt) / float(len(vs))
+            if ratio > 1.05 or ratio < 0.15:
                 add("low", "length-ratio", r, "长度比 %.2f 偏离常规" % ratio)
     return out
 
@@ -280,6 +297,33 @@ MODERN_MARKS = ["团队", "优先级", "进度", "效率", "资源", "失业", "
 # 内心独白里出现这些 = 旁白过于口语/网络化
 COLLOQ_MARKS = ["稳了", "溜了", "咋", "咱", "绝了", "上头", "破防", "哥们", "老铁",
                 "大佬", "牛逼", "事儿", "味儿", "搞定", "没辙"]
+# 语境排除: 标记词出现在这些上下文里属正常汉语构词, 不算命中 (避免子串误报)
+#   例: "袭上头顶" 会误命中 "上头"; "先溜了进来" 会误命中 "溜了"; "拒绝了" 会误命中 "绝了"
+MARK_CONTEXT_EXCLUDE = {
+    "上头": ["袭上头", "上头顶", "冲上头", "攀上头", "涌上头", "看上头"],
+    "溜了": ["先溜了", "溜了进", "溜了出", "溜了走", "就溜了", "想溜了"],
+    "绝了": ["拒绝了", "谢绝了", "杜绝了", "绝了望"],
+}
+# 教程/系统引导文本 (英文原文可判), 属"游戏外壳", 不参与语域检查
+UI_HINT_RE = re.compile(r"\bClick\b|map icon|[Ss]tory flow|Cannot access|You are about to|"
+                        r"question mark|Press |Return to", re.I)
+
+
+def mark_hit(t, m):
+    """判断标记 m 是否在 t 中真实命中 (跳过语境排除项, 避免子串误报)。"""
+    excl = MARK_CONTEXT_EXCLUDE.get(m)
+    if not excl:
+        return m in t
+    start = 0
+    while True:
+        i = t.find(m, start)
+        if i < 0:
+            return False
+        ctx = t[max(0, i - 1): i + len(m) + 1]
+        if any(x in ctx for x in excl):
+            start = i + 1          # 这一处是误报, 继续找下一处
+            continue
+        return True
 
 
 def classify(r):
@@ -298,6 +342,8 @@ def cmd_register(args):
         kind = classify(r)
         bucket[kind] += 1
         t = plain(r["tgt"])
+        if kind != "ui" and UI_HINT_RE.search(r.get("src") or ""):
+            continue    # 教程/系统引导文本属"游戏外壳", 不参与语域检查
         if kind == "dialogue":
             for m in WRITTEN_MARKS:
                 if m in t:
@@ -307,7 +353,7 @@ def cmd_register(args):
                     hits[("dialogue", "现代职场词", m)].append(r); break
         elif kind == "monologue":
             for m in COLLOQ_MARKS:
-                if m in t:
+                if mark_hit(t, m):
                     hits[("monologue", "口语/网络词", m)].append(r); break
             for m in MODERN_MARKS:
                 if m in t:

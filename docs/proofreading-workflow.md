@@ -18,7 +18,9 @@
 2. **出工单** — `worklist` 生成 `review/worklist.md`(按 chunk 列出候选) 与 `review/checklist.csv`(进度)。
 3. **逐 chunk 精校** — 每个 chunk 先读角色档案, 再按层处理候选, 同时人工通读该 chunk; 改完 `mark <chunk> 已完成`。
 4. **自动收敛** — `terms --apply`(术语)、`dedupe --apply`(重复句)、`review/fixups.tsv`(一次性润色)。
-5. **回归发布** — `build` → `WindsofChange.exe <游戏目录> compile` → `patch_tool.py verify` → 提交 → **新增** Release(不覆盖旧版)。
+5. **回归发布** — 全链 `python tl_work/chain_build.py --apply`（等价于 `build` → `WindsofChange.exe payload compile` → manifest 哈希同步 → `patch_tool.py check`）→ `patch_tool.py verify` 对游戏目录复验 → **同步 `manifest.json` 的 `version` 与 `notes`** → 提交 → 打 tag `vX.Y.Z` 并推送 → `.github/workflows/release-standalone.yml` 自动用 PyInstaller 构建 `WoC-ChinesePatch.exe` 并**新增** Release（不覆盖旧版）。
+   - 仅构建不发布：推送涉及 `manifest.json`/`payload/**`/`tools/patch_tool.py` 的提交会触发 `build-standalone.yml`，产出构建工件供自检。
+   - ⚠️ `.rpyc` 每次编译的 sha 都会变，**编译后必须跑 manifest 哈希同步**，否则 `check` 报失配。
 
 ## 三、常用命令
 

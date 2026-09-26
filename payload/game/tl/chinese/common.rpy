@@ -184,11 +184,11 @@ translate chinese strings:
 
     # 00action_file.rpy:763
     old "Next file page."
-    new "下一页存档。"
+    new "下一个存档页。"
 
     # 00action_file.rpy:827
     old "Previous file page."
-    new "上一页存档。"
+    new "上一个存档页。"
 
     # 00action_file.rpy:889
     old "Quick save complete."
@@ -548,15 +548,15 @@ translate chinese strings:
 
     # 00preferences.rpy:500
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "剪贴板朗读已启用。按 'shift+C' 禁用。"
+    new "剪贴板朗读已启用。按 shift+C 禁用。"
 
     # 00preferences.rpy:502
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "自朗读会读出“[renpy.display.tts.last]”。按 'alt+shift+V' 禁用。"
+    new "自朗读会读出“[renpy.display.tts.last]”。按 alt+shift+V 禁用。"
 
     # 00preferences.rpy:504
     old "Self-voicing enabled. Press 'v' to disable."
-    new "自朗读已启用。按 'v' 禁用。"
+    new "自朗读已启用。按 v 禁用。"
 
     # _developer\developer.rpym:38
     old "Developer Menu"
@@ -564,15 +564,15 @@ translate chinese strings:
 
     # _developer\developer.rpym:43
     old "Interactive Director (D)"
-    new "交互式导演 (D)"
+    new "交互式导演（D）"
 
     # _developer\developer.rpym:45
     old "Reload Game (Shift+R)"
-    new "重新加载游戏 (Shift+R)"
+    new "重新加载游戏（Shift+R）"
 
     # _developer\developer.rpym:47
     old "Console (Shift+O)"
-    new "控制台 (Shift+O)"
+    new "控制台（Shift+O）"
 
     # _developer\developer.rpym:49
     old "Variable Viewer"
@@ -588,11 +588,11 @@ translate chinese strings:
 
     # _developer\developer.rpym:57
     old "Show Image Load Log (F4)"
-    new "显示图像加载日志 (F4)"
+    new "显示图像加载日志（F4）"
 
     # _developer\developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new "隐藏图像加载日志 (F4)"
+    new "隐藏图像加载日志（F4）"
 
     # _developer\developer.rpym:63
     old "Image Attributes"
@@ -956,11 +956,11 @@ translate chinese strings:
 
     # 00gamepad.rpy:66
     old "Skip (A)"
-    new "跳过 (A)"
+    new "跳过（A）"
 
     # 00gamepad.rpy:69
     old "Back (B)"
-    new "返回 (B)"
+    new "返回（B）"
 
     # _errorhandling.rpym:529
     old "Open"
@@ -984,11 +984,11 @@ translate chinese strings:
 
     # _errorhandling.rpym:582
     old "Rollback"
-    new "回滚"
+    new "回退"
 
     # _errorhandling.rpym:584
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "尝试回滚到之前的时间点，以便存档或选择其他选项。"
+    new "尝试回退到之前的时间点，以便存档或选择其他选项。"
 
     # _errorhandling.rpym:587
     old "Ignore"

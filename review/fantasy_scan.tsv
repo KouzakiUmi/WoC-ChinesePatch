@@ -1,0 +1,3 @@
+# severity	category	chunk	seq	speaker	note	source	target
+A	术语/专名	dialogue/dialogue_0020.tsv	7896	char_damek	源文有「Damek」，译文未见基准译法「达梅克」——疑似异译或漏译	Damek: z01605\nShould we continue the rest on the ship?\nThere's sitll a few people you need to meet.\nAfter that, we're in for a long, boring trip.	剩下的要不要到船上再说？\n还有几个人你得见一见。\n之后，我们就要踏上漫长又无聊的旅程了。
+A	标点/占位符	dialogue/dialogue_0020.tsv	7896	char_damek	\n 数量不一致: 源 3 / 译 2	Damek: z01605\nShould we continue the rest on the ship?\nThere's sitll a few people you need to meet.\nAfter that, we're in for a long, boring trip.	剩下的要不要到船上再说？\n还有几个人你得见一见。\n之后，我们就要踏上漫长又无聊的旅程了。

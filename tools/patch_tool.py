@@ -241,6 +241,12 @@ def do_install(args):
         dst = os.path.join(game, rel)
         if not os.path.isfile(src):
             sys.exit("payload 缺失: " + e["path"])
+        # payload 与 manifest 一致性校验（防止"源已损坏/清单未同步"就直接写入游戏）
+        if sha256(src) != e["sha256"]:
+            msg = "payload 与 manifest 不一致: %s（请先修复 payload 或更新 manifest）" % e["path"]
+            if not args.force:
+                sys.exit(msg)
+            print("警告: " + msg)
         # 覆盖前备份游戏内现有文件 (仅 modified 条目, 且不重复备份已打过补丁的内容)
         if e["type"] == "modified" and os.path.isfile(dst):
             cur = sha256(dst)
@@ -399,6 +405,20 @@ def do_check(args):
             print("   ", path)
     else:
         print("Payload files: OK (%d)" % len(man["files"]))
+
+    # payload 完整性: 逐个比对 manifest 记录的 sha256（README 承诺的"payload 完整性"）
+    bad_hash = []
+    for e in man["files"]:
+        p = os.path.join(ROOT, "payload", e["path"].replace("/", os.sep))
+        if os.path.isfile(p) and sha256(p) != e["sha256"]:
+            bad_hash.append(e["path"])
+    if bad_hash:
+        problems += len(bad_hash)
+        print("Payload hash mismatch: %d" % len(bad_hash))
+        for path in bad_hash[:20]:
+            print("   ", path)
+    else:
+        print("Payload hashes: OK (%d)" % len(man["files"]))
 
     print("Check result:", ("%d problem(s)" % problems) if problems else "OK")
     return 1 if problems else 0

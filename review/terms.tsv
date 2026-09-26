@@ -3,7 +3,13 @@
 Exodus	放逐	流亡之刃		phrase		专名 The Blade of Exodus 按游戏设定译为「放逐之刃」
 Sixers	六时人	六人帮|六人众		word		阿拉林西亚旧刑罚的称呼；按对白中“六时人”统一
 sixer	六时人	六人帮|六人众		word		阿拉林西亚旧刑罚中罪犯的称呼；按对白中“六时人”统一
-blade	剑	刀剑|刀刃|剑刃|刀|刃	流亡之刃|放逐之刃|双刃剑	word	Exodus	blade 统一为「剑」; 专名与「双刃剑」保留
-blades	剑	刀剑|刀刃|剑刃|刀|刃	流亡之刃|放逐之刃|双刃剑	word	Exodus	blade 复数, 规则同上
-sword	剑	刀剑|刀		word		sword 统一为「剑」
-swords	剑	刀剑|刀		word		sword 复数, 规则同上
+blade	剑	刀剑|刀刃|剑刃|刀|刃	流亡之刃|放逐之刃|双刃剑	word	Exodus|dagger|put me to	blade 统一为「剑」; 专名与「双刃剑」保留; 排除匕首语境(dagger)与习语 put me to the blade(→处死)
+blades	剑	刀剑|刀刃|剑刃|刀|刃	流亡之刃|放逐之刃|双刃剑	word	Exodus|dagger|put me to	blade 复数, 规则同上
+sword	剑	刀剑|刀		word	Exodus|sword arm|dagger	sword 统一为「剑」; 排除习语 sell my sword arm(→当佣兵)与匕首语境
+swords	剑	刀剑|刀		word	Exodus|sword arm|dagger	sword 复数, 规则同上
+# —— 2026-09-26 裁决新增（房间/地道术语细化，见 review/verification-report.md §3.2b）——
+personal quarters	个人住所	私人住处|私人房间|个人房间|个人宿舍		phrase		EN personal quarters 细化为「个人住所」；与 crew/private 区分（裁决 2026-09-26）
+private quarters	私人房间	私人居室|私人寝室|私人的房间		phrase		EN private quarters → 私人房间（0013#4869、0017#6747）; private→私人, personal→个人
+# 注: 不写 `private room` 规则——3 处语境例外会被误伤: 0004#1329 酒馆「雅间」、0023#8971「客房」、0024#9454「包房」（scan 会报 term-private-room 3, 属正常噪音）
+tunnel	地道	隧道		phrase		EN tunnel(s)；8 张地图全篇无「隧道」，RebelHQMap 标「地道」
+# crew quarters 语境二义, 不写自动规则: 陆上总部=成员宿舍(对白9行+RebelHQMap), 船上=船员舱(对白7行)。按场景判定, 见 verification-report.md §3.2b。

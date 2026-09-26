@@ -8,7 +8,7 @@ blades	剑	刀剑|刀刃|剑刃|刀|刃	流亡之刃|放逐之刃|双刃剑	word
 sword	剑	刀剑|刀		word	Exodus|sword arm|dagger	sword 统一为「剑」; 排除习语 sell my sword arm(→当佣兵)与匕首语境
 swords	剑	刀剑|刀		word	Exodus|sword arm|dagger	sword 复数, 规则同上
 # —— 2026-09-26 裁决新增（房间/地道术语细化，见 review/verification-report.md §3.2b）——
-personal quarters	个人住所	私人住处|私人房间|个人房间|个人宿舍		phrase		EN personal quarters 细化为「个人住所」；与 crew/private 区分（裁决 2026-09-26）
+personal quarters	个人房间	个人住所|私人住处|私人房间		phrase		EN personal quarters →「个人房间」（2026-09-26 终裁：与 HQ 地图标签一致，覆盖此前"个人住所"）；private 系列仍为「私人房间」，以 personal/private 区分
 private quarters	私人房间	私人居室|私人寝室|私人的房间		phrase		EN private quarters → 私人房间（0013#4869、0017#6747）; private→私人, personal→个人
 # 注: 不写 `private room` 规则——3 处语境例外会被误伤: 0004#1329 酒馆「雅间」、0023#8971「客房」、0024#9454「包房」（scan 会报 term-private-room 3, 属正常噪音）
 tunnel	地道	隧道		phrase		EN tunnel(s)；8 张地图全篇无「隧道」，RebelHQMap 标「地道」

@@ -1,5 +1,7 @@
 # 图片修复回归核验报告
 
+> 最新图片状态：按用户裁决，HQ 已从英文原图整张重做并改用「个人房间」，六个标签字体统一；旧 HQ 的「个人住所」验收不适用于新图。`tut004.png` 保留原状。见 [第四轮制作记录](image-repair-round4-completion.md)，以下核验保留为历史记录。
+
 > 第三轮制作更新：§7 的 A-6 与 b0009 连接词已落实，当前文件与像素检查见 [第三轮图片修复记录](image-repair-round3-completion.md)。保留下方第二轮的 FAIL / PARTIAL 作为历史验收记录，等待独立复核本轮结果。
 
 > 2026-09-26 后续复核与修复：HQ 已整图回滚；本报告的“船员舱”、`b0009` 署名漏译及整页重绘不合要求等结论已撤销或修正。教程透明度、截图英文残留、书外青绿残色及追加发现的书页错译均已处理。当前结果以 [图片修复完成记录](image-repair-completion.md) 为准；下面保留原报告作为历史审查记录。
@@ -142,7 +144,7 @@
 | --- | --- | --- | --- |
 | `crew` | `crew quarters`（陆上总部） | 船员舱 7 + 船员舱室 2 → **成员宿舍** | 9 |
 | `tunnel` | `tunnels` | 隧道 → **地道** | 68 |
-| `pq` | `personal quarters` | 私人住处 2 + 私人房间 2 → **个人住所**（裁决定词） | 4 |
+| `pq` | `personal quarters` | 私人住处 2 + 私人房间 2 → **个人房间**（终裁；曾一度定为"个人住所"，见下方终裁说明） | 4 |
 | `priv` | `private room(s)/quarters` | 私人的房间 2、私人居室 2、私人寝室 1、私人住处 1 → **私人房间** | 6 |
 
 - **船上 7 行 `crew quarters` 保留「船员舱」**：`0003#937` `#970`、`0007#2417`、`0011#4298` `#4366`、`0020#7922`、`0022#8643`
@@ -150,22 +152,26 @@
 - 校验：两批共 87 行、**非译文列改动 0 行**、行数一致、断列仍为已知 3 条、`fantasy_check` 仍 111 条
 - 构建状态：⚠️ **只改了源**（按你的指示），`payload/…/script.rpy` **尚未重建**，待文本批改一起 `build → compile → verify`
 
-#### 📐 最终术语方案（按你的三次裁定）
+#### 📐 最终术语方案（含 2026-09-26 第四轮终裁）
 
 | EN | 中文 | 当前分布 |
 | --- | --- | --- |
 | `crew quarters`（陆上总部） | **成员宿舍** | 对白 9 行 + 地图 1（RebelHQMap） |
 | `crew quarters`（船上） | **船员舱** | 对白 7 行 |
-| `personal quarters` | **个人住所** | 对白 4 行 + 地图 1（RebelHQMap 现为"个人房间"，**待改图**） |
-| `private room(s)/quarters` | **私人房间** | 对白 18 行 + 地图 2（Castle/Coli，英文原词核验中） |
+| `personal quarters` | **个人房间**（终裁） | 对白 4 行 + 地图 1（RebelHQMap **整图重制为「个人房间」**） |
+| `private room(s)/quarters` | **私人房间** | 对白 18 行 + 地图 2（Castle/Coli，英文原词 `PRIVATE ROOM`，已核验正确） |
 | `tunnels` | **地道** | 对白 71 行 + 地图 1 |
 | `living quarters` | 起居空间/营房（按语境，不动） | 对白若干 |
 
+> **术语演进（重要）**：`personal quarters` 先按裁决定为「**个人住所**」（对白 4 行 + `terms.tsv` 规则 + 第三轮图片标签）；
+> 2026-09-26 第四轮**终裁改为「个人房间」**——HQ 地图从英文原图整图重制为"个人房间"，**对白 4 行与 `terms.tsv` 规则已同步**，
+> 全篇「个人住所」残留 **0**。`private` 系列仍为「私人房间」，personal/private 的区分由"个人/私人"承担。
+
 **剩余地图侧待办**：
-1. `RebelHQMap` 标签「个人房间」→「**个人住所**」（1 处，图片项）——英文原词 `PERSONAL QUARTERS`，已定为"个人住所"
+1. ~~`RebelHQMap` 标签「个人房间」→「个人住所」~~ → **已被第四轮终裁取代**：地图保持/重制为「**个人房间**」（与对白一致），A-6 不再执行；见 `image-repair-round4-completion.md`
 2. ~~`AlarinMapCastle`/`AlarinMapColi` 是否需改~~ → **✅ 已核验，不用改**：两张图英文原词均为 **`PRIVATE ROOM`**（单数，非 PERSONAL），中文「私人房间」正确。证据 `review/en_castle_coli_labels.md`（含完整标签清单；注意英文原版路径是 `backup_additional_text_images_2026-09-22\AlarinMapCastle.png`，`backup_maps_original` 下没有该文件）
 
-**术语规则已入库**（`review/terms.tsv` 新增 3 条）：`personal quarters→个人住所`、`private quarters→私人房间`、`tunnel→地道`；`crew quarters` 因语境二义只写注释不写自动规则。回归校验：`review_tool terms` 待改写 **0 行**、`scan` 回到基线 **85 条**（原 85，未引入新问题）。
+**术语规则已入库**（`review/terms.tsv` 新增 3 条）：`personal quarters→**个人房间**`（第四轮终裁值）、`private quarters→私人房间`、`tunnel→地道`；`crew quarters` 因语境二义只写注释不写自动规则。回归校验：`review_tool terms` 待改写 **0 行**。
 
 ### 3.3 语义级改动判定（对照英文原文）
 
@@ -222,7 +228,7 @@
 
 1. ~~图片 P0：教程英文回退~~ → ✅ **已修**（11/11 PASS）
 2. ~~图片 P0：教程 alpha 丢失~~ → ✅ **已恢复**，但**新增 P0**：原透明边距变半透明黑（tut006/tut005/tut003）→ 见 §7 与工单"待修 1"
-3. ~~裁决 `RebelHQMap`~~ → ✅ 已裁决（回滚正确），但**执行 A-6 未做**（个人房间→个人住所）→ 见 §7
+3. ~~裁决 `RebelHQMap`~~ → ✅ 已裁决（回滚正确），执行 A-6 后**第四轮终裁又回到「个人房间」**（整图重制）→ 见 §7
 4. 书页：青绿已清零、后半语义 8 PASS；剩 `b0009` 一处 `Instead` 连接词（PARTIAL）+ 前半六张验收中
 5. 重装补丁（游戏目录仍是旧图，`verify` = **36/68**）
 6. 文本侧按 `remaining-issues.md` §6 顺序推进（**87 行术语已改源，尚未 build**；其余 579 条）
@@ -270,7 +276,7 @@
 ### 7.3 第二轮剩余待办 —— **第三轮已全部关闭**
 
 1. ~~教程边距/透明度~~ → ✅ **你方核查通过，已关闭**
-2. ~~A-6 `RebelHQMap`「个人房间」→「个人住所」~~ → ✅ **第三轮已修 + 独立验收 PASS**（`verify_round3_images.md`：标签确为「个人住所」，其余 5 标签逐字无误；像素差异仅标签区 1155 px）
+2. ~~A-6 `RebelHQMap`「个人房间」→「个人住所」~~ → ✅ **第三轮已修 + 独立验收 PASS**，但**第四轮终裁覆盖此结论**：地图已从英文原图整图重制为「**个人房间**」（与对白 4 行同步），A-6 结论作废。见 `image-repair-round4-completion.md`
 3. ~~`b0009` 句首 `Instead`「因此」→「反而」~~ → ✅ **第三轮已修 + 独立验收 PASS**（保留那柄剑/深夜/郊外会面/索尔伯格授权，右页无署名）
 4. ~~`b0005` EN `often`~~ → ✅ **PASS**（现图「先知**往往**能清晰地回忆起」）
 
@@ -323,7 +329,7 @@
 | --- | --- |
 | `tools/patch_tool.py` | ① `check` 此前**只查文件存在、不比哈希**，与 README「payload 完整性」承诺不符 → 新增逐文件 sha256 比对；② `install` 写入前校验 payload 与 manifest 一致，不一致即中止（`--force` 可跳过） |
 | `tools/review_tool.py` | ③ `exclude_en` 支持 `|` 分隔多词（原单词无法排除匕首/习语语境）；④ `register` 新增 `mark_hit` 语境排除 + `UI_HINT_RE` 教程豁免 → **4 条子串/教程误报归零**（"袭上头顶"命中"上头"、"拒绝了"命中"绝了"、教程行命中"流程"）；⑤ `scan` 的 low 级规则修正：`repeated-char` 加正常语境排除、`length-ratio` 改按去标签后的可见文本与合理阈值（0.15~1.05，中英密度差）、`ascii-residue` 豁免界面技术词、`halfwidth-punct` 豁免 `%H:%M` → low 级从 81 条降到 0 |
-| `review/terms.tsv` | ⑤ 新增 `personal quarters→个人住所`、`private quarters→私人房间`、`tunnel→地道`；`blade/sword` 增 `dagger\|put me to\|sword arm` 排除；`crew quarters` 只写注释（语境二义，不设自动规则） |
+| `review/terms.tsv` | ⑤ 新增 `personal quarters→个人房间`（第四轮终裁值，早期为"个人住所"）、`private quarters→私人房间`、`tunnel→地道`；`blade/sword` 增 `dagger\|put me to\|sword arm` 排除；`crew quarters` 只写注释（语境二义，不设自动规则） |
 | `tl_work/*.py`（本轮新增） | `apply_terminology`、`fix_critical_rows`、`gen_worklist`+`apply_worklist_changes`（工单流水线，含**标签守门**）、`repair_tags`（`{w}` 回补）、`dedupe_analysis`（同源同步，今天改过优先）、`apply_manual_fixes`（断言式批次）、`update_manifest_hash`、`round2_*.py` |
 
 ### 8.5 已知例外（不计入缺陷）
@@ -331,5 +337,9 @@
 - `0020#7896`：英文原行 `Damek: z01605` 是**内部键号**，按既定策略删除 → `fantasy_check` 剩余 2 条 A 即此行的键号与 `\n` 差异
 - `ascii-residue` / `engine-string 18`：界面串的按键名、渲染器名、文件名、制作人员名按规格**保留英文**
 - `punct_check` 英文省略号 4 行：`{w=1.0}.{w=1.0}...` 逐字点读的既定样式
-- `gender_check` **5 条冲突均为误报**：4 条是中文按汉语习惯省略代词（EN 有 she/her 但 CN 不需要说出来）；1 条 `0020#7620` 是**英文原文把女性 Vivien 误写成 `he'd`**（EN 其余 5 行均作 she/her，CN 全篇也以女性称呼"薇薇安"）——中文"她"是**对的**，应改的是英文侧
+- **Vivien 代词裁决（最终）**：游戏的**英文原文自身存在代词偏移**（紧跟其名 **54 he : 4 she**；该角色起初也被当成女性）→ 裁决 **逐行以英文原文为准、不做规范化**：EN=she 的行保留中文「她」，EN=he 的行才用「他」。
+  - 据此，我方此前把 6 行「她」批量改「他」的操作中 **5 行已回滚**（0005#1645、0010#3649/#3724、0020#7990、0021#8156 —— 这些行英文原句就是 `she`）
+  - **仅保留 `0020#7620`**：英文原句 `I doubt he'd mind`，中文原为「她」属漏改 → 现为「他」（与原文一致）
+  - 复测：EN 含 Vivien 的 180 行中，含「她」5 行（均与各自英文一致）
+- `gender_check` v2 —— 修掉**两个误报源**：① 字面 `\n` 后 `\b` 失效，EN 男性代词整片漏计（`0001#98` 的 `\nHis`）；② CN 把「其他」「他们」当作男性代词（`0010#3728` 的"其他问题"）。并对 Vivien 行**自动跳过**（该行 EN 代词已知漂移，不能作判据）。结果：**冲突候选 0**
 - `variant_check` 7 组：滑动窗口造成的子串误报（"执政官"含"执政官"→执政团、"反抗军内部"含"总部"、斯知/先派 等），`dedupe` 实测需统一 **0 行**

@@ -19520,7 +19520,7 @@ translate chinese map116_394a3b63:
     # voice "se/z01113.ogg"
     # char_damek "So, let's start with those...\nAfter that, we can go to your personal quarters.\nThat's right — all of you are getting your own rooms."
     voice "se/z01113.ogg"
-    char_damek "那么，我们就从这些开始吧……\n之后，我们可以去你们的个人住所。\n没错——你们每个人都会有自己的房间。"
+    char_damek "那么，我们就从这些开始吧……\n之后，我们可以去你们的个人房间。\n没错——你们每个人都会有自己的房间。"
 
 # game/script.rpy:47725
 translate chinese map116_1c9c49b4:
@@ -19538,7 +19538,7 @@ translate chinese map116_eaebd964:
 translate chinese map116_f7397079:
 
     # "The Library and The Barracks are accessed through this area.{w}\nUse the map icons by the two doors to navigate to these optional areas.{w}\nTo move to your personal quarters, you must return to the region map."
-    "图书馆和兵营都要经过这个区域才能进入。{w}\n使用两扇门旁的地图图标前往这些可选区域。{w}\n要前往你的个人住所，你必须返回区域地图。"
+    "图书馆和兵营都要经过这个区域才能进入。{w}\n使用两扇门旁的地图图标前往这些可选区域。{w}\n要前往你的个人房间，你必须返回区域地图。"
 
 # game/script.rpy:48142
 translate chinese click_map122_6_EV006_d4167c8a:
@@ -25908,7 +25908,7 @@ translate chinese map232_4e6dafbf:
 translate chinese map119_07905ff7:
 
     # "We enter my personal quarters after a small trek through the HQ.{w}\nIt's larger than I thought it would be. The bed as well, is quite big.{w}\nThere isn't much of a tour to be had, so Damek sighs in relief."
-    "在总部里走了一小段路后，我们走进了我的个人住所。{w}\n它比我预想的要大。床也相当大。{w}\n没什么可参观的，达梅克于是松了口气。"
+    "在总部里走了一小段路后，我们走进了我的个人房间。{w}\n它比我预想的要大。床也相当大。{w}\n没什么可参观的，达梅克于是松了口气。"
 
 # game/script.rpy:59207
 translate chinese map119_864732f6:
@@ -28264,7 +28264,7 @@ translate chinese map130_169b45ba:
 translate chinese map132_8e3fec76:
 
     # "I enter Damek's personal quarters, and see him sitting on his bed.{w}\nHe's gripping something in his hand. It looks shiny, and metallic.{w}\nI take a few steps forward, making my presence known to him."
-    "我走进达梅克的个人住所，看见他坐在床上。{w}\n他手里紧攥着什么东西，闪闪发亮，像是金属。{w}\n我向前走了几步，让他知道我在。"
+    "我走进达梅克的个人房间，看见他坐在床上。{w}\n他手里紧攥着什么东西，闪闪发亮，像是金属。{w}\n我向前走了几步，让他知道我在。"
 
 # game/script.rpy:63979
 translate chinese map132_7e29c97d:
@@ -66042,7 +66042,7 @@ translate chinese map223_05d078ff:
 translate chinese map223_b6136129:
 
     # char_pro "You should probably tell Vivien what {i}really{/i} went down.\nI doubt he'd mind, and at least he wouldn't find out another way.\nIn the meantime, we need to have a word with our new {i}prisoner{/i}."
-    char_pro "你最好告诉薇薇安{i}真正{/i}发生了什么。\n我想她不会介意，至少这样她不会从别处得知。\n与此同时，我们得跟我们新的{i}囚犯{/i}谈谈。"
+    char_pro "你最好告诉薇薇安{i}真正{/i}发生了什么。\n我想他不会介意，至少这样他不会从别处得知。\n与此同时，我们得跟我们新的{i}囚犯{/i}谈谈。"
 
 # game/script.rpy:146571
 translate chinese map223_a91710fd:

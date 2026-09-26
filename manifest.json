@@ -1,7 +1,7 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.3.7",
+ "version": "1.3.8",
  "built": "2026-09-26",
  "base_check": {
   "path": "game/script.rpy",
@@ -42,8 +42,8 @@
   {
    "path": "game/images/AlarinMapColi.png",
    "type": "modified",
-   "sha256": "124190397569c8403a1d4e2682aaf556ccd75881b088f82255c1a0bdcc8fa79d",
-   "size": 1542151,
+   "sha256": "e043ffe0cd34a049841f26d7b279ad13abc921485f3b8897f3f4e3f7e11fe193",
+   "size": 1402127,
    "original": {
     "sha256": "0413ed90d0d23c0a0dc2e79810c2a4e8f63d4ea4cf4fe23ff9af3875b93ccfe4",
     "size": 1282477
@@ -52,8 +52,8 @@
   {
    "path": "game/images/AlarinMapDesert.png",
    "type": "modified",
-   "sha256": "ebf7e648cf174bf058142c5b8889f0a401eb6e36157595ced1b2682ee1c22980",
-   "size": 1620289,
+   "sha256": "5b6bcc6bdb0a7846705dc546547c3bf02340bd5763fe649d9ab2a457a6861137",
+   "size": 1437538,
    "original": {
     "sha256": "a16b96b142421041dd06958be5308309fcba899354dc7d5f9d8849f7697c32f7",
     "size": 1335412
@@ -62,8 +62,8 @@
   {
    "path": "game/images/BalteusMap1.png",
    "type": "modified",
-   "sha256": "819425654052a0c535371093f596ec233779744d9fe89da51aa75c3bb057b78b",
-   "size": 1493838,
+   "sha256": "4b2c4b6ad3f8f311b03efb16dcfdbdc9b03c3982b581baf331a72cc8d4f7eaaa",
+   "size": 1341149,
    "original": {
     "sha256": "1dd6a03080ecea146dad7d0fb48c8261a96b5276a31c708120c5b4fab4ef360d",
     "size": 1273297
@@ -72,8 +72,8 @@
   {
    "path": "game/images/BalteusMap2.png",
    "type": "modified",
-   "sha256": "5d457bb03d42bfba98797cad0c6cedca6faf1b0592ccbf87191659a9100c762b",
-   "size": 1539259,
+   "sha256": "fb9b57f942b375fa0164128e09408d9decaa238be8d0c3c30c7cd22c9cd59839",
+   "size": 1371320,
    "original": {
     "sha256": "3158a69db81b36d8b5582ccc0ef0c575bc574fb9b9290ba77957c090850a5720",
     "size": 1276052
@@ -102,8 +102,8 @@
   {
    "path": "game/images/RebelHQMap.png",
    "type": "modified",
-   "sha256": "fc86a55b1dc84a84a6fd03fcc44b40c42e44493b767118c0c197aa0acfce3d05",
-   "size": 1490078,
+   "sha256": "2df46f088d1221e0732ea95514ee4e44e6f04919078dbf0fdfd2268f10619447",
+   "size": 1333574,
    "original": {
     "sha256": "a3e2d524eb3a3918b9734dec93b81d473e2e927a3fd469181abaa36584111777",
     "size": 1250548
@@ -122,8 +122,8 @@
   {
    "path": "game/images/ValinorthMap.png",
    "type": "modified",
-   "sha256": "498fa45acb5e0c86f1bea827a79c08f76e21886f721c2d45135998a62f4aacfe",
-   "size": 1550613,
+   "sha256": "8f9cce73c82a2835f647eaecf7a51008fcc14026b351e82e28841f6e43bbf07e",
+   "size": 1368883,
    "original": {
     "sha256": "43cb50201ad9237a5496d10ac38247b0f8369efa873f23d9d2b260dec1d198be",
     "size": 1321575
@@ -153,8 +153,8 @@
   {
    "path": "game/images/b0001.png",
    "type": "modified",
-   "sha256": "22cd3782950dfd13cdc372bb7bd4df26195753fe0451431b4ee78c0917859034",
-   "size": 1651917,
+   "sha256": "cfbb6a24b262b4cc994851822a13b13de9b7364e4e551c119c52d7263b319613",
+   "size": 1191621,
    "original": {
     "sha256": "12a5d615de1e9e7788317ef128a1d9069e196c9b14054e31825482bd0891fec1",
     "size": 1294898
@@ -163,8 +163,8 @@
   {
    "path": "game/images/b0002.png",
    "type": "modified",
-   "sha256": "0004229826f8a1af9cdcacf5f500a5e77b7932c86cf7677a69b32f9bd33dc0ac",
-   "size": 1581263,
+   "sha256": "e7c841522001e87b9d1fff5807983bd91aa057b996993ee19645e746abc62ba5",
+   "size": 1365106,
    "original": {
     "sha256": "a413427fd370d274625dbcbf68d4ec94e5f419c42b8295820b8b6ab035862a74",
     "size": 1278843
@@ -173,8 +173,8 @@
   {
    "path": "game/images/b0003.png",
    "type": "modified",
-   "sha256": "58b876617c14e88bf8647e2963e6d48bef2cbeb4893aee126ac45cf7e9210c59",
-   "size": 1547829,
+   "sha256": "31de1a14214228cbbd3597570aeb7c1380132387173db50a31e93d49e38618a6",
+   "size": 1245267,
    "original": {
     "sha256": "a40c6cb409653e189081e5131444641d256ce50e879f268527dfdae7f4a25438",
     "size": 1335614
@@ -183,8 +183,8 @@
   {
    "path": "game/images/b0004.png",
    "type": "modified",
-   "sha256": "e61859c8faabfc0eb69049a9ff932e2943c20f93aa46a09bd78aeb8deb8acff9",
-   "size": 1521722,
+   "sha256": "770cb8c681568ecba4de9c9349a3f3bf7802b7a640442016f6bf914b704e53fa",
+   "size": 1244860,
    "original": {
     "sha256": "5076d09635ebd0505a9c5b6ff39b33bc02e7df261b2a4f90e9e4a5af257b803c",
     "size": 1300089
@@ -193,8 +193,8 @@
   {
    "path": "game/images/b0005.png",
    "type": "modified",
-   "sha256": "9775685a94068404a27c70862fd8365994f92c28375a27152d21c6eb56aa4877",
-   "size": 1576307,
+   "sha256": "90b664a6cae58bd88b62ec933b37f461a031c531211c5e7704488f7f8b996091",
+   "size": 1218263,
    "original": {
     "sha256": "face2b284289ff8750fa31199e0cf3a6a09936890a2da2274932e808449a881c",
     "size": 1343499
@@ -203,8 +203,8 @@
   {
    "path": "game/images/b0006.png",
    "type": "modified",
-   "sha256": "0d4d14ae55c442241f32320e00a0f3c1fff8e1aa95454b50a53b3c81f4d6d308",
-   "size": 1443785,
+   "sha256": "02215c53799104dfa122177f5f58a7a60b16ff70cb86bf4f1caa3fdcb7a2c733",
+   "size": 1195453,
    "original": {
     "sha256": "413dd6d383accdcbe9e16b3e8d5a4bd27bcb629dc46d97c12d1b32f72831d67d",
     "size": 1308841
@@ -213,8 +213,8 @@
   {
    "path": "game/images/b0007.png",
    "type": "modified",
-   "sha256": "2d2e165ad57fb079e04afb08e34bc8a9b7f4fa154b19488a7458a1f8a9eaa678",
-   "size": 1424501,
+   "sha256": "8b4cbee65b379a5c7b6365fc8ff6450d3cf670ebcabb70263082e3c944c6e9a1",
+   "size": 1221734,
    "original": {
     "sha256": "9abb6863e548965aa33a4031046a2b6d8d13760a1cf8133823e8035a3f6b71a1",
     "size": 1310609
@@ -223,8 +223,8 @@
   {
    "path": "game/images/b0008.png",
    "type": "modified",
-   "sha256": "464e914facb11044cb74eb19be0ef99173d5eea8b697ccfb09437b80ab012c47",
-   "size": 1611237,
+   "sha256": "e384a3299aa8ff4c4f642566303cbcca69ddde00ae713805eca6617632ac8ee9",
+   "size": 1226349,
    "original": {
     "sha256": "1eeb1469ae3d42516333bc1058ef0b1dab33c15571d7ba4f3c16fbb340dba754",
     "size": 1332881
@@ -233,8 +233,8 @@
   {
    "path": "game/images/b0009.png",
    "type": "modified",
-   "sha256": "df4c2b605a7817e45f44b1c3e5e9c7d2d6aab39603052bf2c37d2328ca3e8a92",
-   "size": 1617061,
+   "sha256": "10f599897b0be011c567407b07e611e1cbc4e820bd949540b3bf53a9d97bee2d",
+   "size": 1205855,
    "original": {
     "sha256": "f9527cc8e09c68e662b6b2f6c80759499b60abc2400a0e8c2c14e98f3966d269",
     "size": 1304824
@@ -243,8 +243,8 @@
   {
    "path": "game/images/b0010.png",
    "type": "modified",
-   "sha256": "8d39af2be6aadb9598fadcf7766a10fb1c96b1e2ca324c3b9a11cd806c20c779",
-   "size": 1488414,
+   "sha256": "3e062631a95be8cebf50d1991c759d1a79d3922c2c9e6da288ec8d15b4c44237",
+   "size": 1076663,
    "original": {
     "sha256": "dd002bf17d4c3a14c69d7a598e9466f330fb5199812a51e5f412259e62d63048",
     "size": 1226716
@@ -253,8 +253,8 @@
   {
    "path": "game/images/b0011.png",
    "type": "modified",
-   "sha256": "94a429b5a144c17e2121b37d85c72a5e34095c34df402d7040cf4b060b9dee35",
-   "size": 1547097,
+   "sha256": "30e4ba3b2b72a04a491828c7740ba3cde8c53d5224c5f755b704dbfe338f6d25",
+   "size": 1159629,
    "original": {
     "sha256": "13e368f961feeffbea01c63b04207bc3a2be582ae7281d370a830e1d7b9e1e9d",
     "size": 1272115
@@ -263,8 +263,8 @@
   {
    "path": "game/images/b0012.png",
    "type": "modified",
-   "sha256": "f7fd0d0ba32e0f46b7cf0c84720a98a51f47eaa5e328808ad06ed12c6c16d364",
-   "size": 1565716,
+   "sha256": "eb911c5dc0e3b16521937b230c225f957c1da90a0cc23e16f360bcf5fb368573",
+   "size": 1183343,
    "original": {
     "sha256": "2a623f2c2ced36b732539391e740cf557b63a0bdf44aa21bfe60021b47ea3788",
     "size": 1303103
@@ -273,8 +273,8 @@
   {
    "path": "game/images/b0013.png",
    "type": "modified",
-   "sha256": "6555f7cac3914b5e5bebb792bbaea96d88bbb01b49e4181c826f03e2925e02eb",
-   "size": 1188000,
+   "sha256": "9f63892bfff70abcbb3fd90282ceef15e78cec1a296d24606acfdd799b415de0",
+   "size": 1144445,
    "original": {
     "sha256": "36e1c175c3d20e7642e86ced4699c34c7b69dc49a7a6ef43e835bcfa053e2ea2",
     "size": 1248553
@@ -283,8 +283,8 @@
   {
    "path": "game/images/b0014.png",
    "type": "modified",
-   "sha256": "b449fd8edd39934c75d64dd2ec34a62aaf01d4b96d957d8e8f481e0424582e78",
-   "size": 1563398,
+   "sha256": "59ada3823efab8f02ac0877222bb7caab0e205c373d8afcd6726b00ab4b47fd4",
+   "size": 1210406,
    "original": {
     "sha256": "2b1733f1bc1373cdaa0604048299c15118911a4eca311e1dccd3b280ffd9abbb",
     "size": 1327845
@@ -293,8 +293,8 @@
   {
    "path": "game/images/b0015.png",
    "type": "modified",
-   "sha256": "8ff7627329536a78008088cb0b7bf16abca72da5272b9f67a5745fd2aa6965a9",
-   "size": 1630385,
+   "sha256": "c56711f55ba7b0a61abc543b94a8639ef7cb6465bf7583f8fbf991e20db7ff6a",
+   "size": 1121661,
    "original": {
     "sha256": "f584bcd8ce779195914eb990dcb2042a9a10872547cb49b592b6e57fb037506f",
     "size": 1258969
@@ -303,8 +303,8 @@
   {
    "path": "game/images/b0016.png",
    "type": "modified",
-   "sha256": "39fc19c4229c31546e2f89a03f9bcf10d187de19eed458479a200aeb666c3f71",
-   "size": 1572877,
+   "sha256": "87d1417dbd79cd434e52b1ab157dc2c97bb43064e03b9f938f187f90b2023b02",
+   "size": 1155099,
    "original": {
     "sha256": "fe3664d16454773dd020c10a470f4583d71d0c19b623532923281a46dba04053",
     "size": 1285295
@@ -313,8 +313,8 @@
   {
    "path": "game/images/b0017.png",
    "type": "modified",
-   "sha256": "6b8504fe24c5a90ced3bb297d9c1aa4315fd3c5f4bd96d9109ddd1fbfe1c48c2",
-   "size": 1466650,
+   "sha256": "f60db55ebd0aac8f0a92f13490ceeaaf6bf5f663e0bd0ed96c80ccb5c89fadf2",
+   "size": 1072637,
    "original": {
     "sha256": "9fb819721aea34ccced53e2b315afdcd70f6eeeffb0200682ea8876a2218ed5e",
     "size": 1212840
@@ -356,8 +356,8 @@
   {
    "path": "game/images/tut001.png",
    "type": "modified",
-   "sha256": "d0fb440d589bcc2d34144ffc025e8aee9da165197a5718e2d7b451b603558b2b",
-   "size": 633530,
+   "sha256": "13fb322c0c64832d82fc00a81dd2787268fbf6e678f374d51377a71033a00028",
+   "size": 566133,
    "original": {
     "sha256": "0d9c901a431e58700c5eea5d3179a94b6ee45e9ef246a96ad68b2420b3e30f4d",
     "size": 102235
@@ -376,8 +376,8 @@
   {
    "path": "game/images/tut003.png",
    "type": "modified",
-   "sha256": "afe264525eb63caaea67e12373f3db93107c5ed67bb9e6bcfb22bb9518757c36",
-   "size": 514783,
+   "sha256": "4e378ad922e202d1b7aa3606d6ba8ac19030a7dd01c2ed972f90c24e19979298",
+   "size": 471278,
    "original": {
     "sha256": "1a867441ee8aaa9ab38bcbb2a2a67018b142e4cac04750b1a8a75550b2344f04",
     "size": 92606
@@ -396,8 +396,8 @@
   {
    "path": "game/images/tut005.png",
    "type": "modified",
-   "sha256": "07862b60bab4b15dd9f182a69790c58d42b61b9071d060e6e990831d816de6b6",
-   "size": 826779,
+   "sha256": "14367e46ce03845f3c758c0bd21c0f60c4cf4ab529dc1dbb69e5c909dfc1a170",
+   "size": 701179,
    "original": {
     "sha256": "a4fa01020d21516f823fc2e7c30f90d2f63aa49c96e7147bd5b5f0815cfec40c",
     "size": 311669
@@ -406,8 +406,8 @@
   {
    "path": "game/images/tut006.png",
    "type": "modified",
-   "sha256": "96334b73dc4147418b03eae8f703c1aeba6ecd127671f76edd32d39ab2911736",
-   "size": 754485,
+   "sha256": "c1131cee5af97c393148f1aa161acfd5adce5f10b1a9aa80d36604e2fb50990c",
+   "size": 671925,
    "original": {
     "sha256": "366be46622fa458d188485035190e4d1ecd79fe59d7a8a97ac6efcd26a31089c",
     "size": 245369
@@ -427,8 +427,8 @@
   {
    "path": "game/images/zz10.png",
    "type": "modified",
-   "sha256": "6cd1d9bac7f23bf3489095868d55010203884bf5d495d839c42d035bdeda70eb",
-   "size": 30832,
+   "sha256": "3c2cdee4b4c584aa3b0b0715fb53a168edf90269152c3302db39d22fbfc9e94b",
+   "size": 31342,
    "original": {
     "sha256": "f79c7882be80bdd61171e1a75e272cc7a8b96f5e4f276a6d2e4e39cf84d26e50",
     "size": 16963,
@@ -438,8 +438,8 @@
   {
    "path": "game/images/zz11.png",
    "type": "modified",
-   "sha256": "9899d509622aff462f7cf5e575b96fff2b0053da7ee5277a2f31cda51773457c",
-   "size": 30257,
+   "sha256": "283110a437e1db054b943df8d7df8b90594bb70b1dce69951fce6b02e208a4a7",
+   "size": 34540,
    "original": {
     "sha256": "55b718f2c870280e74055c10dd5de90902420c8d68ab559a895485a7009dd520",
     "size": 16798,
@@ -449,8 +449,8 @@
   {
    "path": "game/images/zz12.png",
    "type": "modified",
-   "sha256": "3f88049d535b5bbe139b07164c9fc82447c16a808663cfb2b397de079a1d40cc",
-   "size": 30936,
+   "sha256": "5783246d9f5bd8b3320f07c0fffb2bbc35e176407ebf07ce89c778165ae82060",
+   "size": 35498,
    "original": {
     "sha256": "371ca91dd4f2877c04e9f454bfa17c66a0775679d37db961c150f6c810ec2b48",
     "size": 17962,
@@ -460,8 +460,8 @@
   {
    "path": "game/images/zz2.png",
    "type": "modified",
-   "sha256": "dc9a2f637700baaf25df16015d945bd0884eafb9ba69d4ce7af12c0a990e4173",
-   "size": 21624,
+   "sha256": "5bbb4d625bceec030eb342b13cb28c24517fa83eeadddb8c9ceb72f4efc4fa0a",
+   "size": 23934,
    "original": {
     "sha256": "b907812959acbc9be5feeeafd1a134d744c7fb2969f1c5f88f880551c5e9a89f",
     "size": 15005,
@@ -482,8 +482,8 @@
   {
    "path": "game/images/zz4.png",
    "type": "modified",
-   "sha256": "4bfa683298d2b5c04514b9ca3ffb11edd3c5f868299e5f7d2f087f7eaf6c5f0c",
-   "size": 35529,
+   "sha256": "46b9ac71d18f35bb7f4795ae592a6a7206c8f354dc69774e6e01123ead3a8718",
+   "size": 37956,
    "original": {
     "sha256": "ca84ac0a2966211ed7728bb3109e7fa1a938d06016f8b91aa1542788cfe881a5",
     "size": 15574,
@@ -664,7 +664,7 @@
  "engines": {
   "pc": "7.1.1.929"
  },
- "notes": "1.3.1: 中文用字体改为直接替换游戏原版 game/gothic.ttf (Sarasa UI SC, 含中文字形, SIL OFL 1.1), 不再新增 fonts/ 目录文件, 也不覆写 gui 字体变量; gothic.ttf 作为 modified 条目可还原。 1.3.2: transparent translation added for game/images/zzzzjournal1.png. 1.3.3: PC payload drops mobile-only GUI settings, system-font fallback, and the custom title-particle layer. 1.3.4: added a Python-free single-file Windows GUI installer with progress feedback and diagnostic logging. 1.3.5: unified the Sixers terminology as 六时人, updated the opening captions and journal lettering with larger spaced italic WenKai typography, added a translated epilogue card, and translated save-screen labels; PC / Ren'Py 7.1.1 only. 1.3.6: corrected the three Pro journal image lines against the original English artwork. 1.3.7: refined the penultimate opening crawl sentence to preserve the future meaning of would liberate.",
+ "notes": "1.3.1: 中文用字体改为直接替换游戏原版 game/gothic.ttf (Sarasa UI SC, 含中文字形, SIL OFL 1.1), 不再新增 fonts/ 目录文件, 也不覆写 gui 字体变量; gothic.ttf 作为 modified 条目可还原。 1.3.2: transparent translation added for game/images/zzzzjournal1.png. 1.3.3: PC payload drops mobile-only GUI settings, system-font fallback, and the custom title-particle layer. 1.3.4: added a Python-free single-file Windows GUI installer with progress feedback and diagnostic logging. 1.3.5: unified the Sixers terminology as 六时人, updated the opening captions and journal lettering with larger spaced italic WenKai typography, added a translated epilogue card, and translated save-screen labels; PC / Ren'Py 7.1.1 only. 1.3.6: corrected the three Pro journal image lines against the original English artwork. 1.3.7: refined the penultimate opening crawl sentence to preserve the future meaning of would liberate. 1.3.8: corrected and regenerated 17 book-note pages, 6 maps, and 4 tutorial images from English originals.",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

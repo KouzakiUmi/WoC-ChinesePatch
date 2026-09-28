@@ -30,6 +30,7 @@ Thumbs.db
 review/sheet_*.tsv
 review/backup_chunks_*/
 review/backup_*/
+review/archive/chunk_backups_*/
 review/current-*.jpg
 review/current-*.json
 review/pre-remake-*.png

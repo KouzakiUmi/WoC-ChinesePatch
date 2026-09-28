@@ -1,5 +1,8 @@
 # 精校工作流 (统一口径)
 
+> **状态**：本文档是工单式精校阶段（2026-09）的历史记录，分层口径与验收标准仍然有效。
+> 当前维护期的完整技术流程以 [workflows/](workflows/README.md) 为准：翻译见 [workflows/translation.md](workflows/translation.md)、校对审查见 [workflows/review.md](workflows/review.md)、发布步骤见 [workflows/build-release.md](workflows/build-release.md)（本文 §二.5 的发布细节已被后者取代——CI 现在要求每个 tag 配 `docs/release-notes/vX.Y.Z.md`）。
+
 目标有两个: **跨 chunk 一致** 和 **分层语域正确**。前者靠角色档案 + 术语表 + 重复句统一, 后者靠把文本分成三层分别套规则。
 
 ## 一、三层文本

@@ -113,7 +113,7 @@ python tools\patch_tool.py find
 payload/game/      补丁内容（68 个文件：56 修改 + 12 新增）
 tools/             patch_tool.py 安装器 / review_tool.py 校对工作流 / tl_tool.py 构建
 manifest.json      文件清单：路径、类型、双方 sha256、基线校验值、引擎编译版本
-docs/              PC 运行环境说明（pc-runtime.md）、校对工作流与角色语气档案
+docs/              PC 运行环境说明（pc-runtime.md）、角色语气档案、设定参考库（reference/）、维护者技术工作流（workflows/：翻译/校对/图片/构建发布）
 review/            术语表 terms.tsv、润色表 fixups.tsv、预筛报告与校对进度
 安装补丁.cmd / 卸载补丁.cmd / 检查补丁.cmd
 tl_work/           翻译源（分块 TSV）与构建脚本，仅维护者本地保留

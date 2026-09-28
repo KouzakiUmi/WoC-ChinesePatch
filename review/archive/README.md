@@ -15,8 +15,10 @@
 - `full_review/` —— **2026-09-28 全量终审报告与七路原始发现（现行主报告）**
 - `work-fix/` —— 见该目录 README
 
-## 备份目录（.gitignore 已忽略，未移动）
-`backup_chunks_*` 系列为各批次改前快照，其中 `backup_chunks_termfix_20260926-112223` 是 §8.1 的对账基线，勿删。
+## 备份目录（2026-09-28 第二轮整理：已归档）
+`backup_chunks_*` 各批次改前快照与 `backup_payload_tl_20260926-145440` 已移入 `chunk_backups_2026-09/`（27+1 个目录）。
+**例外**：`backup_chunks_termfix_20260926-112223` 保留在 `review/` 顶层原位——它是 `tl_work/chain_build.py` pending 校验的对账基线，移动会导致全链构建失败。
+tl_work 侧的归档（历史脚本、图片轮产物、旧发布包等）见 `tl_work/archive/README.md`。
 
 ## 已删除（2026-09-28 清理）
 - `review/current-*.jpg/.json`、`pre-remake-*.png`（git 忽略的视觉复核件；图像原版保留于 `tl_work/image_repair_20260926/before/` 与 manifest 备份）

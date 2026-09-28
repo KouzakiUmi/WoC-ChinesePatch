@@ -1,0 +1,149 @@
+[
+  {
+    "file": "dialogue/dialogue_0023.tsv",
+    "seq": "8818",
+    "action": "keep",
+    "reason": "a 类：\"the spirits have blessed us\" 是信仰语境（灵体保佑瓦利诺斯），指非物质的灵的集合。现行裸「灵」语义通顺，符合设定，保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0023.tsv",
+    "seq": "8819",
+    "action": "keep",
+    "reason": "a 类：与 8818 同一场景，\"Spirits can't change our nature\" 是信仰/抽象讨论，裸「灵」符合设定，保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0023.tsv",
+    "seq": "8836",
+    "action": "keep",
+    "reason": "a 类：\"the spirits helped out our settlement\" 是信仰语境（灵体对聚居地的庇佑），「众灵」作为非物质灵的集合称呼通顺，符合设定，保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0023.tsv",
+    "seq": "8897",
+    "action": "keep",
+    "reason": "a 类：\"lost our connection with the spirits\" 指与非物质灵的信仰联结中断，「众灵」符合设定，保留。同型行同步：8910 同一 EN，同样 keep。"
+  },
+  {
+    "file": "dialogue/dialogue_0023.tsv",
+    "seq": "8905",
+    "action": "keep",
+    "reason": "a 类：\"reconnect Valinorth with the spirits\" 是重建信仰联结的抽象语境，「众灵」符合设定，保留。同型行同步：8918 同一 EN，同样 keep。"
+  },
+  {
+    "file": "dialogue/dialogue_0023.tsv",
+    "seq": "8910",
+    "action": "keep",
+    "reason": "a 类：同 8897（同一 EN，同型行同步），\"connection with the spirits\" 为信仰语境，「众灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0023.tsv",
+    "seq": "8918",
+    "action": "keep",
+    "reason": "a 类：同 8905（同一 EN，同型行同步），\"reconnect with the spirits\" 为信仰语境，「众灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0023.tsv",
+    "seq": "8997",
+    "action": "keep",
+    "reason": "按补充裁决 c)：\"a person's spirit before it enters the spirit realm\" 明确指人身上非物质的部分（下行即说 non-physical part），裸「灵」恰恰最贴合设定，保留「一个人的灵进入灵界之前将其抽取」。句中「灵力」(energy) 亦保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0023.tsv",
+    "seq": "9010",
+    "action": "keep",
+    "reason": "a 类：\"the spirits give visions of the future\" 是信仰语境（灵赐予幻象），「众灵」符合设定，保留。「幻象」(visions) 不在任务范围。"
+  },
+  {
+    "file": "dialogue/dialogue_0023.tsv",
+    "seq": "9012",
+    "action": "keep",
+    "reason": "a 类：\"connection to the spirits\" 指与非物质灵的信仰联结，「众灵」符合设定，保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0024.tsv",
+    "seq": "9211",
+    "action": "keep",
+    "reason": "a 类：\"Spirits know\" 是感叹语（类 heaven knows），属信仰/抽象用法，「众灵作证」语义通顺且符合设定，保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0024.tsv",
+    "seq": "9416",
+    "action": "keep",
+    "reason": "a 类：\"why the spirits chose this place to settle down\" 指众灵选择栖居东冠峰，是抽象存在层面的定居（非寄居容器获实体），「众灵」符合设定，保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0024.tsv",
+    "seq": "9487",
+    "action": "keep",
+    "reason": "a 类：\"reconnect with the spirits\" 为重建信仰联结语境，「众灵」符合设定，保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0024.tsv",
+    "seq": "9508",
+    "action": "keep",
+    "reason": "a 类：\"reconnect with the spirits, too\" 与 9487 同语境，「众灵」符合设定，保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0024.tsv",
+    "seq": "9579",
+    "action": "keep",
+    "reason": "a 类：\"act in the spirits' [interests]\" 指为众灵（抽象存在）的利益行事，「众灵」符合设定，保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0026.tsv",
+    "seq": "10131",
+    "action": "keep",
+    "reason": "a 类：\"we go on to live in the realm of spirits\" 指死后非物质之灵在灵界存续，与 8997 同类；「灵会在灵界继续存续」中裸「灵」贴合设定，保留。「灵界」「灵力」均不在改动范围。"
+  },
+  {
+    "file": "dialogue/dialogue_0026.tsv",
+    "seq": "10363",
+    "action": "change",
+    "en": "The members of the Honor Guard that wander these tunnels.\\nI think they're the spirits of those we killed, Damek.\\nPerhaps they just want to continue living. It's heartbreaking.",
+    "old": "他们是被我们杀死之人的灵，达梅克。",
+    "new": "他们是被我们杀死之人的灵体，达梅克。",
+    "reason": "b 类：此处 spirits 指荣誉卫队成员——由窃取性命之剑造出、在地道里游荡、有床铺起居空间（10364 下文印证）的实体存在，即寄居于躯体/盔甲中的灵，按裁决改「灵体」。"
+  },
+  {
+    "file": "strings/strings_0001.tsv",
+    "seq": "32",
+    "action": "keep",
+    "reason": "a 类：\"Why do the spirits give me visions?\" 是信仰语境（灵赐予幻象），裸「灵」符合设定，保留。「幻象」(visions) 不动。"
+  },
+  {
+    "file": "strings/strings_0001.tsv",
+    "seq": "74",
+    "action": "keep",
+    "reason": "a 类：\"The rest of the world doesn't care for spirits?\" 指对灵的信仰态度，抽象语境，裸「灵」符合设定，保留。"
+  },
+  {
+    "file": "strings/strings_0001.tsv",
+    "seq": "152",
+    "action": "keep",
+    "reason": "a 类（同 8997 型）：\"our spirit is released\" 指人死后非物质之灵被释放，裸「灵」贴合设定，保留。"
+  },
+  {
+    "file": "strings/strings_0002.tsv",
+    "seq": "438",
+    "action": "change",
+    "en": "{image=icons/651.png} \\\"Unbreakable like our will — we have vessels containing spirits of The Monarchy.\\\"",
+    "old": "我们拥有承载王权之灵的容器。",
+    "new": "我们拥有承载王权之灵体的容器。",
+    "reason": "b 类：EN 明言 \"vessels containing spirits\"——寄居于容器中的灵，按裁决改「灵体」，「王权之灵」→「王权之灵体」。"
+  },
+  {
+    "file": "strings/strings_0002.tsv",
+    "seq": "483",
+    "action": "change",
+    "en": "{image=icons/651.png} [[Remove the spirits to empower the blade.]",
+    "old": "[[取出灵以强化剑]",
+    "new": "[[取出灵体以强化剑]",
+    "reason": "b 类：\"Remove the spirits to empower the blade\" 指从剑（容器）中取出寄居的灵，属实体化的灵体，按裁决改「灵体」。"
+  },
+  {
+    "file": "strings/strings_0003.tsv",
+    "seq": "876",
+    "action": "keep",
+    "reason": "a 类：\"handle fine without spirits\" 指没有灵的庇佑/信仰，抽象语境，裸「灵」符合设定，保留。"
+  }
+]

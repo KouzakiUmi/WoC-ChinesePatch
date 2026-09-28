@@ -43,7 +43,7 @@
 **图片 —— 三轮修复 + 独立验收**
 
 - 首轮：17 书页、6 地图、4 教程从英文原图重制；次轮：青绿键控残色清零、教程透明度恢复、教程截图回中文、书页语义重译；第三轮：`b0009` 连接词「因此→反而」（HQ 房间标签当时按旧裁决改为「个人房间」，**后经第四轮整图重制回到「个人房间」**，见下）
-- 验收：次轮 **38 PASS**、第三轮 **PASS 14 / FAIL 0** → **图片文字问题全部关闭**（[图片修复记录](review/image-repair-completion.md)、[第三轮记录](review/image-repair-round3-completion.md)、[第三轮验收](review/verify_round3_images.md)）
+- 验收：次轮 **38 PASS**、第三轮 **PASS 14 / FAIL 0** → **图片文字问题全部关闭**（[图片修复记录](review/archive/rounds/image-repair-completion.md)、[第三轮记录](review/archive/rounds/image-repair-round3-completion.md)、[第三轮验收](review/archive/rounds/verify_round3_images.md)）
 
 **后续源码修订（2026-09-26）**：按用户最新裁决，HQ 地图采用「个人房间」，从英文原图重新生成整张地图，六个标签统一为文楷风格；此前的中文图局部合成方案已替换。**文本侧 4 行 `personal quarters` 已同步改为「个人房间」**（`review/terms.tsv` 规则同步，全篇「个人住所」残留 0）。`tut004.png` 白边按原版表现保留，文件未变。本次清单已同步，**尚未重新打包发布**；上方第三轮验收对应旧图。详见 [HQ 整图重制记录](review/image-repair-round4-completion.md)。
 

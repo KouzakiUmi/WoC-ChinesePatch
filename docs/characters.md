@@ -3,6 +3,8 @@
 用途: 精校每个 chunk 前先读本档, 确保同一角色在不同章节的用词、敬语、句长、口癖一致。
 数据来自 `docs/character-stats.md`(自动生成) + 语料抽读。带 ❓ 的条目需要你确认。
 
+> 配套参考库（2026-09-28 起）：角色身世/性格/弧光见 [reference/characters.md](reference/characters.md)，世界观设定见 [reference/lore.md](reference/lore.md)，剧情时序与分支见 [reference/plot.md](reference/plot.md)。本档只管"怎么说话"。
+
 ## 主角内心独白 (旁白, 3407 行)
 
 - 第一人称, 平均 55 字/句, 语气克制、偏书面但不文白 (书面腔标记仅 14 处)。

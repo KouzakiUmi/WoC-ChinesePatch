@@ -1,0 +1,170 @@
+[
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0014.tsv",
+    "seq": "5408",
+    "level": "A",
+    "en": "But that wasn't a luxury we were selling.",
+    "cn": "但我们可消受不起这份奢侈。",
+    "issue": "错译。上文说三人执政团落败后只想拖延时间（buy time），英文意为「我们可不打算把这份奢侈（拖延的机会）卖给他们」，主语是反抗军不准许对方拖延；译文「我们可消受不起这份奢侈」把语义翻转成反抗军自己消受不起，施受关系颠倒。",
+    "suggestion": "但这份奢侈，我们可不打算卖给他们。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0014.tsv",
+    "seq": "5500",
+    "level": "B",
+    "en": "Even if it was born from denial, we couldn't afford it right now.",
+    "cn": "即便这念头源于自欺，我们此刻也承担不起。",
+    "issue": "代词 it 指代不明导致句意不通。it 承接上一句，指哈林若获自由后「坐实忠诚、变得更强」这件事（即便那份强大源于自我否定），并非某个「念头」；译文「这念头」在原文中无所指。",
+    "suggestion": "即便那份强大源于自我否定，我们此刻也承受不起。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0014.tsv",
+    "seq": "5337",
+    "level": "B",
+    "en": "Otherwise, this place would be full.",
+    "cn": "否则，这里本该挤满了人。",
+    "issue": "增译且与同型行不一致。full 指挤满空甲（suits of armor），并无「人」；平行分支 5341 同一内容译作「挤满了那些空甲」，两处应统一。",
+    "suggestion": "否则，这里本该挤满了空甲。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0014.tsv",
+    "seq": "5217",
+    "level": "B",
+    "en": "That determination saw them through, right to the bitter end.",
+    "cn": "正是这份决心支撑他们挺到最后，直到苦痛的终点。",
+    "issue": "明显拗口。「挺到最后」与「直到……终点」语义叠床架屋，且「苦痛的终点」生硬，bitter end 是固定习语（苦撑到底的悲惨结局）。",
+    "suggestion": "正是这份决心支撑他们，一路挺到惨淡的终点。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0014.tsv",
+    "seq": "5205",
+    "level": "C",
+    "en": "You know, to atone for what I did in The Triumvirate's name?",
+    "cn": "你知道的，为以三人执政团之名所做的事赎罪吧？",
+    "issue": "风格：「为以……之名所做的事」介词叠用，读起来疙疙瘩瘩。",
+    "suggestion": "你知道的，为了赎清我以三人执政团之名犯下的罪？"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0014.tsv",
+    "seq": "5316",
+    "level": "C",
+    "en": "In his current state, all he could do was stand his ground and seek mercy.",
+    "cn": "以他现在的状态，所能做的只有驻足原地、乞求怜悯。",
+    "issue": "风格：stand his ground 是「坚守阵地/站稳脚跟」，「驻足原地」只是停下脚步，力度不足。",
+    "suggestion": "以他现在的状态，所能做的只有死守原地、乞求怜悯。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0014.tsv",
+    "seq": "5493",
+    "level": "C",
+    "en": "He uses the pommel of his sword as a weapon.",
+    "cn": "他以剑柄为武器。",
+    "issue": "风格/精度：pommel 特指剑柄末端的配重球（柄头/剑首），下一句正是用它砸哈林的头；泛译「剑柄」稍欠精确。",
+    "suggestion": "他以剑柄末端的柄头为武器。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0015.tsv",
+    "seq": "5791",
+    "level": "B",
+    "en": "I fall to my hands and knees, and cry in agony. It's too much...!",
+    "cn": "我四肢着地倒了下去，痛苦地哀嚎。太过了……！",
+    "issue": "歧义。「It's too much」指疼痛超出承受极限，译文「太过了」读作「太过分」，语义指向错误且突兀。",
+    "suggestion": "我受不了了……！"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0015.tsv",
+    "seq": "5781",
+    "level": "B",
+    "en": "I hear them scream, and writhe as they're slowly burned alive.",
+    "cn": "我听见他们的惨叫与挣扎，被活活慢慢烧死。",
+    "issue": "语病。「听见……挣扎」搭配不当，挣扎是视觉动作，不能与「听见」共用一个宾语结构。",
+    "suggestion": "我听见他们惨叫，看着他们扭动挣扎，被活活烧死。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0015.tsv",
+    "seq": "5748",
+    "level": "C",
+    "en": "But wielding the power of evil incarnate would only lead to ruin.",
+    "cn": "可掌控邪恶化身的只会招致毁灭。",
+    "issue": "风格/精度：漏译「的力量」，现文读起来像「掌控邪恶化身（这一存在）」，原意是驾驭其力量。",
+    "suggestion": "可驾驭邪恶化身的力量，只会招致毁灭。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0015.tsv",
+    "seq": "5851",
+    "level": "C",
+    "en": "You passed off visits to Valinorth as official Monarch business.",
+    "cn": "你把前往瓦利诺斯的探访当作君主的公务。",
+    "issue": "风格/精度：pass off A as B 是「把A假充/掩饰为B」，含有「对外谎称」的掩饰义，译文「当作」丢失了这一层微妙意味。",
+    "suggestion": "你把前往瓦利诺斯的探访，对外假称为君主的公务。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0015.tsv",
+    "seq": "5852",
+    "level": "C",
+    "en": "When all hope was lost, he stood up, and challenged death in the face.",
+    "cn": "当所有希望都已破灭，他挺身而出，当面挑战死亡。",
+    "issue": "风格：「当面挑战死亡」拗口（英文 in the face 本身也冗余，但直译成「当面」在中文里不通）。",
+    "suggestion": "当所有希望都已破灭，他挺身而出，直面死亡。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0016.tsv",
+    "seq": "6010",
+    "level": "B",
+    "en": "The wounds he inflicted in your cause were grievous, and his justice was served.",
+    "cn": "他给你们的事业造成的创伤极其沉重，而他已得到应有的审判。",
+    "issue": "错用习语。justice was served 意为「正义得到伸张/他罪有应得」，并无「审判」程序；肖恩是战死，并非受审，「得到应有的审判」误导。",
+    "suggestion": "而他也已罪有应得。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0016.tsv",
+    "seq": "6015",
+    "level": "B",
+    "en": "With a history of moles and defectors in this war — risks were too dangerous.",
+    "cn": "这场战争中向来不乏内奸与叛徒——风险实在太过危险。",
+    "issue": "语病。「风险太过危险」语义重复（风险即危险）。",
+    "suggestion": "这场战争中向来不乏内奸与叛徒——风险实在太大。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0016.tsv",
+    "seq": "6037",
+    "level": "B",
+    "en": "But I consider it a blessing that I'd never need to.",
+    "cn": "但我庆幸自己永远不必需要它。",
+    "issue": "明显拗口。「不必需要」双重否定式叠加，中文不通顺。",
+    "suggestion": "但我庆幸自己再也用不着它。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0016.tsv",
+    "seq": "6235/6236",
+    "level": "B",
+    "en": "I invite Damek over to my private room, and he looks around, astonished.",
+    "cn": "我邀请达梅克来我私人房间，他环顾四周，惊叹不已。",
+    "issue": "语病（两处同型行）：「来我私人房间」缺「的」，书面叙事语体下不通顺。术语「私人房间」本身符合 private 系列既定译法。",
+    "suggestion": "我邀请达梅克来到我的私人房间，他环顾四周，惊叹不已。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0016.tsv",
+    "seq": "6329",
+    "level": "C",
+    "en": "Thank you. You did the right thing.",
+    "cn": "谢谢你。你做了正确的选择。",
+    "issue": "风格/一致性：豪尔在 map288 同一场景中人称敬语混用——6301/6309/6324/6326 用「您」，6329/6333 等又用「你」（5807 亦用「您」）。若为表现吸取灵魂后从「我们」到「我」的转变则尚可，但 6333（拒绝分支，未吸取灵魂）也用「你」，显得不统一。",
+    "suggestion": "建议 map288 场景内统一为「您」，或明确以 6329 为界有意切换并在各分支保持一致。"
+  },
+  {
+    "inventory": "monarchy",
+    "scope": "dialogue_0014/0015/0016",
+    "note": "The Monarchy 在本组三个 chunk 中全部译作「王室」，「王权」0 处；The New Monarchy 全部译作「新王室」；The Old Monarchy（5958）译作「旧王室」。三个 chunk 内部及相互之间完全一致，无不一致问题。",
+    "wangquan_seqs": [],
+    "wangshi_seqs": {
+      "dialogue_0014": ["5261", "5289", "5321"],
+      "dialogue_0015": ["5687", "5759", "5760", "5761", "5790", "5807", "5840", "5847", "5850", "5865", "5866", "5868", "5911", "5916", "5922", "5929", "5949", "5958(旧王室)", "5967", "5969", "5979", "5996"],
+      "dialogue_0016": ["6187", "6227", "6294", "6297", "6299", "6303", "6304", "6308", "6315", "6316", "6322", "6343", "6344", "6345", "6346", "6348", "6349", "6351", "6352", "6359", "6377"]
+    },
+    "xin_wangshi_seqs": {
+      "dialogue_0015": ["5981", "5992", "5995"],
+      "dialogue_0016": ["6008", "6010", "6012", "6018", "6183"]
+    }
+  }
+]

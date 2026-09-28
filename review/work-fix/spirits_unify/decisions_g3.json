@@ -1,0 +1,170 @@
+[
+  {
+    "file": "dialogue/dialogue_0015.tsv",
+    "seq": "5763",
+    "action": "change",
+    "en": "You house not just your own will, but the will of billions of spirits.\\nSpirits that want nothing more than to see their homeworld freed.\\nThere was no other choice, really. You are our champion, Monarch.",
+    "old": "数十亿灵的意志。\\n那些灵只想看到",
+    "new": "数十亿灵体的意志。\\n那些灵体只想看到",
+    "reason": "b 类：EN \"You house... the will of billions of spirits\"，众灵寄居于主躯体内（house/inside），以躯体为容器获得实体形态，故用「灵体」。"
+  },
+  {
+    "file": "dialogue/dialogue_0015.tsv",
+    "seq": "5790",
+    "action": "change",
+    "en": "But no, something else is happening. It's not just the flames.{w}\\nThe idol is trying to kill me — but I'm not the only one here.{w}\\nInside of me is The Monarchy. Billions of spirits, wanting to help.",
+    "old": "数十亿渴望相助的灵。",
+    "new": "数十亿渴望相助的灵体。",
+    "reason": "b 类：EN \"Inside of me is The Monarchy. Billions of spirits\"，明确寄居于体内，实体化存在→灵体；紧邻 5792 EN 用 souls 译「灵魂」，本行 spirits 必须与之区分。"
+  },
+  {
+    "file": "dialogue/dialogue_0015.tsv",
+    "seq": "5958",
+    "action": "change",
+    "en": "But not current history. He wrote about The Old Monarchy, and their ways.\\nIt was almost as if the spirits inside of him felt regret at their actions.\\nNobody knew why Howl had this change of heart — but it was for the better.",
+    "old": "仿佛他体内的灵对自己的所作所为感到了悔恨。",
+    "new": "仿佛他体内的灵体对自己的所作所为感到了悔恨。",
+    "reason": "b 类：EN \"the spirits inside of him\"，寄居于豪尔躯体内的旧王室众灵→灵体。"
+  },
+  {
+    "file": "dialogue/dialogue_0015.tsv",
+    "seq": "5959",
+    "action": "change",
+    "en": "Howl was easily able to balance his writing duties with those of being your advisor.\\nBecause of all the spirits inside of him, he was known as a man of great wisdom.\\nAnd that wisdom, over time, helped guide Alestia into an age of prosperity.",
+    "old": "由于体内寄宿着众多灵，",
+    "new": "由于体内寄宿着众多灵体，",
+    "reason": "b 类：EN \"all the spirits inside of him\"，同上，寄居豪尔体内→灵体；与 5958 同场景一致。"
+  },
+  {
+    "file": "dialogue/dialogue_0015.tsv",
+    "seq": "5990",
+    "action": "change",
+    "en": "The Monarch Vessels were affected by your attack on the dark idol.\\nAs if offering their strength when needed the most, the excess spirits vanished.\\nWhen the fog of war settled, they were left as individuals — free of pain and despair.",
+    "old": "多余的灵消散了。",
+    "new": "多余的灵体消散了。",
+    "reason": "b 类：EN \"the excess spirits\" 指寄居于君主容器（Monarch Vessels）中多余寄宿的灵，以容器为实体→灵体。"
+  },
+  {
+    "file": "dialogue/dialogue_0016.tsv",
+    "seq": "6304",
+    "action": "change",
+    "en": "And those mistakes may just inspire future insurrections.\\nWe think it may be best to destroy The Monarchy entirely.\\nBurn these books, and remove the spirits from this body.",
+    "old": "把这些灵从这具躯体中移除。",
+    "new": "把这些灵体从这具躯体中移除。",
+    "reason": "b 类：EN \"remove the spirits from this body\"，寄居豪尔躯体的众灵→灵体。map288 场景 EN 混用 spirits/soul：本行为 spirits 行→灵体；6313/6320 等 soul 行保留「灵魂」不动，保持区分。"
+  },
+  {
+    "file": "dialogue/dialogue_0016.tsv",
+    "seq": "6311",
+    "action": "change",
+    "en": "This started back during our journey into Eastcrown.\\nThis body could not survive the cold. The spirits inside helped.\\nBut in doing so, they died. We are weaker than we were back then.",
+    "old": "体内的灵帮了忙。",
+    "new": "体内的灵体帮了忙。",
+    "reason": "b 类：EN \"The spirits inside helped\"，体内寄居众灵→灵体。"
+  },
+  {
+    "file": "dialogue/dialogue_0016.tsv",
+    "seq": "6318",
+    "action": "change",
+    "en": "But if you can take our spirits, and use it to power the blade?\\nMaybe it will give you the edge you need to win this yourselves.\\nWe may have lost — but that doesn't mean you need to, as well.",
+    "old": "取走我们的灵，用它来强化那把剑",
+    "new": "取走我们的灵体，用它来强化那把剑",
+    "reason": "b 类：EN \"take our spirits\"，从躯体中取走、注入剑中的众灵（由一容器转另一容器，实体形态）→灵体。"
+  },
+  {
+    "file": "dialogue/dialogue_0016.tsv",
+    "seq": "6319",
+    "action": "change",
+    "en": "These spirits may linger, and the books may remain.\\nBut the truth of it is — we're dead. We need to be buried.\\nOur very existence is born from a denial of that death.",
+    "old": "这些灵也许会徘徊",
+    "new": "这些灵体也许会徘徊",
+    "reason": "b 类：EN \"These spirits may linger\" 承上指寄居豪尔体内的众灵→灵体；与同场景 6304/6311/6318 一致。"
+  },
+  {
+    "file": "dialogue/dialogue_0016.tsv",
+    "seq": "6322",
+    "action": "change",
+    "en": "If I did that — there'd be no physical remains of The Monarchy.{w}\\nI had spirits inside of me, but I was still my own person, able to live free.{w}\\nWe're talking about the extinction of an entire group of people. I don't know.",
+    "old": "我体内曾有灵，",
+    "new": "我体内曾有灵体，",
+    "reason": "b 类：EN \"I had spirits inside of me\"，曾寄居主体内的众灵→灵体。"
+  },
+  {
+    "file": "dialogue/dialogue_0016.tsv",
+    "seq": "6324",
+    "action": "change",
+    "en": "The spirits would be more useful in the blade, than this body.\\nBut like we said, one can remain, to aid you in fighting.\\nWhat do you say, [firstname]...? What will you do...?",
+    "old": "这些灵在剑中，",
+    "new": "这些灵体在剑中，",
+    "reason": "b 类：EN \"The spirits would be more useful in the blade, than this body\"，比较躯体与剑两个容器中的实体化存在→灵体。"
+  },
+  {
+    "file": "dialogue/dialogue_0017.tsv",
+    "seq": "6573",
+    "action": "change",
+    "en": "Spirits know everybody else did.\\nHeh. Look at me, still using superstition.\\nThe spirits had no power over us — no divine plan.",
+    "old": "神灵作证，其他人都这么做过。\\n呵。看看我，还在用这种迷信的说法。\\n神灵对我们毫无掌控",
+    "new": "众灵作证，其他人都这么做过。\\n呵。看看我，还在用这种迷信的说法。\\n众灵对我们毫无掌控",
+    "reason": "a 类：EN \"Spirits know\" 发誓语气及 \"The spirits had no power over us\" 均指非物质信仰对象（乌尔里克自述迷信），按补充裁决 d 改「灵」系而非灵体；现译「神灵」与 EN=God→神灵 规则冲突，必须改。"
+  },
+  {
+    "file": "dialogue/dialogue_0017.tsv",
+    "seq": "6767",
+    "action": "change",
+    "en": "Nothing will get in my way. That includes you.\\nSo if you'll excuse me, I'm going to explore the castle.\\nSpirits know I need a few drinks after everything that happened.",
+    "old": "神灵在上，经历了这一切",
+    "new": "灵在上，经历了这一切",
+    "reason": "a 类：EN \"Spirits know\" 发誓语气，指非物质信仰对象，按补充裁决 d 用「灵在上」；现译「神灵在上」与 EN=God→神灵 冲突，必须改。"
+  },
+  {
+    "file": "dialogue/dialogue_0022.tsv",
+    "seq": "8461",
+    "action": "change",
+    "en": "I want to atone for what I've done, Lillith.\\nSo many spirits, trapped in those suits of armor.\\nAn eternity of mindless servitude to The Triumvirate.",
+    "old": "那么多灵，被困在那些盔甲里。",
+    "new": "那么多灵体，被困在那些盔甲里。",
+    "reason": "b 类：EN \"spirits, trapped in those suits of armor\"，受害者之灵被困于盔甲中、以盔甲为实体形态存在→灵体。"
+  },
+  {
+    "file": "dialogue/dialogue_0022.tsv",
+    "seq": "8520",
+    "action": "keep",
+    "reason": "a 类：EN \"Without the heat from the spirits\" 是瓦利诺斯关于灵界众灵供热的信仰说法， spirits 为非物质的抽象/信仰对象（福泰姆随即说灵界只是监狱），现行裸「灵」语义通顺，keep；同句「灵界」属既定不动项。"
+  },
+  {
+    "file": "dialogue/dialogue_0022.tsv",
+    "seq": "8524",
+    "action": "keep",
+    "reason": "a 类：EN \"one last gift from the spirits\" 是感叹/信仰语境中的非物质众灵，现行「众灵最后的礼物」正是 a 类推荐写法，keep。同型行同步：8525 同样 keep，两分支一致。"
+  },
+  {
+    "file": "dialogue/dialogue_0022.tsv",
+    "seq": "8525",
+    "action": "keep",
+    "reason": "a 类：同 8524，EN \"one last gift from the spirits\" 指非物质信仰对象的众灵，现行「众灵最后的礼物」通顺，keep。同型行同步：与 8524 完全一致（仅分支主语不同）。"
+  },
+  {
+    "file": "dialogue/dialogue_0022.tsv",
+    "seq": "8527",
+    "action": "keep",
+    "reason": "a 类：EN \"their tradition isn't steeped in the spirits like ours was\" 指传统与非物质众灵（信仰层面）的浸染，非容器中的实体存在，现行「浸润着灵」裸「灵」通顺，keep；与 8520/8524/8525 同场景一致。"
+  },
+  {
+    "file": "dialogue/dialogue_0022.tsv",
+    "seq": "8729",
+    "action": "keep",
+    "reason": "a 类：EN \"our problem with the spirits\" 指瓦利诺斯与非物质众灵失去联系（供热中断）的问题，灵在此为抽象存在而非寄居容器的实体，现行「与灵之间的问题」通顺，keep。"
+  },
+  {
+    "file": "dialogue/dialogue_0022.tsv",
+    "seq": "8763",
+    "action": "keep",
+    "reason": "a 类：EN \"I'd reconnect with the spirits\" 指恢复与非物质众灵的联系（connection），现行「重新连接灵」通顺，keep；与 8729/8764 同场景一致。"
+  },
+  {
+    "file": "dialogue/dialogue_0022.tsv",
+    "seq": "8764",
+    "action": "keep",
+    "reason": "a 类：EN \"it's the spirits that keep us warm\" 同 8520，是瓦利诺斯信仰中非物质众灵供热的说法，现行「是灵让我们保持温暖」通顺，keep。"
+  }
+]

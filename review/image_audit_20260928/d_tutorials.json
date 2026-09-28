@@ -1,0 +1,66 @@
+[
+  {
+    "file": "tut001.png",
+    "en_text": "标题 Exploration Tutorial；右上 Clicking this icon on any map will open this tutorial once more.；六条说明：You can freely move the cursor around the screen. / It will change when you hover above an interactable object. Clicking on these objects will interact with them. / Click the icons of your comrades to initiate a conversation with them. / These icons show how many books are in the area and how many you've found. / This icon, when applicable, takes you to the world map. / This icon opens the save menu.；右下 Some locales are divided into multiple areas. Click these arrows to navigate between them.",
+    "cn_text": "标题 探索教程；右上 点击任意地图上的此图标，可再次打开本教程。；六条：你可以在屏幕上自由移动光标。/ 将光标悬停在可互动对象上时，光标会改变。点击这些对象即可与之互动。/ 点击同伴的图标即可与他们交谈。/ 这些图标显示该区域的书籍总数以及你已找到的数量。/ 此图标可用时，会带你前往世界地图。/ 此图标可打开存档菜单。；右下 有些地区分为多个区域。点击箭头即可在区域间切换。",
+    "verdict": "ok",
+    "level": null,
+    "detail": "逐条比对语义完整、无漏译/多译/残留英文/错别字；comrades→同伴、save menu→存档菜单 均属合理意译。英文原版取自 tl_work\\backup_images_2026-09-22_0430（Steam 目录现文件与中文版同哈希，已被补丁覆盖）。"
+  },
+  {
+    "file": "tut002.png",
+    "en_text": "标题 World Map Tutorial；副标题 The world map lets you advance the story, and revisit old areas.；五条：This icon combination means you cannot visit that area. / ...you can visit that area. / ...you have visited and are free to return. / This icon marks your next objective(s). / This icon marks optional side areas.；右下 This is the story flow of each area.",
+    "cn_text": "标题 世界地图教程；副标题 世界地图可推进剧情，并让你重访旧区域。；五条：此图标组合表示你无法/可以前往该区域。/ 你已到访过并可自由返回。/ 标示你的下一个目标。/ 标示可选的支线区域。；右下 这是各区域的剧情推进顺序。",
+    "verdict": "issue",
+    "level": "A",
+    "detail": "中文译文本身准确，但原文英文未擦除干净，残留英文与中文重叠透出、清晰可读：标题处残留 \"Wo…rial\"，副标题残留 \"The wo…ld areas.\"，各行尾部分别残留 \"nnot visit that area.\" \"an visit that area.\" \"d and are free to return.\" \"jective(s).\" \"areas.\"。属残留英文问题，需重新擦除背景再排字。"
+  },
+  {
+    "file": "tut003.png",
+    "en_text": "标题 Parallel Chronicles；正文 The world of Alestia is a living, breathing place. Though the story takes place from your perspective, the large cast of characters is always up to something.；In the top left of applicable maps, you can view subplots by clicking a character's icon.；You can do these in any order. But it is recommended to do them in the order you see them.",
+    "cn_text": "标题 平行编年史；正文 阿莱斯蒂亚是一个鲜活的世界。尽管故事从你的视角展开，众多角色也始终各有行动。；在相应地图的左上角，点击角色图标即可查看支线剧情。；这些支线可以按任意顺序完成。不过，建议按照它们出现的顺序进行。",
+    "verdict": "ok",
+    "level": null,
+    "detail": "术语符合口径：Parallel Chronicles→平行编年史（lore.md §九），Alestia→阿莱斯蒂亚（lore.md §七）。语义完整，无漏译/残留英文。"
+  },
+  {
+    "file": "tut004.png",
+    "en_text": "标题 Party Banter；While you can talk to your party members, they can also talk amongst themselves.；Icons on the top right show which combination of characters is looking to talk.；Click one of the two icons to listen in.",
+    "cn_text": "标题 队伍闲聊；除了你能与队伍成员交谈外，他们彼此之间也会交谈。；右上角的图标会显示哪些角色组合想要交谈。；点击两个图标中的任意一个即可旁听。",
+    "verdict": "issue",
+    "level": "A",
+    "detail": "中文译文准确，但存在残留英文透出：标题后残留 \"nter\"，第一行残留 \"While y…rs…themselves.\"，第二行残留 \"Icons on th…looking to talk.\"，清晰可读。需重新擦除背景。（按任务说明，白边为用户决定保留，不在此报告。）"
+  },
+  {
+    "file": "tut005.png",
+    "en_text": "标题 Purity and Corruption；Over the course of the game you will make many important decisions. These will increase a background stat known as purity and corruption. You can monitor these stats on the save screen.；Your purity and corruption levels represent how you carry yourself in the world. Important decisions will also test your values as a leader. Your alignment will effect both story and dialogue.；You can click on purity/corruption icons in the game world for more information.；左下小框 This party banter is affected by your choice to keep Peregrino as a tavern.；右下小框 You chose to keep Peregrino intact, remaining as a tavern.；截图内地图标签 …TCROWN（Eastcrown）。",
+    "cn_text": "标题 纯洁与腐化；在游戏过程中，你会作出许多重要决定。这些决定会增加名为\"纯洁\"与\"腐化\"的隐藏数值。你可以在存档界面查看这两项数值。；你的纯洁与腐化程度，体现了你在这个世界中的处世方式。重要决定也会考验你作为领袖的价值观。你的倾向会影响剧情和对话。；点击游戏中的纯洁／腐化图标，可了解更多信息。；左下 这段队伍闲聊会受到你选择保留佩雷格里诺酒馆的影响。；右下 你选择保留佩雷格里诺，使其继续作为酒馆。；地图标签 东冠。",
+    "verdict": "ok",
+    "level": null,
+    "detail": "专名符合口径：Peregrino→佩雷格里诺、Eastcrown→东冠（lore.md §七）；party banter→队伍闲聊 与 tut004 一致。background stat→隐藏数值 属合理意译。无漏译/残留英文。"
+  },
+  {
+    "file": "tut006.png",
+    "en_text": "标题 Heart-to-Heart Conversations；When marked with a heart, talking to a comrade starts a special scene. You can only play these once, and your decisions are final. They are scattered through the game, and must be done in order.；截图选项 \"Of course. We'll handle everything together.\" / \"Finding inner strength is also great, Valessa.\" / \"I'm glad to help any time you need it.\"；底部 These scenes are key to solidifying friendships and pursuing romance. Doing a character's heart-to-hearts will eventually unlock a loyalty quest. The personal stories of each comrade are just as important as the main quest.",
+    "cn_text": "标题 心与心的交谈；同伴标有爱心图标时，与其交谈便会触发特殊场景。每段场景只能体验一次，作出的选择也无法更改。这些场景散布于游戏各处，必须按顺序完成。；截图选项 当然。我们会一起面对一切。/ 发掘内心的力量也很好，瓦莱莎。/ 只要你需要，我随时乐意帮忙。；底部 这些场景对于巩固友谊、发展恋情至关重要。完成某位角色的心与心的交谈，最终会解锁该角色的忠诚任务。每位同伴的个人故事与主线任务同样重要。",
+    "verdict": "issue",
+    "level": "B",
+    "detail": "术语口径偏离：Heart-to-Heart 在 lore.md §九 的既定口径为「心灵对话/心灵交流」（正文 zzz 文本亦用此译法），本图标题与底部正文均译作「心与心的交谈」，与全局术语不统一，建议改为「心灵对话」。其余无误：Valessa→瓦莱莎（与 docs 一致）、loyalty quest→忠诚任务（区别于 Loyalty Scene=忠诚场景，可接受）、语义完整无残留英文。"
+  },
+  {
+    "file": "zzzzjournal1.png",
+    "en_text": "日记封面：These pages record my adventures.；Every line in this book is a page from my own life.；Every trial, every tribulation; every victory and every defeat.；署名 Valessa Crollin",
+    "cn_text": "这些书页记载着我的冒险。；此书的每一行，都是我人生的一页。；每次考验，每段磨难；每场胜利，每次落败。；署名 瓦莱莎·克罗琳",
+    "verdict": "ok",
+    "level": null,
+    "detail": "语义逐句对应、文笔通畅；Valessa→瓦莱莎 与 docs 既定译名一致，姓氏 Crollin→克罗琳 为合理音译（项目内无既有译法冲突）。无漏译/残留英文/错别字。"
+  },
+  {
+    "file": "a0003.png",
+    "en_text": "~Epilogue~",
+    "cn_text": "～后日谈～",
+    "verdict": "ok",
+    "level": null,
+    "detail": "Epilogue→后日谈 为日式游戏惯例译法，波浪号样式保留，无问题。英文原版取自 tl_work\\backup_additional_text_images_2026-09-22（Steam 目录文件已是中文版）。"
+  }
+]

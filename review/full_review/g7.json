@@ -1,0 +1,110 @@
+[
+  {
+    "file": "strings/strings_0003.tsv",
+    "seq": "872",
+    "level": "A",
+    "en": "Actually, it's a {i}step{/i} ladder.",
+    "cn": "其实，这是一把{i}梯子{/i}。",
+    "issue": "错译：原文是纠正对方——这是 step ladder（踏步梯/折梯）而非普通 ladder，笑点与语义都在被强调的 step 上；译文把斜体强调错放在“梯子”上，译成了普通梯子，纠正意味与文字游戏完全丢失。",
+    "suggestion": "其实，这是一把{i}踏步{/i}梯。"
+  },
+  {
+    "file": "strings/strings_0001.tsv",
+    "seq": "33",
+    "level": "B",
+    "en": "You call this a gift...?",
+    "cn": "你管这叫天赋……？",
+    "issue": "歧义/语义偏差：gift 承接上一句“为什么灵要给我幻象”，指灵赐予的“礼物/恩赐”；“天赋”偏向与生俱来的才能，削弱了“灵所赐予”这层含义。",
+    "suggestion": "你管这叫恩赐……？"
+  },
+  {
+    "file": "strings/strings_0001.tsv",
+    "seq": "268",
+    "level": "B",
+    "en": "[[Get them as a romantic gesture.]",
+    "cn": "[[以浪漫的心意把它们送出去]",
+    "issue": "语义偏移：get them 此处指“买下”（与下一条 seq 269 Don't get them→不要买 对应），译成“送出去”丢失了购买含义，且与 269 的“不要买”动作不对应。",
+    "suggestion": "[[买下它们，作为浪漫的心意]"
+  },
+  {
+    "file": "strings/strings_0002.tsv",
+    "seq": "562",
+    "level": "B",
+    "en": "I think you're right, Damek. Vivien might be a good idea.",
+    "cn": "我觉得你说得对，达梅克。薇薇安也许是个好主意。",
+    "issue": "语病：人名“薇薇安”直接作“是个好主意”的主语，搭配不当；原意是“支持/选择薇薇安也许是个好主意”。",
+    "suggestion": "我觉得你说得对，达梅克。支持薇薇安也许是个好主意。"
+  },
+  {
+    "file": "strings/strings_0002.tsv",
+    "seq": "578",
+    "level": "B",
+    "en": "How often do you walk this far?",
+    "cn": "你多久走这么远一次？",
+    "issue": "语病：直译导致语序生硬，中文不成自然问句。",
+    "suggestion": "你经常走这么远吗？"
+  },
+  {
+    "file": "strings/strings_0002.tsv",
+    "seq": "610",
+    "level": "B",
+    "en": "You're right. It's more trouble than it's worth.",
+    "cn": "你说得对。它不值得这么多麻烦。",
+    "issue": "语病：直译生硬，中文惯用表达为“得不偿失/麻烦大于价值”。",
+    "suggestion": "你说得对。这得不偿失。"
+  },
+  {
+    "file": "strings/strings_0002.tsv",
+    "seq": "733",
+    "level": "B",
+    "en": "Were you part of the Exodus raid?",
+    "cn": "你参与过放逐突袭吗？",
+    "issue": "歧义：Exodus raid 指夺取放逐之刃的那次突袭行动，“放逐突袭”易被读成一场名叫“放逐”的突袭，与既定术语“放逐之刃”脱节。",
+    "suggestion": "你参与过夺取放逐之刃的那次突袭吗？"
+  },
+  {
+    "file": "strings/strings_0002.tsv",
+    "seq": "744",
+    "level": "B",
+    "en": "Any juicy secrets or interesting facts about the rebels?",
+    "cn": "有什么关于反抗军的带劲秘密或趣闻吗？",
+    "issue": "语病：“带劲秘密”缺少结构助词“的”，读起来不通顺。",
+    "suggestion": "有什么关于反抗军的劲爆秘密或趣闻吗？"
+  },
+  {
+    "file": "strings/strings_0002.tsv",
+    "seq": "792",
+    "level": "B",
+    "en": "You're asking me to break our sacred traditions?",
+    "cn": "你是在要我们打破神圣的传统吗？",
+    "issue": "语义偏移兼语病：原文是“要我去打破我们的传统”，译文把行为主体从“我”换成了“我们”，且“你是在要我们打破”句式生硬。",
+    "suggestion": "你是在要我打破我们神圣的传统吗？"
+  },
+  {
+    "file": "strings/strings_0002.tsv",
+    "seq": "800",
+    "level": "B",
+    "en": "Dancing isn't really my thing.",
+    "cn": "跳舞不是我的菜。",
+    "issue": "现代汉语出戏词：“不是我的菜”为现代网络口语，在奇幻世界观对白中出戏（同文件 seq 325 同类语境用的是“强项”）。",
+    "suggestion": "跳舞不是我的强项。"
+  },
+  {
+    "file": "strings/strings_0002.tsv",
+    "seq": "532",
+    "level": "C",
+    "en": "What do you think of Mazeo so far?",
+    "cn": "你觉得马泽奥到目前为止怎么样？",
+    "issue": "风格：语序生硬，“到目前为止”后置不符合中文习惯；同句式在 seq 556、564 重复出现，建议统一润色。",
+    "suggestion": "到目前为止，你觉得马泽奥怎么样？"
+  },
+  {
+    "file": "strings/strings_0003.tsv",
+    "seq": "966",
+    "level": "C",
+    "en": "Escape",
+    "cn": "Escape",
+    "issue": "风格一致性：帮助界面的按键名处理不统一——seq 960 Enter 译作“回车”，而 Escape / Ctrl / Tab / Page Up / Page Down（seq 966-974）均保留英文。",
+    "suggestion": "建议统一策略：全部保留英文键名（Esc、Ctrl、Tab），或全部意译；至少 Enter 与 Escape 的处理应一致。"
+  }
+]

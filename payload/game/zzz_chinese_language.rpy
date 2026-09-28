@@ -53,7 +53,7 @@ translate chinese strings:
     new "这个选择会影响剧情的走向。"
 
     old "Choices can create meaningful bonds, and romances."
-    new "选择可以缔结深厚的羁绊与恋情。"
+    new "选择可以缔结深厚的情谊与恋情。"
 
     old "Use keyboard to enter name"
     new "请用键盘输入名字"

@@ -1,0 +1,120 @@
+[
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0017.tsv",
+    "seq": "6423",
+    "level": "B",
+    "en": "Well, this is where it gets a bit weird.",
+    "cn": "嗯，这里就有点奇妙了。",
+    "issue": "weird 在此指“奇怪/古怪”，译作「奇妙」带褒义色彩，语义偏差",
+    "suggestion": "嗯，这里就有点奇怪了。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0018.tsv",
+    "seq": "6893",
+    "level": "B",
+    "en": "That proves your loyalty almost tenfold.",
+    "cn": "那足以近十倍地昭示你的忠诚。",
+    "issue": "「近十倍地昭示」生硬直译，明显拗口",
+    "suggestion": "那足以证明你的忠诚，十倍有余。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0018.tsv",
+    "seq": "7189",
+    "level": "B",
+    "en": "After that — their fate, and punishment, is yours to decide.",
+    "cn": "之后——他们的命运与惩罚，由你来决定。",
+    "issue": "char_howl 对君主应统一用「您」；本行用「你」，且同场景 7181（我想你明白）、7199（因为你可能）亦为「你」，与 7172/7177/7196 的「您」不一致",
+    "suggestion": "之后——他们的命运与惩罚，由您来决定。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0019.tsv",
+    "seq": "7283",
+    "level": "B",
+    "en": "It was funny how a friendship could come to an end so easily.",
+    "cn": "一段友谊竟能如此轻易地走到尽头，真是可笑。",
+    "issue": "funny 此处为“奇怪/令人感慨”，译作「可笑」带上嘲讽意味，语义偏移",
+    "suggestion": "一段友谊竟能如此轻易地走到尽头，真是令人唏嘘。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0020.tsv",
+    "seq": "7932",
+    "level": "B",
+    "en": "However, there are people who wish to meet you.",
+    "cn": "不过，有些人想见见你。",
+    "issue": "char_howl 对君主应统一用「您」；本行用「你」，紧接的 7933/7934 均为「您」",
+    "suggestion": "不过，有些人想见见您。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0020.tsv",
+    "seq": "7996",
+    "level": "B",
+    "en": "Forecast calls for excruciating heat, and a chance of death.",
+    "cn": "占卜说酷热难耐，还可能送命——不过只是可能。",
+    "issue": "Forecast 是天气预报的口语玩笑，译作「占卜」语义错误（乌尔里克此时并无占卜语境）",
+    "suggestion": "天气预报说酷热难耐，还可能送命——不过只是可能。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0020.tsv",
+    "seq": "7666",
+    "level": "B",
+    "en": "If you want to take down The Triumvirate, you'll have to enter their chambers.",
+    "cn": "如果你想扳倒三人执政团，就必须进入他们的内殿。",
+    "issue": "同一场所 The Triumvirate's chambers 在 0017#6523、0018#7009/7010 译作「议事厅」，0020 本段（7666/7673/7674/7679/7691）改译「内殿」，译名不统一",
+    "suggestion": "统一为「议事厅」（或全篇统一改，但需与前文一致）"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0020.tsv",
+    "seq": "7667",
+    "level": "B",
+    "en": "It's like a spirit idol, but the very sight of it fills me with fear.",
+    "cn": "它像是灵界灵像，但我光是看到它就满心恐惧。",
+    "issue": "既定译法为「灵像」（0018#7010-7016 均用「灵像」），此处及 7671 作「灵界灵像」，术语不一致",
+    "suggestion": "它像是灵像，但我光是看到它就满心恐惧。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0017.tsv",
+    "seq": "6552",
+    "level": "C",
+    "en": "They turn around, and Sovy is faced by all five of his now superiors.",
+    "cn": "他们转过身，索维面对着如今全都成了他上级的五个人。",
+    "issue": "「如今全都成了他上级的五个人」定语堆叠，稍拗口",
+    "suggestion": "他们转过身，索维面前的五个人，如今全成了他的上级。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0018.tsv",
+    "seq": "7093",
+    "level": "C",
+    "en": "They turn to me and smile, while Howl shows the face of complete indifference.",
+    "cn": "他们转向我微笑，而豪尔则是一脸完全的漠然。",
+    "issue": "「一脸完全的漠然」成分赘余",
+    "suggestion": "他们转向我微笑，而豪尔则一脸漠然。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0019.tsv",
+    "seq": "7244",
+    "level": "C",
+    "en": "Pro is really taking charge here. It's impressive.",
+    "cn": "普洛在这里真的挑起了大梁。真令人佩服。",
+    "issue": "「挑起了大梁」略过褒（他只在做情况说明），风格可再斟酌",
+    "suggestion": "普洛在这里真的撑起了局面。真令人佩服。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0020.tsv",
+    "seq": "7625",
+    "level": "C",
+    "en": "And I heard him say something about a mole...?",
+    "cn": "我好像听到他说了什么内鬼……？",
+    "issue": "mole 在 7545 译「内奸」、7625/7696/7729 译「内鬼」，用词不统一（不影响理解）",
+    "suggestion": "统一为「内鬼」或「内奸」"
+  },
+  {
+    "inventory": "monarchy",
+    "file": "dialogue_0017-0020",
+    "seq": "-",
+    "level": "-",
+    "en": "The Monarchy / The Old Monarchy / The New Monarchy",
+    "cn": "王权 vs 王室",
+    "issue": "「王权」出现 seq：0017#6657（The New Monarchy→新王权）、0019#7236（The New Monarchy→新王权）。「王室」出现 seq：0018#6867（The Old Monarchy→旧王室）、0018#6870（The Old Monarchy→旧王室）、0018#6939（The Monarchy→旧王室）、0018#7185（The Old Monarchy→旧王室）。另注：0020#7645、0020#7671、0020#7941 中 The Monarchy 译作「君主国」，本组 chunk 内三种译法并存",
+    "suggestion": "建议全篇统一 The Monarchy 系列译名（如 新王权/旧王室 二分时，0020 的「君主国」是否应并入旧王室需裁定）"
+  }
+]

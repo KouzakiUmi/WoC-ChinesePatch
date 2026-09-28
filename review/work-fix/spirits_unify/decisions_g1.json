@@ -1,0 +1,221 @@
+[
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "51",
+    "action": "keep",
+    "reason": "a 类：『You wield spirits to induce prophetic visions』指御使非物质的灵以引出幻象，属信仰/抽象存在语境；裸「灵」语义通顺，符合设定，保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "52",
+    "action": "keep",
+    "reason": "a 类：同 seq 51（Seeress 版同型行），御使灵引出幻象的抽象语境；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "104",
+    "action": "keep",
+    "reason": "a 类：『Spirits, please forgive my misdeeds』为对信仰的灵的呼告/祈求宽恕，非物质信仰对象；「灵啊」呼告语气自然，保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "105",
+    "action": "keep",
+    "reason": "a 类：承接 seq 104，『cares about the spirits』指信仰对象的灵；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "111",
+    "action": "keep",
+    "reason": "a 类：『mastered the spirits』指掌控非物质的灵之力，抽象能力语境；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "112",
+    "action": "keep",
+    "reason": "a 类：『The spirits are pure, they aid us』为对灵的信仰表述（纯洁、佑助），抽象信仰对象；裸「灵」保留，{i}标签不动。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "117",
+    "action": "keep",
+    "reason": "a 类：『wield the spirits in this fashion』指御使灵的方式，抽象语境；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "163",
+    "action": "keep",
+    "reason": "a 类：『something the spirits aren't telling us』指灵作为启示/指引来源，信仰语境；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "168",
+    "action": "keep",
+    "reason": "a 类：『their Seers use spirits, not a blade』指先知役使非物质的灵，抽象语境；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "233",
+    "action": "keep",
+    "reason": "a 类：『what the spirits want to show us』指灵通过幻象给予的启示，信仰/抽象语境；裸「灵」保留。与 seq 383 同型行，同步 keep。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "235",
+    "action": "keep",
+    "reason": "a 类：『when the spirits decide you've seen enough』指灵决定幻象长短，抽象信仰语境；裸「灵」保留。与 seq 385 同型行，同步 keep。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "239",
+    "action": "keep",
+    "reason": "a 类：『nothing more pure than the spirits』为对灵的纯粹性的信仰表述；裸「灵」保留。与 seq 240/389/390 同型行，同步 keep。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "240",
+    "action": "keep",
+    "reason": "a 类：同 seq 239 同型行（仅对话者回应不同），信仰表述；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "257",
+    "action": "keep",
+    "reason": "a 类：『the spirits really were looking down on me』指灵的眷顾/庇佑，信仰语境；裸「灵」保留。与 0002:seq 407 同型行，同步 keep。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "317",
+    "action": "keep",
+    "reason": "a 类：『don't want to anger the spirits』指不敢触怒信仰中的灵；裸「灵」保留；同行 spiritual energy=灵力按规约不动。与 0002:seq 454 同型行，同步 keep。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "323",
+    "action": "keep",
+    "reason": "a 类：『So in tune with the spirits, you let them govern you』指与灵契合、任由灵引导，抽象信仰语境；裸「灵」保留。与 0002:seq 460 同型行，同步 keep。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "324",
+    "action": "keep",
+    "reason": "a 类：『the spirits have a good grasp on things』指灵对世事的引导，抽象语境；裸「灵」保留。与 0002:seq 461 同型行，同步 keep。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "326",
+    "action": "keep",
+    "reason": "a 类：『It's not that they don't care for spirits』指对灵的信仰态度；裸「灵」保留；同行 spiritual energy=灵力不动。与 0002:seq 463 同型行，同步 keep。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "383",
+    "action": "keep",
+    "reason": "a 类：同 seq 233 同型行（map084 场景重复），灵通过幻象给予启示；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "385",
+    "action": "keep",
+    "reason": "a 类：同 seq 235 同型行，灵决定幻象长短；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "389",
+    "action": "keep",
+    "reason": "a 类：同 seq 239 同型行，灵的纯粹性信仰表述；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0001.tsv",
+    "seq": "390",
+    "action": "keep",
+    "reason": "a 类：同 seq 240 同型行，灵的纯粹性信仰表述；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0002.tsv",
+    "seq": "407",
+    "action": "keep",
+    "reason": "a 类：同 0001:seq 257 同型行，灵的眷顾/庇佑，信仰语境；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0002.tsv",
+    "seq": "454",
+    "action": "keep",
+    "reason": "a 类：同 0001:seq 317 同型行，不敢触怒信仰中的灵；裸「灵」保留，灵力不动。"
+  },
+  {
+    "file": "dialogue/dialogue_0002.tsv",
+    "seq": "460",
+    "action": "keep",
+    "reason": "a 类：同 0001:seq 323 同型行，与灵契合的抽象语境；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0002.tsv",
+    "seq": "461",
+    "action": "keep",
+    "reason": "a 类：同 0001:seq 324 同型行，灵对世事的引导，抽象语境；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0002.tsv",
+    "seq": "463",
+    "action": "keep",
+    "reason": "a 类：同 0001:seq 326 同型行，对灵的信仰态度；裸「灵」保留，灵力不动。"
+  },
+  {
+    "file": "dialogue/dialogue_0002.tsv",
+    "seq": "555",
+    "action": "change",
+    "en": "I put his spirit to good use.\\nLike I plan to do with your little friend.",
+    "old": "我让他的灵发挥了用处。",
+    "new": "我让他的灵体发挥了用处。",
+    "reason": "b 类：『his spirit』指乌尔里克的灵被放逐之刃摄取、用于驱动实体盔甲（seq 551 齿轮转动、seq 556-557 空甲拼合成军队），属寄居于容器/盔甲中以实体形态存在的灵；且同场景 seq 558『using their spirits to power that armor』与 seq 560『an army of spirits』均已译「灵体」，按场景一致性规则同步为「灵体」。"
+  },
+  {
+    "file": "dialogue/dialogue_0003.tsv",
+    "seq": "897",
+    "action": "change",
+    "en": "He's almost cryptically telling me what I already know.{w}\\nI know that the blade deals with the spirits of its victims.{w}\\nThe Triumvirate used it to create their own massive army.",
+    "old": "我知道那把剑会摆布受害者的灵。",
+    "new": "我知道那把剑会摆布受害者的灵体。",
+    "reason": "b 类：『the spirits of its victims』指被剑摄取、用于制造实体军队的受害者之灵，与 0002:seq 555-560 同一机制（灵寄居于剑/盔甲容器），该场景已定译「灵体」，跨场景同机制统一为「灵体」；下行 seq 898 的 soul→「灵魂」不受影响。"
+  },
+  {
+    "file": "dialogue/dialogue_0004.tsv",
+    "seq": "1230",
+    "action": "keep",
+    "reason": "a 类：『tears from the spirit realm / the spirits crying out』指灵界的灵在哭喊，非物质抽象存在语境；裸「灵」保留；同行 spirit realm=灵界按规约不动，{i}标签不动。"
+  },
+  {
+    "file": "dialogue/dialogue_0004.tsv",
+    "seq": "1396",
+    "action": "keep",
+    "reason": "a 类：『the spirits themselves have chosen you』指灵的拣选，信仰语境；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0004.tsv",
+    "seq": "1453",
+    "action": "change",
+    "en": "Underneath those cloaks, however, is anyone's guess.\\nSome people even theorize that there's nothing underneath.\\nThat's pretty scary, if you ask me. They'd be like living spirits.",
+    "old": "他们就像活着的灵。",
+    "new": "他们就像活着的灵体。",
+    "reason": "b 类：『living spirits』的语境是斗篷作为载体/容器——若斗篷底下空无一物，则斗篷本身就是赋予灵形态的躯壳，属『寄居容器中以实体形态存在的灵』的比喻；按父裁决心证改为「灵体」。"
+  },
+  {
+    "file": "dialogue/dialogue_0004.tsv",
+    "seq": "1457",
+    "action": "keep",
+    "reason": "a 类：『chosen by the spirits for this destiny』指灵的拣选，信仰语境；裸「灵」保留。"
+  },
+  {
+    "file": "dialogue/dialogue_0004.tsv",
+    "seq": "1477",
+    "action": "keep",
+    "reason": "a 类：『the spirits can move power from the land, to an individual』指灵转移力量的抽象能力，非物质语境；裸「灵」保留，{i}标签不动。"
+  },
+  {
+    "file": "dialogue/dialogue_0005.tsv",
+    "seq": "1838",
+    "action": "keep",
+    "reason": "a 类：『a place to read up on the spirits』指查阅关于灵（信仰/存在）的资料，抽象语境；裸「灵」保留。"
+  }
+]

@@ -38,4 +38,5 @@ jobs:
           gh release create $env:GITHUB_REF_NAME dist/WoC-ChinesePatch.exe
           --repo KouzakiUmi/WoC-ChinesePatch
           --title "WoC 中文补丁 $env:GITHUB_REF_NAME (PC)"
-          --generate-notes --verify-tag
+          --notes-file docs/release-notes/$env:GITHUB_REF_NAME.md
+          --verify-tag

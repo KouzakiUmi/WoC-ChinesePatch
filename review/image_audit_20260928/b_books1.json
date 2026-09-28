@@ -1,0 +1,74 @@
+[
+  {
+    "file": "b0001.png",
+    "en_text": "Mylus' Note：反抗军同盟联系作者→得知父亲真相→受托保管一柄剑(a blade)，使者将来取→派特殊人物随行并保密其名→期待见到认识父亲的使者→声明不恨三人执政团只是亲情",
+    "cn_text": "迈勒斯的笔记：语义逐段对应，blade→剑✓、an envoy→一位使者✓、The Triumvirate→三人执政团✓、haven't told anybody→还没向任何人提起✓",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "无实质问题。小注：The Rebel Alliance 译「反抗军同盟」，lore 基准为「反抗军（The Rebellion）」；因 EN 原文用词确为 Alliance，可接受，若想与全书统一可考虑「反抗军」。"
+  },
+  {
+    "file": "b0002.png",
+    "en_text": "On Alestia's Creation：创世诸说无确凿证据→最流行说法是三人执政团创世（统治前无历史记录）→以执政团降临为纪元起点→学者放弃研究→若真为执政团创世应感谢这些慷慨正义的神明→署名 Algus Veilleur",
+    "cn_text": "论阿莱斯蒂亚的创世：merely→仅仅✓、Alestia→阿莱斯蒂亚✓、署名阿尔古斯·维勒尔✓、页码~1~/~2~✓",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "无问题，语义、专名（阿莱斯蒂亚/阿尔古斯·维勒尔/三人执政团）均符合当前口径。"
+  },
+  {
+    "file": "b0003.png",
+    "en_text": "On Scribes and Visions：书记官受命聆听解读先知的幻象→spirits 有自己的语言、幻象由隐喻变清晰→灵界是否在有形地学习成长→灵界承载逝者的灵魂但无人真正与死者交流→spirits 把未来幻象赐予能见证者→书记官渐成仪式性职位→瓦利诺斯为书记官配门徒→署名 Fortaime",
+    "cn_text": "论书记官与预视：门徒（protege）✓、福泰姆署名✓、瓦利诺斯/瓦莱莎/阿莱斯蒂亚✓；但「灵体有自己的语言」「灵体会把未来的预视赐予…的人」两处 spirits 作「灵体」",
+    "verdict": "issue",
+    "level": "A",
+    "detail": "术语违规（terms.tsv spirits 语境二分，2026-09-28 终裁）：本篇 spirits 全是抽象/非物质语境（灵的语言、灵界中的存在、赐予幻象），应译「灵/众灵」，图中 2 处作「灵体」。该规则晚于此前图片修复轮次，图片侧未按新口径回扫。另注：图题与正文用「预视」为书目清单统一用名（历史裁决），不算错误。"
+  },
+  {
+    "file": "b0004.png",
+    "en_text": "The True Reach of Spirits：植物是灵力容器、林区居民更快乐→spirits 影响情绪但迄今无负面→人们择居正能量之地→意图不明的影响令人担忧→若灵界发难/潜移默化使人屈从其意志会怎样→人们请三人执政团表态但其沉默→署名 Algus Veilleur",
+    "cn_text": "灵的真正影响力：lash out→突然发难✓、bend to their will→屈从于它们的意志✓、far from impossible→并非难事✓、灵性能量✓；但正文 3 处 spirits 作「灵体」（影响心情/带来负面影响/真正本质）",
+    "verdict": "issue",
+    "level": "A",
+    "detail": "术语违规：本篇 spirits 为抽象信仰语境（影响情绪、本质与影响范围），按 terms.tsv 应译「灵/众灵」，正文 3 处作「灵体」；且图题已用「灵」（灵的真正影响力），正文与标题用字自相不一致。"
+  },
+  {
+    "file": "b0005.png",
+    "en_text": "Visions and Paintings：spirits 的幻象像画作，先知常能回忆整体画面而细节在传达中遗失→若不止一位先知看到同一幻象解读会大相径庭→只有一位先知故无法检验，由书记官与先知深入讨论得出可接受的解读→小细节常被忽略→以村民死亡为例只能推断有人将死而无法探究原因→spirits 沟通能力渐强，幻象或变具体、解读成为过去→署名 Fortaime",
+    "cn_text": "预视与画作：often→往往✓、more than one→不止一位✓、a thing of the past→成为过去，不再有必要✓、署名福泰姆✓；3 处 spirits 作「灵体」（来自灵体的预视/灵体仿佛只传来/灵体与我们联系沟通的能力）",
+    "verdict": "issue",
+    "level": "A",
+    "detail": "术语违规：3 处抽象语境 spirits 应译「灵/众灵」而作「灵体」（同 terms.tsv 语境二分终裁）。附带 B 级：右页末段 EN \"would be impossible\"（绝不可能）译作「几乎无法」，程度被弱化。"
+  },
+  {
+    "file": "b0006.png",
+    "en_text": "Mysterious Mazeo：约二十年前三人执政团占领马泽奥→表面铲除海盗实则渐趋暴虐→将军/市长与荣誉卫队数百士兵昼伏夜出挖掘地下→作者与马泽奥重要人物通信→反对者将组建军队夺回马泽奥→\"一座城市，然后是整个世界\"→瓦利诺斯绝不能重蹈马泽奥覆辙→署名 The Elder of Valinorth",
+    "cn_text": "神秘的马泽奥：荣誉卫队✓、重蹈覆辙✓、corresponding→通信✓、Elder→长老（瓦利诺斯长老）✓、三人执政团/马泽奥/瓦利诺斯✓",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "无实质问题。小注：\"branched out of Valinorth\" 译「离开瓦利诺斯」略有偏移（原意为把活动扩展到瓦利诺斯之外），不影响理解。"
+  },
+  {
+    "file": "b0007.png",
+    "en_text": "On Valinorth's Bloodleaves：瓦利诺斯高踞阿莱斯蒂亚群山、灵性能量使村庄与周边温暖但影响范围有限、无法改变东冠严寒→不敢去东冠只因身体受不住酷寒→巨树顶端树叶绯红、有人认为是逝者眼泪试图触及物质世界→至多算迷信→东冠寒风隔几年吹落树叶、风带血叶掠过阿莱斯蒂亚天空→外界视为凶兆、本地居民视为自然现象→署名 The Elder of Valinorth",
+    "cn_text": "论瓦利诺斯的血叶：reach not infinite→影响范围并非无限✓、bodies would not handle→身体承受不住严寒✓、巨树✓、东冠✓、血叶✓、署名瓦利诺斯长老✓",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "无实质问题。小注：「那是逝者的眼泪，他们正试图触及我们的物质世界」代词「他们」指代含混——EN \"the tears ... trying to reach\" 的施事是眼泪，宜用「它们」。"
+  },
+  {
+    "file": "b0008.png",
+    "en_text": "Valinorth's Line of Seers：先知引领民族持久和平→每代一位先知、降生时索尔伯格灵像涌现能量→先知空窗期极短故能准确预料降生→最近一代降生那夜灵像未回昏暗、只剩黑暗→影响深远→过好每一天、对 spirits 的依赖将越来越小→须依靠阿莱斯蒂亚其他人、寻找未来同道→署名 The Elder of Valinorth",
+    "cn_text": "瓦利诺斯的先知血脉：on the night of→降生那一夜✓、take each day as it comes→一天一天地过下去✓、灵像✓、索尔伯格✓、同道✓；右页「对灵体的依赖将会越来越少」一处 spirits 作「灵体」",
+    "verdict": "issue",
+    "level": "A",
+    "detail": "术语违规：\"our dependence on the spirits\" 为抽象信仰语境，应译「对灵的依赖」，图中作「对灵体的依赖」（terms.tsv spirits 语境二分终裁）。其余语义均已按此前工单修复到位。"
+  },
+  {
+    "file": "b0009.png",
+    "en_text": "Instructions from Mylus：感谢合作→包裹内是放逐之刃→名字系三人执政团所选→剑不离视线、向导扎米拉在主街等候带往佩雷格里诺与普洛会合→普洛带路去马泽奥→普洛看似无能实则遵命、达梅克原计划太冒险→改为扎米拉深夜在瓦利诺斯郊外与普洛会面取剑→村民无察觉、达梅克会理解耽搁→授权进入索尔伯格（右页无署名）",
+    "cn_text": "迈勒斯的指示：Blade of Exodus→放逐之刃✓、the blade→那柄剑✓、Instead→反而✓、深夜郊外会面取剑✓、扎米拉/普洛/达梅克/佩雷格里诺/索尔伯格✓、右页无署名与英文原图一致✓",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "无问题，语义与专名全部符合当前口径（此前各轮工单修复均已落实）。"
+  }
+]

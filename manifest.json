@@ -1,7 +1,7 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.3.10",
+ "version": "1.3.11",
  "built": "2026-09-26",
  "base_check": {
   "path": "game/script.rpy",
@@ -22,8 +22,8 @@
   {
    "path": "game/images/AlarinMapCastle.png",
    "type": "modified",
-   "sha256": "62a0b7c727820aa2412840ba22b93f4d69b6da97a550ee0b9a9d72b1570cf550",
-   "size": 1552915,
+   "sha256": "c02604da364a2d0edf08f43d833a274f1029e5ea1391b572cfd55ed572a1d8e5",
+   "size": 1597612,
    "original": {
     "sha256": "10ec8f4b172f90c52ce9bec93549e3bfd1b051692346633552f1b12860d00c9d",
     "size": 1338624
@@ -42,8 +42,8 @@
   {
    "path": "game/images/AlarinMapColi.png",
    "type": "modified",
-   "sha256": "e043ffe0cd34a049841f26d7b279ad13abc921485f3b8897f3f4e3f7e11fe193",
-   "size": 1402127,
+   "sha256": "20b5df4d2b5efd2cfd2c1360be91a12d3df5c2a49be63f7e11eb07a301cf6016",
+   "size": 1413238,
    "original": {
     "sha256": "0413ed90d0d23c0a0dc2e79810c2a4e8f63d4ea4cf4fe23ff9af3875b93ccfe4",
     "size": 1282477
@@ -173,8 +173,8 @@
   {
    "path": "game/images/b0003.png",
    "type": "modified",
-   "sha256": "834bbe115c48cb0fae2e663324a5e790bc385e18a5002994911592f89d051eef",
-   "size": 1199888,
+   "sha256": "e7b0a39f49f8cfbb3b40bef2c80fe02d248a0579530a4fc448213a80dee108e8",
+   "size": 1231190,
    "original": {
     "sha256": "a40c6cb409653e189081e5131444641d256ce50e879f268527dfdae7f4a25438",
     "size": 1335614
@@ -183,8 +183,8 @@
   {
    "path": "game/images/b0004.png",
    "type": "modified",
-   "sha256": "ba22c0cdef6e3479c105d55997fb58fe3bb4ead11c179e119ff9fff900c626d4",
-   "size": 1190494,
+   "sha256": "e5e61a4adea412999cf254dc374c555dd0a2bf61427a6667ffecaa91899cff01",
+   "size": 1165293,
    "original": {
     "sha256": "5076d09635ebd0505a9c5b6ff39b33bc02e7df261b2a4f90e9e4a5af257b803c",
     "size": 1300089
@@ -193,8 +193,8 @@
   {
    "path": "game/images/b0005.png",
    "type": "modified",
-   "sha256": "683d753cd9ceb2e1d4093aa7f2d0dea5b3c657420c5813424afd49172d059ba3",
-   "size": 1201733,
+   "sha256": "4cbb4dfa055e41f3b208048498533052ee262a109f9e763d992cbfaee9be57a8",
+   "size": 1204920,
    "original": {
     "sha256": "face2b284289ff8750fa31199e0cf3a6a09936890a2da2274932e808449a881c",
     "size": 1343499
@@ -223,8 +223,8 @@
   {
    "path": "game/images/b0008.png",
    "type": "modified",
-   "sha256": "49ce1d2ffe9b7fb528c4087df470053d6a4a246f8d1023ce44ad8cfef1b25bb0",
-   "size": 1205063,
+   "sha256": "3926eb2dac08047e88d5ebb552f8bc4e04183a4f48b0fbcac98ea5c220f4d33d",
+   "size": 1238499,
    "original": {
     "sha256": "1eeb1469ae3d42516333bc1058ef0b1dab33c15571d7ba4f3c16fbb340dba754",
     "size": 1332881
@@ -243,8 +243,8 @@
   {
    "path": "game/images/b0010.png",
    "type": "modified",
-   "sha256": "e0423241b7390a6887777f5a70100f6a54f271020a8160d43bd55abf39710f9c",
-   "size": 1072705,
+   "sha256": "56e18b68160faf31fecc01cc9e1eaa6d17053af00f7741a7b36710b4a8212300",
+   "size": 1118845,
    "original": {
     "sha256": "dd002bf17d4c3a14c69d7a598e9466f330fb5199812a51e5f412259e62d63048",
     "size": 1226716
@@ -263,8 +263,8 @@
   {
    "path": "game/images/b0012.png",
    "type": "modified",
-   "sha256": "01765ff3d3b72add01236bd69a7e0c160f3a2580ec3db93aaabca51ec630221e",
-   "size": 1179947,
+   "sha256": "d7add8c02b4b123e27b6ccbe94630732de267b30348886d34570383a79c8ef5f",
+   "size": 1186163,
    "original": {
     "sha256": "2a623f2c2ced36b732539391e740cf557b63a0bdf44aa21bfe60021b47ea3788",
     "size": 1303103
@@ -406,8 +406,8 @@
   {
    "path": "game/images/tut006.png",
    "type": "modified",
-   "sha256": "63ff58c2f018d3f82511fc351feb5f7d355bd8e32c995fe2924359b8053351b2",
-   "size": 822507,
+   "sha256": "dfefb61239147673e42a55418c7a6406e609d371134de76b2ed3a7ee8d24f101",
+   "size": 746329,
    "original": {
     "sha256": "366be46622fa458d188485035190e4d1ecd79fe59d7a8a97ac6efcd26a31089c",
     "size": 245369
@@ -559,8 +559,8 @@
   {
    "path": "game/images/zzz0-2.png",
    "type": "modified",
-   "sha256": "119eb6cc674f553c601a346496a802adaa20af05a1cb8108f2540bc264fde26e",
-   "size": 21293,
+   "sha256": "dac97c8fb1b0bd9edcf18eea3e97f39b7b8cdb327e327da2458708abd8069709",
+   "size": 20668,
    "original": {
     "sha256": "1ed32e627ab3408128962945c36e51abfd65cad98c9de81079fe6edcbbf7a205",
     "size": 16674,
@@ -597,7 +597,7 @@
   {
    "path": "game/tl/chinese/common.rpyc",
    "type": "new",
-   "sha256": "858930a109fa409d523cead683c38646afc0328e715fee3dbff31b9b2d05eed7",
+   "sha256": "22767388e5665a3513d457f3a611f6e114176577754ad378814d0a646be611dd",
    "size": 26972
   },
   {
@@ -609,8 +609,8 @@
   {
    "path": "game/tl/chinese/names.rpyc",
    "type": "new",
-   "sha256": "726704a2c36323eec9fb3ad669b01753662e55fa2d0daa0731ad47eedbedaaf1",
-   "size": 2732
+   "sha256": "eb65556b03c8a2238a7aff15512f60c6ef3c5f673022a525a8419813a083a4c9",
+   "size": 2736
   },
   {
    "path": "game/tl/chinese/options.rpy",
@@ -621,8 +621,8 @@
   {
    "path": "game/tl/chinese/options.rpyc",
    "type": "new",
-   "sha256": "dd0b1252b31f722a2f618e0cb07fd0458eb6d85bfc56728655ca4067d19a08f1",
-   "size": 1316
+   "sha256": "fe4e4d29c09528175fc44f5de8caed3b8925e06b88cc6d84c5cf9a6ed46a9dd2",
+   "size": 1314
   },
   {
    "path": "game/tl/chinese/screens.rpy",
@@ -633,38 +633,38 @@
   {
    "path": "game/tl/chinese/screens.rpyc",
    "type": "new",
-   "sha256": "bf5e54a0b1063df4afe8b0f95b718dd680065a3ffb0612e30facb5cea9e6c626",
+   "sha256": "b407a1d79144086485060c84840e6687632616c2165df214cf52147de17bd790",
    "size": 8774
   },
   {
    "path": "game/tl/chinese/script.rpy",
    "type": "new",
-   "sha256": "8743928f6500f2ffa6e4367699a5a02f3a5eae4c61c028c39e9ba101d74ee69f",
-   "size": 4544112
+   "sha256": "f485d94569797a4c2f55fc6699547c8999372e58fb00e13404a66c923a929158",
+   "size": 4544172
   },
   {
    "path": "game/tl/chinese/script.rpyc",
    "type": "new",
-   "sha256": "e51f500f8abf1ee91724ffc24daf04f62c481aa1e3851651893ba2d0b789b350",
-   "size": 3801072
+   "sha256": "83627e88b827a28a9fbe69a218888795dda8f1a99fd4af7acfe987a355d10f0b",
+   "size": 3803810
   },
   {
    "path": "game/zzz_chinese_language.rpy",
    "type": "new",
-   "sha256": "3356f65cce3178320120906027d4551e752007df90335b631c9f83ac18f958e7",
+   "sha256": "4166af27280717e07e5e78e13546fb8f7876188ba981f7c7020755aa607d1f97",
    "size": 5262
   },
   {
    "path": "game/zzz_chinese_language.rpyc",
    "type": "new",
-   "sha256": "994c1e0ab57286331f742807b13f9805bfa0a382c3ca2c7012e27a4116810e1f",
-   "size": 6434
+   "sha256": "ad2af83a55067652aa978cae85837cf161d8b31c9327e8415bf392ffa68c73a7",
+   "size": 6432
   }
  ],
  "engines": {
   "pc": "7.1.1.929"
  },
- "notes": "1.3.1: 中文用字体改为直接替换游戏原版 game/gothic.ttf (Sarasa UI SC, 含中文字形, SIL OFL 1.1), 不再新增 fonts/ 目录文件, 也不覆写 gui 字体变量; gothic.ttf 作为 modified 条目可还原。 1.3.2: transparent translation added for game/images/zzzzjournal1.png. 1.3.3: PC payload drops mobile-only GUI settings, system-font fallback, and the custom title-particle layer. 1.3.4: added a Python-free single-file Windows GUI installer with progress feedback and diagnostic logging. 1.3.5: unified the Sixers terminology as 六时人, updated the opening captions and journal lettering with larger spaced italic WenKai typography, added a translated epilogue card, and translated save-screen labels; PC / Ren'Py 7.1.1 only. 1.3.6: corrected the three Pro journal image lines against the original English artwork. 1.3.7: refined the penultimate opening crawl sentence to preserve the future meaning of would liberate. 1.3.8: corrected and regenerated 17 book-note pages, 6 maps, and 4 tutorial images from English originals. 1.3.9: fixed 873 dialogue and UI translation lines (missing lines, brackets, terminology, honorifics), rebuilt and independently verified book-note, map and tutorial images, and added payload hash verification to check and install. 1.3.10: final terminology ruling (personal quarters as 个人房间, matching the rebuilt HQ map), pronoun follow-ups per English original, fourth HQ map remake from the English source, and gender-check false-positive fixes.",
+ "notes": "1.3.1: 中文用字体改为直接替换游戏原版 game/gothic.ttf (Sarasa UI SC, 含中文字形, SIL OFL 1.1), 不再新增 fonts/ 目录文件, 也不覆写 gui 字体变量; gothic.ttf 作为 modified 条目可还原。 1.3.2: transparent translation added for game/images/zzzzjournal1.png. 1.3.3: PC payload drops mobile-only GUI settings, system-font fallback, and the custom title-particle layer. 1.3.4: added a Python-free single-file Windows GUI installer with progress feedback and diagnostic logging. 1.3.5: unified the Sixers terminology as 六时人, updated the opening captions and journal lettering with larger spaced italic WenKai typography, added a translated epilogue card, and translated save-screen labels; PC / Ren'Py 7.1.1 only. 1.3.6: corrected the three Pro journal image lines against the original English artwork. 1.3.7: refined the penultimate opening crawl sentence to preserve the future meaning of would liberate. 1.3.8: corrected and regenerated 17 book-note pages, 6 maps, and 4 tutorial images from English originals. 1.3.9: fixed 873 dialogue and UI translation lines (missing lines, brackets, terminology, honorifics), rebuilt and independently verified book-note, map and tutorial images, and added payload hash verification to check and install. 1.3.10: final terminology ruling (personal quarters as 个人房间, matching the rebuilt HQ map), pronoun follow-ups per English original, fourth HQ map remake from the English source, and gender-check false-positive fixes. 1.3.11: full-coverage dialogue/UI review (~250 fixes, incl. The Monarchy unified as 王室 and the spirits/spirit-body context ruling), image terminology repairs on book pages, maps and tutorials remade from English originals, and a new docs/reference lore database for future audits.",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

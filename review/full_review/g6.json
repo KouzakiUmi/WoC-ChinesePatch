@@ -1,0 +1,228 @@
+[
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0021.tsv",
+    "seq": "8156",
+    "level": "B",
+    "en": "As we seem to do on many matters.",
+    "cn": "就像我们在许多事上那样。",
+    "issue": "原文承接上句「Howl disagrees」，意为「就像我们在许多事上（意见相左）一样」；译文漏掉「分歧」之意，指代不明，语义不完整",
+    "suggestion": "就像我们在许多事上意见相左那样。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0021.tsv",
+    "seq": "8201",
+    "level": "B",
+    "en": "This can't be coincidence. He must be after us.",
+    "cn": "这不可能是巧合。他一定是在追我们。",
+    "issue": "be after us 意为「冲着我们来/盯上我们」，译作「在追我们」易误解为正在身后追赶，与「码头监视」的语境不符",
+    "suggestion": "这不可能是巧合。他一定是冲着我们来的。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0021.tsv",
+    "seq": "8241",
+    "level": "A",
+    "en": "They are fueled by the rage of their imprisonment.\nEverything inside of us tells us to fight, and to kill.",
+    "cn": "那些声音源于我们遭囚禁的怒火。\n我们内心的一切都叫嚣着要战斗，要杀戮。",
+    "issue": "主语误植：「their imprisonment」指脑海中的声音（被囚禁的王室众灵）遭囚禁，译文写成「我们遭囚禁」，把囚困经历安到了容器说话者自己身上",
+    "suggestion": "那些声音源于它们遭囚禁的怒火。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0021.tsv",
+    "seq": "8092",
+    "level": "C",
+    "en": "It was too hard to resist.",
+    "cn": "实在太难忍住了。",
+    "issue": "「太难忍住了」叠用助词，读起来拗口",
+    "suggestion": "实在忍不住（不喝）。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0022.tsv",
+    "seq": "8459",
+    "level": "B",
+    "en": "I wanted exclusive access to Mazeo's spirit idol.",
+    "cn": "我想要独享马泽奥灵像的进入权。",
+    "issue": "「独享……进入权」搭配生硬，「进入权」本身拗口",
+    "suggestion": "我想要独占接触马泽奥灵像的权利。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0022.tsv",
+    "seq": "8476",
+    "level": "B",
+    "en": "He had faced death and came out the other side.",
+    "cn": "他曾直面死亡，又从另一边走了出来。",
+    "issue": "「从另一边走了出来」系直译，中文表意不明",
+    "suggestion": "他曾直面死亡，又活着走了回来。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0022.tsv",
+    "seq": "8692",
+    "level": "B",
+    "en": "The villagers will have enough on their plates tonight.",
+    "cn": "村民们今晚已经够多事要操心了。",
+    "issue": "「够多事要操心」语序生硬、明显拗口",
+    "suggestion": "村民们今晚要操心的事已经够多了。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0022.tsv",
+    "seq": "8797",
+    "level": "A",
+    "en": "It could even be one of those empty suits of armor, actually.",
+    "cn": "其实，甚至可能是那些空盔甲中的一个。",
+    "issue": "既定术语错误：empty suits of armor 全篇定译为「空甲」（同范围 0026#10157、10356 均作「空甲」），此处作「空盔甲」",
+    "suggestion": "其实，甚至可能是那些空甲中的一个。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0022.tsv",
+    "seq": "8568",
+    "level": "C",
+    "en": "I'll get to give my sword arm a real challenge.",
+    "cn": "我这条舞剑的手臂，可算能迎来一场真正的挑战了。",
+    "issue": "「舞剑的手臂」偏表演意味，sword arm 指持剑作战的手臂",
+    "suggestion": "我这条持剑的手臂，可算能迎来一场真正的挑战了。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0022.tsv",
+    "seq": "8765",
+    "level": "C",
+    "en": "But we're about to go on a huge journey.",
+    "cn": "但我们即将踏上一次巨大的旅程。",
+    "issue": "「巨大的旅程」直译出戏",
+    "suggestion": "但我们即将踏上一趟漫长的旅程。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0023.tsv",
+    "seq": "8999",
+    "level": "B",
+    "en": "I think we should destroy that blade after we win. It's a tool of pure corruption.",
+    "cn": "我觉得我们赢了之后应该毁掉那把剑。它是纯粹腐败的产物。",
+    "issue": "corruption 在 9572-9590 的腐化/纯净主题中统一译作「腐化」；此处「腐败」偏政治贪腐义，且「腐败的产物」与 a tool of corruption（催生腐化的工具）语义有偏差",
+    "suggestion": "它是纯粹腐化的工具。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0023.tsv",
+    "seq": "9002",
+    "level": "A",
+    "en": "I was. Change the subject.",
+    "cn": "我确实会。换个话题吧。",
+    "issue": "时态/语义错误：「I was.」为过去时肯定回答（我确实是/我当时确实在场），译作「我确实会」变成将来/意愿，语义错误",
+    "suggestion": "我确实是。换个话题吧。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0023.tsv",
+    "seq": "9194",
+    "level": "B",
+    "en": "Kind of like how Valinorth will freeze over — potentially.",
+    "cn": "就像瓦利诺斯可能会冻结冰封一样——有可能。",
+    "issue": "「可能会……一样——有可能」冗余重复，明显拗口",
+    "suggestion": "有点像瓦利诺斯今后可能封冻那样。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0023.tsv",
+    "seq": "9031",
+    "level": "C",
+    "en": "But the thing about us — is that we have The Blade of Exodus. Our victory.",
+    "cn": "但我们不同的一点——是我们拥有放逐之刃。我们的胜利。",
+    "issue": "「我们的胜利」独立成句突兀，原文意为「（它就是）我们的制胜（保障）」",
+    "suggestion": "但我们不同的一点——是我们拥有放逐之刃。那就是我们的制胜之本。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0023.tsv",
+    "seq": "9061",
+    "level": "C",
+    "en": "That's why it was so dim. The source of power was far away.",
+    "cn": "所以才那么黯淡。力量的源头远在天边。",
+    "issue": "源头实指「深埋地下」，「远在天边」成语含「近在眼前」联想且距离感失准",
+    "suggestion": "所以才那么黯淡。力量的源头深埋在远处地下。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0024.tsv",
+    "seq": "9276",
+    "level": "B",
+    "en": "Can you believe Damek's nerve...?",
+    "cn": "你能信达梅克有这么大的胆子吗……？",
+    "issue": "「你能信」表述残缺拗口",
+    "suggestion": "你敢相信达梅克有这么大的胆子吗……？"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0024.tsv",
+    "seq": "9292",
+    "level": "B",
+    "en": "I want to thank [firstname] for what he's done.\nDefying Damek's orders, and letting me keep Peregrino?\nThey deserve something, but I don't know what to do.",
+    "cn": "我想感谢[firstname]所做的一切。\n违抗达梅克的命令，让我保住佩雷格里诺？\n他们值得一份回报，但我不知道该怎么做。",
+    "issue": "They 在此为单数指代 [firstname]（前文明言 him），译作「他们」造成复数歧义；9293 女性分支同误",
+    "suggestion": "他值得一份回报，但我不知道该怎么做。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0024.tsv",
+    "seq": "9341",
+    "level": "B",
+    "en": "No offense, but you haven't done anything noteworthy yet.",
+    "cn": "无意冒犯，但你还什么都没做过值得一书的事。",
+    "issue": "「什么都没做过值得一书的事」句式杂糅，语病明显",
+    "suggestion": "无意冒犯，但你还没做过任何值得一书的事。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0024.tsv",
+    "seq": "9440",
+    "level": "C",
+    "en": "They must go through this stuff pretty fast.\nIt'd warm up almost immediately.",
+    "cn": "他们消耗这些东西肯定很快。\n毕竟很快就会变温。",
+    "issue": "「毕竟很快就会变温」承接突兀，未点明是麦酒常温存放",
+    "suggestion": "不然酒很快就会放温了。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0025.tsv",
+    "seq": "8196",
+    "level": "B",
+    "en": "It makes me miss the water tank from back in Valinorth, actually.",
+    "cn": "说真的，这让我开始想念瓦利诺斯的水箱了。",
+    "issue": "同一设施 water tank 在 9772/9773/9868/9869/9883/9886/9901/9906/9939 均译作「水塔」，此处独作「水箱」，译名不一致",
+    "suggestion": "说真的，这让我开始想念瓦利诺斯的水塔了。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0025.tsv",
+    "seq": "9890",
+    "level": "C",
+    "en": "I was just finishing my water run when we all met up.",
+    "cn": "大家碰头的时候，我刚打完水回来。",
+    "issue": "water run 在 9772/9887 译作「取水」，此处作「打水」，小统一性问题",
+    "suggestion": "大家碰头的时候，我刚取完水回来。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0025.tsv",
+    "seq": "9920",
+    "level": "C",
+    "en": "I have some large shoes to fill as The General.",
+    "cn": "身为将军，我有很多要担起的责任。",
+    "issue": "big shoes to fill 指「前任留下的高标准难以企及」，译文只保留了责任义，丢失继承前任之意",
+    "suggestion": "身为将军，前任留下的担子可不好挑。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0026.tsv",
+    "seq": "10137",
+    "level": "B",
+    "en": "The induction ceremony is henceforth cancelled.",
+    "cn": "授任仪式即日起取消。",
+    "issue": "induction(ceremony) 在本范围统一译作「授职（仪式）」（9782、9789、8734 相关语境），此处独作「授任仪式」，译名不一致",
+    "suggestion": "授职仪式即日起取消。"
+  },
+  {
+    "file": "tl_work/chunks/dialogue/dialogue_0026.tsv",
+    "seq": "10049",
+    "level": "C",
+    "en": "A holster, or scabbard, is built into the back.",
+    "cn": "背后还缝着一个挂鞘，或者说剑鞘。",
+    "issue": "holster 通常指枪套，「挂鞘」生造；此处与 scabbard 并列，译「挂套」更顺",
+    "suggestion": "背后还缝着一个挂套，或者说剑鞘。"
+  },
+  {
+    "inventory": "monarchy",
+    "file": "tl_work/chunks/dialogue/dialogue_0021-0026.tsv",
+    "seq": "",
+    "level": "info",
+    "en": "The Monarchy",
+    "cn": "王权：无；王室：0021#8041、0021#8126、0021#8195、0021#8230、0021#8240、0021#8246、0022#8521、0022#8663",
+    "issue": "本组六 chunk 中 The Monarchy 共 8 处，全部译作「王室」（符合 terms.tsv 2026-09-28 终裁），无「王权」、无「君主国」残留",
+    "suggestion": ""
+  }
+]

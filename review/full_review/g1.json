@@ -1,0 +1,182 @@
+[
+ {
+  "file": "dialogue/dialogue_0003.tsv",
+  "seq": "1047",
+  "level": "A",
+  "en": "Heh. You can't tell Gryz if I don't let you in.",
+  "cn": "呵。您不让我进去，就没法告诉格瑞兹。",
+  "issue": "主宾颠倒：不放行的是守卫卡门（I don't let you in=我不放你进去），译文写成“您不让我进去”，施受关系反了。",
+  "suggestion": "呵。我若不放您进去，您就没法告诉格瑞兹。"
+ },
+ {
+  "file": "dialogue/dialogue_0001.tsv",
+  "seq": "163",
+  "level": "B",
+  "en": "Something we could use to take down The Triumvirate.",
+  "cn": "某种我们能用来了结三人执政团的东西。",
+  "issue": "“了结”多用于事情或人命，与组织搭配不当且有歧义。",
+  "suggestion": "某种我们能用来扳倒（推翻）三人执政团的东西。"
+ },
+ {
+  "file": "dialogue/dialogue_0001.tsv",
+  "seq": "184",
+  "level": "B",
+  "en": "So this is it, isn't it?",
+  "cn": "那么，就是这里了，对吧？",
+  "issue": "“this is it”误译为地点义“就是这里了”；且同型句 seq 183 译作“就是这么回事了”，两处译文不一致。",
+  "suggestion": "那么，就是这么回事了，对吧？（与 seq 183 统一）"
+ },
+ {
+  "file": "dialogue/dialogue_0001.tsv",
+  "seq": "321",
+  "level": "B",
+  "en": "The way it looks right now? They already do.",
+  "cn": "从现在的情况看？他们早就占了上风。",
+  "issue": "上文问的是三人执政团是否已“掌控整个世界”，“占了上风”明显弱化语义。",
+  "suggestion": "从现在的情况看？他们早就掌控一切了。"
+ },
+ {
+  "file": "dialogue/dialogue_0002.tsv",
+  "seq": "458",
+  "level": "B",
+  "en": "The way it looks right now? They already do.",
+  "cn": "从现在的情况看？他们早就占了上风。",
+  "issue": "同 0001#321：回答“掌控整个世界”被弱化为“占了上风”。",
+  "suggestion": "从现在的情况看？他们早就掌控一切了。"
+ },
+ {
+  "file": "dialogue/dialogue_0002.tsv",
+  "seq": "518",
+  "level": "B",
+  "en": "We have protocols for this kind of emergency.",
+  "cn": "这等危急，我们早有应对的约定。",
+  "issue": "protocol 指应急预案/规程，译为“约定”（许诺）语义偏移。",
+  "suggestion": "这等危急情况，我们早有应急预案。"
+ },
+ {
+  "file": "dialogue/dialogue_0002.tsv",
+  "seq": "767",
+  "level": "B",
+  "en": "Thank you for coming here, [firstname]. ... I'm sorry if this wasn't what you expected.",
+  "cn": "谢谢您来到这里，[firstname]。……要是这不符您的期望，我很抱歉。",
+  "issue": "豪尔在同一心灵对话中对主角的称呼“你/您”混用（764、765 用“你”，767 连用两次“您”），语体不统一。",
+  "suggestion": "统一为“你”（或按全篇裁定统一为“您”）。"
+ },
+ {
+  "file": "dialogue/dialogue_0003.tsv",
+  "seq": "889",
+  "level": "B",
+  "en": "No one, of course — except for you. ... We would recommend that you try inducing a vision, [firstname].",
+  "cn": "当然无人——除了您。……我们建议您试着主动引发一次预言，[firstname]。",
+  "issue": "同一场景内豪尔对主角“你/您”再次混用（889、895 用“您”，890、891、896、899、908 均用“你”）。",
+  "suggestion": "与 0002 同一裁定统一处理。"
+ },
+ {
+  "file": "dialogue/dialogue_0004.tsv",
+  "seq": "1216",
+  "level": "B",
+  "en": "Is their Exodus training regiment finalized?",
+  "cn": "他们的放逐训练计划定下来了吗？",
+  "issue": "“Exodus（之刃）训练”省译为“放逐训练”，“放逐”单独出现易被误读为流放义；术语应带“之刃”。",
+  "suggestion": "他们的放逐之刃训练计划定下来了吗？"
+ },
+ {
+  "file": "dialogue/dialogue_0004.tsv",
+  "seq": "1441",
+  "level": "B",
+  "en": "As soon as we were battle-ready, we launched the Exodus Raid.",
+  "cn": "我们一做好战斗准备，就发动了放逐突袭。",
+  "issue": "同上：“the Exodus Raid”指夺取放逐之刃的突袭，“放逐突袭”单用易误读。",
+  "suggestion": "就发动了夺取放逐之刃的突袭（或：放逐之刃突袭行动）。"
+ },
+ {
+  "file": "dialogue/dialogue_0004.tsv",
+  "seq": "1222",
+  "level": "B",
+  "en": "They look pretty cool, huh?",
+  "cn": "它们看起来挺酷的吧？",
+  "issue": "现代出戏词“酷”；他处 cool 均避用（真气派/太棒了/挺帅的），此处应统一处理。",
+  "suggestion": "它们看起来挺漂亮的吧？"
+ },
+ {
+  "file": "dialogue/dialogue_0001.tsv",
+  "seq": "303",
+  "level": "C",
+  "en": "Comes with the territory of being in the top ten.",
+  "cn": "跻身前十，自然就会有这份自觉。",
+  "issue": "“自觉”用词生硬（同句重复于 0002#440）。",
+  "suggestion": "跻身前十，自然就有这份心气。"
+ },
+ {
+  "file": "dialogue/dialogue_0002.tsv",
+  "seq": "468",
+  "level": "C",
+  "en": "This is my spot. Find somewhere else to look, alright?",
+  "cn": "这是我的地盘。去别的地方找，行吗？",
+  "issue": "搜查房间语境下“地盘”江湖气稍重。",
+  "suggestion": "这块归我搜。你去别处找，行吗？"
+ },
+ {
+  "file": "dialogue/dialogue_0002.tsv",
+  "seq": "623",
+  "level": "C",
+  "en": "Playing a Scribe {i}for{/i} a Scribe. Best possible training.",
+  "cn": "扮演书记官，{i}学着做{/i}书记官。最好的训练方式。",
+  "issue": "强调的 {i}for{/i}（为一位书记官而扮演）被译成“学着做”，双关意味丢失。",
+  "suggestion": "为一位书记官{i}扮演{/i}书记官。最好的训练方式。"
+ },
+ {
+  "file": "dialogue/dialogue_0002.tsv",
+  "seq": "624",
+  "level": "C",
+  "en": "I don't think there's any protocol for that.",
+  "cn": "我觉得这种事没有先例可循。",
+  "issue": "protocol（规程/惯例）译为“先例”，略有偏移。",
+  "suggestion": "我觉得这种事没有规程可循。"
+ },
+ {
+  "file": "dialogue/dialogue_0003.tsv",
+  "seq": "835",
+  "level": "C",
+  "en": "Venting helps, as inconvenient as it's known to be.",
+  "cn": "发泄一下是有用的，尽管大家都知道那不太得体。",
+  "issue": "inconvenient（给人添麻烦）译为“不太得体”，语义略有偏移。",
+  "suggestion": "发泄一下是有用的，尽管大家都知道那挺给人添麻烦的。"
+ },
+ {
+  "file": "dialogue/dialogue_0003.tsv",
+  "seq": "1040",
+  "level": "C",
+  "en": "Hmm...",
+  "cn": "唔……",
+  "issue": "同型行不一致：0001#278 与 0003#1031 的“Hmm...”均译“嗯……”，此处独作“唔……”。",
+  "suggestion": "统一为“嗯……”。"
+ },
+ {
+  "file": "dialogue/dialogue_0003.tsv",
+  "seq": "1196",
+  "level": "C",
+  "en": "And it sounds super noisy. Is it always like that?",
+  "cn": "而且听起来超吵。一直是这样吗？",
+  "issue": "“超吵”网络化口语偏重，奇幻语境略出戏。",
+  "suggestion": "而且听起来特别吵。一直是这样吗？"
+ },
+ {
+  "file": "dialogue/dialogue_0004.tsv",
+  "seq": "1265",
+  "level": "C",
+  "en": "Oh really? Charm me, then.",
+  "cn": "哦，是吗？那你来魅惑我试试。",
+  "issue": "“魅惑”偏魔法/色诱义，此处是打趣“施展魅力”。",
+  "suggestion": "哦，是吗？那你施展魅力给我看看。"
+ },
+ {
+  "file": "dialogue/dialogue_0004.tsv",
+  "seq": "1469",
+  "level": "C",
+  "en": "I think that slow exposure therapy will be the best possible approach.",
+  "cn": "我觉得逐步接触的疗法是最好的办法。",
+  "issue": "“疗法”临床味重（虽 EN 用 therapy，游戏语境指耐受训练）。",
+  "suggestion": "我觉得逐步接触、慢慢适应是最好的办法。"
+ }
+]

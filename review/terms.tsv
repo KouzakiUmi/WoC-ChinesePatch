@@ -11,5 +11,7 @@ swords	剑	刀剑|刀		word	Exodus|sword arm|dagger	sword 复数, 规则同上
 personal quarters	个人房间	个人住所|私人住处|私人房间		phrase		EN personal quarters →「个人房间」（2026-09-26 终裁：与 HQ 地图标签一致，覆盖此前"个人住所"）；private 系列仍为「私人房间」，以 personal/private 区分
 private quarters	私人房间	私人居室|私人寝室|私人的房间		phrase		EN private quarters → 私人房间（0013#4869、0017#6747）; private→私人, personal→个人
 # 注: 不写 `private room` 规则——3 处语境例外会被误伤: 0004#1329 酒馆「雅间」、0023#8971「客房」、0024#9454「包房」（scan 会报 term-private-room 3, 属正常噪音）
+The Monarchy	王室	王权|君主国|王朝		phrase		2026-09-28 终裁统一（用户裁决）：原四种译法 王室57/王权40/君主国16/王朝6 共119行，王权/君主国/王朝 62行已改；The Old Monarchy=旧王室；The Monarch=君主、Monarch Vessels=君主容器 不受影响；0009#3470 dynasty(我们的王朝)非同一实体保留
+# spirits 基线=灵体, 但按语境二分, 不写自动规则: a) 非物质信仰/抽象存在→「灵/众灵」(如 0001 信仰篇、0022-0024 战后篇); b) 寄居容器/躯体/盔甲/剑的实体化灵→「灵体」(0002/0006/0008 盔甲场景、0009-0010 启示后、0015/0016 豪尔躯体)。设定依据: 0023#8997(灵=非物质能量)、0009#3472(灵界具现化)。EN=soul→灵魂, EN=God→神灵, 发誓习语 Spirits know→众灵作证/灵在上。
 tunnel	地道	隧道		phrase		EN tunnel(s)；8 张地图全篇无「隧道」，RebelHQMap 标「地道」
 # crew quarters 语境二义, 不写自动规则: 陆上总部=成员宿舍(对白9行+RebelHQMap), 船上=船员舱(对白7行)。按场景判定, 见 verification-report.md §3.2b。

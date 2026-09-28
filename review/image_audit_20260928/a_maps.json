@@ -1,0 +1,98 @@
+[
+  {
+    "file": "WorldMap.png",
+    "en_text": "BALTEUS; MAZEO; VALINORTH; ALARINTHIA",
+    "cn_text": "巴尔泰乌斯; 马泽奥; 瓦利诺斯; 阿拉林西亚",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "四国译名与 lore.md §七 完全一致；无漏译/残留英文。"
+  },
+  {
+    "file": "AlarinMapCastle.png",
+    "en_text": "THRONE ROOM; BALLROOM; PRIVATE ROOM; CASTLE FRONT; EXIT",
+    "cn_text": "王座大厅; 宴会厅; 私人房间; 城堡前庭; 出口",
+    "verdict": "issue",
+    "level": "B",
+    "detail": "BALLROOM 译作「宴会厅」语义偏移：ballroom 本义为舞厅，宴会厅对应 banquet hall，建议改「舞厅」。PRIVATE ROOM→私人房间 符合 terms.tsv「private→私人」裁决；其余标签准确。"
+  },
+  {
+    "file": "AlarinMapCity.png",
+    "en_text": "CASTLE; TOWN SQUARE; TAVERN; COLISEUM; EXIT",
+    "cn_text": "城堡; 城镇广场; 酒馆; 竞技场; 出口",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "全部标签准确；COLISEUM→竞技场 与 lore（阿拉林西亚比武/竞技场）一致。"
+  },
+  {
+    "file": "AlarinMapColi.png",
+    "en_text": "PRIVATE ROOM; ARENA; MAIN ATRIUM; OUTSIDE; EXIT",
+    "cn_text": "私人房间; 竞技场; 主中庭; 城外; 出口",
+    "verdict": "issue",
+    "level": "A",
+    "detail": "OUTSIDE 译作「城外」为误译：竞技场均在城市内部（见 AlarinMapCity），此标签指竞技场建筑之外的露天区域，应为「场外/室外」；「城外」会把玩家误导到城墙之外。PRIVATE ROOM→私人房间 符合 terms.tsv；ARENA→竞技场、MAIN ATRIUM→主中庭 准确。"
+  },
+  {
+    "file": "AlarinMapDesert.png",
+    "en_text": "GATES; DESERT; OASIS; DOCKS; SHIP",
+    "cn_text": "城门; 沙漠; 绿洲; 码头; 帆船",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "SHIP→帆船 略有增译（EN 仅 SHIP），但地图速写中船只带帆、与 BalteusMap1 译法一致，可接受；其余标签准确。"
+  },
+  {
+    "file": "BalteusMap1.png",
+    "en_text": "MOUNTAIN PASS; GATES; ABANDONED HUT; DOCKS; SHIP",
+    "cn_text": "山口; 城门; 废弃小屋; 码头; 帆船",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "全部标签准确；图中船只明确画有帆，「帆船」成立且与 AlarinMapDesert 一致。"
+  },
+  {
+    "file": "BalteusMap2.png",
+    "en_text": "TO THE TRIUMVIRATE; GRAND LIBRARY; CHURCH; TOWN SQUARE; TAVERN; EXIT",
+    "cn_text": "通往三人执政团城堡; 大图书馆; 教堂; 城镇广场; 酒馆; 出口",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "TO THE TRIUMVIRATE 译作「通往三人执政团城堡」增译「城堡」，但与 BalteusMap3「TRIUMVIRATE'S CASTLE→三人执政团城堡」互为印证且符合 lore §七（执政团驻地=城堡），可接受；GRAND LIBRARY→大图书馆 与 lore §八 一致。"
+  },
+  {
+    "file": "BalteusMap3.png",
+    "en_text": "TRIUMVIRATE'S CASTLE; FATES BRIDGE; MOUTAIN PASS(原文拼写如此); EXIT",
+    "cn_text": "三人执政团城堡; 命运之桥; 山口; 出口",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "全部标签准确；「三人执政团城堡」与 BalteusMap2 呼应，符合 lore。"
+  },
+  {
+    "file": "MazeoAreaMap.png",
+    "en_text": "CHURCH OF MAZEO; MAYOR'S HOUSE; MAZEO TAVERN; TOWN SQUARE; DOCKS; MAIN GATE; MOUNTAIN PASS",
+    "cn_text": "马泽奥教堂; 市长宅邸; 马泽奥酒馆; 城镇广场; 码头; 主城门; 山口",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "全部标签准确；马泽奥译名与 lore/WorldMap 一致；教堂为反抗军地道入口所在，译法无冲突。"
+  },
+  {
+    "file": "RebelHQMap.png",
+    "en_text": "WAR TABLE; CREW QUARTERS; TUNNELS; PERSONAL QUARTERS; MAIN ENTRANCE; EXIT",
+    "cn_text": "作战桌; 成员宿舍; 地道; 个人房间; 主入口; 出口",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "全部命中 terms.tsv 终裁：personal quarters→个人房间、crew quarters(陆上总部)→成员宿舍、tunnel→地道；WAR TABLE→作战桌 与 lore §九 一致。"
+  },
+  {
+    "file": "ValinorthAreaMap.png",
+    "en_text": "MYLUS' HOUSE; GREAT TREE; TOWN SQUARE; MAIN STREET; YOUR HOUSE; EXIT",
+    "cn_text": "迈勒斯的家; 巨树; 城镇广场; 主街; 你的家; 出口",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "MYLUS→迈勒斯 与 lore §八（现任长老迈勒斯）一致；GREAT TREE→巨树 与 lore §七 一致；其余准确。"
+  },
+  {
+    "file": "ValinorthMap.png",
+    "en_text": "OUTLOOK; PEREGRINO; SÄULEBERG; VALINORTH VILLAGE; VALINORTH FOREST; EASTCROWN",
+    "cn_text": "瞭望台; 佩雷格里诺; 索尔伯格; 瓦利诺斯村; 瓦利诺斯森林; 东冠",
+    "verdict": "ok",
+    "level": "B",
+    "detail": "佩雷格里诺/索尔伯格/东冠/瓦利诺斯 均与 lore §七 及 WorldMap 一致；OUTLOOK→瞭望台 准确。"
+  }
+]

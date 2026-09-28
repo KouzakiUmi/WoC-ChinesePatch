@@ -1,0 +1,330 @@
+{
+  "lore": [
+    {
+      "topic": "主角身份：先知（Seer/Seeress）",
+      "fact": "游戏开局让玩家选择主角性别身份：Seeress（女先知）或 Seer（男先知），教程提示此选择将决定性别。",
+      "en": "\"I'm the Seeress...\" / \"I'm the Seer...\"; \"This choice will determine your gender.\"",
+      "cn": "“我是先知……”（女/男）；“这个选择将决定你的性别。”",
+      "seq": ["1", "2", "rpy:L46-L47"]
+    },
+    {
+      "topic": "选项语气图标系统",
+      "fact": "选项前的图标表示回应语气，选项文本内以 [[Sad]/[[Happy]/[[Neutral]/[[Aggressive]/[[Joking]/[[Flirty] 等标注情绪倾向。",
+      "en": "\"Icons will display the tone of your response.\"",
+      "cn": "“图标会显示你回应的语气。”（[[悲伤]/[[开心]/[[中立]/[[强硬]/[[玩笑]/[[调情]）",
+      "seq": ["3", "4", "5", "9", "84", "85", "rpy:L49-L50"]
+    },
+    {
+      "topic": "选择影响剧情与关系",
+      "fact": "教程明确：选择会影响剧情走向，并能缔结情谊与恋情；部分选择会“永久改变”与特定队友（Fortaime/Ulric/Pro/Damek/Valessa）的关系。",
+      "en": "\"This choice will affect the flow of the story.\" / \"Choices can create meaningful bonds, and romances.\" / \"This choice will permanently alter your relationship with ...\"",
+      "cn": "“这个选择会影响剧情的走向。”/“选择可以缔结深厚的情谊与恋情。”/“这个选择将永久改变你与……的关系。”",
+      "seq": ["rpy:L52-L56", "rpy:L88-L104"]
+    },
+    {
+      "topic": "抉择影响阿莱斯蒂亚的未来",
+      "fact": "游戏会以通知提示某些重大选择将“改变/影响/决定阿莱斯蒂亚的未来”或玩家自身未来；结局前的演说“汇聚此前所有选择的成果”。",
+      "en": "\"This choice will change/affect/shape the future of Alestia.\" / \"This speech is a culmination of all of your choices thus far.\"",
+      "cn": "“这个选择将改变/影响/决定阿莱斯蒂亚的未来。”/“这段演说汇聚了你此前所有选择的成果。”",
+      "seq": ["rpy:L106-L122", "422", "423"]
+    },
+    {
+      "topic": "士气机制（Troop Morale）",
+      "fact": "存在“部队士气”数值机制，以百分比通知形式升降（90%、升至 100%、+5%、+10%、跌至 50%/25%/0%）；对话中也可询问部队士气。",
+      "en": "\"Troop Morale is at 90 Percent.\" / \"How is troop morale?\"",
+      "cn": "“部队士气为 90%。”/“部队士气如何？”",
+      "seq": ["rpy:L67-L86", "238"]
+    },
+    {
+      "topic": "读书知识机制",
+      "fact": "读过的书的知识会保留；对未了解的主题会提示“你对这个主题并不了解”，即存在知识判定。",
+      "en": "\"You retain knowledge from any books you've read.\" / \"You aren't knowledgable on this subject.\"",
+      "cn": "“你读过的书，知识都会保留下来。”/“你对这个主题并不了解。”",
+      "seq": ["rpy:L61-L65"]
+    },
+    {
+      "topic": "心灵交流（Heart-to-Heart）机制",
+      "fact": "每个主要队友（Valessa/Fortaime/Ulric/Pro/Damek/Howl/Sovy）有多个编号的心灵交流场景（1-4），可从菜单进入；调试项可重置 HTH/忠诚度数据与恋爱标记，说明 HTH 与 Loyalty、Romance 是游戏内统计。",
+      "en": "\"Access ... Heart-to-Heart N?\" / \"Reset all HTH/Loyalty Stats and Romance flags?\"",
+      "cn": "“进入……的心灵交流 N？”/“重置所有心灵交流/忠诚度数据和恋爱标记？”",
+      "seq": ["129", "135", "157", "158", "159", "160", "161", "162", "253", "254", "270", "271", "296", "315", "320", "329", "330", "331", "332", "333", "334", "486", "505", "506", "521", "522", "782", "783", "833"]
+    },
+    {
+      "topic": "忠诚场景与忠诚获取",
+      "fact": "每名队友（含 Sovy）都有“忠诚场景”，达成后通知“你赢得了某人的忠诚”；Sovy 另有“你与索维的关系发生了变化”的关系变化提示。",
+      "en": "\"View ...'s Loyalty Scene?\" / \"You have earned ...'s loyalty.\" / \"Your relationship with Sovy has changed.\"",
+      "cn": "“查看……的忠诚场景？”/“你赢得了……的忠诚。”/“你与索维的关系发生了变化。”",
+      "seq": ["382", "383", "384", "385", "386", "387", "389", "rpy:L124-L146"]
+    },
+    {
+      "topic": "平行编年史（Parallel Chronicle）",
+      "fact": "游戏提供以角色命名的“平行编年史”可回看片段，包括 Sovy 1-10、Damek 1-6、Gryz 1-3、Halin 1-2、Shane 1、Pro 1、The Triumvirate 1。",
+      "en": "\"View Parallel Chronicle \\\"Sovy 3\\\"?\" 等",
+      "cn": "“查看平行编年史‘索维 3’？”等",
+      "seq": ["123", "126", "177", "186", "388", "485", "504", "520", "537", "550", "579", "582", "640", "641", "710", "720", "763", "787", "820", "831", "832", "870", "871", "890"]
+    },
+    {
+      "topic": "三人执政团（The Triumvirate）",
+      "fact": "主要敌对统治集团，占领过马泽奥（The Occupation），曾夺取/持有神剑并追捕灵像相关之物；其走狗用神剑毁灭了主角村庄；设有教堂与大审判官（Grand Inquisitor）。",
+      "en": "The Triumvirate / The Occupation / Church of The Triumvirate / Grand Inquisitor",
+      "cn": "三人执政团 / 占领 / 三人执政团教堂 / 大审判官",
+      "seq": ["10", "191", "196", "200", "201", "295", "434", "437", "655", "699", "706", "708", "723", "787", "893", "903"]
+    },
+    {
+      "topic": "反抗军（The Rebellion）",
+      "fact": "主角方阵营，主要由占领时期受害者组成，曾迁入地下地道，总部位于马泽奥；有前任领袖（已牺牲，埋在新总部地下），现任领袖/将军为达梅克；人数处于劣势，靠策略与神剑弥补。",
+      "en": "The Rebellion / Rebel HQ / previous Rebel Leader",
+      "cn": "反抗军 / 反抗军总部 / 前任反抗军领袖",
+      "seq": ["20", "165", "193", "199", "205", "227", "231", "235", "238", "396", "422", "449", "530", "580", "657", "658", "672", "673", "674", "687", "689", "691", "721", "726", "727"]
+    },
+    {
+      "topic": "放逐之刃（The Blade of Exodus）",
+      "fact": "关键神剑：来源成谜（“他们”是否打造存疑），反抗军通过 Exodus 突袭夺得；能给予幻象、窃取生命壮大军队、曾毁村；“它不只是剑，只是看起来像”；索维无法使用它，主角似乎是唯一能使用者。",
+      "en": "The Blade of Exodus / \"It steals life to grow their army\" / \"It's more than a blade. It just looks like one.\"",
+      "cn": "放逐之刃 / “它窃取生命来壮大他们的军队” / “它不只是剑。它只是看起来像而已。”",
+      "seq": ["242", "243", "466", "606", "644", "650", "652", "653", "655", "660", "661", "665", "666", "667", "668", "669", "733", "864", "891", "892", "896", "902", "903", "904", "905", "906"]
+    },
+    {
+      "topic": "灵像（spirit idol）",
+      "fact": "各地供奉灵像：瓦利诺斯的灵像在主角出生那晚熄灭，阿拉林西亚的灵像已被摧毁，马泽奥藏有更大的灵像；结局涉及“点击灵像向其迈步”的交互与丢弃/摧毁灵像的抉择；格瑞兹线可让格瑞兹牺牲或亲自汲取灵像之力。",
+      "en": "spirit idols / \"Click the idol to step toward it.\" / Tap into the idol's power",
+      "cn": "灵像 / “点击灵像，朝它迈步。” / 亲自汲取灵像的力量",
+      "seq": ["198", "371", "372", "476", "477", "539", "692", "695", "696", "697", "698", "rpy:L148-L155"]
+    },
+    {
+      "topic": "灵与幻象（spirits / visions）",
+      "fact": "灵（spirits）会赐予先知幻象；设定上死后灵被释放、灵力或由死亡构成；瓦利诺斯文化重视灵，而世上其他地方不甚在意。",
+      "en": "\"Why do the spirits give me visions?\" / \"When we die, I think our spirit is released.\" / \"The rest of the world doesn't care for spirits?\"",
+      "cn": "“为什么灵要给我幻象？”/“我们死后，我想灵会被释放。”/“世上其他地方都不在意灵吗？”",
+      "seq": ["32", "33", "152", "153", "74", "876"]
+    },
+    {
+      "topic": "王室（The Monarchy）与萨鲁斯（Salus）",
+      "fact": "失落文明的王室之灵被囚禁并封入容器；演说中称“我们拥有承载王室之灵体的容器”“为一个失落的文明而战”；萨鲁斯是王室相关人物，曾憧憬某种理想世界，且有角色寄宿在萨鲁斯的身体中。",
+      "en": "\"we have vessels containing spirits of The Monarchy\" / \"a world just like Salus had always envisioned\" / \"How are you handling being in Salus' body?\"",
+      "cn": "“我们拥有承载王室之灵体的容器”/“萨鲁斯一直憧憬的世界”/“你待在萨鲁斯的身体里适应得怎么样？”",
+      "seq": ["423", "438", "439", "443", "444", "450", "468", "543", "571"]
+    },
+    {
+      "topic": "先知大军 vs 君主容器大军",
+      "fact": "终局建军抉择：创建先知大军（人人拥有预见未来的幻象）或君主容器大军（承载王室灵体的容器，坚不可摧）；结局演说文本与所选路线对应。",
+      "en": "[[Create an army of Seers.]] / [[Create an army of Monarch Vessels.]]",
+      "cn": "[[创建一支先知大军]] / [[创建一支君主容器大军]]",
+      "seq": ["376", "377", "438", "440", "441"]
+    },
+    {
+      "topic": "瓦利诺斯（Valinorth）",
+      "fact": "主角故乡（村庄/郊外/周边地区），遭索维袭击；当地有长老（Elder）与书记官（Scribe）制度，主角可推选福泰姆或瓦莱莎出任新长老，甚至可下令举行选举；景点含巨树（The Grand Tree）与瞭望台（The Outlook）。",
+      "en": "Valinorth / The Grand Tree / The Outlook / Elder / Scribe",
+      "cn": "瓦利诺斯 / 巨树 / 瞭望台 / 长老 / 书记官",
+      "seq": ["12", "36", "37", "42", "52", "63", "73", "83", "92", "98", "118", "121", "128", "166", "167", "168", "174", "603", "618", "620", "621", "769", "770", "772", "773"]
+    },
+    {
+      "topic": "地理与阵营：马泽奥/阿拉林西亚/巴尔泰乌斯/佩雷格里诺/索尔伯格",
+      "fact": "马泽奥有城区与反抗军总部、市长与海盗领主（亚历克斯、娜达）及戏剧界；阿拉林西亚有码头/沙漠、城堡、竞技场，存在薇薇安与德雷库两股势力可结盟；另有巴尔泰乌斯、佩雷格里诺（可改为兵营）、索尔伯格、东冠（Eastcrown，是否藏有重要之物是可选信念）。",
+      "en": "Mazeo / Alarinthia / Balteus / Peregrino / Sauleberg / Eastcrown / Pirate Lord / Vivien / Draycu",
+      "cn": "马泽奥 / 阿拉林西亚 / 巴尔泰乌斯 / 佩雷格里诺 / 索尔伯格 / 东冠 / 海盗领主 / 薇薇安 / 德雷库",
+      "seq": ["54", "58", "112", "113", "114", "132", "133", "134", "163", "169", "173", "190", "202", "204", "378", "493", "494", "546", "558", "604", "718", "719", "807", "808"]
+    },
+    {
+      "topic": "主要角色关系网",
+      "fact": "队友：瓦莱莎、福泰姆（见习书记官）、乌尔里克（身上有可被解除的诅咒）、普洛、达梅克（将军、反抗军新领袖）、豪尔（知识渊博，可作为顾问）、索维（袭击瓦利诺斯者，可被争取协助反抗军）；迈勒斯是关键人物；格瑞兹有可牺牲的剧情；扎米拉、艾琳、德雷克尔、肖恩、哈林等为配角。",
+      "en": "Valessa / Fortaime / Ulric / Pro / Damek / Howl / Sovy / Mylus / Gryz / Zamira / Airen / Drakeor / Shane / Halin",
+      "cn": "瓦莱莎 / 福泰姆 / 乌尔里克 / 普洛 / 达梅克 / 豪尔 / 索维 / 迈勒斯 / 格瑞兹 / 扎米拉 / 艾琳 / 德雷克尔 / 肖恩 / 哈林",
+      "seq": ["13", "34", "82", "87", "110", "222", "224", "371", "399", "417", "451", "463", "530", "622", "662", "711", "753"]
+    },
+    {
+      "topic": "乌尔里克的诅咒与“传说中的乌尔里克”",
+      "fact": "乌尔里克身上有诅咒，玩家可选择解除诅咒或让他保留那份力量；剧情中存在“传说中的乌尔里克”的说法。",
+      "en": "[[Remove the curse from Ulric.]] / [[Keep him strong. He needs that power.]] / the 'Ulric of legend'",
+      "cn": "[[解除乌尔里克身上的诅咒]] / [[让他保持强大。他需要那份力量]] / “传说中的乌尔里克”",
+      "seq": ["399", "400", "418"]
+    },
+    {
+      "topic": "游戏流程结构（幕与世界地图）",
+      "fact": "游戏分幕推进：可手动开启第三幕；前往阿拉林西亚后在第四幕结束前无法回大陆；进入竞技场将触发长剧情并进入第四幕终章；区域间通过世界地图与地点菜单移动。",
+      "en": "\"Would you like to initiate Act Three?\" / \"unable to return to the mainland until after Act Four\" / \"continue to the Act Four finale\" / \"Move to the World Map?\"",
+      "cn": "“你想开始第三幕吗？”/“在第四幕结束前，你将无法返回大陆”/“进入第四幕终章”/“前往世界地图？”",
+      "seq": ["127", "292", "519", "538"]
+    },
+    {
+      "topic": "佩雷格里诺（Peregrino）设施抉择",
+      "fact": "佩雷格里诺是反抗军相关设施，玩家可决定将其改建为兵营或保持原样。",
+      "en": "[[Convert Peregrino into a barracks.]] / [[Let Peregrino stay as it is.]]",
+      "cn": "[[将佩雷格里诺改为兵营]] / [[让佩雷格里诺保持原样]]",
+      "seq": ["604", "718", "719", "722", "754", "807"]
+    }
+  ],
+  "choices": [
+    {
+      "seq": "1/2",
+      "choice": "选择“我是先知（女）/（男）”",
+      "consequence": "决定主角性别（教程明确说明）"
+    },
+    {
+      "seq": "3/4/5",
+      "choice": "是否接受“让他们送死以争取时间”的战术（悲伤反对 / 开心赞同 / 另寻他法）",
+      "consequence": "uncertain（语气倾向不同的立场表态，影响剧情走向）"
+    },
+    {
+      "seq": "12/13",
+      "choice": "救人要紧去巨树 vs 情报优先去追迈勒斯",
+      "consequence": "uncertain（路线分歧）"
+    },
+    {
+      "seq": "44/45/46",
+      "choice": "是否把纸条给乌尔里克和瓦莱莎看",
+      "consequence": "是=继续剧情；否=继续探索"
+    },
+    {
+      "seq": "89/90",
+      "choice": "穿优雅男装 vs 穿美丽礼服",
+      "consequence": "uncertain（着装/形象选择）"
+    },
+    {
+      "seq": "133/134",
+      "choice": "相信 vs 不相信东冠藏有重要之物",
+      "consequence": "uncertain（信念表态，可能影响后续东冠剧情）"
+    },
+    {
+      "seq": "140/141",
+      "choice": "拥抱安慰他 vs 让他自己寻找内心的力量",
+      "consequence": "uncertain（队友关系/羁绊走向）"
+    },
+    {
+      "seq": "268/269",
+      "choice": "买下礼物作为浪漫心意 vs 不买",
+      "consequence": "uncertain（疑为恋爱标记相关）"
+    },
+    {
+      "seq": "290/291",
+      "choice": "指向亚历克斯的要求 vs 指向娜达的要求（两位海盗领主）",
+      "consequence": "uncertain（在马泽奥海盗领主之间取舍）"
+    },
+    {
+      "seq": "292/293/294",
+      "choice": "是否开始第三幕",
+      "consequence": "继续剧情=进入第三幕；再等一会儿=暂不推进"
+    },
+    {
+      "seq": "371/372/373/374/375",
+      "choice": "让格瑞兹牺牲自己 vs 亲自汲取灵像的力量（可先询问瓦莱莎/福泰姆再做最终抉择）",
+      "consequence": "格瑞兹牺牲或主角亲自承担灵像之力；重大剧情分歧"
+    },
+    {
+      "seq": "376/377",
+      "choice": "创建先知大军 vs 创建君主容器大军",
+      "consequence": "决定反抗军终局战力构成，演说内容随之变化（提示会改变阿莱斯蒂亚的未来）"
+    },
+    {
+      "seq": "380/381",
+      "choice": "让达梅克继续担任顾问 vs 让豪尔担任顾问",
+      "consequence": "uncertain（顾问人选；后续可“咨询你的顾问”，见 495）"
+    },
+    {
+      "seq": "394/395",
+      "choice": "登顶竞赛中让他赢 vs 抢先登顶",
+      "consequence": "uncertain（关系向小抉择）"
+    },
+    {
+      "seq": "399/400",
+      "choice": "解除乌尔里克身上的诅咒 vs 让他保留那份力量",
+      "consequence": "疑对应“将永久改变你与乌尔里克的关系”提示（rpy:L94-L95）"
+    },
+    {
+      "seq": "451/452",
+      "choice": "杀死肖恩 vs 制服肖恩",
+      "consequence": "uncertain（生死处置分歧）"
+    },
+    {
+      "seq": "455-461",
+      "choice": "结局前与哪位队友（瓦莱莎/福泰姆/普洛/乌尔里克/达梅克/豪尔/索维）共度最后的时光",
+      "consequence": "uncertain（疑为恋爱/羁绊结局分歧）"
+    },
+    {
+      "seq": "463/464",
+      "choice": "杀死哈林 vs 解放哈林",
+      "consequence": "uncertain（生死/解放处置分歧）"
+    },
+    {
+      "seq": "476/477",
+      "choice": "饶自己一命、暂时丢弃灵像 vs 牺牲自己、彻底摧毁灵像",
+      "consequence": "结局级分歧（主角生死与灵像存亡）"
+    },
+    {
+      "seq": "478/479/480",
+      "choice": "以正当努力赢得统治 / 两者兼顾 / 以恐惧统治",
+      "consequence": "uncertain（统治理念表态，疑影响结局走向）"
+    },
+    {
+      "seq": "483/484",
+      "choice": "取出灵体以强化剑 vs 让豪尔保持原样（他太有价值）",
+      "consequence": "重大取舍：强化放逐之刃会动及豪尔身上的灵体"
+    },
+    {
+      "seq": "493/494",
+      "choice": "让阿拉林西亚保持原样 vs 让阿拉林西亚改变做法",
+      "consequence": "uncertain（对阿拉林西亚未来的态度）"
+    },
+    {
+      "seq": "519",
+      "choice": "是否进入竞技场、触发第四幕终章",
+      "consequence": "触发长剧情动画并结束阿拉林西亚地区访问"
+    },
+    {
+      "seq": "525/526",
+      "choice": "在敌人反击前直接攻击 vs 等失明消退后团队反击",
+      "consequence": "uncertain（战斗策略分歧）"
+    },
+    {
+      "seq": "530/531",
+      "choice": "允许索维协助反抗军 vs 拒绝索维的提议并让他离开",
+      "consequence": "决定索维去留；前序选项（527/528）涉及是否原谅杀害同伴者"
+    },
+    {
+      "seq": "538",
+      "choice": "是否启航前往阿拉林西亚",
+      "consequence": "第四幕结束前无法返回大陆"
+    },
+    {
+      "seq": "562/563",
+      "choice": "支持薇薇安 vs 支持德雷库（听取达梅克/豪尔意见后）",
+      "consequence": "决定阿拉林西亚结盟对象"
+    },
+    {
+      "seq": "587/588",
+      "choice": "一路冲到顶峰创造历史 vs 尽力而为但不冲顶",
+      "consequence": "uncertain"
+    },
+    {
+      "seq": "712/713",
+      "choice": "静观争吵发展 vs 打断争吵",
+      "consequence": "uncertain（扎米拉旁观下的事态升级）"
+    },
+    {
+      "seq": "718/719",
+      "choice": "将佩雷格里诺改为兵营 vs 保持原样",
+      "consequence": "uncertain（设施用途决策，可引发反对者不满）"
+    },
+    {
+      "seq": "772/773",
+      "choice": "推选福泰姆 vs 推选瓦莱莎为瓦利诺斯的长老",
+      "consequence": "决定瓦利诺斯新长老（另见 620：可选择下令举行选举）"
+    },
+    {
+      "seq": "620",
+      "choice": "是否下令改为举行选举来决定长老",
+      "consequence": "uncertain（绕过直接任命）"
+    },
+    {
+      "seq": "879/880",
+      "choice": "希望和平解决 vs 必须反击、谈判免谈",
+      "consequence": "uncertain（对三人执政团的和战立场）"
+    },
+    {
+      "seq": "905/906",
+      "choice": "为取胜不惜像三人执政团那样使用神剑 vs 绝不那样使用",
+      "consequence": "uncertain（道德底线表态，疑关联结局演说中价值观分支 427-429）"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+[
+  {
+    "file": "dialogue_0007.tsv",
+    "seq": "2781",
+    "level": "A",
+    "en": "They're powered by the spirits of occupation victims...",
+    "cn": "它们是由被夺去身体的受害者之灵体驱动的……",
+    "issue": "occupation victims 指「占领（The Occupation）的受害者」，0006#2011（那场残暴占领的受害者）与 0006#2054（无辜占领受害者的灵体）均按此译；此处却按「夺去身体/夺舍」理解，属语义错误",
+    "suggestion": "它们是由占领受害者的灵体驱动的……"
+  },
+  {
+    "file": "dialogue_0008.tsv",
+    "seq": "3146",
+    "level": "A",
+    "en": "Sent there by me...",
+    "cn": "是我把他们派去的……",
+    "issue": "承接上文「他们被困在那些盔甲里」，there 指盔甲之中（即「是我把他们送进去的」）；「派去的」读作「派去马泽奥执行任务」，语义错误",
+    "suggestion": "是我把他们送进去的……"
+  },
+  {
+    "file": "dialogue_0005.tsv",
+    "seq": "1761",
+    "level": "B",
+    "en": "To your right — Gryz's office.",
+    "cn": "你的右手边——格瑞兹的公事房。",
+    "issue": "达梅克对全队说话，you 为复数，「你的」误作单数",
+    "suggestion": "你们的右手边——格瑞兹的公事房。"
+  },
+  {
+    "file": "dialogue_0005.tsv",
+    "seq": "1834",
+    "level": "B",
+    "en": "That's top secret, only for The Mayor!",
+    "cn": "那是天大的机密，只有市长才能看！",
+    "issue": "top secret 固定译法为「最高机密」；「天大的机密」生硬拗口",
+    "suggestion": "那是最高机密，只有市长才能看！"
+  },
+  {
+    "file": "dialogue_0005.tsv",
+    "seq": "1949",
+    "level": "B",
+    "en": "We're already running behind schedule.",
+    "cn": "我们已经落后了。",
+    "issue": "behind schedule 缺宾语，「落后了」歧义（落后于谁？）",
+    "suggestion": "我们已经比计划晚了。"
+  },
+  {
+    "file": "dialogue_0006.tsv",
+    "seq": "2131",
+    "level": "B",
+    "en": "What about \"new beginnings {i}with{/i} friends\"?",
+    "cn": "为“{i}与{/i}朋友一起的新的开始”怎么样？",
+    "issue": "「与朋友一起的新的开始」定语堆叠、明显拗口；2132 同句复述（「为与朋友一起的新的开始。」）同样拗口",
+    "suggestion": "为“{i}与{/i}朋友共迎新开始”怎么样？"
+  },
+  {
+    "file": "dialogue_0007.tsv",
+    "seq": "2651",
+    "level": "B",
+    "en": "Normally the blade requires a sacrifice, and the energy within, to power that armor.\nBut there is so much energy within you...",
+    "cn": "通常这把剑需要祭品及其蕴含的气力……但你体内有如此充沛的气力",
+    "issue": "此处的 energy 即 spiritual energy，既定术语为「灵力」（0006#2018、0009#3483 均作灵力）；「气力」是体格用词，与设定术语不一致",
+    "suggestion": "……祭品及其蕴含的灵力……你体内有如此充沛的灵力"
+  },
+  {
+    "file": "dialogue_0008.tsv",
+    "seq": "2938",
+    "level": "B",
+    "en": "Just keeping up my habit of not being receptive, I suppose.",
+    "cn": "我想我只是在保持自己不善待客的老毛病。",
+    "issue": "「不善待客」歧义（可读作「不善待/客」）；原意是「不习惯接待客人」",
+    "suggestion": "我想我只是在保持自己不习惯待客的老毛病。"
+  },
+  {
+    "file": "dialogue_0008.tsv",
+    "seq": "3059",
+    "level": "B",
+    "en": "Shane was fast. His abdomen is {i}covered{/i} in wounds.",
+    "cn": "肖恩出手太快了。他的腹部{i}布满{/i}伤口。",
+    "issue": "His 指达梅克（被刺者），但紧跟「肖恩出手太快」之后，「他的腹部」极易误读为肖恩",
+    "suggestion": "肖恩出手太快了。达梅克的腹部{i}布满{/i}伤口。"
+  },
+  {
+    "file": "dialogue_0009.tsv",
+    "seq": "3248",
+    "level": "B",
+    "en": "The continued shaking of the ground causes them to fall over.",
+    "cn": "地面持续不断的震动让他们摔倒在地。",
+    "issue": "them 指荣誉卫队（空甲，下一句即「它们一落地就碎成了片」），而本句与前句的「他们」均指在场众人，指代混乱",
+    "suggestion": "地面持续不断的震动让它们纷纷倒地。"
+  },
+  {
+    "file": "dialogue_0005.tsv / dialogue_0006.tsv",
+    "seq": "1837,1839,1841,1843,1845,1847,1849 ↔ 2306,2308,2310,2312,2314,2316,2318",
+    "level": "B",
+    "en": "Valessa/Lillith 图书馆对话整段（Is there a library in Mazeo? ... Damek will open its doors...）",
+    "cn": "0005 与 0006 两个版本逐句措辞均不同（怎么了/嗯？、收缴/没收、偷走/抢走、一探究竟/求证等）；且 1847「你们确实要去巴尔泰乌斯」在 2316 作「你确实要去」，单复数亦不一致",
+    "issue": "同一 EN 重复场景的译文应一致（同型行），此处整段不一致",
+    "suggestion": "两段统一为同一译文；2316 的「你」建议随 1847 统一为「你们」"
+  },
+  {
+    "file": "dialogue_0005.tsv / dialogue_0006.tsv",
+    "seq": "1850,1851,1853,1855,1857,1859,1860,1861,1863,1864,1866 ↔ 2319,2320,2322,2324,2326,2328,2329,2330,2332,2333,2335",
+    "level": "B",
+    "en": "Fortaime/Lillith 海盗站队对话整段（Who do you side with, Lillith? ... so I like him more.）",
+    "cn": "两个版本逐句措辞均不同（条件/诉求、出卖/背叛、心狠手辣/冷酷无情等）",
+    "issue": "同一 EN 重复场景（同型行）译文应一致，此处整段不一致",
+    "suggestion": "两段统一为同一译文"
+  },
+  {
+    "file": "dialogue_0005.tsv / dialogue_0006.tsv",
+    "seq": "1974,1975,1977,1979,1981,1983 ↔ 2340,2341,2343,2345,2347,2349",
+    "level": "B",
+    "en": "Fortaime/Gryz 羊纪念品对话整段（What's with that sheep...? ... Depends who you're asking.）",
+    "cn": "两个版本逐句措辞均不同（你说的是拉西特/你说拉西特、没过多久/没干多久、从何而来/来自哪里等）",
+    "issue": "同一 EN 重复场景（同型行）译文应一致，此处整段不一致",
+    "suggestion": "两段统一为同一译文"
+  },
+  {
+    "file": "dialogue_0007.tsv",
+    "seq": "2446 ↔ 2458",
+    "level": "B",
+    "en": "The wounds on our bodies hurt us at first.\nBut like white noise, we have phased it out.\nIt only flares up every few minutes, now.",
+    "cn": "2446：但就像听惯了的杂音，我们已对它充耳不闻。／2458：但就像白噪音一样，我们已将它屏蔽。",
+    "issue": "同一 EN 在 EV023/EV024 两处译文不一致（同型行）",
+    "suggestion": "两处统一（建议「就像白噪音一样，我们已将它屏蔽」）"
+  },
+  {
+    "file": "dialogue_0005.tsv",
+    "seq": "1758",
+    "level": "C",
+    "en": "In this district, pretty much everyone is royalty.",
+    "cn": "这个区里，几乎人人都算得上贵族。",
+    "issue": "royalty 指王室/权贵阶层，「贵族」略有漂移（本作 royalty 他处译「王室成员」）",
+    "suggestion": "这个区里，几乎人人都是权贵。"
+  },
+  {
+    "file": "dialogue_0005.tsv",
+    "seq": "1831",
+    "level": "C",
+    "en": "Underneath the stairs, rests some sort of contraption.{w}\nIf I had to guess, it would be a statue representing a spirit idol.",
+    "cn": "楼梯下方放着某种装置。{w}\n要我猜，那是一座代表灵像的雕像。",
+    "issue": "contraption 下句自答是雕像，「装置」偏机械感",
+    "suggestion": "楼梯下方摆着个说不清的玩意儿。"
+  },
+  {
+    "file": "dialogue_0005.tsv",
+    "seq": "1873",
+    "level": "C",
+    "en": "Late, are you?\nGood to know your word is trustworthy.",
+    "cn": "迟到了，是吧？\n很高兴知道你的话还算可信。",
+    "issue": "原文是明显反讽（讥其迟到），「还算可信」读不出讽刺，像真心话",
+    "suggestion": "迟到的可是你？\n看来你说的话还真“算数”啊。"
+  },
+  {
+    "file": "dialogue_0006.tsv",
+    "seq": "2085",
+    "level": "C",
+    "en": "Home, sweet home.",
+    "cn": "金窝银窝，不如自己的狗窝。",
+    "issue": "该谚语落脚点是「破家值万贯」，用于赞叹崭新气派的新总部，语义重心不合",
+    "suggestion": "家，甜蜜的家。"
+  },
+  {
+    "file": "dialogue_0006.tsv",
+    "seq": "2113",
+    "level": "C",
+    "en": "There's a rack full of swords, almost in pristine condition.",
+    "cn": "有一个挂满剑的架子，几乎完好如新。",
+    "issue": "pristine 修饰的是剑而非架子，译文定语挂到了「架子」上",
+    "suggestion": "有一个架子，挂满几乎完好如新的剑。"
+  },
+  {
+    "file": "dialogue_0006.tsv",
+    "seq": "2211",
+    "level": "C",
+    "en": "Didn't Damek frequent those underground tunnels?",
+    "cn": "达梅克不是常去那些地下地道吗？",
+    "issue": "「地道」已含地下义，「地下地道」语义重复",
+    "suggestion": "达梅克不是常去那些地道吗？"
+  },
+  {
+    "file": "dialogue_0007.tsv",
+    "seq": "2599",
+    "level": "C",
+    "en": "It was all so \"in the moment\".",
+    "cn": "一切都那么“顺其自然”。",
+    "issue": "in the moment 指「一时情动/当下冲动」，「顺其自然」偏向听其自然，语义有漂移",
+    "suggestion": "一切都那么“情难自禁”。"
+  },
+  {
+    "file": "dialogue_0007.tsv",
+    "seq": "2748",
+    "level": "C",
+    "en": "Without the power from their idol, Valinorth would freeze over.",
+    "cn": "没有来自他们灵像的力量，瓦利诺斯就会冻结。",
+    "issue": "「他们灵像」缺「的」，且 their 指瓦利诺斯（城邦），用「他们」略别扭",
+    "suggestion": "没有来自那座灵像的力量，瓦利诺斯就会冻结。"
+  },
+  {
+    "file": "dialogue_0007.tsv",
+    "seq": "2632",
+    "level": "C",
+    "en": "He smiles, as he makes his way back to the main landing.",
+    "cn": "他微笑着，走回楼梯口。",
+    "issue": "main landing 在 0005#1809 译作「主休息区」，此处作「楼梯口」，同一空间两种译法",
+    "suggestion": "他微笑着，走回中庭的主休息区。"
+  },
+  {
+    "file": "dialogue_0008.tsv",
+    "seq": "2813",
+    "level": "C",
+    "en": "Damek is wasting no time telling everybody who we are.",
+    "cn": "达梅克一刻不停地到处宣扬我们是谁。",
+    "issue": "wasting no time 是「抓紧时间」，「一刻不停地到处宣扬」带贬义聒噪感，与语境（肯定其效率）不符",
+    "suggestion": "达梅克正抓紧让所有人知道我们的身份。"
+  },
+  {
+    "file": "dialogue_0008.tsv",
+    "seq": "3078",
+    "level": "C",
+    "en": "With a dramatic snap of his fingers, I stumble back.",
+    "cn": "随着他夸张地一个响指，我踉跄后退。",
+    "issue": "「夸张地一个响指」语序生硬",
+    "suggestion": "随着他夸张地打了个响指，我踉跄后退。"
+  },
+  {
+    "file": "dialogue_0008.tsv",
+    "seq": "3088",
+    "level": "C",
+    "en": "That's all I can take in before everything fades away.",
+    "cn": "这是我意识消散前唯一能接收到的事。",
+    "issue": "「接收到的事」搭配生硬；take in 此处是「感知/来得及意识到」",
+    "suggestion": "这是我意识消散前唯一能感知到的事。"
+  },
+  {
+    "file": "dialogue_0009.tsv",
+    "seq": "3438,3439",
+    "level": "C",
+    "en": "Rightful heir to the throne of The Monarchy. My King. / My Queen.\nI will serve you in this fight...",
+    "cn": "……我将为你效力。",
+    "issue": "豪尔（容器）通篇用「您」（2982、3434、3449 等），独此二句作「为你」，敬称不统一",
+    "suggestion": "……我将为您效力。"
+  },
+  {
+    "file": "dialogue_0009.tsv",
+    "seq": "3506,3507",
+    "level": "C",
+    "en": "That is so cool, [firstname]!",
+    "cn": "那也太不可思议了，[firstname]！",
+    "issue": "so cool 是少年口吻的赞叹（太酷了），「不可思议」偏惊诧，福泰姆的语气未译出",
+    "suggestion": "那也太酷了，[firstname]！"
+  },
+  {
+    "file": "dialogue_0009.tsv",
+    "seq": "3582",
+    "level": "C",
+    "en": "And it also meant a large number of volunteers.{w}\nIt wasn't much longer until the room was scattered with corpses.",
+    "cn": "这也意味着大量的志愿者。{w}\n没过多久，房间里就散落着尸体。",
+    "issue": "容器分支中 EN 复用了 Seers 分支的 volunteers 一句（原文如此），但中文明读者会看到「志愿者→尸体」的突兀矛盾；非译者之误，提请注意",
+    "suggestion": "如允许偏离原文，可将此分支该句改为「这也意味着大量可用的躯体」之类；否则保留并备注"
+  },
+  {
+    "inventory": "monarchy",
+    "scope": "dialogue_0005-0009",
+    "王权": [],
+    "王室": [
+      {"file": "dialogue_0005.tsv", "seq": "1603", "en": "The Monarchy"},
+      {"file": "dialogue_0007.tsv", "seq": "2444", "en": "The Monarchy"},
+      {"file": "dialogue_0007.tsv", "seq": "2450", "en": "The Monarchy"},
+      {"file": "dialogue_0007.tsv", "seq": "2456", "en": "The Monarchy"},
+      {"file": "dialogue_0007.tsv", "seq": "2462", "en": "The Monarchy"},
+      {"file": "dialogue_0007.tsv", "seq": "2577", "en": "The Old Monarchy（旧王室）"},
+      {"file": "dialogue_0007.tsv", "seq": "2580", "en": "The Old Monarchy（旧王室）"},
+      {"file": "dialogue_0007.tsv", "seq": "2643", "en": "The Monarchy"},
+      {"file": "dialogue_0007.tsv", "seq": "2652", "en": "You are The Monarchy（你就是王室）"},
+      {"file": "dialogue_0009.tsv", "seq": "3403", "en": "our glorious monarchy（我们辉煌的王室）"},
+      {"file": "dialogue_0009.tsv", "seq": "3438", "en": "the throne of The Monarchy（王室王位）"},
+      {"file": "dialogue_0009.tsv", "seq": "3439", "en": "the throne of The Monarchy（王室王位）"},
+      {"file": "dialogue_0009.tsv", "seq": "3484", "en": "the ancient Monarchy（古老的王室）"},
+      {"file": "dialogue_0009.tsv", "seq": "3485", "en": "the ancient Monarchy（古老的王室）"},
+      {"file": "dialogue_0009.tsv", "seq": "3486", "en": "the Monarchy"},
+      {"file": "dialogue_0009.tsv", "seq": "3490", "en": "the souls of the Monarchy（王室的灵魂）"},
+      {"file": "dialogue_0009.tsv", "seq": "3492", "en": "the souls of the Monarchy（王室的灵魂）"},
+      {"file": "dialogue_0009.tsv", "seq": "3524", "en": "the Monarchy"},
+      {"file": "dialogue_0009.tsv", "seq": "3532", "en": "the Monarchy"},
+      {"file": "dialogue_0009.tsv", "seq": "3534", "en": "the Monarchy"},
+      {"file": "dialogue_0009.tsv", "seq": "3541", "en": "the Monarchy"},
+      {"file": "dialogue_0009.tsv", "seq": "3574", "en": "the Monarchy"},
+      {"file": "dialogue_0009.tsv", "seq": "3575", "en": "the Monarchy"}
+    ],
+    "note": "本组 5 个 chunk 内 The Monarchy 全部译作「王室」（The Old Monarchy→旧王室），无「王权」出现，与 terms.tsv 终裁一致。0007#2623「王室顾问」对应 a royal advisor、0009#3470「王朝」对应 dynasty，均非 The Monarchy，不计入。另：0005#1989/1990「君主容器/人造先知」、各处分支的「先知」（The Seer/Seeress 均统一译先知）术语使用正确。"
+  }
+]

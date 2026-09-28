@@ -1,0 +1,114 @@
+[
+  {
+    "file": "zz1.png",
+    "en_text": "THE REBELLION is in shambles.",
+    "cn_text": "反抗军已然支离破碎。",
+    "verdict": "ok",
+    "level": "",
+    "detail": ""
+  },
+  {
+    "file": "zz2.png",
+    "en_text": "With the recent loss of their leader, they are struggling.",
+    "cn_text": "新近失去领袖后，他们正举步维艰。",
+    "verdict": "ok",
+    "level": "",
+    "detail": ""
+  },
+  {
+    "file": "zz3.png",
+    "en_text": "But this defeat was not without a victory of its own.",
+    "cn_text": "但这场败仗也并非一无所获。",
+    "verdict": "ok",
+    "level": "",
+    "detail": "意译：not without a victory of its own→并非一无所获，语义等价，可接受。"
+  },
+  {
+    "file": "zz4.png",
+    "en_text": "For in his final moments, he secured an artifact of great importance.",
+    "cn_text": "原来，他在生命的最后时刻，确保了那件至关重要的神器安然无恙。",
+    "verdict": "ok",
+    "level": "",
+    "detail": "secured 译为「确保了……安然无恙」，略有增译但语义未偏移，可接受。"
+  },
+  {
+    "file": "zz5.png",
+    "en_text": "This BLADE was paramount to THE TRIUMVIRATE'S leadership of Alestia.",
+    "cn_text": "这把剑对三人执政团统治阿莱斯蒂亚至关重要。",
+    "verdict": "ok",
+    "level": "",
+    "detail": "blade→剑、Triumvirate→三人执政团、Alestia→阿莱斯蒂亚，均符合口径。"
+  },
+  {
+    "file": "zz6.png",
+    "en_text": "And without it -- their tyrannical grip on the people would surely falter.",
+    "cn_text": "若失去它，他们对人民的暴虐统治必将动摇。",
+    "verdict": "ok",
+    "level": "",
+    "detail": ""
+  },
+  {
+    "file": "zz7.png",
+    "en_text": "Having no choice, they give their GRAND INQUISITOR one simple order:",
+    "cn_text": "他们别无选择，只能向大审判官下达一道简单的命令：",
+    "verdict": "ok",
+    "level": "",
+    "detail": "Grand Inquisitor→大审判官，符合口径。"
+  },
+  {
+    "file": "zz8.png",
+    "en_text": "“Destroy the rebellion, and retrieve the lost blade of The Triumvirate.”",
+    "cn_text": "“摧毁反抗军，夺回三人执政团遗失的宝剑。”",
+    "verdict": "ok",
+    "level": "",
+    "detail": "blade→宝剑（含「剑」，非 terms.tsv 列明的违规变体），此处为泛指非专名放逐之刃，可接受。"
+  },
+  {
+    "file": "zz9.png",
+    "en_text": "But DAMEK, the new leader of the rebels, has set other plans in motion.",
+    "cn_text": "但反抗军新领袖达梅克，已另有安排。",
+    "verdict": "ok",
+    "level": "",
+    "detail": "Damek→达梅克，符合口径；set other plans in motion→另有安排，意译可接受。"
+  },
+  {
+    "file": "zz10.png",
+    "en_text": "Hiding the blade in VALINORTH, he is confident that it will be protected.",
+    "cn_text": "他把剑藏在瓦利诺斯，确信那里能护它周全。",
+    "verdict": "ok",
+    "level": "",
+    "detail": "Valinorth→瓦利诺斯，blade→剑，符合口径。"
+  },
+  {
+    "file": "zz11.png",
+    "en_text": "This sheltered hamlet is now custodian to the weapon that would liberate the world.",
+    "cn_text": "这座避世的小村，如今守护着那件足以解放世界的武器。",
+    "verdict": "ok",
+    "level": "",
+    "detail": ""
+  },
+  {
+    "file": "zz12.png",
+    "en_text": "And so -- it would be met with a gruesome fate by The Triumvirate and their Grand Inquisitor...",
+    "cn_text": "如此一来——它必将遭逢三人执政团及其大审判官的可怖命运……",
+    "verdict": "ok",
+    "level": "",
+    "detail": "术语符合口径；句法转换为中文被动表达，语义无偏移。"
+  },
+  {
+    "file": "zzz0-1.png",
+    "en_text": "In the world of Alestia,",
+    "cn_text": "在阿莱斯蒂亚的世界里，",
+    "verdict": "ok",
+    "level": "",
+    "detail": "Alestia→阿莱斯蒂亚，符合口径。"
+  },
+  {
+    "file": "zzz0-2.png",
+    "en_text": "where the spirits reign supreme...",
+    "cn_text": "灵体至高无上……",
+    "verdict": "issue",
+    "level": "A",
+    "detail": "术语误译：此处 spirits 为开场世界观陈述中的抽象/信仰存在（整个世界观由灵主宰），按 2026-09-28 spirits 二分裁决（terms.tsv 第 15 行、lore.md §1.1）应译「灵/众灵」（非物质信仰/抽象语境），「灵体」仅用于寄居容器/躯体/盔甲/剑的实体化灵。建议改为「众灵至高无上……」或「灵至高无上……」。"
+  }
+]

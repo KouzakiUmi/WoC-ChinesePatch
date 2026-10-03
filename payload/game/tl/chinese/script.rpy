@@ -20348,7 +20348,7 @@ translate chinese click_map124_13_EV013_ad768bda:
 translate chinese click_map124_15_EV015_cb1b6512:
 
     # "B1 - An Unfair Race\nB2 - Ulric's Big Sword\nB3 - An Exodus Theory\nB4 - Faith in The Rebellion"
-    "B1 - 一场不公平的比赛\nB2 - 乌尔里克的大剑\nB3 - 放逐理论\nB4 - 对反抗军的信念"
+    "B1 - 一场不公平的比赛\nB2 - 乌尔里克的大剑\nB3 - 放逐之刃理论\nB4 - 对反抗军的信念"
 
 # game/script.rpy:49860
 translate chinese click_map124_16_EV016_e7372863:
@@ -73134,7 +73134,7 @@ translate chinese map113_4cbc34e9:
 translate chinese map113_8e6c9a65:
 
     # char_sovy "He already had all the intel he needed.\nThat was the purpose of The Exodus Raid.\nThey mapped out our entire castle, Shane."
-    char_sovy "他早就拿到了所有需要的情报。\n那正是“夺取放逐之刃的突袭”的目的。\n他们摸清了我们整座城堡的布局，肖恩。"
+    char_sovy "他早就拿到了所有需要的情报。\n那正是夺取放逐之刃那次突袭的目的。\n他们摸清了我们整座城堡的布局，肖恩。"
 
 # game/script.rpy:163826
 translate chinese map113_51da071d:
@@ -75108,7 +75108,7 @@ translate chinese map174_c5d80862:
 translate chinese map174_35635042:
 
     # "When I first touched The Blade of Exodus, back in Valinorth.{w}\nThe series of visions ended with me getting stabbed by a man.{w}\nA man, that unfortunately, I'm now able to identify as Pro..."
-    "在我第一次触碰“放逐之刃”时，就在瓦利诺斯。{w}\n那一系列幻象以我被一个男人刺中而结束。{w}\n很不幸，现在我能认出那个男人是普洛……"
+    "在我第一次触碰放逐之刃时，就在瓦利诺斯。{w}\n那一系列幻象以我被一个男人刺中而结束。{w}\n很不幸，现在我能认出那个男人是普洛……"
 
 # game/script.rpy:167365
 translate chinese map174_63b20368:
@@ -87726,7 +87726,7 @@ translate chinese map093_d0725466:
 translate chinese map093_c0645369:
 
     # char_sovy "Yes, of course.\nThe Exodus Wielder {i}is{/i} located in Valinorth.\nI am ready to launch our attack at a moment's notice."
-    char_sovy "是的，当然。\n放逐之刃的持有者{i}确实{/i}在瓦利诺斯。\n我随时准备发动进攻。"
+    char_sovy "是的，当然。\n放逐者{i}确实{/i}在瓦利诺斯。\n我随时准备发动进攻。"
 
 # game/script.rpy:194526
 translate chinese map093_12902137:

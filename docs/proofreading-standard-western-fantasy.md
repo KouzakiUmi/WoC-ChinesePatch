@@ -40,11 +40,23 @@
 | Alarinthia / Alarin / Balteus / Valinorth / Mazeo / Sauleberg / Peregrino / Parachron | 阿拉林西亚 / 阿拉林 / 巴尔泰乌斯 / 瓦利诺斯 / 马泽奥 / 索尔伯格 / 佩雷格里诺 / 帕拉克隆 |
 | The Blade of Exodus | 放逐之刃 |
 | the Exodus（持有者名号） | 放逐者 |
+| The Exodus Wielder（执政团识别标签） | 放逐者 |
+| Exodus wielder（描述性称人） | 放逐之刃的持有者 |
+| Exodus training regiment / The Exodus Raid | 放逐之刃训练计划 / 夺取放逐之刃的突袭 |
 | blade / sword | 剑（knife=刀、双刃剑、两面三刀等固定搭配保留） |
 | spirit / soul / idol | 灵 / 灵魂 / 灵像 |
 | Spirit Realm / Grand Tree / Honor Guard / Rebel HQ | 灵界 / 巨树 / 荣誉卫队 / 反抗军总部 |
 | Sixers | 六时人 |
 | Alestia | 阿莱斯蒂亚 |
+
+**Exodus 不是同一个概念**：`Exodus` 在原文里是同源派生的一组概念，必须按英文形态分译，不得按单词统一（规则见 `review/terms.tsv`）：
+
+- 指那把剑本身 → **放逐之刃**（`The Blade of Exodus` / `Blade of Exodus`）
+- 指持有者的**名号** → **放逐者**（`the Exodus`；`The Exodus Wielder` 是执政团在情报里用的识别标签，同译「放逐者」）
+- 指持有者这个**人**（描述性，非专名） → **放逐之刃的持有者**（`the Exodus wielder` / `another Exodus wielder`，英文小写 `wielder` 即为描述性）
+- 指围绕该剑的**行动名** → 一律带「之刃」：`放逐之刃训练计划`（`Exodus training regiment`）、`夺取放逐之刃的突袭`（`The Exodus Raid`）
+
+**禁忌**：裸写「放逐」（历史遗留在「放逐理论」「放逐突袭」等处）会被读成"流放/驱逐"，与该词根的设定义脱节。
 
 **检查点**：同一英文名在全篇只允许一种中文写法（含"阿/啊""莱/蕾""斯/思"这类音译摇摆）；头衔、组织、地名同理。发现变体即记 A 级。
 

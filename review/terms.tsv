@@ -1,6 +1,18 @@
 # 术语统一规则表
 # en <TAB> cn <TAB> variants(其他译法) <TAB> protect(保护片段) <TAB> mode(word|phrase) <TAB> exclude_en(源文含此词则跳过本规则) <TAB> note
-Exodus	放逐	流亡之刃		phrase		专名 The Blade of Exodus 按游戏设定译为「放逐之刃」
+# —— Exodus 不是同一个概念: 同源派生 6 种形态, 按英文分条, 不可按单词统一 ——
+# 背景与裁决: docs/proofreading-standard-western-fantasy.md §2.1「Exodus 不是同一个概念」
+The Blade of Exodus	放逐之刃	流亡之刃|“放逐之刃”	放逐者|放逐之刃的持有者	phrase	Exodus Raid|Exodus training|Exodus wielder	专名=剑本身, 全篇唯一写法(59 处); 持有者名号与派生行动名另立条目, 不要按单词合并; 英文无引号则中文不加(0022#8661 已去)
+the Exodus	放逐者	流亡|流亡者		phrase	Exodus Raid|Exodus training|Exodus wielder|Exodus Theory	持有者名号(0026#10020/#10023); 福泰姆口头提议、被瓦莱莎当场否决, 故译文带引号
+The Exodus Wielder	放逐者	放逐之刃的持有者		phrase	Exodus wielder was|another Exodus wielder	0025#9931 索维向执政团汇报用的识别标签; 英文全库唯一大写 Wielder=有意专名化, 与 the Exodus 同译「放逐者」。注意: review_tool 的 phrase 匹配大小写不敏感, 故用 exclude_en 近似排除小写描述性用法(0010#3685/0014#5409), 不可删
+Exodus wielder	放逐之刃的持有者	放逐之刃的持剑人		phrase		描述性称人(0010#3685、0014#5409); 英文此处小写 wielder, 非专名, 故不译「放逐者」; 与 The Exodus Wielder 分条
+Exodus training regiment	放逐之刃训练计划	放逐训练计划		phrase		0004#1216; 裸「放逐」易误读为流放, 一律带「之刃」
+The Exodus Raid	夺取放逐之刃的突袭	放逐突袭|“夺取放逐之刃的突袭”		phrase		0004#1441、0022#8431、strings#733; 指夺取该剑的那次突袭(含测绘城堡), 非正式行动代号, 故不加引号; 英文三处大小写不一(Raid 一处小写)亦证其非代号
+Exodus Theory	放逐之刃理论	放逐理论		phrase		0006#2184 作者大纲标签块(map124 EV020 目录项, 同块含「(Romance)」「(Choice Dependent)」制作批注, 非游戏内笔记); 同样带「之刃」以与全库一致
+# 已知未统一(2026-10-03 记录, 本轮裁定不动): 英文 wielder 的中译在全篇仍是分裂的——
+#   「持剑者」8 处: 0003#895/896/939、0005#1626、0008#3154/3178、0009#3208/3580/3584(多为 the wielder of the blade / will of the wielder, 非 Exodus 语境)
+#   「持有者」4 处: 0010#3685、0014#5409、0023#8994、0025#9931(后者已裁定改「放逐者」)
+#   Exodus 语境 3 处已按上列分条固定; 其余 9 处属非 Exodus 语境, 留待专项裁定。若将来统一, 须与「放逐之刃的持有者」一致。
 Sixers	六时人	六人帮|六人众		word		阿拉林西亚旧刑罚的称呼；按对白中“六时人”统一
 sixer	六时人	六人帮|六人众		word		阿拉林西亚旧刑罚中罪犯的称呼；按对白中“六时人”统一
 blade	剑	刀剑|刀刃|剑刃|刀|刃	流亡之刃|放逐之刃|双刃剑	word	Exodus|dagger|put me to	blade 统一为「剑」; 专名与「双刃剑」保留; 排除匕首语境(dagger)与习语 put me to the blade(→处死)

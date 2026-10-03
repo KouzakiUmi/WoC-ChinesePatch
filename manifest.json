@@ -1,7 +1,7 @@
 {
  "name": "Winds of Change 中文汉化补丁",
  "game": "Winds of Change (Steam appid 594130)",
- "version": "1.3.13",
+ "version": "1.3.14",
  "built": "2026-09-26",
  "base_check": {
   "path": "game/script.rpy",
@@ -597,7 +597,7 @@
   {
    "path": "game/tl/chinese/common.rpyc",
    "type": "new",
-   "sha256": "ba3b735088449cb139427a7a644104a30d939bb942691459caf9221ecb2aee34",
+   "sha256": "578e6e149a2f065d754576e07800bdef798875b12fdb7d9722565fcb366f8f79",
    "size": 26972
   },
   {
@@ -609,7 +609,7 @@
   {
    "path": "game/tl/chinese/names.rpyc",
    "type": "new",
-   "sha256": "2f52651eb58dc8e8c19078253a155162f08053c413d333613b8f437b75c35be3",
+   "sha256": "508d8098013470c4fb10767e15e5e3af32c30d84a43868e62831f80e6fd44d99",
    "size": 2734
   },
   {
@@ -621,7 +621,7 @@
   {
    "path": "game/tl/chinese/options.rpyc",
    "type": "new",
-   "sha256": "967d4d4b324da1d80c0aa10538b076ee7cd54ff0e2e90b696442094d23c10323",
+   "sha256": "25e8f1c710d5fcffc58edeea4f2589873fac27b50493bd2461998567f78f4d5d",
    "size": 1314
   },
   {
@@ -633,20 +633,20 @@
   {
    "path": "game/tl/chinese/screens.rpyc",
    "type": "new",
-   "sha256": "9deaea488a56cfc4db767445e683c512796f1c04d306409bddc80e8e632ac479",
+   "sha256": "7143f91f4582321baacebdf823e37e37fb3b4779daf611b48e0d5f27f6750ef4",
    "size": 8774
   },
   {
    "path": "game/tl/chinese/script.rpy",
    "type": "new",
-   "sha256": "89f71f461ca62baef5248e5dee5f56df634e774ec4f4d4726970249fc5a17330",
+   "sha256": "de55005f64871a5f1ff3210ee33805f0b41f36e10b0d50ec62349c057936af88",
    "size": 4544028
   },
   {
    "path": "game/tl/chinese/script.rpyc",
    "type": "new",
-   "sha256": "c4fd656ddb0db4b67c26d57023e0ef331613956c7937df369447c48cd1d21e51",
-   "size": 3804610
+   "sha256": "08337daa0cca6055418036ecd81ebadb7927ec60b3420439be7698dfe408df17",
+   "size": 3804768
   },
   {
    "path": "game/zzz_chinese_language.rpy",
@@ -657,14 +657,14 @@
   {
    "path": "game/zzz_chinese_language.rpyc",
    "type": "new",
-   "sha256": "103ab354f17397e3ce07a760fc1f26cd816f6ee9570b3bf94c459d7f63ee2475",
-   "size": 6432
+   "sha256": "c36b5dff6cdd7244a2e24a232bc9cbf399a0b07326c8d6e7a131b5dd99d12a42",
+   "size": 6434
   }
  ],
  "engines": {
   "pc": "7.1.1.929"
  },
- "notes": "1.3.1: 中文用字体改为直接替换游戏原版 game/gothic.ttf (Sarasa UI SC, 含中文字形, SIL OFL 1.1), 不再新增 fonts/ 目录文件, 也不覆写 gui 字体变量; gothic.ttf 作为 modified 条目可还原。 1.3.2: transparent translation added for game/images/zzzzjournal1.png. 1.3.3: PC payload drops mobile-only GUI settings, system-font fallback, and the custom title-particle layer. 1.3.4: added a Python-free single-file Windows GUI installer with progress feedback and diagnostic logging. 1.3.5: unified the Sixers terminology as 六时人, updated the opening captions and journal lettering with larger spaced italic WenKai typography, added a translated epilogue card, and translated save-screen labels; PC / Ren'Py 7.1.1 only. 1.3.6: corrected the three Pro journal image lines against the original English artwork. 1.3.7: refined the penultimate opening crawl sentence to preserve the future meaning of would liberate. 1.3.8: corrected and regenerated 17 book-note pages, 6 maps, and 4 tutorial images from English originals. 1.3.9: fixed 873 dialogue and UI translation lines (missing lines, brackets, terminology, honorifics), rebuilt and independently verified book-note, map and tutorial images, and added payload hash verification to check and install. 1.3.10: final terminology ruling (personal quarters as 个人房间, matching the rebuilt HQ map), pronoun follow-ups per English original, fourth HQ map remake from the English source, and gender-check false-positive fixes. 1.3.11: full-coverage dialogue/UI review (~250 fixes, incl. The Monarchy unified as 王室 and the spirits/spirit-body context ruling), image terminology repairs on book pages, maps and tutorials remade from English originals, and a new docs/reference lore database for future audits. 1.3.12: per-file translation audit adjudication (116 fixes): visions unified as huan-xiang, chambers unified as inner-sanctum, abstract spirits 29 rows, purpose-belief 3 rows, Howl honorifics 23 rows, terminology 17 rows, hard semantic/punctuation errors 7 rows.1.3.13: Exodus terminology split into 7 distinct concepts by English form (The Blade of Exodus / the Exodus / The Exodus Wielder / Exodus wielder / The Exodus Raid / Exodus training regiment / An Exodus Theory); 4 translation lines fixed; proofreading-standard, terms.tsv and lore reference updated; variant_check one-character-variant false positives fixed",
+ "notes": "1.3.1: 中文用字体改为直接替换游戏原版 game/gothic.ttf (Sarasa UI SC, 含中文字形, SIL OFL 1.1), 不再新增 fonts/ 目录文件, 也不覆写 gui 字体变量; gothic.ttf 作为 modified 条目可还原。 1.3.2: transparent translation added for game/images/zzzzjournal1.png. 1.3.3: PC payload drops mobile-only GUI settings, system-font fallback, and the custom title-particle layer. 1.3.4: added a Python-free single-file Windows GUI installer with progress feedback and diagnostic logging. 1.3.5: unified the Sixers terminology as 六时人, updated the opening captions and journal lettering with larger spaced italic WenKai typography, added a translated epilogue card, and translated save-screen labels; PC / Ren'Py 7.1.1 only. 1.3.6: corrected the three Pro journal image lines against the original English artwork. 1.3.7: refined the penultimate opening crawl sentence to preserve the future meaning of would liberate. 1.3.8: corrected and regenerated 17 book-note pages, 6 maps, and 4 tutorial images from English originals. 1.3.9: fixed 873 dialogue and UI translation lines (missing lines, brackets, terminology, honorifics), rebuilt and independently verified book-note, map and tutorial images, and added payload hash verification to check and install. 1.3.10: final terminology ruling (personal quarters as 个人房间, matching the rebuilt HQ map), pronoun follow-ups per English original, fourth HQ map remake from the English source, and gender-check false-positive fixes. 1.3.11: full-coverage dialogue/UI review (~250 fixes, incl. The Monarchy unified as 王室 and the spirits/spirit-body context ruling), image terminology repairs on book pages, maps and tutorials remade from English originals, and a new docs/reference lore database for future audits. 1.3.12: per-file translation audit adjudication (116 fixes): visions unified as huan-xiang, chambers unified as inner-sanctum, abstract spirits 29 rows, purpose-belief 3 rows, Howl honorifics 23 rows, terminology 17 rows, hard semantic/punctuation errors 7 rows.1.3.13: Exodus terminology split into 7 distinct concepts by English form (The Blade of Exodus / the Exodus / The Exodus Wielder / Exodus wielder / The Exodus Raid / Exodus training regiment / An Exodus Theory); 4 translation lines fixed; proofreading-standard, terms.tsv and lore reference updated; variant_check one-character-variant false positives fixed1.3.14: wielder unified as 持有者 across the whole script (9 rows of 持剑者 merged with the existing 持有者); README release history for v1.3.11/v1.3.12 backfilled; review/variant_names.md added to the repository",
  "compiled_with": {
   "engine": "7.1.1.929",
   "major": 7,

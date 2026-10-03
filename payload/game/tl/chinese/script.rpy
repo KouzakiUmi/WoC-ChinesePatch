@@ -7974,7 +7974,7 @@ translate chinese map171_d6b22018:
     # voice "se/y01203.ogg"
     # char_howl "But is that the essence of life, or the essence of death?\nPerhaps that is a choice the wielder of the blade must make.\nWhat do you think, [firstname]? Is that energy life, or is it death...?" nointeract
     voice "se/y01203.ogg"
-    char_howl "可那是生命的精魄，还是死亡的精魄？\n也许，那是持剑者必须做出的选择。\n您怎么看，[firstname]？那股力量是生命，还是死亡……？" nointeract
+    char_howl "可那是生命的精魄，还是死亡的精魄？\n也许，那是持有者必须做出的选择。\n您怎么看，[firstname]？那股力量是生命，还是死亡……？" nointeract
 
 # game/script.rpy:21421
 translate chinese map171_acc06ba5:
@@ -7986,7 +7986,7 @@ translate chinese map171_acc06ba5:
 translate chinese map171_0f09e495:
 
     # char_howl "An interesting thought, to say the least.\nIf it is up to the wielder, at least we know where you stand.\nThat blade is such a mysterious thing, and it grows ever stronger."
-    char_howl "至少可以说，这想法很有意思。\n若这取决于持剑者，那至少我们知道您的立场。\n那把剑真是神秘之物，而且正变得愈发强大。"
+    char_howl "至少可以说，这想法很有意思。\n若这取决于持有者，那至少我们知道您的立场。\n那把剑真是神秘之物，而且正变得愈发强大。"
 
 # game/script.rpy:21437
 translate chinese map171_e761f4d8:
@@ -8366,7 +8366,7 @@ translate chinese map155_64e512a4:
 translate chinese map155_1ff0362c:
 
     # "It bends to the will of the wielder. That much was true.{w}\nI've been able to use it to accomplish so much already.{w}\nBut what are the true limits of its power? Did I want to know?"
-    "它顺应持剑者的意志。这一点确实不假。{w}\n我已经能用它完成这么多事了。{w}\n可它力量的真正极限在哪里？我想知道吗？"
+    "它顺应持有者的意志。这一点确实不假。{w}\n我已经能用它完成这么多事了。{w}\n可它力量的真正极限在哪里？我想知道吗？"
 
 # game/script.rpy:22269
 translate chinese map155_ff661b3f:
@@ -15060,7 +15060,7 @@ translate chinese map231_a5972aff:
 translate chinese map231_852a1e39:
 
     # "He smiles and leaves the alleyway. I remain there by myself.{w}\nIt was hard {i}not{/i} to be scared, given my situation, and the upcoming battle.{w}\nBut if mastering those emotions made me a better wielder, then I had to try."
-    "他笑了笑，离开了巷子。我独自留在那里。{w}\n考虑到我的处境和即将到来的战斗，要做到{i}不{/i}害怕很难。{w}\n但如果驾驭这些情绪能让我成为更好的持剑者，那我必须一试。"
+    "他笑了笑，离开了巷子。我独自留在那里。{w}\n考虑到我的处境和即将到来的战斗，要做到{i}不{/i}害怕很难。{w}\n但如果驾驭这些情绪能让我成为更好的持有者，那我必须一试。"
 
 # game/script.rpy:36323
 translate chinese map231_a7945040:
@@ -30114,7 +30114,7 @@ translate chinese map137_7bf25164:
     # voice "se/z01217.ogg"
     # char_jit_map134_1_0_23 "I picked up some information when I served The Triumvirate.\nThat blade has the ability to bend its power to your will.\nIt all depends on what the wielder wants it to do."
     voice "se/z01217.ogg"
-    char_jit_map134_1_0_23 "我为三人执政团效力时，打探到了一些情报。\n那把剑能将它的力量屈从于持剑者的意志。\n一切取决于持剑者想让它做什么。"
+    char_jit_map134_1_0_23 "我为三人执政团效力时，打探到了一些情报。\n那把剑能将它的力量屈从于持有者的意志。\n一切取决于持有者想让它做什么。"
 
 # game/script.rpy:67635
 translate chinese map137_f03f5c71:
@@ -30302,7 +30302,7 @@ translate chinese map137_3a7c5f16:
 translate chinese map137_e59674ac:
 
     # "It doesn't overpower me like before. This time, I expect different.{w}\nLike Gryz said, it bends to the will of the wielder. Everything has changed.{w}\nI put the scabbard back on, but I hold onto the sword with a slight grin."
-    "它不再像从前那样压制我了。这一次，我期待的是不同的结果。{w}\n正如格瑞兹所说，它屈从于持剑者的意志。一切都变了。{w}\n我重新背好剑鞘，却仍握着剑，嘴角微微上扬。"
+    "它不再像从前那样压制我了。这一次，我期待的是不同的结果。{w}\n正如格瑞兹所说，它屈从于持有者的意志。一切都变了。{w}\n我重新背好剑鞘，却仍握着剑，嘴角微微上扬。"
 
 # game/script.rpy:67934
 translate chinese map137_7989c8a0:
@@ -30512,7 +30512,7 @@ translate chinese map137_c31fa549_1:
 translate chinese map137_f46aa792:
 
     # "Another flash of white light engulfs the entire room.{w}\nThe pressure is relieved from my neck, and I hear Sovy struggle.{w}\nJust like Gryz said — the blade reacts to the will of the wielder."
-    "又一道白光吞没了整个房间。{w}\n我脖子上的压迫感松开了，我听见索维在挣扎。{w}\n正如格瑞兹所说——剑会回应持剑者的意志。"
+    "又一道白光吞没了整个房间。{w}\n我脖子上的压迫感松开了，我听见索维在挣扎。{w}\n正如格瑞兹所说——剑会回应持有者的意志。"
 
 # game/script.rpy:68218
 translate chinese map137_5a05b978:
@@ -33630,7 +33630,7 @@ translate chinese map144_8cbc1d5f:
 translate chinese map144_b78f58d2:
 
     # "It was just like I thought. The blade is an extension of the wielder's mind.{w}\n\"Salus\" told me how to wield it, and I rested the blade on the volunteers.{w}\nAlmost like a knighting ceremony in the stories of old — I declared them Seers."
-    "果然如我所料。剑是持剑者心智的延伸。{w}\n“萨鲁斯”教我如何运用它，我把剑放在了志愿者身上。{w}\n几乎就像古老故事里的授爵仪式——我宣布他们成为先知。"
+    "果然如我所料。剑是持有者心智的延伸。{w}\n“萨鲁斯”教我如何运用它，我把剑放在了志愿者身上。{w}\n几乎就像古老故事里的授爵仪式——我宣布他们成为先知。"
 
 # game/script.rpy:74875
 translate chinese map144_4b46823c:
@@ -33654,7 +33654,7 @@ translate chinese map144_250609c8:
 translate chinese map144_0c434c5c:
 
     # "It was just like I thought. The blade is an extension of the wielder's mind.{w}\n\"Salus\" told me how to wield it, and I touched the bodies of the fallen with it.{w}\nAlmost like a knighting ceremony in the stories of old — I declared them Vessels."
-    "果然如我所料。剑是持剑者心智的延伸。{w}\n“萨鲁斯”教我如何运用它，我用剑触碰了倒下者的尸体。{w}\n几乎就像古老故事里的授爵仪式——我宣布他们成为容器。"
+    "果然如我所料。剑是持有者心智的延伸。{w}\n“萨鲁斯”教我如何运用它，我用剑触碰了倒下者的尸体。{w}\n几乎就像古老故事里的授爵仪式——我宣布他们成为容器。"
 
 # game/script.rpy:74886
 translate chinese map144_25a8dcf5:

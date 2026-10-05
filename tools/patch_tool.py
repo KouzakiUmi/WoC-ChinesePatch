@@ -10,8 +10,8 @@
 
 安装:  先把游戏内将被覆盖的原文件备份到 <游戏目录>/woc_zh_patch_backup/,
        再复制 payload/ 中的文件; 安装状态写入 game/woc_zh_patch.json
-卸载:  modified 文件优先用备份还原 (无备份时回退到随包的 originals/),
-       new 文件删除, 并清理对应 .rpyc 与 game/cache
+卸载:  modified 文件用安装时生成的备份还原 (备份在游戏目录 woc_zh_patch_backup,
+       随游戏走; 补丁包本身不含原版文件), new 文件删除, 并清理对应 .rpyc 与 game/cache
 备份:  不安装, 只单独执行一次原文件备份
 """
 import argparse, hashlib, io, json, os, re, shutil, sys
@@ -22,7 +22,6 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = getattr(sys, "_MEIPASS", os.path.dirname(HERE))
 STATE_NAME = "woc_zh_patch.json"
 BACKUP_DIRNAME = "woc_zh_patch_backup"
-CACHE_DIRS = ("game/cache", "game/saves/../cache")
 
 
 def _read_ver(path):
@@ -151,7 +150,6 @@ def find_game():
         vdf = os.path.join(lib, "libraryfolders.vdf")
         roots = [lib]
         if os.path.isfile(vdf):
-            import re
             txt = open(vdf, encoding="utf-8", errors="ignore").read()
             roots += re.findall(r'"path"\s+"([^"]+)"', txt)
         for r in roots:
@@ -207,6 +205,12 @@ def do_install(args):
     if os.path.isfile(sp) and not args.force:
         sys.exit("检测到补丁已安装 (game/%s)。如需覆盖安装请加 --force。" % STATE_NAME)
 
+    label, eng = engine_label(game)
+    print("游戏引擎:", label)
+    cw = man.get("compiled_with") or {}
+    if not eng or eng.get("version") != cw.get("engine"):
+        sys.exit("本补丁只适用于 Ren'Py %s PC 版。" % cw.get("engine", "7.1.1.929"))
+
     # 基线校验
     bc = man.get("base_check")
     if bc:
@@ -219,12 +223,6 @@ def do_install(args):
                 if not args.force:
                     sys.exit(msg)
                 print(msg)
-
-    label, eng = engine_label(game)
-    print("游戏引擎:", label)
-    cw = man.get("compiled_with") or {}
-    if not eng or eng.get("version") != cw.get("engine"):
-        sys.exit("本补丁只适用于 Ren'Py %s PC 版。" % cw.get("engine", "7.1.1.929"))
     orphan = rpyc_orphans(man)
     if orphan:
         print("警告: %d 个 .rpyc 没有配套 .rpy:" % len(orphan))
@@ -279,7 +277,7 @@ def do_uninstall(args):
     st = read_state(sp)
     bdir = backup_dir_for(game, getattr(args, "backup_dir", None) or st.get("backup_dir"))
     have_backup = os.path.isdir(bdir)
-    print("备份目录:", bdir if have_backup else "(未找到, 将回退到随包 originals/)")
+    print("备份目录:", bdir if have_backup else "(未找到, modified 文件将无法还原)")
     restored = removed = skipped = from_backup = 0
     touched_dirs = set()
     total = len(man["files"])
@@ -291,18 +289,17 @@ def do_uninstall(args):
             src = os.path.join(bdir, rel)
             used_backup = os.path.isfile(src)
             if not used_backup:
-                src = os.path.join(ROOT, "originals", rel)
-            if not os.path.isfile(src):
-                print("跳过(缺备份且缺原版):", e["path"]); skipped += 1; continue
+                print("跳过(无备份, 无法还原):", e["path"]); skipped += 1; continue
             cur = sha256(dst) if os.path.isfile(dst) else None
-            ok_hashes = [e["sha256"], e["original"]["sha256"], sha256(src)]
+            orig = e.get("original") or {}
+            ok_hashes = [h for h in (e["sha256"], orig.get("sha256"), sha256(src)) if h]
             if cur and cur not in ok_hashes:
                 print("跳过(文件在安装后被改动过):", e["path"]); skipped += 1; continue
             os.makedirs(os.path.dirname(dst), exist_ok=True)
             shutil.copy2(src, dst)
             if os.path.isfile(rpyc): os.remove(rpyc)
             restored += 1
-            if used_backup: from_backup += 1
+            from_backup += 1
         else:
             if os.path.isfile(dst): os.remove(dst); removed += 1
             if os.path.isfile(rpyc): os.remove(rpyc); removed += 1
@@ -384,8 +381,8 @@ def do_check(args):
             if not eng or eng.get("version") != expected:
                 problems += 1
                 print("Expected Ren'Py %s." % expected)
-        except SystemExit:
-            print("Game engine: not found (skipped)")
+        except SystemExit as exc:
+            print("Game engine: not found (skipped): %s" % (exc.code or ""))
 
     orphan = rpyc_orphans(man)
     if orphan:

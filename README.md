@@ -19,8 +19,17 @@
 | 游戏引擎 | 仅支持 Ren'Py 7.1.1.929（PC / Steam） |
 | 基线校验 | `game/script.rpy` 的 sha256 `c11fbeb67c84...`，不匹配会拒绝安装 |
 | 补丁规模 | 68 个文件 = 56 个修改 + 12 个新增（含 54 张改版图片） |
-| 当前版本 | v1.3.14：wielder 全篇统一为「持有者」+ README 版本历史补齐 |
+| 当前版本 | v1.4：工具层健壮性修复（游戏内容无改动） |
 | 运行要求 | 下载独立 GUI 安装器后无需安装 Python；源码命令行工具需要 Python 3.8+ |
+
+### v1.4 更新（2026-10-05）
+
+- **工具层健壮性修复（游戏内容无改动）**：payload 68 文件哈希不变，纯工具与仓库维护版本
+  - 安装器 patch_tool.py 6 项：卸载 originals/ 死路径清除（仅用安装时生成的游戏目录备份还原）、CACHE_DIRS 死代码删除、find_game 冗余 import re 删除、do_check 保留 SystemExit 具体消息、do_install 引擎校验前置到基线校验前、do_uninstall ok_hashes 兜底防 KeyError
+  - 翻译构建 tl_tool.py：cmd_build 改 seq_base 跨文件全局计数查表 + chunk/template 一致性警告
+  - 校对工具 review_tool.py：cmd_apply 物化索引消除 O(n²)
+  - 本地构建 spec：datas 改为从 manifest.json 精确读取 69 条，排除 6 个本地运行产物
+- **交叉核验**：DeepSeek V4.1 Flash 与 MiniMax M3.1 独立核验均判无回归
 
 ### v1.3.14 更新（2026-10-03）
 
@@ -155,7 +164,6 @@ docs/              PC 运行环境说明（pc-runtime.md）、角色语气档案
 review/            术语表 terms.tsv、润色表 fixups.tsv、预筛报告与校对进度
 安装补丁.cmd / 卸载补丁.cmd / 检查补丁.cmd
 tl_work/           翻译源（分块 TSV）与构建脚本，仅维护者本地保留
-originals/         游戏原文件副本，仅维护者本地保留（无备份时的兜底还原）
 ```
 
 ---

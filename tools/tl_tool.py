@@ -306,6 +306,15 @@ def cmd_build(args):
             continue
         dtarget[seq] = parts[5]
 
+    total_dialogue = 0
+    for name in FILES:
+        if os.path.exists(os.path.join(TEMPLATE, name + ".rpy")):
+            _, d, _ = parse_template(name)
+            total_dialogue += len(d)
+    if set(dtarget) != set(range(1, total_dialogue + 1)):
+        print("警告: chunk 序号与 template 条目不一致 (chunk=%d, template=%d)，请重新 extract"
+              % (len(dtarget), total_dialogue))
+
     starget = {}
     for parts in load_chunk_rows(CHUNK_STRINGS):
         if len(parts) < 4:
@@ -315,6 +324,7 @@ def cmd_build(args):
     total_d = changed_d = 0
     total_s = changed_s = 0
 
+    seq_base = 0
     for name in FILES:
         tpath = os.path.join(TEMPLATE, name + ".rpy")
         if not os.path.exists(tpath):
@@ -323,7 +333,7 @@ def cmd_build(args):
 
         for k, r in enumerate(dialogue):
             total_d += 1
-            tgt = dtarget.get(k + 1)
+            tgt = dtarget.get(seq_base + k + 1)
             if not tgt:
                 continue
             new_line = r["prefix"] + '"' + escape_quotes(tgt) + '"' + r["suffix"]
@@ -346,6 +356,7 @@ def cmd_build(args):
             lines[r["line"]] = new_line
 
         write_text(os.path.join(TL_DIR, name + ".rpy"), "\n".join(lines))
+        seq_base += len(dialogue)
 
     print("dialogue : %d changed of %d" % (changed_d, total_d))
     print("strings  : %d changed of %d" % (changed_s, total_s))

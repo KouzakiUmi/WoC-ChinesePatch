@@ -724,14 +724,17 @@ def cmd_apply(args):
         os.makedirs(backup, exist_ok=True)
         for f in glob.glob(os.path.join(folder, "*.tsv")):
             shutil.copy2(f, os.path.join(backup, os.path.basename(f)))
+        row_index = {}
+        for r in iter_rows(args.tl_dir):
+            row_index[(r["kind"], r["chunk"], r["seq"])] = r
         for chunk, seq, old, new, verdict, note in items:
+            r = row_index.get((kind, chunk, seq))
+            if r is None:
+                continue
             path = os.path.join(folder, chunk)
-            for r in iter_rows(args.tl_dir):
-                if r["kind"] == kind and r["chunk"] == chunk and r["seq"] == seq:
-                    parts = list(r["parts"])
-                    parts[cfg["tcol"]] = new
-                    write_row(path, r["line"], parts)
-                    break
+            parts = list(r["parts"])
+            parts[cfg["tcol"]] = new
+            write_row(path, r["line"], parts)
         print("写回 %d 行 (%s), 备份 -> %s" % (len(items), kind, backup))
     if args.build:
         return build(args)
